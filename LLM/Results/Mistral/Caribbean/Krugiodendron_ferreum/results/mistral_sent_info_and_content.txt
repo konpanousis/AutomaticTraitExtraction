@@ -1,0 +1,321 @@
+We are interested in obtaining botanical trait information about the species Krugiodendron ferreum.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Shrub or small tree, 5-10 m tall, bark light brown, fissured, twigs nearly cylindric, puberulent.
+The fragrant small flowers are yellowish-green and borne in small clusters.
+The bark is grey, smooth or lightly fissured, becoming scaly on mature trees.
+They are copper-red and soft when they emerge, becoming dark glossy green on top, dull green underneath, and leathery.
+The leaves are arranged oppositely, to 5 cm in length, oval to ovate with an emarginate leaf apex and entire margin.
+The fruit is a drupe that is purple/black at maturity.
+It reaches 15 to 25 feet in height, it grows taller than it does wide.
+Categories : Rhamnaceae Rhamnaceae genera Monotypic Rosales genera Flora of Florida Trees of Mexico Trees of South America Garden plants of North America Ornamental trees Drought-tolerant trees Rhamnaceae stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Taxonbars with multiple manual Wikidata items All stub articles.
+Arranged near opposite along the ends of the branches, they remain on the tree throughout the year.
+Krugiodendron ferreum grows as a large shrub to small tree up to 10 meters in height with trunks to 50 cm in diameter.
+Fertilised flowers are followed by small roundish fruit up to 1 cm long.
+It is typically a small tree 3 to 5 m tall in coastal areas, with a slender trunk up to 15 cm in diameter, supporting a densely leafy rounded crown.
+Also, the flowers are small, greenish, star-shaped, without petals, borne in the leaf axils, and inconspicuous.
+Inland and in the moist, hilly parts of its range, it may reach heights of up to 17 m with a 50 cm diameter trunk.
+Opposite, evergreen leaves, tip sometimes notched - Fairchild Tropical Botanic Garden.
+The ovary is superior with 2 locules.
+The calyx has 5 unfused sepals.
+Furthermore, the fruit is a juicy berry, oval or nearly round.
+As much as 30 feet tall, but often a shrub, it has ridged bark and opposite, evergreen leaves.
+The fruit is a rounded and black.
+Florida Native Yes, FL Native Origin Caribbean, Florida & Central America Flowering Season Spring Salt Tolerance High Salt Tolerance Drought Tolerance High Drought Tolerance Growth Rate Slow Growth Rate Light Requirements Full Sun to Partial Shade Flower Color Yellow to Green, Green, Yellow Shape Wide Plant Type Evergreen Gallons 25 gal., 25 gal.
+The fruit is a drupe 5 to 7 mm long turning purplish red as it matures.
+Moreover, the bark is dark gray, rough, and furrowed.
+Seeds ellipsoid, 4 mm long.
+Shrubby or a tree to 30 feet in height, with blackish fruit - Fairchild Tropical Botanic Garden, Miami, Florida.
+The complete, perfect, actinomorphic flowers are arranged in axillary clusters.
+Rowers greenish, 5-merous, in short axillary cymes, the axes puberulent, to 1 cm long, pedicels 2.5-3 mm long.
+Additionally, it has an upright crown of moderate density, with a rounded to narrow pyramidal, often irregular shape.
+Growth Habit - Tree, Shrub.
+The leaf margins are wavy and the tips are often notched, they are shiny above.
+Leaves are oval, up to 6 cm long and slightly notched at the tip.
+The tree reaches 5-10 metres in height with oppositely arranged, emarginate leaves and small greenish flowers.
+The fruit has a single seed, for propagation.
+Leaves: petiole 3-6 mm, blade ovate to elliptic or broadly elliptic to nearly oval, 2-6 cm, margins undulate, apex rounded to obtuse, usually truncate-emarginate, rarely acuminate.
+Habit Krugiodendron ferreum grows as a large shrub to small tree up to 10 meters in height with trunks to 50 cm in diameter.
+Fruit a 1-seeded, nearly globose drupe, 5-7 mm long, turning from green to purplish red at maturity.
+Drupes purplish red to nearly black at maturity.
+The berry is 1/3 inch long ripening to a purplish red, edible and sweet, attract birds and other animals.
+And, the unfolding leaves are pinkish.
+General Information Shrubs or trees, 1-10 m, glabrous or glabrescent, trunks to 5 dm diam.
+Leaves opposite or nearly so, blades 3-5.8 x 2-3.5 cm, ovate to elliptic, chartaceous, glabrous, the apex acute to obtuse, emarginate, the base obtuse or rounded, the margins entire to slightly crenate, petioles 2-5 mm long, puberulent, stipules subulate, ca.
+Calyx greenish, puberulent or glabrous without, the sepals 1.2-1.4 mm long, triangular, glabrous within, deciduous in fruit, petals wanting, stamens ca.
+They are composed of sepals only, lacking petals.
+Inflorescenciascon pedxºnculos 1-7 mm y 1-8 flores.
+Each sepal has a floral appendage.
+No Data ð Overview Overview Summary Brief Diagnostic Diagnostic Keys Description SubSpecies Varieties Races Diagnostic Keys Description
+Flowers are small, greenish-yellow and borne in clusters of only a few arising at the sides of the branches.
+Produits apparentes.
+The attractive bright glossy green leaves measure  1  to 1.5 inches long with a notch at the apex.
+At the base of the ovary is a nectary disc.
+When young, they are green, becoming dark purple to almost black when ripe and with thin, juicy pulp surrounding a single seed.
+
+Initial dictionary of traits with all possible values:
+{"Life form": ['liana', 'tree'], "Leaf position": ['alternate', 'alternate, opposite', 'opposite', 'opposite, whorls of 3', 'opposite, whorls of 3, alternate'], "Leaf composition": ['3 palmate', '3-5 palmate', '3-5 pinnate', '3-5 pinnate, entire', '5-11 pinnate', '5-9 pinnate', 'bi-pinnate, 2 leaflets per jug', 'bi-pinnate, 20-40 leaflets per jug', 'bi-pinnate, 30-32 leaflets per jug', 'entire', 'pinnate, 4-6 leaflets', 'pinnate, 6-8 leaflets'], "Leaf shape": ['elliptic', 'elliptic, elongate', 'elliptic, lanceolate', 'elliptic, obovate', 'elliptic, ovate', 'elliptic, ovate, round', 'elongate', 'elongate, elliptic, obovate', 'elongate, obovate', 'kidney-shaped, circular', 'lanceolate, elliptic', 'linear', 'linear, obovate', 'obovate', 'obovate, elliptic', 'obovate, spathulate', 'ovate', 'ovate, circular', 'ovate, elliptic', 'ovate, elliptic, elongate', 'ovate, heart-shaped', 'spathulate, obovate'], "Leaf margin": ['crenate', 'entire', 'entire, crenate', 'entire, serrate', 'serrate'], "Leaf upper side": ['glabrous', 'glabrous, pubescent', 'pubescent', 'pubescent, glabrous', 'salt crystals', 'scales, glabrous', 'shiny, glabrous', 'woolly, later glabrous'], "Leaf lower side": ['glabrous', 'glabrous, pubescent', 'powdery', 'pubescent', 'scales', 'woolly, later glabrous'], "Leaf glands": ['absent', 'gland on the end of petiole', 'glands near basis and central vein', 'glands near basis and leaf margin', 'translucent oil cells', 'translucent points and lines'], "Leaf rachis": ['Not applicable', 'not winged', 'winged'], "Thorns spines": ['1-2 per leaf axil', '2 per leaf axil', 'absent', 'branch thorns', 'thorns on stem'], "Stipules": ['absent', 'connected', 'present'], "Inflorescence type": ['1-3 sessile', '1-5 sessile', 'dichasium', 'fascicle', 'globose', 'globose in panicle', 'panicle', 'raceme', 'solitary, fascicle', 'spike', 'umbel'], "Sepals calyx shape": ['connate', 'free'], "Sepals calyx numer": ['2-3', '3-5', '4', '4-5', '4-6', '5', '5-6', '6-8', '6-9'], "Petals corolla shape": ['absent', 'free', 'tepals', 'tubular'], "Petals corolla number": ['0', '3-5', '4', '4-5', '4-6', '5', '5, 0', '5-6', '6-8'], "Petals corolla colour": ['Not applicable', 'blue', 'green', 'green, red', 'green-white, yellow-white', 'greenish white', 'red', 'white', 'white, pink', 'white, pink, purple', 'white, whitish', 'white, yellow-white', 'whitish', 'yellow', 'yellow, orange', 'yellow, yellow-green', 'yellow-green', 'yellow-green, green'], "Stamen shape": ['longer than corolla', 'much longer than corolla', 'multiple rows', 'short', 'shorter than corolla', 'shorter than corolla, connected'], "Stamen number": ['10', '15-25', '16', '2', '20', '20-28', '4', '5', '5-6', '6-10', '6-9', '8', 'many'], "Fruit type": ['berry', 'capsule', 'drupe', 'fleshy drupe', 'follicle', 'nutlet', 'pod'], "Fruit shape": ['2-locular, flattened, globose', '3-5-locular, globose', 'elongate', 'elongate, constricted between seeds', 'elongate, slightly constricted between seeds', 'elongate, strongly constricted between seeds', 'flattened obovoid', 'flattened ovate', 'flattened, elongate, twisted', 'flattened, thick, elongate, strongly curved', 'globose', 'globose, 3-angulated', 'linear', 'not flattened, elongate, slightly curved', 'ovoid', 'pyriform, ovoid', 'slightly flattened, elongate, curved'], "Fruit colour": ['black', 'brown', 'brown-black', 'green', 'green, black, whitish', 'green, orange', 'green, orange, red', 'green, red', 'green, yellow', 'greyish', 'orange', 'orange, yellow, red', 'purple, black', 'red', 'red, black', 'red, purple-brown', 'reddish purple', 'whitish green', 'yellow, orange', 'yellowish'], "Aril colour": ['Not applicable', 'orange', 'red', 'white', 'yellow-geen'], "Seed colour": ['Not applicable', 'black', 'brown', 'green', 'grey', 'white', 'whitish']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Life form": [
+["liana", 0],
+["tree", 1]
+],
+"Leaf position": [
+["alternate", 0],
+["alternate, opposite", 0],
+["opposite", 1],
+["opposite, whorls of 3", 0],
+["opposite, whorls of 3, alternate", 0]
+],
+"Leaf composition": [
+["3 palmate", 0],
+["3-5 palmate", 0],
+["3-5 pinnate", 0],
+["3-5 pinnate, entire", 0],
+["5-11 pinnate", 0],
+["5-9 pinnate", 0],
+["bi-pinnate, 2 leaflets per jug", 0],
+["bi-pinnate, 20-40 leaflets per jug", 0],
+["bi-pinnate, 30-32 leaflets per jug", 0],
+["entire", 0],
+["pinnate, 4-6 leaflets", 0],
+["pinnate, 6-8 leaflets", 0]
+],
+"Leaf shape": [
+["elliptic", 0],
+["elliptic, elongate", 0],
+["elliptic, lanceolate", 0],
+["elliptic, obovate", 0],
+["elliptic, ovate", 1],
+["elliptic, ovate, round", 0],
+["elongate", 0],
+["elongate, elliptic, obovate", 0],
+["elongate, obovate", 0],
+["kidney-shaped, circular", 0],
+["lanceolate, elliptic", 0],
+["linear", 0],
+["linear, obovate", 0],
+["obovate", 0],
+["obovate, elliptic", 0],
+["obovate, spathulate", 0],
+["ovate", 1],
+["ovate, circular", 0],
+["ovate, elliptic", 1],
+["ovate, elliptic, elongate", 0],
+["ovate, heart-shaped", 0],
+["spathulate, obovate", 0]
+],
+"Leaf margin": [
+["crenate", 0],
+["entire", 1],
+["entire, crenate", 0],
+["entire, serrate", 0],
+["serrate", 0]
+],
+"Leaf upper side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["pubescent", 1],
+["pubescent, glabrous", 0],
+["salt crystals", 0],
+["scales, glabrous", 0],
+["shiny, glabrous", 1],
+["woolly, later glabrous", 0]
+],
+"Leaf lower side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["powdery", 0],
+["pubescent", 1],
+["scales", 0],
+["woolly, later glabrous", 0]
+],
+"Leaf glands": [
+["absent", 1],
+["gland on the end of petiole", 0],
+["glands near basis and central vein", 0],
+["glands near basis and leaf margin", 0],
+["translucent oil cells", 0],
+["translucent points and lines", 0]
+],
+"Leaf rachis": [
+["Not applicable", 0],
+["not winged", 1],
+["winged", 0]
+],
+"Thorns spines": [
+["1-2 per leaf axil", 0],
+["2 per leaf axil", 0],
+["absent", 1],
+["branch thorns", 0],
+["thorns on stem", 0]
+],
+"Stipules": [
+["absent", 0],
+["connected", 0],
+["present", 0]
+],
+"Inflorescence type": [
+["1-3 sessile", 0],
+["1-5 sessile", 0],
+["dichasium", 0],
+["fascicle", 0],
+["globose", 0],
+["globose in panicle", 0],
+["panicle", 0],
+["raceme", 0],
+["solitary, fascicle", 0],
+["spike", 0],
+["umbel", 0]
+],
+"Sepals calyx shape": [
+["connate", 0],
+["free", 1]
+],
+"Sepals calyx numer": [
+["2-3", 0],
+["3-5", 0],
+["4", 1],
+["4-5", 0],
+["4-6", 0],
+["5", 1],
+["5-6", 0],
+["6-8", 0],
+["6-9", 0]
+],
+"Petals corolla shape": [
+["absent", 0],
+["free", 0],
+["tepals", 0],
+["tubular", 0]
+],
+"Petals corolla number": [
+["0", 0],
+["3-5", 0],
+["4", 1],
+["4-5", 0],
+["4-6", 0],
+["5", 1],
+["5, 0", 0],
+["5-6", 0],
+["6-8", 0]
+],
+"Petals corolla colour": [
+["Not applicable", 0],
+["blue", 0],
+["green", 1],
+["green, red", 0],
+["green-white, yellow-white", 0],
+["greenish white", 0],
+["red", 0],
+["white", 0],
+["white, pink", 0],
+["white, pink, purple", 0],
+["white, whitish", 0],
+["white, yellow-white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellow, orange", 0],
+["yellow, yellow-green", 0],
+["yellow-green", 1],
+["yellow-green, green", 0]
+],
+"Stamen shape": [
+["longer than corolla", 0],
+["much longer than corolla", 0],
+["multiple rows", 0],
+["short", 0],
+["shorter than corolla", 0],
+["shorter than corolla, connected", 0]
+],
+"Stamen number": [
+["10", 0],
+["15-25", 0],
+["16", 0],
+["2", 0],
+["20", 0],
+["20-28", 0],
+["4", 0],
+["5", 1],
+["5-6", 0],
+["6-10", 0],
+["6-9", 0],
+["8", 0],
+["many", 0]
+],
+"Fruit type": [
+["berry", 0],
+["capsule", 0],
+["drupe", 1],
+["fleshy drupe", 0],
+["follicle", 0],
+["nutlet", 0],
+["pod", 0]
+],
+"Fruit shape": [
+["2-locular, flattened, globose", 0],
+["3-5-locular, globose", 0],
+["elongate", 0],
+["elongate, constricted between seeds", 0],
+["elongate, slightly constricted between seeds", 0],
+["elongate, strongly constricted between seeds", 0],
+["flattened obovoid", 0],
+["flattened ovate", 0],
+["flattened, elongate, twisted", 0],
+["flattened, thick, elongate, strongly curved", 0],
+["globose", 0],
+["globose, 3-angulated", 0],
+["linear", 0],
+["not flattened, elongate, slightly curved", 0],
+["ovoid", 0],
+["pyriform, ovoid", 0],
+["slightly flattened, elongate, curved", 0]
+],
+"Fruit colour": [
+["black", 1],
+["brown", 0],
+["brown-black", 0],
+["green", 0],
+["green, black, whitish", 0],
+["green, orange", 0],
+["green, orange, red", 0],
+["green, red", 0],
+["green, yellow", 0],
+["greyish", 0],
+["orange", 0],
+["orange, yellow, red", 0],
+["purple, black", 0],
+["red", 0],
+["red, black", 0],
+["red, purple-brown", 0],
+["reddish purple", 0],
+["whitish green", 0],
+["yellow, orange", 0],
+["yellowish", 0]
+],
+"Aril colour": [
+["Not applicable", 1],
+["orange", 0],
+["red", 0],
+["white", 0],
+["yellow-geen", 0]
+],
+"Seed colour": [
+["Not applicable", 1],
+["black", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["white", 0],
+["whitish", 0]
+]
+}

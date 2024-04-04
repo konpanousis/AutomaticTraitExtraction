@@ -1,0 +1,111 @@
+We are interested in obtaining botanical trait information about the species Hydriastele flabellata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Seed ovoid or globose, laterally or basally attached with elongate or rounded hilum, raphe branches sparse, anastomosing, endosperm homogeneous or shallowly to deeply ruminate, embryo basal.
+Rank: GERMINATING.
+Pistillate flowers globose or ± conical in bud, smaller absent.
+The inflorescences are branched to three orders with both male and female flowers , some of which are beetle -pollinated.
+The fruit may be ellipsoidal or spherical and colored yellow, orange, red, purple, or black when ripe, each with a single seed.
+A beautiful, small, clustering species with large, undivided leaves, native to rainforests in northwestern New Guinea.
+Germination adjacent-ligular, eophyll bifid with entire or minutely to strongly praemorse tips.
+Stems erect, slender to robust, bare, conspicuously ringed with leaf scars.
+Categories : Areceae Arecaceae genera Taxa named by Carl Georg Oscar Drude Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Commons category link from Wikidata.
+Usually not palms,  it bananas and tropical bushes.
+Stem 1-2 cm in diam.
+The leaves are pinnate and widely varied.
+Viewing all plants of: Family: Arecaceae Genus: Hydriastele Species: flabellata.
+Very variable small to very robust, solitary or clustered pinnate-leaved palms from Sulawesi eastwards to Fiji and Australia, with conspicuous crownshafts and often conspicuous praemorse leaflets, the inflorescences bear triads throughout the length of the rachillae.
+Rank: FLOWERING.
+The trunks may be solitary or suckering and may be diminutive to robust, spanning a range of heights.
+Fruit globose to narrowly ellipsoidal, straight or curved, bright red to purplish-black, sometimes drying ridged, sometimes briefly beaked, stigmatic remains apical, perianth whorls persistent, the petal tips sometimes reflexed or appressed to the fruit, epicarp smooth or slightly pebbled, mesocarp thin, with abundant tannin cells, and longitudinal fibre bundles, endocarp thin, crustose or obsolescent.
+Small, moderate or tall, solitary or clustered, unarmed, pleonanthic, monoecious palms.
+Staminate flowers fleshy, asymmetrical, calyx sessile or with a short stalk-like base, sepals 3, short, triangular, ± distinct or joined into a cup for ca.
+Hydriastele flabellata.
+Notes:-Hydriastele flabellata is an understorey palm with a distinctive, highly variable leaf morphology ranging.from entire-bifid to pinnate with up to six cuneate leaflets on each side of the rachis.
+Clustering, very slender understorey palm to 4 m tall, bearing 4-8 leaves per crown.
+Fruit 12-15 x 5-8 mm when ripe, ellipsoid to fusiform, red, with a distinct, dark, sclerotic.zone encircling apical stigmatic remains.
+Hydriastele flabellata or pinangoides - DISCUSSING PALM TREES WORLDWIDE - PalmTalk.
+Very ornamental Australian plant with bifid leaves and new leaf red-orange.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 1],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

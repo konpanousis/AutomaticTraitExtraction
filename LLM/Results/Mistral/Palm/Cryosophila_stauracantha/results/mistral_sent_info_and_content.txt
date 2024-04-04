@@ -1,0 +1,213 @@
+We are interested in obtaining botanical trait information about the species Cryosophila stauracantha.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Moderate, Moderate to High.
+Root Spine Palm Tree: Small.
+It has about 6" of trunk now but still not much in the way of root spines.
+C. stauracantha leaves, showing the silver undersides.
+Fruit : spherical, 1", white.
+A medium sized palmate palm, to about 10 m tall, with a slim trunk up to 10 cm across, which is covered with spine-like modified roots, that keep away animals.
+These downward-pointing spines cover the trunk, often quite densely.
+The leaves are often whitish-grey on the lower surface.
+Trunk : single, 4" thick, tan, covered with retained, un-split leaf bases and some random fibrous material.
+Cryosophila is a genus of medium-sized, single-stemmed palms : 6  with fan-shaped leaves and spiny stems.
+Garden Plants Wildflowers Plants of the World escoba palm Synonyms Cryosophila argentea
+Rank: SEEDLING.
+An attractive, medium sized palmate palm to about 10m tall,.with a slim trunk up to 10cm across,.which covered with spine-like modified roots that keep away animals.
+Ramified drooping inflorescences, 50-90 cm long, originate among the leaves with each ramification enclosed by a deciduous concave bract tomentose and whitish externally, the apical ones are united at the apex and at the time of blooming detach and fall together.
+Flame Thrower Palm Tree: Medium.
+The costapalmate leaves are dark green above, and silver on the underside.
+Auf 10 cm Stammlängen kommen 0 bis 150 oder mehr Dornen.
+Leaves are a bit droopier and more deeply split than the more commonly grown C warscewiczii in So Cal.
+Rank: FLOWERING.
+Leaf Description : palmate, 2'-3' long, light green on top and whitish-blue-green below, leaves split about half their length, leaflets droop near point of splitting, leaves fairly thin and prone to wind damage.
+Petiole/Leaf bases : 8"-12", thin, unarmed.
+Leaf underside.
+The leaves, on an up to1,8 m long unarmed petiole, are palmate, almost circular, of about 1,8 m of diameter, deeply divided in numerous segments united in groups of 2-4, of dark green colour above, whitish grey below.
+The trunk has thorny adventitious roots that expand conically towards the base and root on the soil with support function.
+This single trunk palm rarely grows more than 12 to 25 ft tall with a spread of about 6 to 8 FT.
+Habit : solitary with a crown of 10-12 fan leaves.
+Inflorescence : 2', pendulous from within leaves, covered with multiple papery spathes initially, flowers creamy white.
+C. stauracantha showing the root spines.
+The fan leaves are dark green above, and silver on the underside.
+The fruit are white and smooth, with a single seed. : 39-41.
+Slow, Slow to Moderate.
+This species grows a slim trunk no more than 4 or 5 inches in diameter, to a maximum of 30 feet tall, though usually much less.
+The Cryosophila stauracantha R.J.Evans is a monoecious species with solitary stem, erect, up to about 9 m tall and of 6-12 cm of diameter, greyish, covered by thorny adventitious roots, ramified, usually bent downwards, that at the base root forming a sort of a support cone up to 30 cm tall.
+Chinese Fan Palm Tree: Medium.
+Palm Tree Size  *.
+Spacing: 8-10 ft. 10-12 ft.
+Auf 10 cm Stammlx¤ngen kommen 0
+Took about 6 months to see a single leaf.
+The fruits are globose-pyriform of 1,2-1,4 cm of diameter, of white colour and containing one single seed.
+As they are only 3 inches tall and no true leaves yet.
+C. stauracantha has a very spiny trunk, even though the spines are not very sharp.
+Chinese Fan Palm Tree: Small.
+The whitish flowers are bisexual with six stamens and three carpels.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 1],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 1],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Root spines": [
+["absent", 0],
+["present", 1]
+],
+"Trunk diameter": [
+["thin", 0],
+["medium", 1],
+["thick", 0]
+],
+"Leaf color": [
+["dark green", 1],
+["light green", 0],
+["whitish-blue-green", 1],
+["whitish-grey", 1]
+],
+"Leaf shape": [
+["palmate", 1],
+["costapalmate", 1]
+],
+"Leaf size": [
+["small", 0],
+["medium", 1]
+],
+"Leaf splitting": [
+["deeply split", 1],
+["slightly split", 0]
+],
+"Leaf droopiness": [
+["drooping", 1],
+["not drooping", 0]
+],
+"Leaf thickness": [
+["thin", 1],
+["thick", 0]
+],
+"Leaf damage": [
+["prone to wind damage", 1],
+["not prone to wind damage", 0]
+],
+"Petiole length": [
+["short", 0],
+["medium", 1]
+],
+"Petiole armament": [
+["armed", 0],
+["unarmed", 1]
+],
+"Inflorescence length": [
+["short", 0],
+["medium", 1]
+],
+"Inflorescence position": [
+["among the leaves", 1],
+["below the leaves", 0]
+],
+"Inflorescence bracts": [
+["deciduous", 1],
+["persistent", 0]
+],
+"Inflorescence color": [
+["creamy white", 1],
+["greenish-white", 0]
+],
+"Trunk height": [
+["short", 0],
+["medium", 0],
+["tall", 1]
+],
+"Trunk spines": [
+["upward-pointing", 0],
+["downward-pointing", 1]
+],
+"Trunk spine density": [
+["sparse", 0],
+["dense", 1]
+],
+"Habit": [
+["solitary", 1],
+["clumping", 0]
+],
+"Leaf count": [
+["few", 0],
+["many", 1]
+]
+}

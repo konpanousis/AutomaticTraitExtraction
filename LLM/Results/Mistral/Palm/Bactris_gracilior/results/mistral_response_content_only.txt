@@ -1,0 +1,251 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 1],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Stem width": [
+["0.3-0.5 cm", 1],
+["25 cm", 1]
+],
+"Stem height": [
+["2-4 m", 1]
+],
+"Leaf type": [
+["simple", 1],
+["pinnately compound", 1],
+["entire bifid", 1]
+],
+"Leaf margins": [
+["smooth", 1],
+["becoming fibrous", 1],
+["unarmed", 1],
+["densely spiny", 1],
+["spiny", 1]
+],
+"Leaflets": [
+["acute", 1],
+["acuminate", 1],
+["apical V-shaped notch", 1],
+["bifid", 1],
+["irregularly lobed", 1]
+],
+"Flower type": [
+["pistillate", 1],
+["staminate", 1]
+],
+"Flower arrangement": [
+["triplets", 1],
+["singly or in pairs", 1]
+],
+"Pistillate flower size": [
+["scarcely larger than the staminate", 1],
+["much longer than the calyx", 1],
+["± the same length", 1]
+],
+"Calyx shape": [
+["annular", 1],
+["somewhat flattened or urn-shaped", 1],
+["truncate", 1],
+["very shallowly 3-lobed", 1]
+],
+"Corolla shape": [
+["urn-shaped", 1],
+["truncate", 1],
+["very shallowly 3-lobed", 1]
+],
+"Staminodes": [
+["absent", 1],
+["forming a membranous ring", 1]
+],
+"Gynoecium shape": [
+["columnar to ovoid", 1]
+],
+"Stigmas": [
+["3", 1]
+],
+"Ovules": [
+["laterally attached", 1],
+["orthotropous", 1]
+],
+"Epicarp": [
+["smooth", 1],
+["spiny", 1],
+["roughened or hairy", 1]
+],
+"Mesocarp": [
+["thin to very thick", 1],
+["fleshy", 1],
+["juicy", 1],
+["starchy with sparse or abundant fibres", 1]
+],
+"Endocarp": [
+["thick", 1],
+["bony", 1],
+["with 3 pores at or above the equator", 1],
+["sometimes with fibres radiating from the pores", 1]
+],
+"Stem spines": [
+["clustered on the petiole or rachis", 1],
+["only found on the tips of the leaflets", 1],
+["spines on the internodes", 1],
+["spines also present on the nodes", 1]
+],
+"Petioles": [
+["5 centimetres to over 1.5 metres", 1]
+],
+"Rachis": [
+["3 centimetres to over 3 metres", 1]
+],
+"Staminate flowers": [
+["sessile", 1],
+["rarely borne on slender, unequal pedicels", 1],
+["calyx cupular or spreading", 1],
+["very short", 1],
+["shallowly trilobed", 1],
+["petals 3", 1],
+["fleshy", 1],
+["asymmetrically triangular", 1],
+["distally valvate", 1],
+["connate basally to ca.", 1]
+],
+"Species height": [
+["tall trees", 1],
+["2 metres tall", 1],
+["2 metres tall and 3 centimetres in diameter", 1],
+["shrubs with subterranean stems", 1],
+["3 metres tall", 1]
+],
+"Stem diameter": [
+["3 centimetres in diameter", 1]
+],
+"Stem internodes": [
+["short to long", 1]
+],
+"Stem nodes": [
+["conspicuous nodal scars", 1]
+],
+"Stem texture": [
+["scaly", 1],
+["frequently armed with short to long spines", 1]
+],
+"Seed shape": [
+["irregularly globular", 1]
+],
+"Seed attachment": [
+["basally attached", 1]
+],
+"Hilum": [
+["circular", 1]
+],
+"Raphe branches": [
+["sparsely anastomosing", 1]
+],
+"Endosperm": [
+["homogeneous", 1],
+["with or without a central hollow", 1]
+],
+"Embryo": [
+["next to one of the endocarp pores", 1]
+],
+"Leaf spines": [
+["scattered", 1],
+["black", 1],
+["terete", 1],
+["to 2 cm long", 1],
+["on lateral surfaces of sheath", 1],
+["absent from petiole and rachis", 1],
+["rarely on rachis", 1]
+],
+"Leaf sheath": [
+["to 28 cm long", 1]
+],
+"Ocrea": [
+["to 10 cm long", 1]
+],
+"Petiole": [
+["0.2-1.1 m long", 1]
+],
+"Rachis": [
+["42-96 cm long", 1]
+],
+"Pinnae": [
+["10-24 per side", 1],
+["irregularly arranged in clusters on alternating sides of the rachis proximally", 1],
+["more regularly arranged distally", 1],
+["spreading in different planes", 1],
+["narrowly elliptical", 1],
+["gradually aristate", 1],
+["glabrous", 1],
+["dull green adaxially", 1],
+["brownish and shiny abaxially on drying", 1],
+["sometimes with minute, forward pointing marginal spines", 1]
+],
+"Middle pinnae": [
+["18-39 x 2.5-4.4 cm", 1]
+]
+}

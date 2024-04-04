@@ -1,0 +1,50 @@
+Here is the dictionary in JSON format:
+
+```json
+{
+  "Fruit colour description": [
+    ("black", 1),
+    ("bluish", 1),
+    ("brown", 1),
+    ("green", 1)
+  ],
+  "Fruit colour": [
+    ("black", 1),
+    ("blue", 0),
+    ("brown", 1),
+    ("green", 1),
+    ("grey", 0),
+    ("ivory", 0),
+    ("orange", 0),
+    ("pink", 0),
+    ("purple", 0),
+    ("red", 0),
+    ("white", 0),
+    ("yellow", 0)
+  ],
+  "Crown": [
+    ("both", 0),
+    ("canopy", 0),
+    ("understorey", 0)
+  ],
+  "Fruit size": [
+    ("large", 0),
+    ("small", 1)
+  ],
+  "Fruit shape": [
+    ("ellipsoid", 0),
+    ("elongate", 1),
+    ("fusiform", 0),
+    ("globose", 0),
+    ("ovoid", 0),
+    ("pyramidal", 0),
+    ("rounded", 0)
+  ],
+  "Conspicuousness": [
+    ("conspicuous", 0),
+    ("cryptic", 0)
+  ]
+}
+```
+
+Note: The binary values in the output dictionary are based on the presence of strong evidence for each value in the input text. For example, the value "bluish" is associated with a binary value of 1 for the "Fruit colour description" trait, indicating that there is strong evidence for this value in the input text ("The fruit is small to medium-sized and elongated, green to bluish black in color."). However, the value "blue" is associated with a binary value of 0 for the "Fruit colour" trait, indicating that there is no strong evidence for this value in the input text.

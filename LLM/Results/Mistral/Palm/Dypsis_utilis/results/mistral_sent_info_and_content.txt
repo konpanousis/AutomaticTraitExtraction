@@ -1,0 +1,196 @@
+We are interested in obtaining botanical trait information about the species Dypsis utilis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+It can extend for 2 to 8 meters high with 4 to 8 leaves.
+Many Dypsis species have aerial branching , a rare growth habit among palms.
+Spacing: 6-8 ft. 8-10 ft.
+Little bit o purple in there.
+Because of this triangular leaf formation, the trunk looks thicker.
+The leaves are pinnate and sometimes irregularly.
+Also, it has maroon-colored midribs and white cast from the shaft to the trunk.
+It has a slender brown fibrous crown with.
+It has one true trunk, which can extend from 4 to 12 meters in height, bearing spirally attached 8 to 10 leaves.
+Leaves are long, finely pinnate, and a reddish new leaf.Culture
+Attractive Dypsis utilis inflorescence.
+The leaves are pinnate and sometimes irregularly divided.
+Its leaves are curled and attached to a reddish-brown stem.
+Attractive Dypsis utilis inflorescence - DISCUSSING PALM TREES WORLDWIDE - PalmTalk.
+It grows rapidly and bears a light brown body and light pink crown.
+Rank: SEEDLING.
+Dypsis Colour.
+New leaves are red or orange.
+Moreover, the orange crush is known to have a vast growth habit with a strong trunk bearing glossy green leaves.
+Rank: FLOWERING.
+This palm often appears in groups of 3 to 5.
+The tallest one is still single, maybe 20 ft tall overall and at least 10-12 ft of trunk.
+As the palm matures, it bears purple or red flowers and black fruits.
+Spacing: 8-10 ft. 10-12 ft. 12-15 ft.
+The D. baronii is a palm that has multiple stems that bear feather-like leaves.
+Interesting colour on the trunk.
+Just plain ol' yellow/green and white baronii.
+.Maroantsetra - clearly an understory Dypsis based on seed size/shape.
+It is a thin-trunked, branching palm with red emergent leaves.
+Sometimes smaller is better.D.
+Very simular with a "hairy" trunk.
+In terms of height, this plant can group up to 3 meters high.
+A very fibrous, untidy crownshaft.
+The whole plant may reach up to 20 feet high during maturity.
+No more than 10 ft tall and no trunk visible.
+The lowest leaf sheath is ready to come off, not quite, but almost.
+It has a slender brown fibrous crown with a woody trunk.
+No more than 1 ft/30 cm tall.
+Robust palm, solitary or more often several in a clump.
+They are slender, evergreen palms with yellow flowers carried in panicles amongst the pinnate leaves.
+Neovietchia stork trunk in background.
+Garden Plants Wildflowers Plants of the World Save to My plants Unlimited days out Individual RHS membership from £47.25 Complete now Botanical details Family Arecaceae Native to the UK No Genus Dypsis Genus description Dypsis are evergreen palms with slender, solitary or multiple stems bearing pinante leaves, with panicles of small yellowish flowers borne among the leaves Name status
+Funnily, both stems always open new leaves at exactly the same time.
+More so than a lot of palms.
+When its leaves dry up, they hang like a pendulum and sometimes cover the trunk.
+Although, in younger leaves, the basal part is more of an orange to a red-orange tone.
+Rank: SEED.
+The leaf nodes are golden brown that transitions to a smooth light green leaf petiole that is waxy.
+But regardless of how they trim the fronds, the fibers are way so cool. - gmp.
+Leaves have fine leaflets on a flat plane and have a gentle arch to them.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 1],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 1],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Height": [
+["2 to 8 meters", 1],
+["4 to 12 meters", 1],
+["20 ft tall overall", 1],
+["10-12 ft of trunk", 1],
+["3 meters high", 1],
+["1 ft/30 cm tall", 1],
+["20 feet high", 0],
+["No more than 10 ft tall", 1],
+["No more than 1 ft/30 cm tall", 1]
+],
+"Leaves": [
+["4 to 8 leaves", 1],
+["8 to 10 leaves", 1],
+["pinnate leaves", 1],
+["irregularly divided leaves", 1],
+["reddish new leaf", 1],
+["red or orange new leaves", 1],
+["curled leaves", 1],
+["attached to a reddish-brown stem", 1],
+["maroon-colored midribs", 1],
+["white cast from the shaft to the trunk", 1],
+["feather-like leaves", 1]
+],
+"Spacing": [
+["6-8 ft.", 1],
+["8-10 ft.", 1],
+["10-12 ft.", 1],
+["12-15 ft.", 1]
+],
+"Trunk": [
+["one true trunk", 1],
+["slender brown fibrous crown", 1],
+["fibrous, untidy crownshaft", 1],
+["woody trunk", 1],
+["hairy trunk", 1]
+],
+"Growth habit": [
+["rapidly", 1],
+["aerial branching", 1],
+["vast growth habit", 1],
+["thin-trunked, branching palm", 1],
+["strong trunk", 1]
+],
+"Rank": [
+["SEED", 1],
+["SEEDLING", 1],
+["FLOWERING", 1]
+],
+"Colour": [
+["purple", 1],
+["orange", 1],
+["red", 1],
+["yellow/green", 1],
+["white", 1]
+],
+"Inflorescence": [
+["Attractive Dypsis utilis inflorescence", 1],
+["light brown body and light pink crown", 1]
+]
+}

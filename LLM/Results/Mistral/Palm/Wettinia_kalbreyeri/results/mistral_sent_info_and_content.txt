@@ -1,0 +1,120 @@
+We are interested in obtaining botanical trait information about the species Wettinia kalbreyeri.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruit developing from 1 carpel, rarely from 2, densely crowded or rather loosely arranged, 1-seeded, prismatic, irregular, ellipsoid or globose, stigmatic remains basal, epicarp minutely roughened, softly hairy, or hairy and warty, or prickly with shining straight or twisted spines, mesocarp granular, with a layer of sclereids external to a parenchymatous layer with included tannin cells and elongate fibres, endocarp very thin.
+Rank: GERMINATING.
+Pistillate flowers open in bud asymmetrical due to close packing, usually borne with 2 vestigial staminate flowers, sepals 3, imbricate, or separated, or briefly connate basally, deltoid to elongate triangular, petals 3, similar to but usually longer and broader than the sepals, staminodes 6, minute, tooth-like or absent, gynoecium of 1-3 minutely roughened, hairy or bristly fertile carpels and 2 abortive carpels, with basal or apical, short to elongate, glabrous or hairy style, and 3 elongate, large stigmas, persistent or deciduous in fruit, ovule laterally attached at the base, anatropous.
+They have a low, dense cone of brown or black stilt roots , and pinnate leaves.
+Categories : IUCN Red List least concern species Wettinia Flora of Colombia Flora of Ecuador Least concern plants Least concern biota of South America Palm stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Taxonbars with automatically added basionyms Taxonomy articles created by Polbot All stub articles.
+Staminate flowers crowded in ebracteolate pairs or solitary, open within the inflorescence bud, sepals 3, briefly connate or distinct, ± narrow-triangular, small, petals much longer than the sepals, 3, narrow triangular, straight or hooked at the apex, briefly valvate at the base, stamens 6-20, filaments short, slender, anthers basifixed, erect, elongate, latrorse, pistillode absent or minute and trifid.
+Leaves 4-5, with a prominent green crownshaft, leaflets 19-26 per side, each divided to base into 2-4 narrow, arching segments spreading in different planes.
+The rope-like inflorescences of the plant emerge from leathery spathes , and grow in a circular pattern around one or more trunk rings beneath the crown shaft.
+Usually moderate solitary or clustered pinnate-leaved tree palms of the Andes and foothills, the stems with stilt roots, leaflets are rhomboid praemorse, and sometimes longitudinally divided to give the whole leaf an ostrich-feather appearance, inflorescences are often multiple at each node, often unisexual, and the fruit has basal stigmatic remains and embryo.
+Leaves 3-5 m long, pinnae 20-25 on each side, somewhat hairy, especially below, longitudinally divided into 2-7 segments, these spreading in different planes, 80-130 cm long and 2.5-10 cm wide in the central part of the blade.
+Occasionally individuals with clustered stems are encountered.
+Tree, Solitary palm.
+Leaves few in number, spirally arranged or rarely distichous, pinnate, neatly abscising or rarely marcescent, sheaths forming a well-defined crownshaft, covered with a variety of indumentum types, petiole rather short, adaxially channelled or convex, abaxially rounded, rachis adaxially angled, abaxially rounded, bearing hairs of various types, leaflets of two sorts, one undivided, elongate, asymmetrically and narrowly elliptic in outline, the proximal margin entire for ca.
+Stem solitary, 5-20 m tall and 10-15 cm in diameter, smooth.
+Rank: FLOWERING.
+Stem erect, conspicuously ringed with leaf scars, bearing at the base a cone of stilt roots, covered in small sharp lateral roots.
+Palms of the genus Wettinia are monoecious , medium-sized to large, and typically solitary-trunked.
+Flowers white or cream-coloured at anthesis, densely crowded.
+Quite the agglomeration of pistils and stamens.
+Seed ellipsoidal or subglobose, sometimes enclosed in a gelatinous mass when fresh, basally attached with rounded hilum, raphe elongate with reticulate branches, endosperm homogeneous or ruminate, embryo basal.
+Stems solitary, rarely clustered, 10-20 m tall and 10-20 cm diameter, with stilt roots to 1 m long.
+Female flowers dispersed along the branches, 5-6 mm long.
+A truly amazing palm, this rare species from high altitude cloud forest in the Andes in Colombia and Ecuador , is one of the largest Wettinia and produces a slender, solitary, smooth trunk, supported by a dense cone of stilt roots and topped by an open crown of full, plumose leaves held much in the manner of the legendary Dictyocaryum.
+Leaf , root , gynoecium , stamen development , seed.
+Categories : Wettinia Arecaceae genera Neotropical realm flora Taxa named by Eduard Friedrich Poeppig Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Taxonomy articles created by Polbot.
+Inflorescences with 15 at each node, fruits globose to shortly ellipsoid, 2.4-3.5 cm long, hairy, green, endosperm homogenous.
+Plant is maybe four feet tall and already producing stilt roots.
+Fruits green, minutely warty, glabrous or hairy, 2.5-3.5 cm long and 2-3 cm in diameter.
+Germination adjacent-ligular, eophyll praemorse, undivided or with a brief apical split.
+Solitary or clustered, slender, moderate or robust, unarmed, pleonanthic, monoecious tree palms.
+The fruit is small to medium-sized and elongated, green to bluish black in color.
+Inflorescences 3-7 per node, peduncle 15-40 cm long, rachis 8-40 cm long, branches 15-30, male inflorescence branches to 30 cm long, the female to 60 cm long, pendulous.
+Pollen ellipsoidal, ± bi-symmetric, aperture a distal sulcus, ectexine intectate, upper surface of foot layer covered by fine, dense gemmae or clavae, loosely supporting short, wide-spaced, broad-based spines, aperture margin similar, longest axis 43-50 µm.
+Male flowers 5-10 mm long, with 6-22 stamens.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 1],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

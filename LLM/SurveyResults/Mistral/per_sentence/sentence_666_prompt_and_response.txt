@@ -1,0 +1,62 @@
+We are interested in obtaining botanical trait information about the species Bursera tomentosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves odd-pinnate, grayish- or yellowish-tomentose, be- coming less so with age, 5-20 cm long, petioles not winged, 10-44 mm long, leaflets 7-11, elliptic to ovate elliptic or lanceolate-elliptic, slightly in- equilateral, the laterals rounded to acute apically and obtuse basally, the termin- als acute apically and basally, coriaceous, the margins crenate, tomentose and lighter beneath, less pubescent above with shorter trichomes, 27-62 mm long and 14-25 mm wide, the middle pairs usually largest, sessile or with petiolules to 1 mm long, rachis winged, the wing elliptic to oblanceolate, to 9 mm wide.
+
+Initial dictionary of traits with all possible values:
+{"Leaf composition": ['5-11 pinnate'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf composition": [
+    ["5-11 pinnate", 0]
+  ],
+  "Leaf pubescence": [
+    ["grayish- or yellowish-tomentose", 1],
+    ["less pubescent above with shorter trichomes", 1],
+    ["tomentose and lighter beneath", 1]
+  ],
+  "Leaf size": [
+    ["5-20 cm long", 1]
+  ],
+  "Petiole size": [
+    ["10-44 mm long", 1]
+  ],
+  "Leaflet number": [
+    ["7-11", 1]
+  ],
+  "Leaflet shape": [
+    ["elliptic to ovate elliptic or lanceolate-elliptic", 1]
+  ],
+  "Leaflet base": [
+    ["obtuse", 1]
+  ],
+  "Leaflet apex": [
+    ["rounded to acute", 1]
+  ],
+  "Leaflet texture": [
+    ["coriaceous", 1]
+  ],
+  "Leaflet margin": [
+    ["crenate", 1]
+  ],
+  "Leaflet petiolule": [
+    ["sessile or with petiolules to 1 mm long", 1]
+  ],
+  "Rachis shape": [
+    ["winged", 1]
+  ],
+  "Rachis wing shape": [
+    ["elliptic to oblanceolate", 1]
+  ],
+  "Rachis wing size": [
+    ["to 9 mm wide", 1]
+  ]
+}

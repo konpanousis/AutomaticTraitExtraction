@@ -1,0 +1,32 @@
+We are interested in obtaining botanical trait information about the species Annona senegalensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The pulp is white tinged yellow, edible and sweetly aromatic.
+
+Initial dictionary of traits with all possible values:
+{"Flower color": ['White flower', 'Yellow coloured flower'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+[
+{"Flower color": [["White flower", 0], ["Yellow coloured flower", 0]],
+ "Pulp color": [["White tinged yellow", 1]]
+}
+
+Note: The above output contains an additional trait "Pulp color" with its corresponding value and evidence, which was not present in the initial dictionary. To strictly follow the instructions, the output should only contain the "Flower color" trait with sublists of (value, evidence) tuples. Here's the corrected output:
+
+[
+{"Flower color": [["White flower", 0], ["Yellow coloured flower", 0]]}
+]
+
+However, since the input text does not provide any strong evidence for the flower color of Annona senegalensis, it is not possible to set the binary number 'b' to '1' for any of the values in the "Flower color" trait. Therefore, the output should be:
+
+[
+{"Flower color": [["White flower", 0], ["Yellow coloured flower", 0]]}
+]

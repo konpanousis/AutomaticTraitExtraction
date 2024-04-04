@@ -1,0 +1,147 @@
+We are interested in obtaining botanical trait information about the species Geonoma longipedunculata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+It differs from these in its rachillae with faint to pronounced, short, transverse ridges.
+Definitie: whole plant growth form.
+Categories : Geonoma Trees of the Caribbean Trees of Central America Trees of South America Arecaceae genera Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+Plants 1.5 m tall, stems 0.3 m tall, 1.7 cm in diameter, solitary, not cane-like, internodes 0.4 cm long, not scaly.
+Geonoma is a genus of small to medium-sized palms native to the forest understorey of tropical Central and South America.
+Definition: whole plant arborescent.
+Palm Traits 1.0.1.425
+Leaves 10 per stem, irregularly pinnate, not plicate, bases of blades running diagonally into the rachis, sheaths 13.4 cm long, petioles 61.0 cm long, drying green or yellowish, rachis 46.1 cm long, 3.8 mm, veins raised and rectangular in cross-section adaxially, pinnae 5 per side of rachis, basal pinna 33.4 cm long, 2.2 cm wide, forming an angle of 66° with the rachis, apical pinna 31.3 cm long, 13.3 cm wide, forming an angle of 30° with the rachis.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Whole plant growth form": [
+["autotroph", 1],
+["trees", 1]
+],
+"Whole plant arborescent": [
+["arborescent", 1]
+],
+"Stem height": [
+["1.5 m", 1]
+],
+"Stem diameter": [
+["1.7 cm", 1]
+],
+"Leaf count per stem": [
+["10", 1]
+],
+"Leaf blade base angle": [
+["diagonally", 1]
+],
+"Leaf sheath length": [
+["13.4 cm", 1]
+],
+"Leaf petiole length": [
+["61.0 cm", 1]
+],
+"Rachis length": [
+["46.1 cm", 1]
+],
+"Rachis thickness": [
+["3.8 mm", 1]
+],
+"Pinnae count per side of rachis": [
+["5", 1]
+],
+"Basal pinna length": [
+["33.4 cm", 1]
+],
+"Basal pinna width": [
+["2.2 cm", 1]
+],
+"Basal pinna angle": [
+["66°", 1]
+],
+"Apical pinna length": [
+["31.3 cm", 1]
+],
+"Apical pinna width": [
+["13.3 cm", 1]
+],
+"Apical pinna angle": [
+["30°", 1]
+]
+}

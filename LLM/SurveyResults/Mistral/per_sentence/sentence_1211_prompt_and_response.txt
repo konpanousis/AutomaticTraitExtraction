@@ -1,0 +1,65 @@
+We are interested in obtaining botanical trait information about the species Eucalyptus tereticornis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves simple and entire, stipules absent, petiole 1 to 3 cm long, rounded or channelled, blade narrowly lanceolate to lanceolate, 10 to 21 cm, 1 to 3 cm, acuminate at apex, glabrous, shiny green, pinnately veined, aromatic when crushed.
+
+Initial dictionary of traits with all possible values:
+{"Leaf blade": ['lanceolate blade', 'elliptical blade'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf blade": [
+    ("lanceolate blade", 1),
+    ("elliptical blade", 0)
+  ],
+  "Leaf type": [
+    ("simple", 1),
+    ("compound", 0)
+  ],
+  "Leaf margin": [
+    ("entire", 1),
+    ("serrated", 0),
+    ("lobed", 0)
+  ],
+  "Stipules": [
+    ("present", 0),
+    ("absent", 1)
+  ],
+  "Petiole length": [
+    ("1 to 3 cm", 1),
+    ("other", 0)
+  ],
+  "Petiole shape": [
+    ("rounded", 1),
+    ("channelled", 1),
+    ("other", 0)
+  ],
+  "Leaf apex": [
+    ("acuminate", 1),
+    ("other", 0)
+  ],
+  "Leaf surface": [
+    ("glabrous", 1),
+    ("hairy", 0)
+  ],
+  "Leaf color": [
+    ("shiny green", 1),
+    ("other", 0)
+  ],
+  "Leaf veins": [
+    ("pinnately veined", 1),
+    ("palmately veined", 0),
+    ("parallel veined", 0)
+  ],
+  "Leaf crushed scent": [
+    ("aromatic", 1),
+    ("non-aromatic", 0)
+  ]
+}

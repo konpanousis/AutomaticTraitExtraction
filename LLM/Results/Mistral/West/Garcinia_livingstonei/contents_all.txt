@@ -1,0 +1,130 @@
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Opposite phyllotaxis", 1]
+],
+"Trunk and root": [],
+"Latex": [
+["Yellow latex", 1]
+],
+"Crown": [],
+"Stem shape": [],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 1],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 1],
+["Petiole with glands", 1],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 1],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [],
+"Spine": [],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 1],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 1],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 1],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}
+

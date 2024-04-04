@@ -1,0 +1,190 @@
+We are interested in obtaining botanical trait information about the species Phoenix reclinata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The leaves are arching, bright green fronds and form crowns at the top of the stems.
+Clustering, very rarely solitary palm, often forming dense thickets with trunks ultimately to 10 m. or more tall, ± 15 cm.
+The single-seeded fruit ripens to a purple-red colour.
+Phoenix reclinata leaflets in a single plane near leaf tip.
+Today, the tallest trunk is about 6.5 feet.
+Stems: Clustering and leaning, to 10 m tall and 15-18 cm in diameter, leaf scars are crowded rings.
+Phoenix reclinata is a dioecious clumping palm, producing multiple stems from 7.5 to 15 m in height and 30 cm in width.
+Phoenix reclinata is an evergreen Tree growing to 6 m by 4 m at a medium rate.
+Phoenix reclinata leaflet tips.
+S LMH N DM 5 2 3.
+Ripening fruit on P. reclinata.
+Male florets are a dirty, pale yellow and fall off after blooming, females are small, globose and yellow-green.
+Inflorescence Les plantes sont unisexuees et des inflorescences apparaissent au sommet de la tige du palmier.
+The discoloration begins at leaf tips.
+The leaf crown grows to 10 m wide and 7.5 to 10 m tall containing up to 100 leaves.
+Inflorescence: 2-3" long, much branched, borne from among the leaves.
+Morphology A tufted palm, often forming clumps, the stems occasionally as tall as 28 ft. but commonly much less Provided by:.
+.Peering into the fronds, the tallest trunk is about 4 feet tall.
+Fruits oval, 10-15 mm long, bright orange when mature.
+Leaves pinnate or feather-shaped, 3-4 m long, lowermost leaflets reduced to spines.
+Separate male and female plants.
+The spines on the tree are about the nastiest Ive seen, 3" long and still growing.
+Morphology Page fan palm feather palm palmate leaf costapalmate leaf costapalmate closeup pinnate leaf bipinnate leaf praemorse leaflets leaf folds inflorescence branching.
+Flower Color: Light Yellow.
+The fruit are borne in large, pendant clusters and contain one seed each.
+Trunks in this species remain underground or, at most, grow to a few inches in height.
+Phoenix reclinata leaf bases with spines.
+Cream-colored staminate and pistillate flowers are produced on different plants.
+Instead, the leaves quickly turn varying shades of reddish-brown to dark brown or gray.
+Canopy of 100 leaves 9-12 feet long.
+Reclinata - Palms and Cycads.
+Mauritiella is a dioecious genus of flowering plant in the palm family found in South America where it is commonly called buriti.
+This species grows edible, oblong fruit , orange in color , at 2.5   cm in diameter.
+Fruits ripening from green through orange to reddish brown, ellipsoid, length 12--18 mm, diam. 7--8 mm.
+Phoenix sylvestris ranges from 4 to 15 m in height and 40 cm in diameter, not as large as the Canary Island Date Palm , but nearly so, and resembling it.
+Tree, up to 10 m high.
+Spacing: 20-30 ft. 30-40 ft.
+The leaf spines were massive and q.
+Leopoldinia is a mostly monoecious genus of flowering plant in the palm family from northern South America, where they are known as jará palm or pissava palm.
+Contents Description Uses References External links Description Phoenix reclinata is a dioecious clumping palm, producing multiple stems from 7.5 to 15 m in height and 30   cm in width.
+The leaves are 3 m long, gently recurved, on 1 m petioles with acanthophylls near the base.
+It bears showy, creamy-white pollen-laden male flowers from August to October.
+Phoenix palms characteristically have sharp spines on the basal portion of the fronds.
+Sabal palmetto with two-thirds of the lower leaves necrotic and a dead spear leaf.
+Form: Palm, Upright or erect.
+Phoenix reclinata.
+Rank: SEEDLING.
+A large, clumping palm, to about 10m tall.
+Nenga is a monoecious genus of flowering plant in the palm family.
+Phoenix reclinata habit, young palm.
+The genus is unusual among members of subfamily Coryphoideae in having pinnate, rather than palmate leaves, tribe Caryoteae also have pinnate or bipinnate leaves.
+Rank: FLOWERING.
+Latin Name Common Name Habit Height Hardiness Growth Soil Shade Moisture Edible Medicinal Other.
+Leaves are 1.5 m long, gray-green, with 25 cm, pinnately arranged leaflets on short, armed petioles.
+Leaf color is bright to deep green on 30 cm petioles with long, sharp spines at the base, with 20 to 40 leaves per crown.
+Palms once classified as Microcoelum are herein included, the genus is closely related to Syagrus , from which it is differentiated only by abundant tomentum, strongly versatile anthers, and slight epicarp, mesocarp, and endocarp differences.
+Tree Height: Usually up to 40 feet.
+Male flowers at Narendrapur near Kolkata , West Bengal , India.
+The orange-brown fruits are borne during February, March and April.
+.Peering into the fronds, the tallest trunk is about 6-1/2 feet tall:.
+Leaf to 2.5 m. long, bright shiny green, not glaucous, arcuate, true petiole ± 15 cm., with coarse red-brown sacking-like sheath, apparent petiole ± 50 cm.
+Female flowers greenish, rounded, ± 2 mm.
+Female inflorescence emerging from the bract and often greatly elongating after anthesis, with the fruiting rachillae pendulous, rachillae ± 40-60, 15-40 cm.
+Other Phoenix species, but the stem and leaflet arrangement are distinctive.
+A healthy mature dactylifera has a massive crown, 20' or more across.
+Size 3 to 6m.
+Rank: GERMINATING.
+Ressources relatives au vivant  : Atlas of Florida Plants Base de donnees des plantes d'Afrique Invasive Plant Atlas of the United States Red List of South African Plants TAXREF Tropicos   Australasian Pollen and Spore Atlas
+The leaves are pinnate , induplicate , to 5 m long, with arching rachis which ends in a single leaflet, leaflets are narrow, glossy, dark green, and are arranged in multiple planes.
+Fruits are up to 1-2.5 cm long, ovoid and reddish-brown to scarlet when ripe.
+The inflorescence grows to 1 metre with white, unisexual flowers forming to a large, pendent infructescence.
+Upright, Multi-stemmed palm, cycad or tree.
+Foliage Color: Blue-green Leaf Size: 9-12- long, leaflets.5-1.5- long, 1" wide Petiole: 3- long, armed with leaflets spines.
+Phoenix reclinata will reach a height of 10m and a spread.of 10m after 20-50 Years.
+Plant Type: Tree.
+It may be either single or multi-stemmed, sometimes forming a dense, bushy clump.
+Flowers and fruit: Inflorescences are orange-colored, to 1 m long, and branched to one order.
+Female flowers at Narendrapur near Kolkata , West Bengal , India.
+J F M A M J J A S O N D Flowering Fruiting.
+Filter Plant Links Bulbs and Rhizomes 59 Climbers 26 Grasses 23 Groundcovers and Perennials 135 Shrub 188 Succulents 83 Tree 194 Water Plants 27.
+General Information Stems multiple, usually ascending, to 8 m, diam.
+Leaves: Pinnate , induplicate , to 5 m long, with arching rachis which ends in a single leaflet, many narrow, glossy, dark green leaflets arranged in multiple planes for most of the length, but in a single plane near the tip, the lowermost leaflets are modified into sharp, thin spines, and no crown shaft is formed from leaf sheaths.
+Phoenix reclinata is a very hardy, evergreen, palm with shiny, light to dark green, long arching leaves that become spiny close to the stem.
+Peduncle of â inflorescence not greatly elongating, sometimes scarcely emerging from the bract, 10-30 cm.
+Field: Clustering and leaning, to 10 m tall and 15-18 cm in diameter, leaf scars are crowded rings.
+Reaching heights close to 25 – 30 FT OA with some trunks tall and some short.
+This species grows edible, oblong fruit , orange in color , at 2.5 cm in diameter.
+P. reclinata - P. reclinata is a tender, compact palm with clustered stems bearing mid- to dark green leaves divided into numerous linear leaflets and panicles of bowl-shaped, cream flowers followed by cylindrical, edible, black to orange-red fruit.
+Phoenix rupicola or cliff date palm is a species of flowering plant in the palm family, native to the mountainous forests of India and Bhutan from 300 to 1200 m, usually occurring on cliffs, hillsides and similar terrain.
+The luminous orange-brown fruit are borne in large hanging zig-zagged branches during late summer.
+The plants are unisexual and florets appear at the top of the palm stem.
+True reclinatas have very flat planned leaflets.
+Male flowers creamy white, rapidly turning brown, musty scented, calyx ± 1 mm.
+Robust, with diamond a skirt of aerial roots at base and persistent leaf bases above.
+The inflorescences form attractive yellow sprays.
+Leaf Type: Pinnately compound, induplicate, lower leaflets modified into spines, 200 - 250 leaflets arranged in groups of 2 or 3, often cross-crossing.
+Fruit almost always developed from 1 carpel only, very rarely all 3 developing, calyx in fruit to 2 mm.
+Cross-sections through the petiole or rachis exhibited discoloration of internal tissue.
+Trunk dull brown, free of leaf-sheaths below, with persistent leaf-sheaths above, in uppermost 1-2 m. irregularly marked with oblique leaf-scars, and bearing persistent leaf-bases, injured stem exuding a clear yellowish gum.
+Foliage is pinnate and recurved, growing 2.5 to 4.5 m in length and 0.75 m in width.
+Foliage Color: Dark Green.
+S LMH N DM 3 0 2.
+Crown of ± 25 green leaves or more, dead leaves frequently rather long-persistent.
+Leaf color is bright to deep green on 30   cm petioles with long, sharp spines at the base, with 20 to 40 leaves per crown.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

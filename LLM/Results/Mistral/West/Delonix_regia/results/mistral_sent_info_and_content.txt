@@ -1,0 +1,295 @@
+We are interested in obtaining botanical trait information about the species Delonix regia.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The species is deciduous and may grow to 15m high with a very spreading top, the bark is grey and smooth and yields pigments and resin.
+Description.Tree, unarmed, deciduous, up to 10 m high, buttressed.
+The pods are 5 cm broad and 30-60 cm long, ending in a beak when mature.
+Sepals 5, oblong,.4-7 by 2-2.5 mm, acuminate, reddish on inner side.
+Flowers: Cassia-type flowers, large, clustered, 10 stamens.
+Seed pods visible on upper branches.
+Red Peacock Flower Isolated On The White Background.
+Bark and Trunk : Light brown to gray trunk.
+It grows quickly, reaching a height of up to 8 m in three years.
+Delonix regia is a semi-evergreen, flowering,  medium, a perennial tree with a low spreading, radial, densely leaved limbs and twigs, and a pyramidal shape in youth, which flattens out into an umbrella shape with age.
+Inflorescences axillary, racemose, up to 15 cm long, glabrous,.5-10-flowered, pedicels 5-8 cm.
+Most of the leaves drop before flowering.
+The flowers appear in corymbs along or at the end of branches and are large, 10 cm across and bright red.
+The species is a tree about 5 - 20 m tall.
+Fruits: 10"-18" long, woody, brown to black, persistent.
+Leaves: bipinnate, main rachis 50-60 cm long, pinnae 9-20 pairs, rachises up to 10 cm.long.
+Flamboyant Branch With Flowers And Pods.
+Seeds are large, yellowish, oblong, arranged at right angles to the length of pod and transversely mottled.
+Gele flamboyant.
+At the base of the leaf, two stipules occur which have long, narrow comb-like teeth.
+The tree is known to reach heights of approximately 12m, whereas the flowers, which cover the tree crown, show colours ranging from orange to red.
+They vary considerably in intensity of colouring, ranging from orange-vermillion to deep scarlet.
+Young/immature: Yellow Green.
+Leaves are 8"-15" long.
+Deciduous – Sheds Its Leaves Annually.
+They can be up to 60 cm long and 5 cm wide.
+Growing can be rather rapid and flowering will happen after some four to five years and the tree starts getting its distinctive shape after only ten years Massive grey trunk smooth bark and lichen for decoration.
+Plant Type : Tree.
+Height : 30'-45'.
+Leaves bipinnate and large , with.many small, opposite leaflets.
+They are green and flaccid when young and are compressed, firm and rather thick when mature.
+The large and characteristic pods, 30-60 cm long, that are retained on the tree for long periods, make this species unmistakable for most of the year.
+Climbing or smothering growth habit.
+The seeds are small, weighing around 0.4 grams on average.
+The compound leaves have a feathery appearance and are a characteristic light, bright green.
+January February October November December.This is a magnificent, flowering shade tree with a large, flat top that is covered with striking, orange-red flowers in summer.
+Broadleaved Perennial Seed propagated Tree Woody.
+Flowers are showy, slightly fragrant, bisexual flame-red through to orange-yellow.
+Stipules: early deciduous, feathery.
+The trees are almost evergreen, with broad-spreading, open, umbrella-shaped crowns.
+Delicate foliage sometimes compared to ferns.
+Seeds many, narrowly oblong-elliptic, compressed, up to 2.5 by 0.8 cm.
+Leaflet Shape: oblong to elliptic.
+It is a non-nodulating legume.
+Fruits are long, flattened, woody, red-brown pods.
+Perennial Flowers.
+Roots flare out from base.Horticultural
+Flamboyant - Delonix regia - Jardinet.
+All Media Synonyms Common Names Overview Nomenclature and Classification Natural History Habitat and Distribution Occurrence Demography and Conservation Uses and Management Information Listing Meta data ð Synonyms synonym Delonix regia variation flavida Stehle synonym Delonix regia variation genuina Stehle synonym Poinciana regia Hook.
+Cydonia oblonga.
+Inflorescences in axillary racemes, ca.
+Just like many plants of the Fabaceae family the leaves are composite and even bipennate pale green to emerald green.
+Pollen grains of Delonix regia.
+Bright medium green to light green.
+Inflorescences up to 15 cm long and with 5-10 large, bright red flowers,.each flower having one white-yellow-red petal between four bright red petals, petals spoon shaped.
+D. regia is a tall tree reaching a height of more than 15 m and a girth of 2 m under favourable conditions.
+Chromosome number in D. regia is 2n=28.
+The leaflets are in 20-30 pairs on each pinna, oblong, 7.5-10 mm long, 3.4-5 mm wide.
+Flamboyant - Delonix regia - pod.
+Stamens 10, equal in length, filaments.up to 4 cm.
+Pods oblong, flat, slightly curved,.30-70 by 3.5-5 cm, blackish, beaked, dehiscing into 2 woody or leathery valves.
+Leaves are bright to medium green.
+Thick, white mycelia form a felty sheet between bark layers and also between the dead bark and underlying wood.
+Delonix regia adaxial leaf surface with hand and ruler for scale.
+They appear in corymbs along and at the ends of branches.
+In late spring to early summer, it is covered with a profusion of brilliant scarlet orange flowers, up to 4 in.
+The bark is grey or brown, smooth or slightly rough, and exfoliating.The compound leaves of D. regia are bipinnate and feathery, up to 60 cm long, pinnae 11-18 pairs, petiole stout.
+Close-up of part of a leaf.The flowers of Delonix regia are large, with four spreading scarlet or orange-red petals up to 8 cm long, and a fifth upright petal called the standard, which is slightly larger and spotted with yellow and white.
+All Climbers Cycads & Succulents Forestry Trees Fruit Trees Grasses Ground Covers Ornamental Trees Palms Seasonal Flowers Shrubs.
+The seeds are relatively large.
+Mature fruits are a 40-60 cm long x 4-7 cm wide, strap-like, woody, dark brown legume with seeds set horizontally.
+The seeds have a hard, bony testa.
+The fruits are woody pods which can be as long as 60cm , brown when ripe and contain elongated hard seeds about the size of a date stone.
+In Bloom.
+Leaflets 10-25 opposite pairs per pinna, subsessile or sessile, elliptic or.oblong, 5-10 by 2-5 mm, rounded but mucronate at apex, slightly oblique at.base, finely puberulous or glabrcscent.
+Seeds are large with no apparent.
+Grows up to 30-40 ft. tall and 40-70 ft. wide.
+Seeds compressed, obliquely oblong.
+Pollen grains are elongated, approximately 52 µm in size.
+These pods split open when fully mature to release their numerous seeds.
+Licenses - CC_BY References - Reproduction Migration Dispersal Life Expectancy Size Growth Morphology Small, diffuse or erect, suffruticose undershrubs with branches finely tomentose, stems ca.
+Delonix regia leaf arrangement and stipules.
+Grows 7-8m tall with a 6-7m spread and a 30-50cm trunk diameter 1.5-2m in its native habitat.
+The pods are green and flaccid when young and turn dark-brown and woody.
+Propagules likely to be dispersed unintentionally.
+Leaf Special Notes: Spectacular, large, broad, silky, flowing leaves.
+Pods.elongate, up to 80 cm long, flat, and splitting into two parts when ripe, exposing the seeds.
+Note the bronze to bright yellow-green young leaves.
+The flowers are usually less prolific on the shady sides of the trees.
+One of the most spectacular of tropical trees, Delonix regia is a tree with a broad-spreading, umbrella-like canopy of lacy, feathery green leaves cut into many small leaflets.
+Delonix regia trunk and base.
+Petals 5, unequal, total length 3-7.cm
+Each leaf is 30-50 cm long with 20 to 40 pairs of primary leaflets or pinnae, each divided into 10-20 pairs of secondary leaflets or pinnules.
+Ovary green, slightly.velutinous, style glabrous, 2.5 cm, stigma indistinct.
+Borne in large clusters near the tips of the branches, the blossoms give way to flattened, mahogany bean-like seedpods, 24 in.
+Self-compatible or apomictic.
+Leaves are silky and wispy.
+Close-up of the flowers Flowers and flower buds Standard and stamens Flowers are usually red but will vary from orange or pale red to a bright scarlet, the petals are clawed as explained above and the standard is white with red spotting as can be seen in the close-up shots, stamens are orange.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 1],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 1],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 1],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 1],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 1],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

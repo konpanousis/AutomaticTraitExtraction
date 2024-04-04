@@ -1,0 +1,143 @@
+We are interested in obtaining botanical trait information about the species Strychnos spinosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Strychnos spinosa Lam.
+Leaves elliptic, ovate to almost circular, 1.5-9 x 1.2-7.5 cm, light to dark green and glossy at the base, veins pale green and curving along the margin, apex tapering to rounded, sometimes notched, base tapering, rounded or slightly lobed, margin entire, inclined to be wavy, petiole 2-10 mm long.
+The leathery, light green leaves have a drip tip and are carried in a sparse crown.
+Greenish-white flowers grow in dense heads at the ends of branches.
+Volgende pagina.
+The simple leaves are green, hairy and leathery and are oppositely arranged with an entire margin.
+Vorige pagina.
+The smooth, hard fruit are large and green, ripen to yellow colour.
+Usually thorny tree with corky bark to 9 m. Leaves ovate to suborbicular, 5--7-veined from the base.
+Orange-like, green fruit ripen to yellowish brown.
+Strychnos madagascariensis is 5-8 m tall and is heavily branched.
+Flowers borne on small lateral spur-branchlets or terminally, in small compact heads, creamy-green.
+Small to medium sized, spiny deciduous tree with leaves turning yellow in autumn.
+Decals en skins.
+The smooth, hard fruit are large and green, ripening to yellow.
+Inside the fruit are tightly packed seeds, which may be toxic, surrounded by a fleshy, brown, edible covering.
+Strychnos pungens flowers.
+Shrub or small deciduous tree.
+Fruits spherical, up to 12 cm, hard-shelled, speckled-green, turning yellow-brown, edible and tasty but are said to be not as good as those of Strychnos cocculoides.
+The bark is pale grey with white patches which darken with age.
+Displaying 1 - 4 of 4.
+Very often confused with Strychnos spinosa, S. madagascariensis is a single- or multi-stemmed tree with a spreading, irregular, angular canopy.
+Leaves opposite, elliptic, oblong to ovate, 3-7-veined from the base, variably hairy or hairless.
+Strychnos pungens detached fruit.
+The canopy is flattish and irregular and the tree is heavily branched.
+Decsription.Strychnos spinosa is a thorny shrub or small tree 1-9 m in height.
+The green monkey orange , a tree indigenous to tropical and subtropical Africa, produces juicy, sweet-sour, yellow fruits containing numerous hard brown seeds.
+Strychnos nux-vomica flowers.
+Categories : Strychnos Gentianales genera Pantropical flora Poisonous plants Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+Bark grey, rough, tends to flake in rectangular segments but is not deeply fissured or corky, branchlets rather pale and thin, with or without short hairs, with hooked thorns, slash yellowish with green margin.
+Flowers in terminal cymes, greenish-white, calyx lobes awl-shaped, 5 mm long.
+Alles in Flms.
+Leaves are not attached by an obvious leaf stalk and are clustered on the ends of short thick twigs.
+It produces sweet-sour, yellow fruits, containing numerous hard brown seeds.
+Bark rough and flaking but not deeply fissured and corky.
+When the fruit is ripe the fresh, yellowish pulp inside the hard woody shell is delicious.
+Fruits turning yellow, 60--90 mm diam.
+Fairly hardy, deciduous, small tree with attractive creamy grey, flaking bark that is armed with spines.
+The trumpet-like flowers are clustered at the base of the leaves, are greenish yellow, and often appear after heavy rains.
+Perennials and small shrubs.
+Branches often armed with curved or straight spines, not always clearly visible.
+Trees and large shrubs.
+Inside are tightly packed seeds surrounded by a fleshy, edible covering.
+The small, greenish-white flowers are borne in small clusters on short stalks in summer.
+Produces small greenish-white flowers in dense heads at the ends of branches.
+The smooth, hard fruit is large and green for most of the year, ripening to yellow.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Opposite phyllotaxis", 1]
+],
+"Trunk and root": [],
+"Latex": [],
+"Crown": [],
+"Stem shape": [],
+"Bark": [
+["Presence of spines or prickles on the trunk", 1],
+["Smooth bark", 1],
+["Bark peeling in patches", 1],
+["Bark with white patches", 1]
+],
+"Bark color": [
+["Slice through brown bark", 1],
+["Slice through light bark", 1]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Elliptic leaf", 1],
+["Ovate leaf", 1]
+],
+"Petiole": [
+["Petiolated leaf", 1],
+["Petiole with glands", 1]
+],
+"Leaf blade": [
+["Elliptical blade", 1],
+["Oblong blade", 1],
+["Ovate blade", 1]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 1],
+["Entire margin", 1]
+],
+"Leaf base": [
+["Leaf base tapering", 1],
+["Leaf base rounded", 1],
+["Rounded leaf apex", 1]
+],
+"Leaf apex": [
+["Leaf apex tapering", 1],
+["Leaf apex rounded", 1],
+["Leaf apex notched", 1]
+],
+"Vein": [
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Blade trinervate at base", 1]
+],
+"Tendril": [
+["Plant without tendrils", 1]
+],
+"Spine": [
+["Plant with spines", 1]
+],
+"Blade color": [
+["Uniformly coloured blade", 1]
+],
+"Fruit": [
+["Smooth fruit", 1],
+["Hard fruit", 1],
+["Large fruit", 1],
+["Green fruit", 1],
+["Yellow fruit", 1]
+],
+"Inflorescences": [
+["Produces flowers in dense heads", 1],
+["Flowers borne on small lateral spur-branchlets or terminally", 1]
+],
+"Sexuality": [],
+"Flower color": [
+["Creamy-green flower", 1],
+["Greenish-white flower", 1]
+],
+"Flower shape": []
+}

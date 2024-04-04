@@ -1,0 +1,265 @@
+We are interested in obtaining botanical trait information about the species Steganotaenia araliacea.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The tip tapers to an acutely shaped point, the base tapers broadly or is heart-shaped or square.
+Bracts few, small, almost obsolete.
+Leaves spiral on long-shoots or clustered at the tip of short-shoots, imparipinnate with 3-4 pairs of lateral leaflets, leaflets broadly lanceolate to almost round, c. 2-14 x 1.2-8 cm, acuminate, regularly serrate with teeth terminating in a fine 1.5-3 mm long arista, sheaths abruptly narrowed to the c. 6-15 cm long petiole.
+Compound umbels of small, white flowers.
+Steganotaenia araliacea is a fairly hardy, variably deciduous, small tree with a lovely waxy sheen to its grey-green, peeling, papery bark.
+The flowers are white, greenish-white or pale yellowish, growing on stalks from 3 mm to 7 mm long.
+During October to November, the tree is conspicuous as dainty, yellow-green flowers are produced in rounded, compound clusters at the ends of the twigs.
+The flattened, oblong or wedge- to heart-shaped fruit is two-winged, 13 mm long and 8 mm wide.
+A small, soft-wooded tree.
+The large, drooping compound leaves are spirally arranged and can be margin toothed.
+Leaflet margins are conspicuously serrated, the teeth ending in fibrous tips.
+The leaves are about 30 cm long, their petioles broadening low down in clasping the stem.
+Steganotaenia araliacea is a small, aromatic, deciduous tree that grows to a height of 2 - 7 m.
+The trunk may reach a diameter of 25 cm.
+The inconspicuous small, tightly bunched greenish white flowers appear from August to October, followed by papery seeds.
+The small flowers are densely clustered, appearing before the leaves in late winter and throughout spring, somewhat similar to those of carrots , a relative in the Apiaceae family.
+Calyx-lobes c. 0.5 mm long.
+Steganotaenia araliacea variation araliacea flowering.
+Small glabrous deciduous tree or shrub, from c. 2-10 m. high, with ascending branches, bark grey formed with a small rectangular pattern, upper stem corky, pale grey, leaves normally absent at flowering and fruiting times.
+Fruits hang in dense pale-green clusters from stem-tips, later as they dry, turned pale creamy brown.
+Flowers usually appearing before the leaves, flowering branchlets in clusters of mostly ± 6-11 at the tips of young twigs, ± 6-15 cm.
+Leaves spirally arranged, crowded near the ends of branches, imparipinnate with 2-3 pairs of leaflets and a terminal leaflet, leaflets ovate, 3-5 cm long, apex tapering to a fine point, margin strongly dentate, the teeth ending in a hair-like tip , petiole broadened at the base, clasping the stem.
+Definition: whole plant arborescent.
+The pale green leaves with sharply toothed margins have a hair-like point.
+Yellow green to grey bark peels of in papery strips or rectangles and becomes rough and cracking in older trees.
+Leaflet shape is broadly ovate or elliptic and slightly oblique.
+Bulbs Climbers Cycads Euphorbias Ferns Grasses Herbs Orchids Parasites Shrubs Succulents Trees Sources of Information Disclaimer Subject Index.
+Filter Plant Links Bulbs and Rhizomes 69 Climbers 29 Grasses 31 Groundcovers and Perennials 149 Shrub 211 Succulents 96 Tree 204 Water Plants 32.
+Steganotaenia araliacea variation araliacea leaves.
+The thinly textured blades are fresh green, yellowish green or bright green on both surfaces, slightly paler below and hairless.
+Fruit are produced in messy clusters from October to November and are heart-shaped, splitting in two to release seeds.
+Fruits in messy clusters, flattened, 7-12 mm, heart-shaped, splitting in 2.
+Bark greenish, corky, peeling in papery strips, all parts with a strong carrot smell.
+Mericarps with 3 distinct dorsal ribs which may occasionally be slightly winged.
+Main umbels with 8-15 robust rays of 3-4.5 cm.
+It is a small savannah tree, growing to a height of between 2 and 7 m.  Sparsely branched, the tree has a pale grey-green trunk which is very noticeable during the winter months.
+Calyx-teeth broadly deltoid, acute, ± 0.5 mm.
+Leaves clustered at the tip of younger twigs and more scattered along some old wood, imparipinnate with 3-4 pairs of leaflets, narrowly or broadly oblong in outline, up to ± 45 x 25 cm.
+Steganotaenia araliacea variation araliacea , commonly known as the carrot tree or popgun tree , is a deciduous shrub or small, erect or crooked-stemmed tree with irregularly shaped crown from 2 m to 10 m in height.
+Peduncles often with up to 3 smaller lateral umbels in addition to the central one, and these may be composed of male flowers only.
+Leaflet stalks, the petiolules are from 5 mm to 10 mm long.
+The main stem of the Carrot tree is upright and can be straight or crooked with noticeably thick twigs and branches.
+The calyx is toothed, while the petals have long, incurving tips, keeled inside.
+Carpophore entire lying in a groove in the otherwise flat inner surface of the mericarp.
+Vittae rudimentary to obsolete.
+Fruit 12-13 x 6-8 mm., usually narrowly obovate, very strongly dorsally compressed, with well-developed lateral wings as wide as the seed-containing part.
+The leaf structure is imparipinnate, formed by only two to four, widely spaced leaflet pairs on the yellow-green, hairless rachis, as well as a terminal one.
+Leaflets 3.5-12 x 2-7 cm., in 3-4 pairs plus a terminal one, lanceolate to narrowly lanceolate, rarely nearly circular, borne on short petiolules or sessile.
+The inflorescences of Steganotaenia araliacea variation araliacea are compound stem-tip umbels, collectively up to 20 cm in diameter.
+Apex narrowly acute with a prolonged stiff mucro, base rounded to subcuneate, margin regularly serrate, the tips of the teeth produced as long stiff bristles.
+The pale greenish-yellow bark on the slender stems appears corky and waxy, flaking in white papery strips and rectangles, rough and cracking on old trees and the young branches thick.
+Petals cream to yellow, c. 1-1.5 mm long.
+The smooth textured foliage is a bright, glossy green and slightly paler underneath and turning golden yellow in autumn.
+New foliage has a fresh, green colour and the leaves are crowded near the ends of branches.
+Small, pale yellow to greenish white flowers appear from July to October in rounded clusters before new leaves are visible.
+Partial umbels with numerous fine rays of c. 5-7 mm.
+The midrib is prominent on both surfaces, the lateral veins only below.
+Tree or shrub up to c. 10 m tall, glabrous, bark grey-brown with papery peel.
+The flowers are bisexual or male, the floral parts occurring in fives.
+Flowers with greenish-white to yellow or purplish petals, calyx teeth obsolete, stylopodium depressed, forming a disk 2-2.5 mm.
+The composite leaves of Steganotaenia araliacea variation araliacea spiral up the stems on petioles from 4 cm to 10 cm, crowded near stem-tips.
+Glabrous small tree , 2-10 m. tall, usually straggling and untidy with an irregularly spreading crown, trunk with soft, sappy, pale yellow wood and thick, corky grey-brown bark with papery peel and a green slash.
+The bark is yellow-green to grey with a waxy texture and it peels off in papery strips or rectangles.
+The drooping leaves are borne on the ends of the branches and are spirally arranged with heavily toothed leaflets.
+Flowers small greenish or yellowish, in terminal and lateral compound umbels, appearing before the new leaves.
+Soft-wooded, sparsely branched, deciduous shrub or small tree.
+Petals creamy to yellow, roundish, ± 1-1.5 mm.
+They have compound , broad leaves.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 1],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 1],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 1],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 1],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 1]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 1],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 1]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 1],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 1]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

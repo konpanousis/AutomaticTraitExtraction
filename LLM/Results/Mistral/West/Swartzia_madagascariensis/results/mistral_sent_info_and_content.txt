@@ -1,0 +1,239 @@
+We are interested in obtaining botanical trait information about the species Swartzia madagascariensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Usually a small deciduous tree, 3-4 m in height.
+Pods hard, sausage-shaped, deep chestnut to black, indehiscent, 8-30 cm.
+Seeds 7-8 x 5-7 x 3 mm, oblong-reniform, compressed, with a small hilum below the radicular lobe, pale brown or greyish, shiny.
+Swartzia madagascariensis Seed Common Name: Snake Bean Swartzia is a genus of legume in the Fabaceae family.
+Pod fragment and seeds.
+Axial parenchyma bands not marginal , bands much wider than rays, fine, up to three cells wide or.coarse, more than three cells wide.
+Racemes 2-10-flowered or more, axillary, solitary or up to 3 together, axis to 5 cm.
+Tree or occasionally a shrub 3-15 m. high, with rough longitudinally fissured or reticulate bark.
+Leaflets alternate, rarely opposite, 7-11, elliptic or obovate-elliptic, rarely oblong-elliptic, 2-10 cm.
+Petal 1, 2-3.6 x 2.2-3 cm including the short claw, white with a yellow patch at the base inside, crinkled, densely covered with appressed brown or greyish hairs outside, glabrous inside.
+Average tangential diameter of.vessel lumina large.
+Small or medium deciduous tree up to 18 m or occasionally a shrub, bark grey or brown, deeply fissured or reticulate.
+Tree, shrub over 2 m.
+Racemes up to 5 cm long, sometimes appearing branched, with up to 10 flowers but sometimes much reduced so that the flowers appear to be in sessile fascicles of 2 or 3 or solitary in the leaf axil, bracts subtending pedicels triangular, up to 3 mm long, rapidly falling and often leaving two short stipules, pedicels 1-3 cm long.
+Gynophore 7-12 mm long, bearing the ovary usually largely clear of the stamens.
+Laticifères ou tubes à tanins absents.
+Petal 1, white, crinkled, densely rusty-pilose outside, glabrous inside, clawed, 2-3.6 cm.
+Lignes de parenchyme marginal absent , parenchyme axial en lignes plus larges.que celles de rayons, fines, jusqu'à trois cellules de large ou.épaisses, de plus de trois cellules.
+Leaves: petiole and rachis together
+Vessel-ray pits with distinct borders, similar to intervessel.pits.
+Approximately 25 seeds per packet.
+Pod cylindric, up to 30 cm, dark brown to black when ripe, indehiscent.
+Flowers in lax 2-10-flowered sprays, with one large white petal and a mass of orange yellow stamens, sweetly scented.
+Pods a foot long rather like those of Cassia sieberiana.
+Oil and mucilage cells absent.
+Calyx at first globose and ± 7 mm.
+Heartwood basically brown to red purple,.
+Fibre pits mainly.restricted to radial walls, simple to minutely bordered.
+Bobgunnia madagascariensis is a small deciduous tree, 3-4 m tall.
+Growth ring boundaries indistinct or.absent.
+Vessels arranged in no specific pattern , in.multiples , commonly short radial rows.
+White sprays of sweetly scented flowers during Spring.
+Morphology Conspicuous white sweetly-scented flowers Provided by:.
+Young branchlets densely pubescent to tomentose, indumentum when dry greyish or more usually fawn or rusty.
+The plant has large pods that turn dark when ripe.
+Pods 8-18 x 1-1.7 cm, roughly cylindrical, usually somewhat bumpy and twisted, hard, dark brown to black, pendent, indehiscent, with several to many seeds.
+Young branches, leaf rachides and inflorescence axes and pedicels rather conspicuously covered with a rusty-brown or greyish dense pubescence or tomentum, but fairly quickly somewhat glabrescent, the indumentum inconspicuous at time of fruiting.
+Stamens probably 50-60, exceeded by the petal, somewhat unequal, yellow or orange.
+Calyx globose and 6-7 mm in diameter before anthesis, then splitting for about half its length into 2-5 lobes and reflexing.
+Rays 914 per tangential mm,.
+Stems and branches often much twisted and contorted, bark dark grey rough and fissured.
+Number of ray tiers per axial millimetre 35.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 1],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 1],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 1],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

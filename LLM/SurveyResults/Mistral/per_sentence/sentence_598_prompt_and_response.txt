@@ -1,0 +1,24 @@
+We are interested in obtaining botanical trait information about the species Clusia rosea.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruit color: light green, turns black at maturity.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour": ['brown'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+[
+{"Fruit colour": [["brown", 0], ["light green", 1], ["black", 1]]}
+]
+
+Explanation:
+The input text mentions the fruit color of Clusia rosea as light green, which turns black at maturity. The initial dictionary has only one value for fruit color, which is brown. We need to create a sublist for each possible value in the dictionary with a binary number indicating the presence or absence of strong evidence for that value in the input text. Since brown is not mentioned in the text, it gets a binary value of 0. Light green and black, on the other hand, are both mentioned in the text, so they get a binary value of 1. The updated dictionary is then returned in JSON format.
+
+Note that we do not add new trait values or modify the initial ones. We only create sublists for the values that are already present in the dictionary. Additionally, we do not add new traits to the dictionary. The output only includes the trait "Fruit colour" and its associated values.

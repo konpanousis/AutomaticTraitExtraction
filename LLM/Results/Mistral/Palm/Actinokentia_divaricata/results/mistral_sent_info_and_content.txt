@@ -1,0 +1,117 @@
+We are interested in obtaining botanical trait information about the species Actinokentia divaricata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Some VERY faint however.
+Very slow - still only one new frond per annum.
+Seed attached by an elongate hilum, raphe branches anastomosing, endosperm homogeneous, embryo basal.
+Rank: GERMINATING.
+Spacing: 36-48 in.
+The new emergent leaves are red, which will later fade to green.
+New leaf, showing the deep colour.
+Solitary, small to moderate, unarmed, pleonanthic, monoecious palms.
+Fruit: Fruit ellipsoid 2-3 x 0.8 - 1 to 4 cm, red to dark purple when ripe.
+Rank: SEEDLING.
+A slender gray to light brown trunk with a diameter of no more than 3 inches.
+Rank: FLOWERING.
+As it matures, the new leaves come out strikingly red.
+Stem slender, erect, prominently ringed with somewhat sunken leaf scars, sometimes with prickly roots.
+Deformed crown.
+The showy fruits mature through yellowish to a dull purple.
+This palm has a very narrow trunk and long slightly purplish crownshaft, below which flowers continually open year round.
+Staminate flowers symmetrical, larger at anthesis than the pistillate buds, sepals 3, distinct, broadly imbricate and rounded, scarcely longer than broad, the outer often prominently keeled or pouch-like near the apex, petals 3, distinct, valvate, boat-shaped, stamens 19-50, filaments erect or nearly so at the apex in bud, anthers erect in bud, linear, dorsifixed, slightly emarginate apically, bifid basally, latrorse, the connective elongate, pistillode as long as the stamens in bud, tapered to a slender apex from a broad base.
+This palm has a thin brown/tan trunk with a blue-green/limey.
+In seed.
+It is a smallish palm with a slender, solitary, smooth trunk.
+Leaves 4-7 spread and arching of 1.20 to 1, 50 m, young leaves emerging from the dark red scabbard, sheath 42-65 cm long, bright green or light gray outside, with a long petiole of 60 - 85 cm.
+This palm has a thin brown/tan trunk with a blue-green/limey green crownshaft.
+Palm up to 8-9 m tall, trunk 5 to 9 cm in diameter, with roots visible at the base.
+A slender feather palm to 7m, with a yellow crownshaft, and 4-6 leaves.
+A reddish crownshaft holds a sparse crown of pinnate leaves which are stunning dark red when unfolding.
+Pistillate flowers, buds usually well developed at staminate anthesis, symmetrical, sepals 3, distinct, broadly imbricate and rounded, petals 3, distinct, imbricate except for briefly valvate apices, staminodes 3, small, tooth-like, borne at one side of the gynoecium, gynoecium unilocular, uniovulate, stigmas 3, prominent, recurved, ovule pendulous, hemianatropous.
+Phenology : 2-3 erect inflorescences hardly glabrescent.
+Small to moderate tree palms from New Caledonia with divaricate inflorescences.
+Palms - botanically identified only.
+Fruit ellipsoidal with apical stigmatic remains, epicarp smooth, mesocarp underlain by a shell of short, pale sclereids, elliptic in outline at surface, the sclereid shell over parenchyma with flat, anastomosing longitudinal fibres adherent to the endocarp, tannin cells lacking, or few and interspersed among the fibres, endocarp thin, fragile, not operculate.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 1],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

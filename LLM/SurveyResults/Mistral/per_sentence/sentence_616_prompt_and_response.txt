@@ -1,0 +1,47 @@
+We are interested in obtaining botanical trait information about the species Rhizophora mangle.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The bell-shaped pale yellow base less than 6 mm long bears four widely spreading narrow pale yellow sepals almost 13 mm long, leathery and persistent, four narrow petals 10 mm long, curved downward, whitish but turning brown, white woolly or cottony on inner side, eight stamens, pistil of two-celled ovary mostly inferior but conical at apex, with two ovules in each cell, slender style, and two-lobed stigma.
+
+Initial dictionary of traits with all possible values:
+{"Sepals / calyx shape": ['free'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Sepals / calyx shape": [
+    ["free", 0]
+  ],
+  "Flower color": [
+    ["pale yellow", 1],
+    ["white", 1],
+    ["brown", 1]
+  ],
+  "Sepal length": [
+    ["<13 mm", 1]
+  ],
+  "Petal length": [
+    ["10 mm", 1]
+  ],
+  "Stamen count": [
+    ["8", 1]
+  ],
+  "Ovary position": [
+    ["mostly inferior", 1]
+  ],
+  "Ovule count per cell": [
+    ["2", 1]
+  ],
+  "Stigma shape": [
+    ["two-lobed", 1]
+  ],
+  "Inner petal surface": [
+    ["white woolly or cottony", 1]
+  ]
+}

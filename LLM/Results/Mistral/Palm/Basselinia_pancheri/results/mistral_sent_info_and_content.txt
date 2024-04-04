@@ -1,0 +1,67 @@
+We are interested in obtaining botanical trait information about the species Basselinia pancheri.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Rank: GERMINATING.
+Basselinia pancheri is a variable, robust, midsized palm with a slender green or gray trunk, topped by a prominent and very colorful crownshaft that can be anything from brown to dark red to purplish black.
+Stem erect, usually ± prominently ringed, internodes glabrous, scaly, or densely tomentose, sometimes with exposed roots at the base.
+Spacing: 6-8 ft. 8-10 ft.
+B. gracilis can be either clustered or a solitaire, the leaf forms are varied, as are the crownshafts.
+Crownshaft and flower spathe.
+Staminate buds symmetrical, sepals 3, distinct, imbricate, ±acute to rounded, petals 3, distinct, valvate, stamens 6, filaments connate at the very base, inflexed at the apex in bud, anthers dorsifixed, bifid at the base and apex, latrorse, pistillode nearly as high as or exceeding the stamens in bud, angled-cylindrical, narrowed to slightly expanded at the apex.
+Crownshaft detail, with inflorescence.
+Leaves themselves usually a dark green.
+Rank: SEEDLING.
+Single stemmed, occasionally clustering, emergant palm to 15m.
+Recomended 30 High Germation seeds SCARLET RED CARNATION.
+Almost entire, stffly erect leaves, with very little splitting.
+Rank: FLOWERING.
+Young plant, showing unsplit leaves.
+Solitary palm, rarely tufted, 10 m. high, with a trunk 2 to 10 cm.
+Covering the roots with soil.
+Phenology : An inflorescence, 1-3 times branched, long persistent, well below the emerging leaves, stiff and very open scaly brownish or blackish, becoming grayish and glabrous with age.
+Recomended Yellow Green Bamboo 50 Fresh Seed. forceone.
+The leathery leaves have broad leaflets of different widths.
+Characteristic small to moderate pinnate-leaved palms from New Caledonia, displaying substantial variation in habit, leaf and inflorescence form, the prophyll usually incomplete and the fruit with lateral to apical stigmatic remains and ± smooth endocarp.
+Fruit globose to elongate-ellipsoidal, sometimes bilobed, red or black, with lateral to apical stigmatic remains, epicarp smooth or drying pebbled, mesocarp with a thin layer of small, irregular tannin cells external to a thin layer of short sclereids over abundant ellipsoidal tannin cells and a few flat, thin fibres, endocarp thin, vitreous, fragile, sometimes minutely reticulate, with a rounded to elongate basal operculum.
+Pollen ellipsoidal asymmetric, sometimes elongate or lozenge-shaped, aperture a distal sulcus, ectexine tectate, psilate-perforate, perforate and micro-channelled or finely perforate-rugulate, aperture margin similar or slightly finer, infratectum columellate, longest axis 29-48 µm.
+Small to stout, solitary or clustered, unarmed, pleonanthic, monoecious palms.
+Looks beefier than Favieri.
+Palms - botanically identified only.
+Fruit bilobed or reniform, 6-8 x 6-9 mm., shiny black when ripe, with the stigmatic residue displaced toward the middle, brown seeds, bilobed Often found, in savanna like areas.
+Trunk type: solitary, occasionally clustering, Hight: to 15m. Almost entire, stffly erect leaves, with very little splitting.
+Seed globose, kidney-shaped or ovoid-ellipsoidal, hilum and raphe short to elongate, the raphe branches anastomosing laterally, rarely scarcely anastomosing, endosperm homogeneous, embryo basal or lateral below the middle.
+Pistillate flowers smaller than, equaling or larger than the staminate, sepals 3, distinct, imbricate, rounded, petals 3, distinct, imbricate except for the briefly valvate apices, staminodes 3 at one side of the gynoecium, small, tooth-like, gynoecium unilocular, uniovulate, stigmas 3, prominent, recurved, ovule ± pendulous, sometimes briefly arillate, usually hemianatropous.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["brown", 1],
+["brownish", 1],
+["red", 1],
+["shiny", 1]
+],
+"Fruit colour": [
+["black", 1],
+["red", 1]
+],
+"Crown": [],
+"Fruit size": [],
+"Fruit shape": [
+["bilobed", 1],
+["globose", 1],
+["elongate-ellipsoidal", 1],
+["reniform", 1]
+],
+"Conspicuousness": []
+}

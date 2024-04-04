@@ -1,0 +1,131 @@
+We are interested in obtaining botanical trait information about the species Calyptronoma rivalis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaf: , 12 to 14 spineless, feather-shaped leaves, up to 12 feet long with a 2-foot long leaf stalk and a 2-foot long sheath.
+Categories : Calyptronoma Trees of Puerto Rico Trees of Haiti Trees of the Dominican Republic Palm stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Commons category link from Wikidata All stub articles.
+Fruit 4.6-7 mm long, 3.6-4.6 mm in diam., endocarp adherent from seed, obscurely net-like, seed 3.8-4.9 mm long, 2.9-3.5 mm in diam. /Palmweb.
+Borne on sunken pits, these flowers are arranged in triads of two males and one female.
+Peduncle 39-77 cm long and 1.3-3 cm wide, rachillae 17-23 cm long, 3.7-5.4 mm in diam., with 6 'rows of pits, proximal rachillae borne in clusters of up to 3-5 on stalks 1.4-5.2 cm long, 0.6-0.9 cm wide, clustered rachillae borne for 1/2-2/3 the length of the rachis, pits 2.4-3.5 mm long, 1.7- 2.9 mm wide, longitudinal distance between pits 5.3-10.5 mm.
+Tall, slender-stemmed, pinnate-leaved palm native to Central and South America and Trinidad and Tobago.
+Fruit 4.6-7 mm long, 3.6-4.6 mm in diam., endocarp adherent from seed, obscurely net-like, seed 3.8-4.9 mm long, 2.9-3.5 mm diam.
+They are arranged in triads of two males and one female.
+The fruits, less than one-quarter-inch wide, are imperfectly round and reddish when ripe.
+Fruit: 0.25 inch wide.
+Peduncle 39-77 cm long and 1.3-3 cm wide, rachillae 17-23 cm long, 3.7-5.4 mm in diam., with 6'rows of pits, proximal rachillae borne in clusters of up to 3-5 on stalks 1.4-5.2 cm long, 0.6-0.9 cm wide, clustered rachillae borne for 1/2-2/3 the length of the rachis, pits 2.4-3.5 mm long, 1.7- 2.9 mm wide, longitudinal distance between pits 5.3-10.5 mm.
+C. rivalis stems grow singly, and reach heights of 4-15 m, with stems 15-30 cm in diameter.
+Its leaflets are more erect and closer together as opposed to the pendulous habit shown in the pictured palms.
+Botany: palm, stems single, ± 10 m high, ± 20 cm in diameter, habitatr waterlogged areas, near the banks of streams, leaved pinnately compound, almost extinguished in the past.
+C. rivalis stems grow singly, and reach heights of 4-15 m, with stems 15-30 cm in diameter.
+Its trunk is smooth and may grow to 6 to 10 inches in diameter.
+Seed globose-ellipsoidal, raphe unbranched, encircling the seed, hilum short, basal, endosperm homogeneous, embryo basal.
+Fruit: reddish when ripe.
+Erect pinnate-leaved tree palms from the Caribbean, distinctive in the inflorescence with many rachillae radiating from the tip of the peduncle and inflated staminodal tube in the pistillate flower.
+C. occidentalis stems grow singly and reach heights of 7-12 m, with stems 17-20 cm in diameter.
+Stem stout, erect, becoming bare, irregularly ringed with leaf scars.
+Fruit ovoid, 1-seeded, stigmatic remains basal, epicarp smooth, granular when dry, mesocarp fleshy with stout fibres anastomosing distally, one large fibre conspicuous, endocarp thin, colourless, tough, with a circular operculum over the embryo.
+In the upper part of the.
+Moderate, solitary, unarmed, pleonanthic, monoecious palms.
+Spacing: 12-15 ft.
+Borne on sunken pits, these flowers are arranged in triads of two males.and one female.
+Palma de manaca is a palm tree reaching about 30 to 40 feet in height.
+Trunk: Smooth, 6 to 10 inches in diameter.
+Tall, crownshaftless, solitary pinnate palm with fine, drooping leaflets.
+Leaf 3.1-5 m long, segments 54-107 cm long, 3-6 cm wide, glabrous on the abaxial intercostal surface.
+The palm has dioecious flowers that bloom twice a year and produce an abundant amount of small reddish fruits.
+Pollen ellipsoidal, usually with either slight or obvious asymmetry, aperture a distal sulcus, ectexine tectate, perforate, perforate-rugulate or rugulate-insulate, aperture margin slightly finer or psilate, longest axis 24-49 µm.
+All of the fruits mature.at the same time and fall with the persistent flower parts still attached to the base.
+Its trunk is smooth and may grow to 6 to 1O inches in diameter.
+Post-meiotic tetrads tetrahedral.
+Its large flowers are clustered, branched, and drooping.
+Staminate flowers 4.8-5.1 mm long, sepals 3-3.6 mm long, 1.1-1.2 mm wide, petals completely connate, staminal tube 4.1-4.5 mm long, 1.5-1.6 mm wide, filaments 0.8-1.2 mm long, anthers 1.6-1.7 mm long.
+The palm tree has spineless, feather-shaped leaves which can reach up to 12 feet long with a 2-foot long leaf stalk and a 2-foot long sheath.
+C. plumeriana stems grow singly and reach heights of 4-10 m, with stems 10-20 cm in diameter.
+All of the fruits mature at the same time and fall with the persistent flower parts still attached to the base.
+Large palm which usually reaches a height of 12 to 18 m, but individuals 26.4 m have been recorded.
+Stem to 15 m tall.
+Palma de manaca is a palm tree which weighs about 25 pounds and reaches about 3O to 4O feet in height.
+The palm tree has.spineless, feather-shaped leaves which can reach up to 12 feet long with a 2-foot long leaf stalk and a 2-foot long sheath.
+Prophyll 35-61 cm - long, 6-10 cm wide, penduncular bract 66-77 cm long, ca.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

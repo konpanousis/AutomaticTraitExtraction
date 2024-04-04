@@ -1,0 +1,125 @@
+We are interested in obtaining botanical trait information about the species Bactris major.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves 3-10, leaf spines brown or black, more or less terete, to 11 cm long, moderate to dense on sheath, petiole, and rachis, sheath 22-55 cm long, fibrous on margins, ocrea to 20 cm long, becoming fibrous, petiole 0.1 -1.5 m long, rachis 0.7-1.8 m long, pinnae 24-46 per side, more or less regularly arranged, sometimes irregularly, spreading in the same plane, linear, aristate, minutely spiny on margins, with a metallic sheen on drying, middle pinnae 25-62 x 1-3.5 cm.
+Polyganaceae Ripe fruits 2 Solanum surattense Solanaceae Unripe fruits 3 Ficus glomerata
+Native to tropical America, Bactris major forms dense tufts reaching the 10 m of height © Giuseppe Mazza
+Widespread, common palm in Central and South America.
+Stems can be as narrow as 0.3-0.5 centimetres in B.aubletiana or as broad as 25 centimetres in B. gasipaes.
+Large, buttressed fig trees are sometimes found with trunks exceeding 1 meter diameter.
+Strong upright palm producing many stout canes 6-8 m. tall and 5 cm.
+Inflorescences interfoliar, peduncular bract to 40 cm long, yellowish brown on outer surface, sparsely to moderately covered with yellowish brown spines to 1 cm long, pistillate flowers and fruits with a staminodial ring between the calyx and corolla, fruits 3.5-4 x 02-Mar cm, ellipsoid or obovoid, rostrate, purple-black, minutely spinulose.
+The largest endocarp fragments, including parts of the intercarpellary ridge and basal eyes, were less than 35   mm in length and 20   mm in width.
+The Bactris major Jacq. is a monoecious species forming thick tufts with erect or slightly bent stems, 2-10 m tall and of 2-6 cm of diameter, covered by the foliare bases provided of robust blackish spines, up to 10 cm long, except in the oldest parts, smooth, of dark green colour and with the prominent and whitish rings of the foliar scares spaced of 12-25 cm.
+Bactris major variation major es una planta de la familia Arecaceae.
+They have simple or pinnately compound leaves and yellow, orange, red or purple-black fruit.
+Ripe fruit can be yellow, orange, red or purple-black and range from 0.5-4.5 centimetres long. : 5-11.
+Pale Pink Pink Rose/Mauve Magenta Fuchsia Red Scarlet Coral/Apricot Orange Red-Orange Gold Pale Yellow Bright Yellow Green Pale Green Chartreuse Light Blue Dark Blue Medium Blue Blue-Violet Lavender Medium Purple Dark Purple/Black Maroon/Burgundy Brown/Bronze White/Near White Cream/Tan Silver/Gray Inconspicuous/none Bloom Characteristics:
+All species have spiny leaves, the spines are often clustered on the petiole or rachis.
+Shrub, Caespitose palm.
+Bactris major is a small to medium-sized spiny palm which ranges from Mexico, through Central America into northern South America and Trinidad.
+Flowers grow in triplets along the inflorescence, each female flower is flanked by two male flowers, elsewhere along the inflorescence male flowers grow singly or in pairs.
+Stems cespitose, forming dense or open clumps, 1-10 m tall, 2-6 cm diam., spiny on internodes.
+The leaves, on a 0,3-1 m long petiole, are pinnate, 0,8-2,2 m long, with 24-46 pairs of oblong-linear pinnules regularly arranged along the rachis and on the same level, 25-60 cm long and 1-3 cm broad, with margin provided of tiny spines or bristles, petiole and rachis are covered by short spines interspersed by some brown or black spines, 1-6 cm long, except at the base of the petiole where they may exceed the 10 cm.
+Inflorescences interfoliar, peduncular bract 27-40 cm long, sparsely covered with black spines to 1 cm long, rachillae 1-7, 9-15 cm long, pistillate flowers and fruits usually without a staminodial ring between the calyx and corolla, fruits 1.5-3 x 01-Feb cm, obovoid or ellipsoid, brown or purple-black, with minute spinules or small brown scales.
+The leaves can be either pinnately compound or simple, in some species like B. hirta both types of leaves exist.
+They had relatively thick husk, oblong shape, and moderately thick shell.
+Categories : Bactris Trees of Mexico Trees of Central America Trees of Trinidad and Tobago Trees of South America Cocoseae stubs Tree stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+In some species the spines are only found on the tips of the leaflets. : 4-5  Most species grow in multi-stemmed clumps with stems about 2 metres tall and 3 centimetres in diameter, but they span a range of sizes from tall trees to shrubs with subterranean stems and are sometimes single-stemmed.
+Ramified inflorescences among the leaves initially enclosed in a spiny spathe, semi-woody and persistent in fruit, 35-60 cm long, with greenish yellow unisexual flowers usually arranged in triad , the female flowers ripe before the male ones thus favouring the crossed pollination.
+Bactris major variation major in World Checklist of Selected Plant Families.
+Petioles range from 5 centimetres to over 1.5 metres in length, while the rachis can be 3 centimetres to over 3 metres long. : 4-5  Inflorescences are borne singly emerging from the leaf axil.
+Stems generally bear spines on the internodes, in B. glaucescens and B. setulosa spines are also present on the nodes.
+Most species are small trees about 2 m tall, but some are large trees while others are shrubs with subterranean stems.
+Bactris major is a small to medium-sized spiny palm which ranges from Mexico , through Central America into northern South America and Trinidad.
+Leaves 3-10, pinnae 28-46 per side, more or less regularly arranged, occasionally clustered, spreading in the same plane.
+Galore spines but edible fruits.
+Leaves 4-8, pinnae 38-57 per side, irregularly arranged, spreading in the same or slightly different planes.
+Spacing: 20-30 ft. 30-40 ft. over 40 ft.
+Leaves 3-7, pinnae 24-42 per side, more or less regularly arranged, occasionally clustered, spreading in the same plane.
+Inflorescences interfoliar, peduncle 15-40 cm long, recurved, spinulose or densely spiny, prophyll 13-30 cm long, peduncular bract 28-60 cm long, densely to moderately covered with black, dark brown, or yellowish brown spines to 1 cm long, rachis 0.5-4 cm long, rachillae 5-10, 9-23 cm long, ca.
+Small clustering palm to about 4m, with thin brown trunks,.with spines at the nodes.
+Its chromosome number is not known.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 1],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

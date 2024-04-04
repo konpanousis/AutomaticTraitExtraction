@@ -1,0 +1,24 @@
+We are interested in obtaining botanical trait information about the species Lannea humilis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Calyx-lobes ovate, ± 1.5 mm.
+
+Initial dictionary of traits with all possible values:
+{"Leaf apex": ['Leaf apex with wide corners', 'Rounded leaf apex'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Leaf apex": [
+["Leaf apex with wide corners", 0],
+["Rounded leaf apex", 0]
+]
+}
+
+Note: There is no mention of the leaf apex in the provided input text, so the evidence for both possible values is 0. The output is a dictionary in JSON format, as requested. The initial dictionary provided did not contain any trait information related to the input text, so the output remains the same as the input dictionary, but with the addition of the evidence values.

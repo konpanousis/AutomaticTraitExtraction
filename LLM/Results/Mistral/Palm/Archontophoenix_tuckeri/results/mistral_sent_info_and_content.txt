@@ -1,0 +1,166 @@
+We are interested in obtaining botanical trait information about the species Archontophoenix tuckeri.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Petals 4.5-7 x 1.8-3.6 mm, falcate , covered in rusty scales.
+Rachis to 175 cm long, with a broad flat ridge becoming sharp in the front portion.
+Peduncular bract to 37 x 9 cm, tubular and thin.
+Part II - Free Archontophoenix tuckeri seed.
+Archontophoenix purpurea seed.
+Spacing: 15-20 ft. 20-30 ft.
+Palm to 20 m tall.
+The leaves are pinnate, up to about 3 m long, with oblong pinnules having pointed apex, up to 90 cm long and 4-5 cm broad, arranged regularly along the rachis, of intense green colour on the upper page, silvery grey below due to the presence of microscopic scales.
+Leaves are silver underneath, somewhat pendulous or drooping.
+The foliar base, smooth, waxy, of pale green colour, wraps wholly the stem for a height of 0,8-1,3 m, with a slight swelling in the lower part, forming a sort of an elegant capital.
+Crownshaft 84-130 cm long, waxy light- to lime green, slightly bulging at the base, thinly textured, tapered towards apex, light brown and glossy.
+Sepals 1.5-3 mm long.
+Trunk to 26 cm DBH expanding to 60 cm at the base and distinctly tapered to the apex , smooth becoming fissured with age.
+Seed globose, to 9 mm diameter, dull brown.
+Silver-grey abaxially due to the dense silvery scales.
+Rank: SEED.
+Inflorescence 30-60 x 60-70 cm, axes glabrous.
+Distinguished by: undersurface of pinnae with silver-grey scales, ramenta lacking, perianth white-cream, fruit ovoid, 15-25 mm, mesocarp fruit fibres in two layers, outer layer thin, occasionally branched, inner layer thick, flat, to 3 mm wide, mostly branched.
+Petiole to 44 cm long, deeply concave below wnd convex below, to 4 cm wide in basal part.
+The inflorescence , branched to 3 orders, usually holds the branches erect though they become pendulous in fruit, it is usually wider than long and remains green with maturation of the fruit.
+.Each envelope contains about 30-40 seeds.
+Peduncle to 12 x 4.5 x 2 cm, terete , winged at base.
+Pinnae have silver/grey scales below and tend to be semi-pendulous in the apical 1/3.
+Rank: SEEDLING.
+The panicle inflorescences generate under the leaves, enclosed during the initial phase of growth in a spathe of pale green colour, deciduous, are 30-60 cm long, initially erect, then drooping in fruit, with 3 orders of ramifications and unisexual flowers united in groups of three of cream white colour.
+Floral bracts prominent, sharp and cup-shaped.
+Rank: FLOWERING.
+Staminate flowers 6.5-7 mm long opening to 11 mm wide.
+Third bract to 15 x 15 mm.
+Many palms have reddish to pinkish color on new emerging leaves.
+Definition: whole plant arborescent.
+Leaves about 3 m long with a moderate lateral twist.
+Showy flowers.
+Description Palm to 20 m tall, trunk to 26 cm in diameter and expanded at the base.
+They lack ramenta on the midrib below.
+Palm to 20 m tall, trunk to 26 cm in diameter and expanded at the base.
+The fruits are ovoid, 1,5-2,5 cm long and of 1-1,5 cm of diameter, of bright red to brick red colour when ripe, with mesocarp formed by two layers of fibres, containing only one brown globose seed of 0,9 cm of diameter.
+Fruit is red/brick-red at maturity, 17-25 mm long.
+Palm to 20 m tall, trunk to 26 cm in diameter and. expanded at the base.
+Rachis to 50 cm long, angular, with 8 main branches.
+Filaments curved and with rusty brown scales.
+Self-compatible or apomictic.
+Rank: GERMINATING.
+Persistent calyx 5-6 mm long.
+Rachillae stout, to 30 cm long and prominently zig-zagged.
+Palm to 20 m tall, trunk to 26 cm in diameter.and expanded at the base.
+Archontophoenix tuckeri may reach 20 m with trunk of 25 cm of diameter © Giuseppe Mazza
+Midrib prominent on both surfaces with up to 8 prominent secondary ribs abaxially.
+© J.L. Dowe Fruit, whole and in longitudinal section.
+Propagules likely to be dispersed unintentionally.
+Pinnae have silver/grey scales below and tend to be.
+Climbing or smothering growth habit.
+Leaves about 3 m long with a.moderate lateral twist.
+Pistillode about as long as stamens and longitudinally grooved, basal portion with rusty scales.
+Leaves 7-12 and up to 3.15 m long, held flat or with a moderate twist with 43-68 pinnae per side, new leaves often with a bronze red tinge.
+Staminate flower has 13-19 stamens.
+Flowers are white/cream.
+Spacing: 8-10 ft. 10-12 ft.
+Fruit is red/brick-red at maturity, 17-25 mm.long.
+Fruit is red/brick-red at maturity, 17-25.
+Fruit is red/brick-red at maturity, 17-25 mm long.
+This is a variable species which tends to become.shorter with smaller leaves in the northern parts of its.range.
+The Archontophoenix tuckeri Dowe is an unarmed monoecious species with solitary stem up to 20 m tall, slender, of about 25 cm of diameter, enlarged at the base, on which are visible the rings trace of the attachment of the fallen leaves, and green internodes tending to grey and to fissure with the age.
+Prophyll 40-45 x 11-12 cm, thin, fibry, papery, winged, beaked, silvery on the adaxial surface.
+Fibres compact when ripe.
+It grows very fast, with a beautiful.crownshaft.
+The rings on the trunk are due to leaves that leave scars arranged in a regular manner.
+New leaves are often in tones of pink, red or bronze, and the juvenile leaves become proportionately larger than in other species before they commence to divide.
+Pinnae to 93 x 5 cm, apical third frquently semi- pendulous.
+Individuals can grow to 20 m.
+Leaves are glaucous underneath, and a much deeper green.
+Fruit ovoid , 15-25 x 10-15 mm, bright red to dark brick-red at maturity.
+Growing to about 30 meters tall.
+The inflorescences are short, branched, pink or red and grow right under the crownshaft.
+The “crownshaft” is rather long and slender light green to dark.
+The fruits are red and oval or round with an average diameter of 10 to 50mm.
+Pinnae have.silver/grey scales below and tend to be semi-pendulous in the.apical 1/3.
+Mesocarp fibres in 2 distinct layers, outer of thin fibres and inner of flat, to 3 mm wide, mostly branched fibres.
+The leaves are pinnate and dark green color.
+The stem is unique , rather thin, smooth, long and light gray.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

@@ -1,0 +1,240 @@
+We are interested in obtaining botanical trait information about the species Punica granatum.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Showy, Fruit & Berries.
+Prune lightly, thinning out dense growth, shortening lanky growth.
+Height: 10 ft. 0 in. - 12 ft. 0 in.
+The pomegranate fruit is grenade-shaped with a deep red, leathery skin and crown-shaped calyx.
+A compact rounded deciduous shrub with glossy bright green leaves and funnel-shaped bright orange-red followed by brown edible fruit.
+Max Height 1m. Max Spread 0.5m. Flowers June to August.
+Bloom Description: Light red.
+Punica granatum , commonly called pomegranate, is a multi-stemmed deciduous shrub or small tree that grows to 6-20- tall.
+Punica is a small genus of fruit -bearing deciduous shrubs or small trees in the flowering plant family Lythraceae.
+Fruit interior is divided into compartments packed with fleshy, juicy, edible sacs that surround the seeds.
+Solanum quitoense x 10 seeds.
+Fruit: Showy, Edible.
+The seeds are surrounded by a small amount of tart and red juice and are separated via white, membranous pericarp.
+Arrow right.
+They are fleshy fruit that come from the ovary of a single flower.
+The pomegranate plant is a large shrub or small tree that has smooth, evergreen leaves and showy orange to red flowers.
+Width: 8 ft. 0 in.
+Deciduous Leaf Fall Color:.
+Pomegranate Native Introduced Extinct.
+Its numerous slender branches are clothed with lustrous, narrowly oblong, rich green leaves, that emerge bronze in spring.
+The leaves are glossy and the flowers are red, white, large, or variegated and have tubular calyxes which finally become the fruit.
+This fruit is usually about the size of a large orange 2"-4" in diameter.
+Flowers give way to orange-sized, leathery-skinned, globose fruits that ripen to yellow tinged with red.
+Narrow, pointed, oblong-lanceolate, glossy green leaves are opposite or in whorls.
+Blooming throughout the summer, beautiful funnel-shaped, crepe paper, bright scarlet flowers, 2 in.
+Height: 60" tall.
+Flower Petals:. fused petals.
+Evergreen in warm winter areas, they change to soft yellow-green, sometimes brilliant yellow, in the fall.
+Grows up to 6-20 ft. tall and 4-15 ft. wide.
+Shade Perennials.
+It has rounded fruit with a dry outer covering made up of two layers: a hard-outer layer called an epicarp, a soft inner layer called a mesocarp.
+Bulbs, Tubers & Rhizomes.
+Alternate, opposite or whorled lustrous dark green leaves, 1 to 4 in.
+This fruit is usually about the size of a large orange.
+Showy, trumpet-shaped, light red summer flowers give rise to red oblate fruit with juicy, deep red pulp.
+Punica granatum is a multi-stemmed, upright-oval to spreading rounded shrub, prized for its orange-sized edible fruit and its ornamental qualities.
+In fall, foliage turns yellow in non-tropical areas.
+The pomegranate tree is a long-living tree that can typically grow up to 12 to 16 feet and live over 200 years.
+x 18 cm, 30 cm de haut greffe.
+Description Punica granatum, most famous for pomegranates, is a small-fruit bearing shrub that is native to southern Asia and has been cultivated since ancient times.
+Nanum' Fruit and Leaf.
+Shining against the foliage, the flamboyant flowers are followed by spherical, reddish-brown, leathery-skinned fruits, up to 4 in.
+Sun Perennials.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 1]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 1],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 1],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 1],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

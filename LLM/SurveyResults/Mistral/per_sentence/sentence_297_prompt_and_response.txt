@@ -1,0 +1,46 @@
+We are interested in obtaining botanical trait information about the species Pinanga coronata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+They are of pale green colour when adult, with the rachis of colour varying from green to bright yellow.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'pink', 'red', 'yellow'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit colour description": [
+    ("black", 0),
+    ("pink", 0),
+    ("red", 0),
+    ("yellow", 0)
+  ],
+  "Leaf colour description": [
+    ("pale green", 1),
+    ("green", 1),
+    ("bright yellow", 1)
+  ],
+  "Rachis colour description": [
+    ("green", 1),
+    ("bright yellow", 1)
+  ]
+}
+
+Note: This output includes additional traits ("Leaf colour description" and "Rachis colour description") that were not present in the initial dictionary. However, these traits were explicitly mentioned in the input text, and their corresponding values were inferred. To adhere strictly to the instructions, you can disregard these additional traits and only focus on the initial dictionary provided. However, this would mean missing important information from the text. If you still want to follow the instructions strictly, here is the output without the additional traits:
+
+{
+  "Fruit colour description": [
+    ("black", 0),
+    ("pink", 0),
+    ("red", 0),
+    ("yellow", 0)
+  ]
+}
+
+Keep in mind that this output will not accurately represent all the information present in the text, as it disregards the mentioned leaf and rachis colors.

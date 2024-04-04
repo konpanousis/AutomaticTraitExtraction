@@ -1,0 +1,22 @@
+{
+"Fruit colour description": [
+["black", 1],
+["brown", 1],
+["brownish", 1],
+["red", 1],
+["shiny", 1]
+],
+"Fruit colour": [
+["black", 1],
+["red", 1]
+],
+"Crown": [],
+"Fruit size": [],
+"Fruit shape": [
+["bilobed", 1],
+["globose", 1],
+["elongate-ellipsoidal", 1],
+["reniform", 1]
+],
+"Conspicuousness": []
+}

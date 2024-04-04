@@ -1,0 +1,106 @@
+We are interested in obtaining botanical trait information about the species Pinanga arinasae.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Pistillate flowers sessile, calyx cup-shaped, pale yellow, 4 mm diam.
+Stem erect, 12-15 cm diam., 10-12 m tall, medium brown to gray brownish, internodes 10-25 cm, scars to 3 cm.
+Staminate flowers asymmetrical, sessile, rarely stalked at the base, very rarely the stalk of one flower much longer than the other , calyx cupular with 3 triangular, frequently unequal lobes, petals 3, triangular, frequently unequal, joined briefly basally, valvate in bud, much exceeding the calyx lobes, usually very fleshy, stamens rarely 6, usually 12-68, filaments short, anthers linear, latrorse, pistillode absent.
+Stem very slender to moderate, with elongate or short internodes and conspicuous leaf scars, occasionally stilt-rooted.
+Young fruit green, mature fruit red blackish.
+Acaulescent, or erect, diminutive or robust palms of Southeast Asia to New Guinea, with crownshafts, with entire or lobed leaflet tips and a single large bract in the inflorescence, the pistillate flowers borne throughout the rachillae, seed with basal hilum.
+Germination adjacent-ligular, eophyll bifid or rarely entire with a minute apical cleft.
+Leaves 7-10 in the crown, pinnate, whole leaf 250-330 x 240 cm, leaf-sheath to 110 cm, inside white and smooth, petiole 16-40 cm, deeply oblique, convex abaxially, silvery indumentose below, rachis to 215 cm, silvery indumentose below, concave then flattened adaxially, convex abaxially, terete near the apex, leaflets 35-45 on each side of rachis, entire, regularly arranged, linear to lanceolate, basal leaflets 50-58 x 1.0-1.8 cm, ribs 2, middle leaflets 90-120 x 4-5 cm, ribs 2, apical leaflets 30-48 x 0.6-3 cm, ribs 2-4, indumentose on lower ribs, the surfaces discolorous, upper dark green, lower pale green when fresh, on drying becoming pale brown on lower surface and dark brown on upper surface.
+Fruit globose, or ellipsoidal to spindle-shaped, sometimes narrow spindle-shaped and curved , bright crimson, scarlet, orange or black, very rarely dull brown or green, frequently passing through pink to crimson to black at maturity, stigmatic remains apical, epicarp usually smooth, shiny, with a silky sheen, or dull, mesocarp usually thin, fleshy, sweet, rarely greatly expanding , endocarp of longitudinal fibres, usually adhering to the seed, becoming free at the basal end only , fruit without a solid beak.
+Fruit obovoid, 12-17 x 8-12 mm.
+Seed conforming to the fruit shape, but usually slightly hollowed at the base, with conspicuous basal hilum and anastomosing raphe branches, endosperm deeply ruminate or, very rarely, subruminate or homogeneous, embryo basal.
+Very small to robust, solitary or clustered, acaulescent or erect, unarmed, pleonanthic, monoecious palms.
+Some mature individuals can reach 20 m tall.
+Seed obovoid, deeply ruminate.
+Leaves undivided and pinnately ribbed, with or without an apical notch, or pinnate, sheaths tubular, forming a well-defined crownshaft, with leaves neatly abscising, very rarely leaves marcescent and crownshaft not well developed, petiole present or absent, adaxially rounded or channelled, abaxially rounded, glabrous or variously indumentose, leaflets 1 to several-fold, regularly to irregularly arranged, acute, acuminate, or lobed, the lobes corresponding to the folds, the apical leaflets almost always lobed, blade occasionally mottled, sometimes paler beneath, often with a wide variety of scales and hairs, transverse veinlets usually obscure.
+Crownshaft slightly swollen, 130-180 cm long, 14.0-17.5 cm diam., yellow when young and purplish green when adult, covered with silvery indumentum.
+Definition: whole plant arborescent.
+Fruiting rachillae usually brightly coloured.
+Staminate flowers sessile, calyx with 3 subulate sepals, 7 x 3.5 mm, corolla with 3 petals, longer than sepals, ovate, 10 x 6 mm, stamens 45-68, pale yellow, 2-4 x 0.3-0.5 mm.
+Pistillate flowers usually globose, symmetrical, much smaller than the staminate, sepals 3, membranous, striate, imbricate, distinct, or connate proximally with 3 broad, sometimes imbricate lobes distally, petals 3, distinct, imbricate, membranous, staminodes absent, gynoecium unilocular, uniovulate, globose, stigma usually convolute, sessile or on a short style, ovule basally attached, anatropous.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 1],
+["chocolate", 0],
+["coral", 0],
+["crimson", 1],
+["darkgreen", 0],
+["green", 1],
+["greenish", 1],
+["grey", 1],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 1],
+["pink", 1],
+["pinkish", 1],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 1],
+["ivory", 0],
+["orange", 1],
+["pink", 1],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

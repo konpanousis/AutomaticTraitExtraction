@@ -1,0 +1,121 @@
+We are interested in obtaining botanical trait information about the species Acacia holosericea.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Bears yellow rod-shaped flowers.
+Shrub or tree 3-9 m high.
+Growth Habit - N/A.
+Description: Spreading shrub to 3 m by 4 m with large, obovate, very glaucous phyllodes.
+Pods tightly and often somewhat irregularly coiled , 2.5-4 mm wide, thinly crustaceous to coriaceous - crustaceous , ± glabrous , often remaining as entangled clumps on the plants following dehiscence.
+Garden Plants Wildflowers Plants of the World Save to My plants Join the RHS today and get 12 months for the price of 9 Join now Botanical details Family Fabaceae Native to the UK No Genus Acacia Genus description Acacia can be deciduous or evergreen trees, shrubs or climbers, with alternate, pinnately divided leaves or simple modified leaf-like stalks , and tiny, sometimes fragrant, flowers in short spikes, or in racemes or spikes of spherical heads Name status
+Seeds longitudinal in the pods, obloid - ellipsoid , 3-5 mm long, shiny, dark brown, aril bright yellow.
+Branchlets, phyllodes and petals are sometimes glabrous but more commonly they are sericeous with appressed or subappressed hairs.
+Flowers yellow, spikes dense, produced in pairs in the upper axils.
+Branchlets acutely angled for 20-30 cm below the apex, then becoming ± terete , usually sericeous with short, straight , closely appressed and silvery hairs.
+The flowers are rod-like and bright yellow, 3-5 cm long.
+All Media Synonyms Common Names Overview Nomenclature and Classification Natural History Habitat and Distribution Occurrence Demography and Conservation Uses and Management Information Listing Meta data ð Synonyms synonym Acacia glaucescens Sensu Kaneh.
+Only rarely are the branchlets pubescent with spreading hairs.
+Widespread shrub or small tree with grey, hairy leaves to 25 cm long and up to 9.5 cm wide, 3 longitudinal veins more prominent than the rest.
+Large-leaf Hop-Bush.
+Soil: Well-drained, alkaline, light to heavy Flower Color:
+Inflorescences rudimentary racemes with axes to 0.5 mm long, peduncles 3-7 mm long, sericeous , sometimes glabrous , spikes normally 2-4 cm long, golden, bracteoles linear - spathulate , 1-1.5 mm long.
+Characteristic features Phyllodes large , mostly ascending to erect , straight , with normally 3 prominent longitudinal nerves , minor veins forming a somewhat open, longitudinally orientated reticulum , apical point 1-3 mm long and usually with a gland at its base.
+Calyx and corolla sericeous or tomentose.
+Young shoots silvery sericeous , sometimes glabrous.
+New shoots usually silvery sericeous.
+Lilly Pillie, Straight and Narrow.
+Flower colour, life form.
+Sea Rose, Sticky Flower.
+Inflorescences rudimentary racemes with axes to 0.5 mm long, peduncles 3-7 mm long, ± appressed -hairy or glabrous , spikes 2-4 cm long, light golden, the flowers sub- densely arranged in the spikes.
+A shrub mostly under 3 m.
+The pods are 3 to 5 cm in length and twisted and curled.
+The thinly crustaceous seed pods that form after flowering are tightly irregularly coiled and have a width of 2.5 to 4 mm.
+Gland on upper margin of phyllode 0-2 mm above pulvinus , an additional smaller gland adjacent to the apical mucro on at least some phyllodes.
+Spiny-leaf Mat -rush.
+Seeds dark brown, the aril bright yellow.
+Pods tightly and often somewhat irregularly coiled , 2.5-4 mm wide, thinly crustaceous to coriaceous - crustaceous , ± glabrous , remaining as entangled clumps following dehiscence.
+The large grey-green phyllodes have an ovate-lanceolate shape with a length of 10 to 25 cm and a width of 2 to 9 cm and are covered with white silky hairs, with three to four prominent veins.
+The shrub has a spreading habit and typically grows to a height of 3 m and a width of 4 m.
+Notes Acacia holosericea is a fast-growing, short-lived species that has poor coppicing ability.
+Variation While the branchlets , new shoots, phyllodes and petals are hairy on Pilbara plants, they are sometimes glabrous elsewhere.
+Pods tightly and often somewhat irregularly coiled , narrow, thin-textured, ± glabrous , often remaining as entangled clumps on the plants following dehiscence.
+Flowers 5- merous , sepals united, petals hairy.
+Orange Stars, Star Guinea Flower.
+The shiny dark brown seeds are arranged longitudinally in the pods and have an obloid-ellipsoid shape and are 3 to 5 mm in length with a bright yellow aril.
+Phyllodes obliquely narrowly elliptic , 10-20 cm long, 20-30 mm wide on Pilbara plants 2-5 cm elsewhere), mostly ascending to erect , straight , silvery dull green or sub-glaucous , usually sericeous with minute and closely appressed hairs , asymmetrically narrowed at base, with normally 3 prominent longitudinal nerves 2 of which are basally confluent and sometimes contiguous with the lower margin of the phyllode , the minor veins forming a somewhat open, longitudinally orientated reticulum , narrowed at apex into a distinct, linear to triangular or asymmetrically ovate - elliptic , yellow apical point 1-3 mm long.
+Seeds longitudinal , oblong - elliptic , 3.5 mm long, shiny, dark brown, aril bright yellow.
+Ornamental grey leaved shrub 6-9' with bright yellow flowers in winter.
+Yellow, shrub, small tree.
+Pods coiled 2.5-5 mm wide, aril often bright yellow.
+Syzygium australe Straight and Narrow.
+Spectacular foliage plant for mild areas.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1]
+],
+"Trunk and root": [],
+"Latex": [],
+"Crown": [],
+"Stem shape": [],
+"Bark": [],
+"Bark color": [],
+"Leaf shape": [
+["Simple leaf", 1]
+],
+"Petiole": [
+["Petiolated leaf", 1]
+],
+"Leaf blade": [
+["Obovate blade", 1]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1]
+],
+"Leaf base": [
+["Rounded leaf base", 1]
+],
+"Leaf apex": [
+["Rounded leaf apex", 1]
+],
+"Vein": [
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1]
+],
+"Tendril": [
+["Plant without tendrils", 1]
+],
+"Spine": [
+["Plant without spines", 1]
+],
+"Blade color": [
+["Uniformly coloured blade", 1]
+],
+"Fruit": [
+["Pod", 1]
+],
+"Inflorescences": [
+["Spike of flowers or inflorescences", 1],
+["Flower head", 1]
+],
+"Sexuality": [],
+"Flower color": [
+["Yellow coloured flower", 1]
+],
+"Flower shape": [
+["Rod-like flower", 1]
+]
+}

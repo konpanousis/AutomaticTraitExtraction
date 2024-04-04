@@ -1,0 +1,121 @@
+We are interested in obtaining botanical trait information about the species Dypsis ovobontsira.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Many Dypsis species have aerial branching , a rare growth habit among palms.
+The extra long petioles match up so far.
+At least in leaf length.
+Rank: GERMINATING.
+The color on the petioles still has the nice reddish brown and mealybug markings, but does not retain it once the leaf emerges.
+Dypsis ovobontsira metallic or ?.
+Staminate flowers symmetrical, ± rounded to bullet-shaped, sometimes very small, sepals imbricate, petals valvate, basally briefly connate, stamens 3 or 6 , 3 staminodes sometimes present, these either antesepalous or antepetalous, very rarely adnate to the pistillode, pistillode present or absent.
+New leaf sheath came off with purple this time first time I have seen purple on a dypsis.
+Had 8 of 10 seeds germinate.
+Definitie: whole plant growth form.
+They look different from the first leaf.
+Spacing: 15-20 ft. 20-30 ft.
+Rank: SEEDLING.
+A complex and highly variable genus of pinnate-leaved palms that has radiated spectacularly in Madagascar and Comores, with an outlier on Pemba off the coast of Tanzania, the genus includes towering forest giants, bottle palms, litter-trappers, stemless palms, some of the most slender of all palms, and even two climbing members, all have fruit with basal stigmatic remains.
+Leaves sometimes in 3 ranks, neatly abscissing, leaving conspicuous leaf-scars, leaflets numerous, often curved, single-fold.
+They are easily recognizable as juveniles for their reddish purple leaves and stems, which become glaucous green and white respectively plant mature.
+Very small to very large unarmed pleonanthic monoecious palms.
+It always opens up a pinkish orangey new leaf too which is a thrill.
+Rank: FLOWERING.
+Leaf , root and floral.
+Fruit usually ellipsoidal, drupaceous, generally rather small, with stigmatic remains at one side near the base, epicarp smooth, outer mesocarp thin, fleshy, inner mesocarp reticulate fibrous, endocarp very thin.
+Female flowers eventually larger than the â, sepals 3, free, imbricate, petals 3, free, imbricate, pistil with stigmas 3, closely adpressed in bud, spreading at anthesis, and 1 locule with 1 ovule.
+Solitary or clustered, moderate, unarmed, occasionally aerially branching, reduplicately pinnate, pleonanthic, monoecious palms, with or without well-defined crown-shafts.
+Germination adjacent-ligular, seedling leaf bifid.
+Bill, whatever it is, it has some good color on the emergent leaf with very tight leaflets.
+The seed matches the description of Dypsis ovobontsira in POM, so.fingers crossed.
+Seed basally attached, slightly grooved longitudinally, endosperm homogeneous, embryo lateral or sub-basal.
+They are slender, evergreen palms with yellow flowers carried in panicles amongst the pinnate leaves.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+A distinctive, solitary,rather slender and green - ringed trunk with flat and regularly pinnate, arching leaves.
+Fruit borne with persistent calyx and corolla,spherical, ellipsoid, fusiform or rarely curved, stigmatic remains basal,often obscured by perianth, epicarp often brightly coloured or jet blackor rarely dull green or brown, mesocarp thin, fleshy or fibrous, endocarpusually thin, fibrous.
+Male flowers symmetrical, sepals 3, free, imbricate, petals 3, free, valvate, stamens 6, anthers ± versatile, pistillode conical to columnar.
+Pistillate flowers about the same size as the staminate, sepalsrounded, broadly imbricate, petals imbricate with triangular valvate tips,staminodes usually present, minute, tooth-like, usually 3 or 6 at one sideof the ovary, pistil pseudomonomerous, often strongly asymmetrical, stigmas 3, apical, sometimes eccentric,ovule form unknown.
+Stems solitary or clustered, very short, subterranean, creeping-rhizomatous, erect, in one species climbing, sometimes branched aerially by apparent dichotomy.
+Dypsis Ovobontsira plugging along.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 1],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

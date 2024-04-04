@@ -1,0 +1,123 @@
+We are interested in obtaining botanical trait information about the species Orania trispatha.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+With three spathes, referring to the prophyll and two peduncular bracts.
+O. trispatha looks very similar to O. ravaka when adult, leaves are aranged in a big fan way on 2 sides.
+Fruits globose, bilobed or trilobed, green to yellowish green when mature, c. 4 - 5 cm diam., epicarp smooth, thin, mesocarp fibrous, c. 3 mm thick, endocarp thinner than mesocarp, hard, red-brown, testa conspicuously thin, attached to endosperm, endosperm white, c. 3 - 3.5 cm diam., with a hollow inside, liquid endosperm present, said to taste bitter.
+Rank: GERMINATING.
+Much younger seedling than in the previous photos.
+Much younger seedling than in the previous photo.
+Staminate flowers with calyx of 3 minute united sepals, corolla with 3 free petals, c. 12 x 5 mm wide, stamens 40 - 42, filaments dark-brown, free, c. 1.25 - 1.5 mm long, anthers elongatelanceolate, pale creamy yellow, 5 - 6 mm long, free, pistillodes absent.
+The new leaves are always such a bright lime green while the mature leaves are so dark.
+A majestic distichous palm of great beauty, this is the largest member of the genus Orania in Madagascar.
+Fruits globose, bilobed or trilobed, green to yellowish green when mature, about 4 - 5 cm in diam., epicarp smooth, thin, mesocarp fibrous, about 3 mm thick, endocarp thinner than mesocarp, hard, red-brown, testa conspicuously thin, attached to endosperm, endosperm white, about 3 - 3.5 cm in diam., with a hollow inside, liquid endosperm present, said to taste bitter.
+The branches and leaves are aranged like a big fan.
+Great lookiing tall, thin palm from Madagascar- has distichous leaves as an adult and has very long petioles and straight, upright branches with long, drooping leaflets that have a glaucous color to the undersides.
+Rank: SEEDLING.
+Pistillate flowers with calyx of 3 united sepals, c. 2 mm long, corolla with 3 free petals, c. 3 cm long, 1.1 - 1.2 cm wide, staminodes more than 20, c. 7 mm long, uniform, gynoecium c. 20 mm long, 9 - 10 mm wide, stigma with 3 elongate lobes, c. 6 mm long, darker coloured.
+A majestic distichous palm of great beauty, and the largest member of the genus in Madagascar.
+The trunk is frequently swollen at the base.
+All Categories Seeds - A Seeds-B Seeds-
+Staminate flowers with calyx of 3 minute united sepals, corolla with 3 free petals, about 12 x 5 mm wide, stamens 40 - 42, filaments dark-brown, free, about 1.25 - 1.5 mm long, anthers elongatelanceolate, pale creamy yellow, 5 - 6 mm long, free, pistillodes absent.
+Rank: FLOWERING.
+Pistillate flowers with calyx of 3 united sepals, about 2 mm long, corolla with 3 free petals, about 3 cm long, 1.1 - 1.2 cm wide, staminodes more than 20, about 7 mm long, uniform, gynoecium about 20 mm long, 9 - 10 mm wide, stigma with 3 elongate lobes, about 6 mm long, darker coloured.
+From this point both the radicle and first seedling leaf emerge.
+Leaves 10 - 12 in the crown, distichously arranged, c. 3.01 - 5 m long, in some individuals also with appearance of brown coloured resin in every section, leaf-sheath massive, c. 20.5 - 60
+This species develops a tall, stout, solitary trunk and its large leaves are distichuosly arranged, forming a giant fan.
+Trunk about 15 - 22 m tall, about 20 - 30 cm in diam.
+Abaxial praemorse juvenile leaflet apices and striking thin white coating.
+Abaxial connate juvenile leaflets with praemorse apices and striking thin white coating.
+Pistillate flowers with calyx of 3 united sepals, c. 2 mm long, corolla with 3 free petals, c. 3 cm long, 1.1 - 1.2 cm wide, staminodes more than 20, c. 7 mm long, uniform, gynoecium c. 20 mm long, 9 - 10
+Abaxial juvenile leaflet and rachis surfaces with striking thin white coating.
+Trunk c. 15 - 22 m tall, c. 20 - 30 cm diam. , much swollen at base, trunk very hard, bark light brown, internodes 12 cm, scars 5 cm, brighter coloured.
+It has very brown-rusty petiole and branches that makes it so attractive.
+It is indeed aptly named because it has a slender trunk topped by gently arching distichous fronds with waxy grey petioles often also coloured reddish-brown.
+A very large, and spectacular palm, to about 20m, whose most notable feature.is its disticious leaf arrangement.
+Eophyll bifid or pinnate.
+Halmoorea trispatha :  5 Seeds.
+Embryo placed below middle line of seed.
+Abaxial juvenile leaf with striking thin white coating.
+Trunk c. 15 - 22 m tall, c. 20 - 30 cm diam. , much swollen at base, trunk very hard, bark light brown, internodes 12 cm, scars 5 cm, brighter coloured.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 1]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

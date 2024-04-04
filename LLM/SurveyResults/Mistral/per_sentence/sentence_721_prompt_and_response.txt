@@ -1,0 +1,68 @@
+We are interested in obtaining botanical trait information about the species Vitex cymosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flowers with the calyx campanulate, 2-3 mm long and 2-5 mm wide, densely puberulent, 5-dentate, the teeth ovate, obtuse or acute, often re- curved or reflexed, often nigrescent on the inner surface, corolla blue or pinkish- blue to violet, lilac, or purple, rarely white, hypocrateriform, the tube 6-7 mm long, puberulent outside above the calyx, the limb conspicuously 2-lipped, the 4 small lobes ca.
+
+Initial dictionary of traits with all possible values:
+{"Leaf lower side": ['pubescent'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf lower side": [
+    ["pubescent", 0]
+  ],
+  "Calyx shape": [
+    ["campanulate", 1]
+  ],
+  "Calyx length": [
+    ["2-3 mm", 1]
+  ],
+  "Calyx width": [
+    ["2-5 mm", 1]
+  ],
+  "Calyx pubescence": [
+    ["densely puberulent", 1]
+  ],
+  "Calyx teeth shape": [
+    ["ovate", 1]
+  ],
+  "Calyx teeth apex": [
+    ["obtuse", 1],
+    ["acute", 1]
+  ],
+  "Calyx teeth orientation": [
+    ["often recurved or reflexed", 1]
+  ],
+  "Calyx inner surface color": [
+    ["often nigrescent", 1]
+  ],
+  "Corolla color": [
+    ["blue", 1],
+    ["pinkish-blue to violet", 1],
+    ["lilac", 1],
+    ["purple", 1],
+    ["rarely white", 1]
+  ],
+  "Corolla shape": [
+    ["hypocrateriform", 1]
+  ],
+  "Corolla tube length": [
+    ["6-7 mm", 1]
+  ],
+  "Corolla tube pubescence": [
+    ["puberulent outside above the calyx", 1]
+  ],
+  "Corolla limb": [
+    ["conspicuously 2-lipped", 1]
+  ],
+  "Corolla lobes": [
+    ["4 small lobes", 1]
+  ]
+}

@@ -1,0 +1,38 @@
+We are interested in obtaining botanical trait information about the species Bridelia micrantha.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The leaf tip is attenuate, and the base is broadly rounded.
+
+Initial dictionary of traits with all possible values:
+{"Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf margin": [
+    ["Smooth leaf margin", 0],
+    ["Margin of the wavy leaf", 0]
+  ],
+  "Leaf tip": [
+    ["Attenuate", 1],
+    ["Acuminate", 0],
+    ["Obtuse", 0],
+    ["Acute", 0]
+  ],
+  "Leaf base": [
+    ["Broadly rounded", 1],
+    ["Cuneate", 0],
+    ["Attenuate", 0],
+    ["Cordate", 0]
+  ]
+}
+
+Note: The values for "Leaf tip" and "Leaf base" traits are added based on the information provided in the input text. All possible values for these traits are listed, and the binary number indicates whether there is strong evidence for each value in the input text. For example, "Attenuate" has a binary number of 1 for the "Leaf tip" trait, indicating that there is strong evidence for this value in the input text. On the other hand, "Smooth leaf margin" has a binary number of 0 for the "Leaf margin" trait, indicating that there is no strong evidence for this value in the input text.
+
+Also, please note that the values for "Leaf margin" trait remain unchanged as there is no information related to the leaf margin provided in the input text.

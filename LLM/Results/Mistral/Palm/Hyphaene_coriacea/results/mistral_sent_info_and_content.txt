@@ -1,0 +1,170 @@
+We are interested in obtaining botanical trait information about the species Hyphaene coriacea.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves crowded on top of the stem, fan-shaped, up to 2.5 m including the petiole.
+Leaves 10-18 per crown, costapalmate, spirally arranged, dark green to bluish, leaf sheath 24-30 cm long, 16-20 cm wide, grey-brown, with a triangular cleft at the base, often remaining below the leaf crown or throughout the length of the stem in young individuals, margins fibrous, armed from the mid-length with robust, triangular, upward pointing black spines, petiole 1-2 m long, 5-10 cm wide at the base and 3-4 cm at mid-length, green-grey to black, at the base adaxially channelled and abaxially rounded, towards the apex dorso-ventrally compressed in cross-section, margins armed with robust, triangular, reflexed or upward pointing black spines, up to 2 cm long and 0.8-1 cm wide at the base, displaying different shapes, hastula 1.5- 6 cm long, green, with slightly black margins, costa 40-60 cm long and 1.5-2.2 cm in width, light green, smooth, conspicuously recurved, triangular in cross-section, leaf blade olive-green, 1-2 m long, showing small brown dots becoming darker when the leaf dries, divided at 1/3 of its length into 50-60 regular segments, main veins prominent on the abaxial side, basal segments 30-50 cm long and 1.5- 2.5 cm wide, middle segments 50-60 cm long and 5-7 cm wide, apical segments 35-50 cm long and 1.5-4.5 cm wide, single-folded, with a slightly bifid apex up to 4-7 cm long, presence of interfold filaments between segments of up to 60 cm long, a brown, light and smooth indumentum present at the base of the leaf blade and encompassing the mid veins, especially on young leaves, and becoming caduceus on aged leaves.
+Palm solitary or forming clumps of 5-7 stems almost emerging from the same point and at different stages of development, armed, pleonanthic, dioecious.
+The leaves are a stunning grey.
+Detail of female rachilla, the flowers are at full anthesis and all of them  present more or less the same stage of development.
+Female flower of Hyphaene coriacea at pre-anthetic stage.
+Tips simple, acute, smooth, straight.
+Fruits are tennis ball size, ripening from green through orange to glossy dark brown.
+Petiole armed with recurved thorns.
+Pistillate flowers larger than staminate, borne solitary in each pit, subtended by a membranous bracteole, supported by a short, thick, densely hairy pedicel, sepals 3, distinct, triangular-rounded, imbricate, striate, petals 3, similar to the sepals but more flexible, staminodes 6, fused in an epipetalous ring, sagittated, flattened, anthers undifferentiated, gynoecium globose, 3-carpellate, 3-ovulated but only reaching maturity.
+Fruits 1-seeded , 5-6 cm  long, 4-5 cm in wide, highly variable in shape and size , borne on a 6-8 mm long pedicel, basal stigmatic remains, epicarp ranging from orange, red to brown or dark-brown in ripe fruits, smooth, shiny, waxy, often presence of small dots, reduced sterile carpels usually visible towards the base of the fruit, mesocarp conspicuously fibrous, up to 8 mm thick, sweet, endocarp well developed.
+Female flowers solitary, perianth like males, carpels united, styles free, stigmas almost sessile.
+The petioles are black with white, ochre, orange, some green and rust.
+Inflorescences 2-3 on each plant.
+The petiole, 0,6 m long and about 3 cm broad, is provided on the margins of robust blackish spines bent upwards about 1 cm long, the foliar bases, about 40 cm long and longitudinally fissured in correspondence with the petiole, of brown colour and covered by a greyish waxy patina, remain long time on the plant.
+Bronze Blue-Green Height: 8-10 ft. 10-12 ft. 12-15 ft. 15-20 ft.
+Staminate flowers borne in a cincinnus of 3 flowers, one flower emerging at a time, subtended by a minute, membranous, green bracteole, calyx basally tubular, apically with 3 acute, elongated lobes, corolla with a stalk-like base, valvate, lobes 3, ovate, hooded, striate, stamens 6, connate at the base to the corolla, filaments with a swollen base, anthers medifixed, versatile, latrorse to introrse, pistillode 3-lobed, minute.
+Detail of male rachilla, the flowers are at full anthesis and bud stage and display the six, bright yellow anthers.
+Female inflorescences 0,8-1,6 m long, with 2-5 rachillae bearing solitary flowers, on a short hairy pedicel, with tri-carpellate gynaeceum.
+Male inflorescences and close-up of the flowers with 6 stamens opening in succession.
+Ascending to prostrate palm up to 5 m tall.
+The brown-orange colored fruits present more or less the same stage of development.
+Flowers unisexual, 3-merous.
+Palms dichotomously branched at the base, frequently 3-5 individuals growing from the same point).
+Male flower of Hyphaene guineensis at late bud stage.
+Stems erect or somewhat reclining, often suckering to form clumps.
+Fruit brown, stepped, fibrous, 30-60 x 15-40 mm.
+The leaves are fan-shaped and greyish green.
+Female flowers not yet studied.
+Seeds as diversely shaped as the fruits, basally attached, endosperm white, with a coconut flavour when young, with a central hollow cavity when ripe, germination remote-tubular, cotyledonary petiole buried up to 80 cm underground, eophyll linear-lanceolate, plicate.
+Trunks many, straight,with prominent, discontinuous, large leaf scars, unarmed.
+Spacing: 10-12 ft. 12-15 ft. 15-20 ft.
+Lamina up to 400 x 35 mm.
+Hyphaene is pleonanthic, dioecious and includes species with small to massive and tall, solitary or basally clustered, erect or creeping stems , costapalmate leaves , often persistent when old, and conspicuously polymorphic, brown to orange fruits.
+The leaves are strongly costapalmate, about 1 m long and 0,7-0,8 m broad, divided in 40-60 rigid linear-lanceolate segments with acuminate apex just bifid, long in the central part 65-80 cm and up to about 5 cm broad, united at the base for less than 1/3 of their length, of greyish green to bluish grey colour.
+It is a branching palm, though usually only branching at or near ground level.
+A thin layer of sweet-tasting, ginger-flavoured, spongy, fibrous pulp surrounds the seed.
+Leaves spirally arranged, costa-palmate , blue-grey.
+Leaf bases persistent, scale-like, split, without an inner auricle, woody.
+Petiole margin with teeth ± 10 mm apart, 10 mm long, forward pointing.
+The inflorescence on male.plants is pendulous from the leaf axils and.terminates in catkin-like rachillae.
+The female flower is 3-carpellate and a conspicuous septal nectary develops between flanking carpels.
+Fruit take about two years to reach maturity and another two years before falling from the plant.
+The trunk of a tall, mature specimen.showing scars from leaf and inflorescence bases.
+Leaves 12-15, leaf sheaths 40-45 long, 25 cm wide, with a long longitudinal cleft, armed with spines in the uppermost region, covered with a brown, irregularly spread indumentum, petiole 0,8-1,7 m x 5-10 cm, light green, slightly channeled towards the base, dorsiventrally compressed at mid-length and the apex, covered specially in the abaxial region by the same indumentum observed in the leaf sheath, the spines on the petiole margins inserted every 5-6 cm and becoming closer towards the apex of the petiole, the spines black, upward oriented but in some cases displaying opposite direction in the two sides of the petiole, 1.2 cm long and 0.5 cm wide at the base, hard and woody, costa strongly recurved, 50-100 cm long x 2.7 cm wide at the base, becoming much thinner towards the apex of the leaf blade, covered with an irregularly spread indumentum, hastula more or less asymmetrical, up to 8 cm long, the leaf blade composed of 62-79 segments, olive green, basal segments 60-70 x 2-3 cm, middle segments, 90-100-110 x 5-8 cm and apical segments 50-65 x 1.5-2,5 cm, the main veins prominent on the abaxial side, inter segment fibers up to 30 cm x 1 mm, brown.
+Note that no pistillode differentiates in the male flowers.
+Male inflorescence at full anthesis.
+This palm grows upto 5m tall.
+Hyphaene coriacea.Herkend door iNaturalist , Flickr Group , Palm Traits 1.0 , and Plant Forms, Habitat and Distribution.
+Inflorescences between the leaves , the male ones 0,6-1 m long, ramified, with rachillae, solitary or in groups of 2-4, and yellow-greenish flowers arranged sunken in groups of 3, that open in succession, with 6 stamina.
+Stem 8-15 m in height and 30-45 cm in diameter, branched to 1-4-order dichotomies , with the first one appearing 2.5-4 m above ground, producing up to 16 leaf crowns, the stem covered or not with remnant leaf sheaths which fall off in aged individuals, grey, leaving conspicuous, 1-3 cm thick ring scars when young, then the scars becoming closer in older individuals.
+The fruits, that usually develop from one only carpel, have a very variable shape even in the same infructescence, from almost quadrangular to pyriform, about 6 cm long and 5 cm broad, of glossy reddish brown colour when ripe, with fibrous pulp, containing one ovoid seed about 3 cm long.
+It has big fan-shaped leaves.
+Paphiopedilum insigne Pfitzer.
+Guide Tree Guide Lala Palm Lala Palm ©Lee Berger Name Lala Palm Tree Description Locally called Molala, large palm trees usually grow from 5 to 7m high, but sometimes up to 15m in height, single or multi-stemmed, with a slight swelling about half way up the stem.
+The Hyphaene coriacea Gaertn. is a variable cespitous dioecious species, solitary at times, usually with 2-6 erect or decumbent stems, up to 7 m long and of 30 cm of diameter, occasionally dicotomically ramified once or twice, of grey colour and fissured vertically.
+Detail of a petal in a female flower of Hyphaene thebaica.
+Male flowers in threes,in pits, sepals joined, stamens free, 6.
+Male inflorescence slenderer and more branched than female.
+Fruits extremely polymorphic in shape and size, to 6-7 cm long and 4 cm wide, pale green when immature, ripening brown-greenish to dark brown.
+About 6 cm long, from almost quadrangular to pyriform, they are of reddish brown colour, glossy when ripe.
+Upper left: upper view of the female flower showing the sepals and the petals, Upper right: side view of the female flower, Lower left: inner side of the petal showing one portion of the staminodial ring, note the presence of at least 3 staminodes, Lower right: detail of the uppermost part of the filament of the staminode, the anther looks clearly sterile.
+Stem 3-6 m in height, 25-30 cm in diameter, stems often covered by remnant leaf sheaths on the uppermost region.
+Pagina 1 van 1.
+The hard endosperm, resembling vegetable ivory, has a hollow centre.
+Leaflets 2-ranked, erect, evenly spaced, with the central fold down , with one fold each, linear.
+Inflorescences unisexual, interfoliar, pistillate and staminate inflorescences similar.
+Hyphaene coriacea may have trunks up to.about 9m in height and 40cm in diameter.with occasional dichotomous branching,.but may also occur as a short-stemmed.cluster of plants.
+Internally an edible spongy fibrous pulp surrounds the single seed.
+Inflorescenc ebetween the leaves, branched, pendulous, 0.4-1.0 m long.
+It has large, costapalmate, stiff whitish grey-green leaves.
+Plants flower in summer , and the fruit takes two years to ripen, ripe fruit may remain attached to the tree for a further two years before falling.
+Spacing: 30-40 ft. over 40 ft.
+Fruit The fruit are somewhat variable according to locality, but generally green to pale orange at first, becoming progressively more brown with age, irregularly pear-shaped, about 60-80mm in diameter with a distinctive fruity aroma.
+Older and longer stems.tend to recline and suckering occurs from.the base to allow clump development.
+Fruits distinctly pear-shaped up to 6 cm long.
+Male and female flowers on different trees, male flowers in short spikes, female flowers in large sprays, which develop into branched trusses of fruits.
+Detail of a young ovule in Hyphaene thebaica.
+Hyphaene coriacea variation minor Drude.Synonym volgens EOL Dynamic Hierarchy 1.1 and EOL Dynamic Hierarchy 1.1.
+The outer shell is glossy and tough.
+Flowers , male arranged in 10, slightly parallel, spirally oriented rows, specially the region between the base of the petals and the insertion of the stamen filaments looks shiny and apparently nectariferous.
+A. Dichotomously branched stems of H. thebaica , Israel, B. Solitary, unbranched habit in H. petersiana , Namibia, C. Leaf sheath splitting in H. thebaica , Ivory Coast, D.   Leaf blade of H. petersiana , Zimbabwe, E. Inflorescence of H. coriacea bearing male flowers, F. Infructescence of H. coriacea showing ripe fruits, Madagascar.
+Hyphaene - Morphology and anatomy.
+Upper left: upper view of the male flower showing the 6 equally developed stamens , Upper right: side view of the male flower, Lower left: upper view of the poorly differentiated pistillode, Lower right: side view of the pistillode.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 1],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

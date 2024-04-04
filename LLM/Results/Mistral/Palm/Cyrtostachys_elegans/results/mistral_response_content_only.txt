@@ -1,0 +1,17 @@
+{
+"Fruit colour description": [
+["black", 1],
+["green", 1]
+],
+"Fruit colour": [
+["black", 1],
+["green", 1]
+],
+"Crown": [],
+"Fruit size": [],
+"Fruit shape": [
+["ellipsoid", 1],
+["sickle-shaped", 1]
+],
+"Conspicuousness": []
+}

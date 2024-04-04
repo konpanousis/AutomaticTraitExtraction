@@ -1,0 +1,268 @@
+We are interested in obtaining botanical trait information about the species Maerua angolensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Shrub or slender tree, up to 7 m tall, with glabrous stems and leaves.
+A tree occurring in savanna or scrub.
+The distinctive torulose fruit is a silique and resembles a string of beads some 150mm in length.
+Ovary narrowly cylindrical, glabrous.
+The sweetly scented flowers appear in terminal clusters, interestingly without petals, but green sepals are present, with a large number of pale white to pink stamens about ± 50 mm long.
+Erect tree, up to 10 m high.
+Flowers in short corymbose racemes, pedicel 6-18 mm long.
+As with most species in the family the twigs and branches display prominent lenticels.
+Filaments are numerous and long, initially pale yellow then turning darker with age.
+The rounded, brown seeds are embedded in a slimy pulp.
+Gynophore 3.5-3.7 cm long.
+Fruit moniliform, up to 18 cm long and 0.9 cm diam., faintly colliculate, seeds globose, 5-9 mm diam.
+The wood of this species is whitish-yellow, hard, dense and fine-grained, with a tendency to separate into concentric shells along the annual rings.
+Young twigs pubescent or subglabrous.
+Sepals 4, c. 14-20 mm long.
+The sweetly fragrant flowers of Maerua angolensis subspecies angolensis grow stalked in stem-tip spikes, solitary from leaf axils or clustered on spur-branchlets.
+Stamens c. 50, filaments c. 4 cm.
+Receptacle cylindric, slender, 1.0-1.6 cm long, 2.0-2.5 mm wide at mouth, ribbed, glabrous, rarely puberulous, disc coronate, 2-3 mm long, unequally laciniate.
+Leaves petiolate, simple, blade ovate, ovate-lanceolate or elliptic, more rarely obovate to suborbicular, 3-10 cm.
+Fruit up to 16 cm long, pod-like, often restricted between the seeds.
+The simple, glossy leaves are dark green and paler below, tiny hairs cover the surface of the leaves.
+Fruits up to 13 x 1 cm, markedly torulose, many-seeded.
+Leaves elliptic or ovate, green, usually glabrous, chartaceous.
+Flowers white.
+Flowers axillary, solitary, in terminal spikes or in clusters on small lateral spurs, without petals, stamens numerous and long, white fading to yellow.
+Bulbs Climbers Cycads Euphorbias Ferns Grasses Herbs Orchids Parasites Shrubs Succulents Trees Sources of Information Disclaimer Subject Index.
+The tree size varies from medium to big, growing up to 10 to 20 m high.
+The tree has a rounded crown and smooth grey bark flaking to reveal yellowish-orange patches.
+Leaves simple, petiolate, lamina elliptic or ovate, rarely obovate, 1.5-7.0 cm long, 1.3-4.2 cm wide, apex obtuse, rounded or emarginate, prominently mucronate with a slender mucron c. 1.5 mm long, base cuneate to round, margins entire, lateral veins 4 or 5, looping before margin, softly chartaceous, glabrous, rarely puberulous, green, petiole slender, 0.5-3 cm long, swollen and channelled in upper half.
+Androgynophore c. the same length as the receptacle.
+Shrub, or tree to 30 ft. high or more, in savannah.
+Sepals white or pale green, marginally tomentose, receptacle narrowly cylindrical, usually rather long, 5-25 mm.
+Receptacle cylin-dric, 10-16 mm long, usually glabrous.
+The small, oblong anthers are pale green and bilobed.
+Leaves simple, blade elliptic to ovate or obovate, c. 20-55 x 13-30 mm, usually obtuse, midrib raised beneath, petiole 10-30 mm long.
+Maerua angolensis is a 10m tall, occasionally deciduous tree of the Capparaceae or caper family, often growing on termitaria and in thickets fringing seasonal watercourses, up to 1800m.
+Sepals elliptic or ovate, 1.5-1.8 cm long, 6-8 mm wide, apex acute, often cucullate, glabrous orpuberulous.
+Leaves elliptic to lanceolate, up to 7 cm long, shiny green above, paler below with the midrib prominent and whitish, thinly textured, hairless, apex round or notched with a hair-like tip, petiole almost as long as the leaf, yellowish with a swelling and a bend below the blade.
+Ovary on a gynophore up to 4 cm.
+Androphore 1.2-1.7 cm long, exserted for about 2 mm beyond receptacle.
+M. angolensis  is a tall tree that grows in tropical Africa and arid regions.
+Capsules cylindriques.
+The bark on young stems turns from light purple to a yellowish colour and coarse lenticels , are visible.
+The 4 calyx segments recurve on opening, and the base is fringed with hairs.
+Fruit' toruleux, de 2-16 cm de long et de ± 9 mm de diam.'
+The lenticels tend to become smoother and turn from a light grey to a darker grey as they mature, they also peel off naturally, in small scales.
+Receptacle cylindrical, 9-20 mm long.
+Leaves are alternate and broadly elliptic to ovate, with rounded or notched apex and a terminal bristle.
+The leaf blade, when mature, is ± 70 mm long and 12 mm wide.
+Ovary narrowly cylindrical, 4-6 mm long, gynophore 23-40 mm long in fruit.
+Young branches with conspicuous pale lenticels.
+The base of the leaf is rounded, with a light coloured midrib, which is quite visible on the underside of the leaf.
+The white stalk is thicker than the filaments around.
+Shrub or small to medium-sized deciduous tree.
+Inflorescence a short corymbose raceme, terminal or on short lateral branches, pedicels 1.0-1.5 cm long.
+Stamens 40-60, 2-2.6 cm long, anthers 1.5-2.5 mm long.
+There are no petals on the flowers of this Maerua , the four green sepals are up to 1,8 cm long, faintly white-haired.
+Leaves are soft and drooping, with petioles equal to the leaves in length, and visibly thicker or inspissate at their extremities.
+Fruits cylindrical, up to 22 cm.
+The fruit takes the form of a non-splitting pseudopod which is ± 160 mm long, the pod is constricted around the seeds.
+Shrub or small tree up to c. 8 m. tall, young branches pubescent or glabrescent, becoming densely lenticelled.
+Inflorescence a short corymbose raceme, terminal or on short lateral branches, pedicels 8-12 mm.
+Ovary cylindric, 0.8-1.0 cm long.
+Gynophores are elongated ovarian stalks grown from the flower receptacle to position the ovary up high, as in this plant.
+Inflorescence of short, terminal, corymbose racemes on the main branches or on short side branches or flower solitary in the axils of the upper leaves, pedicels up to 2.5 cm.
+Shrub or small tree up to about 10 m. tall, often rather rambling, with spreading or drooping branches.
+The female floral part protrudes far above the stamens in picture.
+Seeds from several to numerous, c. 6 mm.
+Stamens many, variable in number, 15-40 mm.
+They are predominantly conspicuous masses of long , creamy white stamens that spread in a hemispherical umbel-shape before fading to yellow as they shrivel.
+Tree, erect, up to 10 m high, young branches ochraceous-buff with conspicuous white or cream lenticels, glabrous, rarely puberulous.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 1],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 1],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 1],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 1]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 1],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 1]
+]
+}

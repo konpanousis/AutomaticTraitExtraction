@@ -1,0 +1,111 @@
+We are interested in obtaining botanical trait information about the species Desmoncus mitis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Eric,.Nice looking climber, similar to ours but with wavy pinnae.
+Leaf sheaths non-spiny, rarely sparsely spiny, rachises 38.0 cm long, pinnae linear or lanceolate, 15 per side of rachis, cirri well-developed.
+Most species are small trees about 2 metres tall, but some are large trees while others are shrubs with subterranean stems.
+Definitie: whole plant growth form.
+Plants 2.7 m tall, stems 0.6 cm diameter.
+They have simple or pinnately compound leaves and yellow, orange, red or purple-black fruit.
+Chelyocarpus is a genus of small to medium-sized fan palms which are native to northwestern South America.
+Plants flower repeatedly over the course of their lifespan and have separate male and female flowers, although these are borne together on the same inflorescence.
+Desmoncus polyacanthos , the jacitara palm , is a spiny, climbing palm native to the southern Caribbean and tropical South America.
+Desmoncus leaves are pinnately compound and are made up of a leaf sheath , petioles , rachis , and individual leaflets.
+Most have pinnately compound leaves , one species has entire leaves.
+Rank: FLOWERING.
+Widespread climbing forest palm.
+There are about 26 species in the genus, ranging in size from understorey shrubs with subterranean stems to subcanopy trees as tall as 20 metres.
+Mauritiella is a dioecious genus of flowering plant in the palm family found in South America where it is commonly called buriti.
+Leaves 60-70 cm long, rachis armed with short, recurved spines, pinnae 15-20 on each side, inserted in groups of 1-5, but spreading more or less in the same plane, lanceolate, 9-13 cm long and 1-1.5 cm wide, distal part of the rachis with 3-5 pairs of pinnae transformed into climbing hooks, each hook 1.5-3 cm long.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+Stems grow clustered together, and are 2–12 m long and 0.5–2 cm in diameter.
+Petioles, rachis, cirrus and peduncular bracts are covered with short, curved spines.
+Stems, leaves and sometimes even the fruit are covered with spines.
+Bactris campestris is a small spiny palm which grows in multi-stemmed clumps in savannas and low forests in northern South America from Colombia to the Guianas, Trinidad and Tobago, and northern Brazil.
+The ends of the leaves are modified into a climbing structure called a cirrus.
+Stem solitary, to 10 m long, ca.
+Fruit red, elliptic, ca.
+Categories : Desmoncus Trees of the Caribbean Trees of Central America Trees of South America Trees of Mexico Arecaceae genera Taxa named by Carl Friedrich Philipp von Martius Hidden categories: Articles with short description Short description matches Wikidata Articles with 'species' microformats Commons category link from Wikidata.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

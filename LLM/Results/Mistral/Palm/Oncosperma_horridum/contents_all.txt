@@ -1,0 +1,190 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 1],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 1],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Pollen shape": [
+["ellipsoidal", 1],
+["spherical", 0]
+],
+"Pollen aperture": [
+["distal sulcus", 1],
+["proximal sulcus", 0],
+["polar pores", 0]
+],
+"Pollen exine ornamentation": [
+["tectate", 1],
+["scabrate", 0],
+["verrucate", 0],
+["perforate", 1],
+["reticulate", 1]
+],
+"Pollen aperture margin": [
+["similar", 1],
+["dissimilar", 0]
+],
+"Pollen infratectum": [
+["columellate", 1],
+["granular", 0],
+["rugulate", 0]
+],
+"Plant height": [
+["<10m", 0],
+["10-20m", 0],
+["20-30m", 1],
+["30-40m", 0],
+[">40m", 0]
+],
+"Stem diameter": [
+["<10cm", 0],
+["10-20cm", 0],
+["20-30cm", 0],
+["30-40cm", 0],
+[">40cm", 1]
+],
+"Stem orientation": [
+["upright", 1],
+["leaning", 0],
+["decumbent", 0]
+],
+"Stem spines": [
+["present", 1],
+["absent", 0]
+],
+"Leaf type": [
+["pinnate", 1],
+["bipinnate", 0],
+["simple", 0]
+],
+"Leaflet arrangement": [
+["horizontal", 1],
+["vertical", 0],
+["drooping", 1]
+],
+"Leaflet length": [
+["<1m", 0],
+["1-2m", 1],
+["2-3m", 1],
+["3-4m", 0],
+[">4m", 0]
+],
+"Leaf petiole length": [
+["<1m", 0],
+["1-2m", 1],
+["2-3m", 0],
+["3-4m", 0],
+[">4m", 0]
+],
+"Leaf petiole spines": [
+["present", 1],
+["absent", 0]
+],
+"Inflorescence color": [
+["yellow", 1],
+["white", 0],
+["green", 0],
+["red", 0]
+],
+"Fruit stigmatic remains": [
+["lateral", 1],
+["apical", 1],
+["basal", 0]
+],
+"Fruit epicarp": [
+["smooth", 1],
+["pebbled", 1],
+["rugose", 0]
+],
+"Fruit mesocarp": [
+["fleshy", 1],
+["fibrous", 0],
+["dry", 0]
+],
+"Fruit endocarp": [
+["thin", 1],
+["thick", 0],
+["crustaceous", 1]
+],
+"Fruit operculum": [
+["round", 1],
+["oval", 0],
+["irregular", 0]
+],
+"Plant growth form": [
+["clustering", 1],
+["solitary", 1]
+],
+"Plant habit": [
+["tall", 1],
+["short", 0],
+["spiny", 1],
+["pleonanthic", 1],
+["monoecious", 1]
+]
+}
+

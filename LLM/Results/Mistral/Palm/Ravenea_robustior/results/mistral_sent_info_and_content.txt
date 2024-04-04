@@ -1,0 +1,275 @@
+We are interested in obtaining botanical trait information about the species Ravenea robustior.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruit 1-3 seeded globose to ellipsoid when 1-seeded, slightly lobed when more than 1 seed develops, yellow, orange or red, more rarely brown, purple or black, stigmatic remains subbasal, lateral, or subapical, epicarp smooth or minutely pebbled, mesocarp fleshy, endocarp thin.
+Amount of leaves in the crown.
+Adult palm showing clear self-cleaning trunk without old leaf remnants and shiny green lower leaves.
+Staminate flowers ± symmetrical, sepals 3, triangular, connate in the basal 1/3, adnate to the floral stalk, to the base of the stamen filaments and to the petal bases, petals 3, broadly ovate, distinct or rarely connate basally, fleshy, stamens 6, sometimes inserted in 2 series, filaments slender, short, basally expanded, shortly adnate to sepals and petals, rarely connate in an androecial ring, anthers straight or somewhat twisted, ± sagittate, latrorse.
+Inflorescencebranchingorder. 2, 3.
+Obovoid to ovoid-globose.
+Old pistillate inflorescence found under adult trees.
+Orange to coral-red.
+Base sometimes bulbous, Nodal scars faint, nodes 1cm, internodes 3-5cm, sometimes longitudinal holes where mouse lemurs sleep, usually no remnants of sheaths.
+Stem erect, rarely very short, very rarely branching dichotomously, often tall, becoming bare, sometimes swollen at the base, conspicuously ringed with leaf scars or not.
+The leaves are up to 2-5 m long, pinnately compound, reduplicate, erect at first then arching, twisted near the apex, with numerous crowded narrow ribbed leaflets.
+Ovoid to oblong, rounded at the apex.
+It is a very large palm with a large, untidy crown.
+Old pistillate inflorescence growing interfoliar, juvenile tree.
+They are small to large, dioecious palms, with solitary, robust grey stems, swollen at base and gradually tapering upward.
+Bifid seedling growing under adult palms.
+Distal part of trunk usually with remnants of sheaths.
+Rank: FLOWERING.
+Number of stamens. 6.
+An majestic moderate to large solitary unarmed tree palm.
+Seeds, globose, hemispherical or representing a third of a sphere, hilum basal, raphe branches indistinct, endosperm homogeneous, embryo basal.
+Solitary, slender to robust, unarmed, dioecious, pleonanthic palms.
+Dioecious pinnate-leaved palms of Madagascar and the Comores, distinguishable by the combination of incomplete prophyll, staminodes bearing rudimentary anthers and the fruit with subapical or apical stigmatic remains.
+Flowers more crowded and somewhat grouped distally, congenitally open.
+Vegetative , root and floral.
+The inflorescence is short, borne among the leaves, the fruit is a red drupe.
+Individual adult palm growing in full sun showing slightly arching leaves.
+Close up on the 1 order, old pistillate inflorescence.
+Adult tree growing under canopy also showing porrect leaves.
+The old female inflorescence showed a 1 order division, and 40-70 rachillae.
+Porrect, slightly curved in full sun.
+Left: Juvenile palm growing under canopy showing straight porrect leaves.
+Ravenea is a very diverse genus containing very small undergrowth palms, short and squat palms, slender middle size trees and canopy giants.
+Leaves. pinnate with two or more leaflets.
+Pistillate flowers with sepals and petals similar to staminate, staminodes 6, broadly triangular with sterile anthers, gynoecium ovoid, tricarpellate, carpels connate, trilocular, triovulate, stigmas 3, fleshy, recurved, ovules pendulous, hemianatropous.
+Columnar or slightly bellied trunk, with bulbous base.
+Unripe green fruit showing the obovoid to oblong shape.
+One-seeded, occasionally 2-3-seeded.
+It has symmetrical leaves and develops an attractive swollen base of the trunk.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 1],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Staminate flower symmetry": [
+["symmetrical", 1],
+["asymmetrical", 0]
+],
+"Staminate flower sepals": [
+["3", 1],
+["other", 0]
+],
+"Staminate flower petals": [
+["3", 1],
+["other", 0]
+],
+"Staminate flower filaments": [
+["slender", 1],
+["short", 1],
+["other", 0]
+],
+"Staminate flower anthers": [
+["straight", 1],
+["somewhat twisted", 1],
+["other", 0]
+],
+"Inflorescence branching order": [
+["2", 1],
+["3", 1],
+["other", 0]
+],
+"Stem": [
+["erect", 1],
+["rarely very short", 1],
+["very rarely branching dichotomously", 1],
+["often tall", 1],
+["becoming bare", 1],
+["sometimes swollen at the base", 1],
+["conspicuously ringed with leaf scars or not", 1],
+["other", 0]
+],
+"Leaves": [
+["pinnately compound", 1],
+["reduplicate", 1],
+["erect at first then arching", 1],
+["twisted near the apex", 1],
+["with numerous crowded narrow ribbed leaflets", 1],
+["other", 0]
+],
+"Seeds": [
+["globose", 1],
+["hemispherical", 1],
+["representing a third of a sphere", 1],
+["other", 0]
+],
+"Tree size": [
+["small to large", 1],
+["other", 0]
+],
+"Tree stem": [
+["solitary", 1],
+["robust grey", 1],
+["swollen at base and gradually tapering upward", 1],
+["other", 0]
+],
+"Trunk sheath remnants": [
+["distal part of trunk usually with remnants of sheaths", 1],
+["other", 0]
+],
+"Tree leaflets": [
+["ribbed", 1],
+["other", 0]
+],
+"Fruit epicarp": [
+["smooth", 1],
+["minutely pebbled", 1],
+["other", 0]
+],
+"Fruit mesocarp": [
+["fleshy", 1],
+["other", 0]
+],
+"Fruit endocarp": [
+["thin", 1],
+["other", 0]
+],
+"Fruit stigmatic remains": [
+["subbasal", 1],
+["lateral", 1],
+["subapical", 1],
+["other", 0]
+],
+"Pistillate flower staminodes": [
+["6", 1],
+["other", 0]
+],
+"Pistillate flower gynoecium": [
+["ovoid", 1],
+["tricarpellate", 1],
+["carpels connate", 1],
+["trilocular", 1],
+["triovulate", 1],
+["other", 0]
+],
+"Pistillate flower stigmas": [
+["3", 1],
+["fleshy", 1],
+["recurved", 1],
+["other", 0]
+],
+"Pistillate flower ovules": [
+["pendulous", 1],
+["hemianatropous", 1],
+["other", 0]
+],
+"Fruit lobes": [
+["slightly lobed when more than 1 seed develops", 1],
+["other", 0]
+],
+"Tree growth habit": [
+["unarmed", 1],
+["dioecious", 1],
+["pleonanthic", 1],
+["other", 0]
+],
+"Inflorescence": [
+["short", 1],
+["borne among the leaves", 1],
+["old female inflorescence showed a 1 order division", 1],
+["old female inflorescence showed 40-70 rachillae", 1],
+["other", 0]
+],
+"Leaflets": [
+["numerous", 1],
+["crowded", 1],
+["narrow", 1],
+["other", 0]
+],
+"Leaf arching": [
+["erect at first then arching", 1],
+["other", 0]
+],
+"Leaf twisting": [
+["twisted near the apex", 1],
+["other", 0]
+],
+"Trunk ringing": [
+["conspicuously ringed with leaf scars or not", 1],
+["other", 0]
+],
+"Trunk swelling": [
+["sometimes swollen at the base", 1],
+["other", 0]
+]
+}

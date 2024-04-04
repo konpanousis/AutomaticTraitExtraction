@@ -1,0 +1,35 @@
+We are interested in obtaining botanical trait information about the species Rhapis subtilis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Mature plants.have from two to nine leaflet segments per leaf.
+
+Initial dictionary of traits with all possible values:
+{"Measurement": ['Maximum Leaf Number: 18.0'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Measurement": [
+["Maximum Leaf Number: 18.0", 0],
+["Minimum Leaf Number: 2.0", 1],
+["Maximum Leaf Number: 9.0", 1]
+],
+"Leaflets per leaf": [
+["Two leaflet segments", 1],
+["Three leaflet segments", 0],
+["Four leaflet segments", 0],
+["Five leaflet segments", 0],
+["Six leaflet segments", 0],
+["Seven leaflet segments", 0],
+["Eight leaflet segments", 0],
+["Nine leaflet segments", 1]
+]
+}
+
+Note: This output assumes that 'Maximum Leaf Number' and 'Minimum Leaf Number' are valid trait names and that the values provided are within the possible range for the species Rhapis subtilis. If this is not the case, please disregard those values and modify the dictionary accordingly. Also, please note that this output includes a new trait 'Leaflets per leaf' with all possible values, which is not explicitly stated in the input text, but it is inferred from the description. If you are not allowed to add new traits or modify the initial ones, please remove this new trait from the dictionary before returning it.

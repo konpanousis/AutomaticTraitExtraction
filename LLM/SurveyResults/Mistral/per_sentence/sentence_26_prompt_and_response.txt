@@ -1,0 +1,47 @@
+We are interested in obtaining botanical trait information about the species Crescentia cujete.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Green oblanceolate leaves, alternate arrangement, measuring about 4 - 26 cm long and 1 - 7.5 cm wide, subsessile, yellow tubular flowers with purple veins, solitary or sometimes paired and about 5 cm long, musty fragrance.
+
+Initial dictionary of traits with all possible values:
+{"Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Fascicle of flowers or inflorescences'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Inflorescences": [
+    ["Flower isolated or in groups of 2 or 3", 1],
+    ["Fascicle of flowers or inflorescences", 0]
+  ],
+  "Leaf Color": [
+    ["Green", 1]
+  ],
+  "Leaf Shape": [
+    ["Oblanceolate", 1]
+  ],
+  "Leaf Arrangement": [
+    ["Alternate", 1]
+  ],
+  "Leaf Size": [
+    ["4 - 26 cm long and 1 - 7.5 cm wide", 1]
+  ],
+  "Leaf Attachment": [
+    ["Subsessile", 1]
+  ],
+  "Flower Color": [
+    ["Yellow", 1],
+    ["Purple veins", 1]
+  ],
+  "Flower Size": [
+    ["About 5 cm long", 1]
+  ],
+  "Flower Fragrance": [
+    ["Musty", 1]
+  ]
+}

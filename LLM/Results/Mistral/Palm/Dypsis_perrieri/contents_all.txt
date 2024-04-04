@@ -1,0 +1,208 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 1],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Inflorescence branching order": [
+["2", 1],
+["3", 1]
+],
+"Growth habit": [
+["aerial branching", 1],
+["litter collecting", 1]
+],
+"Height": [
+["8m", 1]
+],
+"Leaf abscission": [
+["neatly abscissing", 1]
+],
+"Leaf arrangement": [
+["sometimes in 3 ranks", 1]
+],
+"Leaf attachment": [
+["not hairy at all", 1]
+],
+"Leaf type": [
+["pinnate", 1]
+],
+"Leaflet curvature": [
+["often curved", 1]
+],
+"Leaflet folding": [
+["single-fold", 1]
+],
+"Number of leaflets": [
+["numerous", 1]
+],
+"Stamen number": [
+["3", 1],
+["6", 1]
+],
+"Staminode number": [
+["3", 1],
+["6", 1]
+],
+"Stigma number": [
+["3", 1]
+],
+"Trunk characteristics": [
+["massive", 1],
+["stocky", 1],
+["squat", 1],
+["with dead leaves and persistent leaf sheath bases", 1],
+["with marcescent leaves and persistent bases of leaf sheaths", 1]
+],
+"Seed attachment": [
+["basally attached", 1]
+],
+"Seed grooves": [
+["slightly grooved longitudinally", 1]
+],
+"Seed endosperm": [
+["homogeneous", 1]
+],
+"Seed embryo": [
+["lateral or sub-basal", 1]
+],
+"Germination type": [
+["adjacent-ligular", 1]
+],
+"Seedling leaf type": [
+["bifid", 1]
+],
+"Flower type": [
+["symmetrical", 1],
+["± rounded to bullet-shaped", 1],
+["oval", 0],
+["linear", 0],
+["spiral", 0]
+],
+"Flower size": [
+["very small", 1],
+["small", 1],
+["medium", 0],
+["large", 0],
+["very large", 1]
+],
+"Flower color": [
+["yellow", 1]
+],
+"Flower sex": [
+["staminate", 1],
+["pistillate", 1]
+],
+"Flower arrangement": [
+["panicles", 1]
+],
+"Flower symmetry": [
+["symmetrical", 1]
+],
+"Sepals number": [
+["3", 1]
+],
+"Petals number": [
+["3", 1]
+],
+"Ovary position": [
+["apical", 1]
+],
+"Ovule number": [
+["1", 1]
+],
+"Stigmas number": [
+["3", 1]
+],
+"Fruit surface characteristics": [
+["smooth", 1],
+["thin", 1],
+["fleshy", 1],
+["fibrous", 1]
+],
+"Fruit stigmatic remains": [
+["at one side near the base", 1]
+],
+"Fruit type": [
+["drupaceous", 1]
+],
+"Stem characteristics": [
+["solitary", 1],
+["clustered", 1],
+["moderate", 1],
+["unarmed", 1],
+["aerially branching", 1],
+["reduplicately pinnate", 1],
+["pleonanthic", 1],
+["monoecious", 1],
+["erect", 1],
+["subterranean", 1],
+["creeping-rhizomatous", 1],
+["sometimes branched aerially by apparent dichotomy", 1]
+]
+}
+

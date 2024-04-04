@@ -1,0 +1,24 @@
+We are interested in obtaining botanical trait information about the species Lannea schimperi.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Inflorescence a spike-like panicle, several crowded at the top of short branches, male ones up to 22 cm long, female ones up to 8 cm long, with hairy axis.
+
+Initial dictionary of traits with all possible values:
+{"Leaf shape": ['Unipinnate leaf with opposite leaflets'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Leaf shape": [["Unipinnate leaf with opposite leaflets", 0]],
+"Inflorescence shape": [["Spike-like panicle", 1]],
+"Male inflorescence length": [["Up to 22 cm", 1]],
+"Female inflorescence length": [["Up to 8 cm", 1]],
+"Inflorescence branching": [["Several crowded at the top of short branches", 1]],
+"Inflorescence hairiness": [["Hairy axis", 1]]
+}

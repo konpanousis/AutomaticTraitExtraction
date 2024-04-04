@@ -1,0 +1,58 @@
+We are interested in obtaining botanical trait information about the species Albizia lebbeck.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaflets 3-9 pairs, petiolule c. 1 mm long, the lateral leaflets oblong, terminal obovate, obtuse or retuse, glabrous or hairy.
+
+Initial dictionary of traits with all possible values:
+{"Leaf shape": ['Bipinnate leaf'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Leaf shape": [
+["Bipinnate leaf", 0]
+],
+"Leaflets arrangement": [
+["3-9 pairs", 1],
+["1 pair", 0],
+["2 pairs", 0],
+[">10 pairs", 0]
+],
+"Petiolule length": [
+["c. 1 mm long", 1],
+["<1 mm long", 0],
+[">1 mm long", 0]
+],
+"Lateral leaflet shape": [
+["Oblong", 1],
+["Round", 0],
+["Linear", 0],
+["Ovate", 0]
+],
+"Terminal leaflet shape": [
+["Obovate", 1],
+["Oblong", 0],
+["Round", 0],
+["Linear", 0],
+["Ovate", 0]
+],
+"Leaf apex": [
+["Obtuse", 1],
+["Acute", 0],
+["Retuse", 1],
+["Emarginate", 0],
+["Mucronate", 0]
+],
+"Leaf surface": [
+["Glabrous", 1],
+["Hairy", 1],
+["Pubescent", 0],
+["Viscid", 0]
+]
+}

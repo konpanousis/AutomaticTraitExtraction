@@ -1,0 +1,2 @@
+Num sentences per query: 4
+Num Traits per Query: 4

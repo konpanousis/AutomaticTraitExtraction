@@ -1,0 +1,40 @@
+We are interested in obtaining botanical trait information about the species Keetia venosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Corolla creamy-white, tube 2.25 to 3 mm long, with a ring of deflexed hairs just below the throat inside, lobes 1.5 to 2.25, 1 to 1.75 mm, lanceolate to ovate, acute.
+
+Initial dictionary of traits with all possible values:
+{"Vein": ['Pinnate venation with secondary veins connecting near the margin of the blade'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Vein": [
+    ["Pinnate venation with secondary veins connecting near the margin of the blade", 0]
+  ],
+  "Corolla color": [
+    ["creamy-white", 1]
+  ],
+  "Corolla tube length": [
+    ["2.25 to 3 mm", 1]
+  ],
+  "Corolla throat hairs": [
+    ["ring of deflexed hairs", 1]
+  ],
+  "Corolla lobe length": [
+    ["1.5 to 2.25 mm", 1]
+  ],
+  "Corolla lobe width": [
+    ["1 to 1.75 mm", 1]
+  ],
+  "Corolla lobe shape": [
+    ["lanceolate to ovate", 1],
+    ["acute", 1]
+  ]
+}

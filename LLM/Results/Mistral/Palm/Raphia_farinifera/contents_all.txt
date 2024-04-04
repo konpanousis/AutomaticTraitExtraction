@@ -1,0 +1,36 @@
+{
+"Fruit colour description": [
+["reddish-brown", 1],
+["orangey-brown", 1],
+["golden-brown", 2],
+["bright orange-brown", 1],
+["reddish-brown", 1],
+["orange-brown", 1],
+["bright orange-brown", 1],
+["chestnut-brown", 1]
+],
+"Fruit colour": [
+["reddish-brown", 1],
+["orangey-brown", 1],
+["golden-brown", 2],
+["bright orange-brown", 1],
+["reddish-brown", 1],
+["orange-brown", 1],
+["bright orange-brown", 1],
+["chestnut-brown", 1]
+],
+"Crown": [],
+"Fruit size": [
+["variable", 1]
+],
+"Fruit shape": [
+["ovoid", 2],
+["oblong", 3],
+["ellipsoidal", 1],
+["ellipsoid", 1],
+["elliptic", 1],
+["pyriform", 1]
+],
+"Conspicuousness": []
+}
+

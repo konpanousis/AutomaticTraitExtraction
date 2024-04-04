@@ -1,0 +1,270 @@
+We are interested in obtaining botanical trait information about the species Agave sisalana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Inflorescence: 5-6 m tall, `paniculate', ellipsoid, scape short, part-inflorescences 10-15 in the upper half of the inflorescence, bulbilliferous after flowering.
+The terminal spines are removed before or after the leaves have been cut.
+Agave amaniensis is a diploid, with sword-shaped leaves c. 165 cm long, very glaucous blue, thick at the base and tipped with a reddish brown spine.
+The flower stalk subdivides to form branches that bear the flowers.
+Flowers for the most part are a rather undistinguished "lily"-type.
+Style exserted, stigma 3-lobed.
+Perianths with 6 segments, 6 stamens, filaments longer than the perianth segment, 3-4 cm long anthers.
+The angle between unfurling leaves and stem gradually widens until the lower leaves are almost horizontal.
+Leaves are arranged in an ascending spiral.
+Before flowering, a flower stalk of 4.5-6.0 m develops from the growth point.
+Flowers are yellowish green, with reddish filaments.
+Come altre succulente di poche pretese, la pianta richiede piccole cure.
+When the plant is not flowering, the stem is short and thick, 0.4 - 1 metres tall.
+Leaves succulent, arranged in an ascending spiral, stipules absent, petiole absent, blade linear-lanceolate, 75-185 cm x 10-15 cm x 2-4.5 cm, base fleshy, bulbous, triangular in cross section, blade gradually broadening to the middle and narrowing into a terminal sharp, lignified, dark brown spine up to 3 cm long, concave above and convex below, margin usually spineless, surface dark green but covered with a white waxy layer.
+Bulbils are normally formed on the panicle after the flowers are shed and usually appear in the bottom branches of the pole before the upper flowers have finished flowering.
+Terminal spine very sharp, subulate, shortly shallowly grooved above, 2-2.5 cm long, dark brown, somewhat lustrous, not decurrent.
+Description Agave sisalana is a woody herb with a rosette of thick fleshy spiny leaves that are shaped like a sword, measuring up to 2 metres long.
+It is easily recognizable by its unarmed mature leaves ending with a short dark brown terminal spine.
+Flowering starts on the lowest branch and proceeds upwards, taking several weeks until all branches have flowered.
+Ovary shortly fusiform, 20-25 mm, nearly neckless.
+Agave Angustifolia Marginata.
+All Climbers Cycads & Succulents Forestry Trees Fruit Trees Grasses Ground Covers Ornamental Trees Palms Seasonal Flowers Shrubs.
+In the central bud immature white leaves are packed tightly around the meristem until they are pushed outwards by the growth of succeeding leaves and unfurl.
+A branched inflorescence forms atop an up to 30 feet tall flower stalk with yellowish-green flowers.
+Young leaves may have a few minute teeth along their margins, but lose them as they mature.
+Young leaves with few minute marginal teeth, mature leaves usually without marginal teeth.
+The stamens dehisce 2-3 days before the style is fully elongated and the stigma is sticky and receptive.
+The 2-4 mm thick root arises from leaf scars at the base of the bole beneath the soil surface, and extends up to 5 m horizontally way from the mother plant, forming suckers.
+Leaf edges are spiny with a sharp, dark brown tip.
+Description     Robust, monocarpic, perennial herb, 3-9 m tall when flowering, with numerous leaves crowded in a dense rosette, roots fibrous, originating from the base of the leaf scars at the bottom of the stem, spreading horizontally up to 3 m, and vertically up to 150 cm, but concentrated in the upper 30-40 cm of the soil, stem short and thick, 120 cm x 20 cm, with an apical meristem, rhizomes arising from buds in the axils of leaves below ground level, numbering 5-10 at one time and about 20 in the total life span, 1.5-3 cm in diameter, growing to about 2 m in length before surfacing and producing suckers.
+Tepals greenish-yellow, tube broadly urceolate, 15-18 mm, lobes equal, 17-18 mm.
+Description: The Sisal, Agave sisalana , is a a monocarpic, perennial, short stemmed or stemless succulent herb with dark green leaves in rosettes and inflorescence in panicles.
+Leaves may live for 5 years and still be photosynthetically active.
+When sisal becomes reproductive, new leaves progressively become shorter.
+At maturity, flower stalks rise 15 to 20 feet tall.
+During the initial vegetative phase of the sisal plant each new leaf is 0.6-0.8 cm longer than the preceding leaf.
+Click on images to enlarge the conical spine at the leaf tip young plant clusters of plantlets on old flowering branches  infestation in bushland habit in flower the very large, elongated, fleshy, greyish-green leaves habit dense infestation on a railway cutting close-up of plantlets on the old flowering branches flower buds close-up of upright flowers close-up of the leaf showing the lack of prickles on its margins.
+Along the rhizomes there are buds that may grow into new plants, forming colonies.
+Agave sisalana forma armata Trel.
+Leaves: * Ensiform , fleshy, 90-130 cm long, 9-12 cm wide and 2-5 cm thick, At first, the leaves are glaucous with a bluish tinge, becoming green when maturing and somewhat slightly zoned in youth.
+Agave sisalana mediopicta A medium sized widely suckering agave to 4 to 6 feet tall by 6 to 7 feet wide with long stiff narrow white to very pale green leaves with grey-green spineless margins and armed at the tip with a 1-inch terminal spine.
+Fruits are capsules up to 6 cm long, 2-2.5 cm diameter, stipitate and beaked.
+Rosette: 1.5 - 2 m in diameter, suckering with elongate rhizomes.
+Inflorescence a panicle on a long peduncle, 2-8 m tall, branches widely spreading, 30-100 cm x 2 cm, apically 5-6 times branched trichotomously, bearing about 40 flowers per branch.
+Bulbils copiously produced on the inflorescence branches, consisting of a meristem, 6-8 reduced leaves and a rudimentary stem with rudimentary adventitious roots.
+Older plants can have a short stem and occasionally a leaf might display a yellow stripe.
+It grows up to 6 feet tall.
+White, fleshy stems develop from underground buds at the base of the plant, first growing sideways and then upwards to form new plants.
+Leaves are grey-green with a sharp dark brown spine at the end.
+Young leaves may have small spines along their margins, they disappear when the plant matures.
+Agave sisalana is a succulent plant with a short stem and sword-shaped leaves extending from a basal rosette.
+Leaves have a terminal, dark brown, rigid, very sharp spine, 2-3 cm long.
+Fruit an ellipsoid capsule, tapering at base, green and fleshy when young and black and dry when ripe, with about 150 seeds.
+Leaves are spirally arranged around the trunk, greyish-green in colour and covered by a layer of wax.
+Sedum Sono diverse centinaia le specie e le varietà di piante succulente appartenenti al genere denominato Sedum.
+An average leaf weighs about 0.7 kg.
+Leaves.Stiff, heavy, persistent leaves that are 0.6-1.2 m long, 10.2-20.3 cm wide, and 2.5-10.2 cm thick when mature.
+Flowers erect, protandrous, pedicel short, perianth tubular, 6-lobed, 5-6 cm long, pale green, tube 1-2 cm long, lobes oblong, on inner side of the top with a tuft of hairs, stamens 6, attached above the middle of the perianth tube, accrescent during anthesis, finally 6-8 cm long, ovary inferior, 3-celled, style much accrescent during anthesis and finally 6-8 cm long, stigma 3-lobed.
+Categories : Agave sisalana Herbs of Goa Asparagaceae in India Flowers of Goa Asparagales flowers Asparagales in India Hidden categories: License migration redundant GFDL CC-BY-3.0 Self-published work J.M.Garg HerbsA.
+Floral stem with RM FJ1Y6M - Sisal in flower.
+Flowers: Perfect and tube-like, unpleasantly scented, consisting of six yellowish-green tepals 55-65 mm long and six stamens.
+Tropical succulent perennial of 1.5-2 m height, with thick leaves in a basal rosette of elongated sword-shaped leaves from the base.
+Bulbils are borne in the axils of the bracteoles of the inflorescence after flowering.
+Seeds rounded-triangular, thin, flat, papery, black.
+Agave sisalana is an evergreen, flowering, succulent, rosette-forming perennial shrub.
+Encyclopedia Index Families Genera Species Agavaceae Agave.
+Leaves are usually cut manually at 2.5-5 cm from the bole.
+Trunk.The plant base is a short trunk , from the top of which the spirally arranged leaves grow.
+Perennial Succulent Vegetatively propagated.
+Moreover Sisal produces subterraneous rhizomes from buds in the axils of the lower leaves.
+The cross-section at the base of the leaf resembles a flattened triangle.
+Agave inaequidens.
+Leaves contain coarse, cream-coloured or pale-yellow fibres.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 0],
+["Shrub", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 0],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 1],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 1],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 1]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 1]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

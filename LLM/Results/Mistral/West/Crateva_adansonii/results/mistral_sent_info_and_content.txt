@@ -1,0 +1,147 @@
+We are interested in obtaining botanical trait information about the species Crateva adansonii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Sepals 4, deltoid or lanceolate, up to 4 mm.
+General Information Unarmed, small deciduous tree, 6-15 m tall, glabrous.
+Leaves petiolate, leaflets shortly petiolulate, elliptic or elliptic-lanceolate, 3-12.5 cm.
+The flowers are arranged in racemes.
+Gynophore generally 3-5 cm long, slender, thickened in fruit, often deciduous inhibiting the development of fruit.
+Flowers occur in terminal corymbs, are about 5 cm in diameter, greenish-yellow, and the stamens are purplish.
+Fruits globose, 4-5 cm.
+The seeds are about 10 mm in length, numerous, kidney-shaped, and embedded in a yellow pulp.
+Small deciduous tree or shrub, unarmed, round-crowned, 6-15 m. tall, glabrous.
+Fruit a berry, globose, 2-2.5 cm across, smooth, turning to red, seeds brown, reniform, smooth.
+Leaves are clustered at the ends of branchlets, with a common petiole 5 to 10 cm long, at the summit of which are tree leaflets.
+The tree attains approximately 15m height.
+Stamens usually 20-25, exceeding the petals , inserted at base of the gynophore.
+Flowers 3.-6 cm across, subirregular, greenish-white turning yellowish after opening, appearing before or just after the flush of new leaves, pedicellate, ebracteate, pedicels 2-4 cm long.
+Other Garlic Pear Tree ð Overview Overview Summary Brief Flowering class: Dicot.
+All Media Synonyms Common Names Overview Nomenclature and Classification Natural History Habitat and Distribution Occurrence Demography and Conservation Uses and Management Information Listing Meta data ð Synonyms No Data ð Common Names Malayalam Mavalingam
+Sepals about 4-5 mm long, ovate-deltoid, greenish-white, distant.
+Leaves digitately trifloliate, alternate, estipulate, rachis 5-7 cm long, slender, glabrous, petiolule 5-7 mm, slender, glabrous, leaflets 11-15 x 3-4 cm, obovate, or ovate-lanceolate, base oblique, obtuse or subacute, apex acuminate, margin entire, glabrous, chartaceous, lateral nerves 6-8 pairs, parallel, slender, prominent, intercostae reticulate, faint.
+Bark is grey, and the wood is yellowish-white, turning light-brown when old.
+Licenses - CC_BY References - Diagnostic Diagnostic Keys Description Small trees, bark smooth, grey, blaze dull yellow, speckled.
+Garlic pear is a moderate sized deciduous tree, 15 m tall and 9 m wide.
+Inflorescence-axis 2-5 cm long, often extending into a leafy extension after flowering.
+The petals are ovate or oblong, with the claw half as long as limb.
+The tree is sometimes called the spider tree because the showy flowers bear long, spidery stamens.
+Leaves 3-foliolate, petiolate, leaflet shortly petiolulate, elliptic, elliptic-lanceolate, ovate-lanceolate, more or less oblique, acuminate, narrowed towards the base, 5-12 cm long, 2.5-6 cm broad, herbaceous to subcoriaceous, often turning brownish when dry, petiole 4-8 cm long.
+They are elliptic with entire margins.
+Petals ovate, or suborbicular, reticula¬tely veined, eventually 20-30 mm long, 10-17 mm wide, , the 2 adaxial ones generally somewhat larger.
+The flowers are pale green.
+Leaflets are ovate-lanceolate or ovate, 7.5 to 12 cm long, 4 to 6 cm wide, and pointed at the base, with a rather slender point at the tip.
+Fruit globose, 3-5 cm in diam., yellowish, seeds reniform, about 3-4 mm in diam., smooth, brown.
+No Data ð Overview Overview Summary Brief Diagnostic Diagnostic Keys Description SubSpecies Varieties Races Diagnostic Keys Description No Data
+Petals 4, ovate, eventually up to 30 mm.
+The leaves are arranged opposite one another.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1]
+],
+"Trunk and root": [],
+"Latex": [
+["No exudate", 1]
+],
+"Crown": [
+["Regular density of the crown", 1],
+["Leaves grouped at the top of the axes", 1]
+],
+"Stem shape": [],
+"Bark": [],
+"Bark color": [],
+"Leaf shape": [
+["Digitized leaf", 1],
+["Simple leaf", 1]
+],
+"Petiole": [
+["Petiolated leaf", 1],
+["Sessile leaf", 1]
+],
+"Leaf blade": [
+["elliptical blade", 1],
+["obovate blade", 1],
+["ovate-lanceolate", 1],
+["lanceolate blade", 1]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1]
+],
+"Leaf base": [
+["Leaf base oblique", 1],
+["Leaf base obtuse", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex acuminate", 1],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 1],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1]
+],
+"Spine": [
+["Plant without spines", 1]
+],
+"Blade color": [
+["Uniformly coloured blade", 1]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 1]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 1],
+["Green coloured flower", 1]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

@@ -1,0 +1,23 @@
+We are interested in obtaining botanical trait information about the species Raphia farinifera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Their fronds to botanically a single leaf to are among the longest in the plant kingdom, those of R. regalis reaching a length of 25 m. The trunk of this species is
+
+Initial dictionary of traits with all possible values:
+{"Measurement": ['Maximum Petiole Length in Meters: 1.55'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+[
+{"Measurement": [
+["Maximum Petiole Length in Meters: 1.55", 0]
+]}
+]
+
+Note: The input text does not mention the maximum petiole length of Raphia farinifera, so there is no strong evidence for the value 'Maximum Petiole Length in Meters: 1.55' for the trait 'Measurement'. Therefore, the binary number 'b' is set to '0'. If additional traits and their values need to be added in the future, the same process should be followed to determine the binary number 'b' for each value.

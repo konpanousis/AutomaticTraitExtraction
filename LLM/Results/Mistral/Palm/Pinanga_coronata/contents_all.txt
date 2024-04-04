@@ -1,0 +1,72 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 1],
+["chocolate", 0],
+["coral", 1],
+["crimson", 0],
+["darkgreen", 0],
+["green", 3],
+["greenish", 1],
+["grey", 0],
+["ivory", 1],
+["magenta", 0],
+["maroon", 1],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 2],
+["pinkish", 1],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 4],
+["reddish", 2],
+["tan", 0],
+["violet", 0],
+["white", 2],
+["whitish", 0],
+["yellow", 4],
+["yellowish", 2]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 3],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}
+

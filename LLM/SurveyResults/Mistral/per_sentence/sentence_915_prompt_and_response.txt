@@ -1,0 +1,43 @@
+We are interested in obtaining botanical trait information about the species Stereospermum kunthianum.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Terminal leaflet usually larger, apex retuse to cuspidate, sometimes unequal, base rounded to cuneate, frequently unequal, margins entire or crenulate-sinuate, occasionally crenate or serrate, hairs occasionally confined to veins and midrib, secondary venation reticulate, lower surface usually with fine gland dots throughout and large scattered glands either side of the midrib towards the base.
+
+Initial dictionary of traits with all possible values:
+{"Leaf base": ['Leaf base attenuated', 'Rounded leaf base'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf base": [
+    ["Leaf base attenuated", 0],
+    ["Rounded leaf base", 1]
+  ],
+  "Leaf tip": [
+    ["Retuse leaf tip", 1],
+    ["Cuspidate leaf tip", 1],
+    ["Unequal leaf tip", 1]
+  ],
+  "Leaf margin": [
+    ["Entire leaf margin", 1],
+    ["Crenulate-sinuate leaf margin", 1],
+    ["Crenate leaf margin", 1],
+    ["Serrate leaf margin", 1]
+  ],
+  "Leaf hairs": [
+    ["Hairs confined to veins and midrib", 1]
+  ],
+  "Secondary venation": [
+    ["Reticulate secondary venation", 1]
+  ],
+  "Leaf surface glands": [
+    ["Fine gland dots throughout lower surface", 1],
+    ["Large scattered glands either side of the midrib towards the base", 1]
+  ]
+}

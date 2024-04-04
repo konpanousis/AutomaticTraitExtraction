@@ -1,0 +1,66 @@
+We are interested in obtaining botanical trait information about the species Lannea schimperi.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves appearing after the flowers and fruits, alternate or crowded at the end of spur-shoots, 5 to 11-foliolate, rachis 8 to 33 cm.
+
+Initial dictionary of traits with all possible values:
+{"Leaf shape": ['Unipinnate leaf with opposite leaflets'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Leaf shape": [
+["Unipinnate leaf with opposite leaflets", 0],
+["Pinnate leaf with alternate leaflets", 0],
+["Simple leaf", 0],
+["Compound leaf", 0],
+["Palmate leaf", 0],
+["Cordate leaf", 0],
+["Oblong leaf", 0],
+["Ovate leaf", 0],
+["Lanceolate leaf", 0],
+["Linear leaf", 0],
+["Elliptical leaf", 0]
+],
+"Leaf arrangement": [
+["Alternate", 1],
+["Opposite", 0],
+["Whorled", 0],
+["Rosulate", 0]
+],
+"Leaf position": [
+["Basal", 0],
+["Cauline", 0],
+["Terminal", 1]
+],
+"Leaf type": [
+["Deciduous", 0],
+["Evergreen", 0]
+],
+"Leaf foliolate": [
+["1-foliolate", 0],
+["3-foliolate", 0],
+["5-foliolate", 1],
+["7-foliolate", 0],
+["9-foliolate", 0],
+["11-foliolate", 1]
+],
+"Rachis length": [
+["<5 cm", 0],
+["5-10 cm", 0],
+["10-15 cm", 0],
+["15-20 cm", 0],
+["20-25 cm", 0],
+["25-30 cm", 0],
+["30-33 cm", 1],
+["33-36 cm", 0],
+["36-40 cm", 0],
+[">40 cm", 0]
+]
+}

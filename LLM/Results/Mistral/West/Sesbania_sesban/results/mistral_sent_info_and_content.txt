@@ -1,0 +1,262 @@
+We are interested in obtaining botanical trait information about the species Sesbania sesban.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Sesbania Seed.
+White or deep pink to red.
+Other descriptions describe the plant as a single or multistemmed shrub or small tree, with the height up to 8 m tall.
+All Rings.
+Seashore Paspalum Turf Seed.
+Accepted All Media 0 Synonyms Common Names Overview Nomenclature and Classification Natural History Habitat and Distribution Occurrence Demography and Conservation Uses and Management Information Listing Meta data ð Synonyms synonym Aeschynomene sesban L. synonym Coronilla sesban Willd.
+Ovary glabrous, style ca.
+Trunk is nearly 30 cm long with drooping branches and bark is light gray, corky and deeply furrowed and the wood are soft and white.
+Leaves 7.5-15 cm long including rachis, paripinnate, stipules 3-7 mm long, linear, acute, caducous, leaflets 7-28 pairs, opposite, 0.6-2.5 cm long and 0.3-0.6 cm wide, linear-oblong, glabrous, margins entire, apex obtuse and often faintly apiculate, puberulous when young, petiolules minute.
+A quick-growing, short-lived shrub or small tree upto 6 m tall with soft wood, young shoots striate, green, puberulent.
+Morphological description Deep-rooted, short-lived   shrub or small tree 2-4 m tall.
+Its leaves are glaucous, deep green, pinnately compound up to 30 cm long with 20-50 leaflets in pairs.
+Roots are heavily nodulated with large nodules.
+Stipules triangular-lanceolate, 3-4 mm, caducous, pubescent.
+Grey-leaved cordia.
+Perennial Ryegrass Turf Seed.
+Leaflets are oblong, to elliptical, obtuse apex, about 2-3 cm long.
+Sesbania grandiflora is a small, erect, quick-growing, open-branched, unarmed, perennial tree growing up to 15 m tall and 25-30 cm in diameter.
+This tree species has been reported to attain a height of 4-5 m in 6 months.
+Seeds 20-40 per legume, subterete, 3-4 × ca.
+Sesbania aegyptiaca Sesbania grandiflora is a short-lived, soft-wooded, loosely-branching tree with a rather open crown, it can grow 8 - 15 metres tall.
+Leaves are pinnately compound with 6 -¦
+Hybrid Pearl Millet Seed.
+Plants consist of large pea-like flowers and grow in clusters of 2-5 at the base of leaves.
+Cabo Verde Present, Localized Introduced.
+Decals & Skins.
+Order / Family:  Fabaceae.
+Deep green in colour, stipules deciduous.
+Racemes 4-10-flowered, peduncle 8-10 cm, slender, pubescent, glabrescent, bracts linear-lanceolate, caducous, abaxially sparsely appressed pubescent.
+Pods are pendent, slender, long and thin with broad sutures, cylindric, green, indehiscent containing 15-50 seeds.
+The tree has a life span of about 20 years.
+Leaves peripinnate, leaflets15-20 pairs, opposite.
+It also does well under repeated cuttings and coppices readily, with many branches arising from the main stem below cutting height.
+Quite large, 7-9 cm long.
+Main stem  6-8 cm in diameter, many side branches from low down on the bole , younger stems usually pubescent , sometimes becoming glabrous.
+Leaves are glaucous, deep green, pinnately compound up to 30 cm long with 20-50 leaflets in pairs.
+Fescue Turf Grass Seed.
+A quick growing soft wood, short lived shrub, 10 - 15 ft. in height, branchlets glabrous.
+Racemes 2-20 flowered, unbranched in subspecies sesban Pendulous, subcylindrical pods up to 30cm long Seeds Drawing Cutting management research trial Cattle browsing lower branches of small sesban trees Heavily browsed shrubs, Eritrea Moisture-stressed shrubs, central Queensland Australia Scientific name Sesbania sesban Merr.
+I J K L M N O P Q R S T U V W X Y Z Sesbania sesban Short-lived 2-4m tall, shrub or small tree, SE Queensland, Australia Leaves paripinnate with more than 6 pairs of pinnae.
+Centipede Turf Grass Seed.
+The leaves are rounded, the flowers are red and oblong, and the fruits are flat, long, and thin.
+Stamen tube 8-10 mm, anthers ellipsoid.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+Leaflets 20-30, membranous, glabrous, linear-oblong, obtuse.
+Legume contorted when young but straight or slightly curved at maturity, subterete, 15-23 cm × 3-4 mm, ca.
+Sunflower - Fodder Seed.
+Branches pubescent, glabrescent, internodes often 0.5-2.5 cm, nodes conspicuously gibbous.
+Calyx campanulate, teeth shortly triangular, inside appressed pubescent to glabrescent.
+Seeds are beanlike, elliptical, red brown, 6-8 in a pod, 3.5 mm, and each weighting 1 g. Leaves.
+Flowers in racemes, dark brown to purple with golden -yellow inside.
+About 110'000 seed per kg.
+Flower is normally large, white, yellowish, rose pink or red colored and 7-9 cm long with a calyx 15-22 mm and corolla with standard and wings, staminal tube and glabrous ovary and style.
+Hairy Indigo Cover Crop Seed.
+Plumb VE, Wood CD, Gay C, Hanson J, Heering JH, 1996.
+Acrid, bitter, and astringent.
+Clover Ground Cover Seed.
+Aeschynomene Seed Cover Crop Seed.
+Perennial Rye Grass Seed.
+Flowers 1.2-1.5 cm long, borne in 3-20 flowered, lax, axillary racemes to 14 cm long, calyx 5 mm long, campanulate, 5-nerved, teeth deltoid, shorter than the tube, corolla yellow, standard orbicualr with 2 keel-like appendages, sometimes spotted red or purple on the back, wings falcate-oblong with a minute auricle at the top of the claw, keel straight, obtuse, its petals with a small recurved auricle above the claw.
+Corolla yellow or calyx and standard purplish black and wings and keel partly purplish black or red, standard transversely elliptic, 1.1-1.3 cm, wider than long, with a 4-5 mm claw, with a S-shaped callus ca.
+An erect, soft-wooded shrub with branches glabrous or nearly so, unarmed.
+Belly Rings.
+Fruits 12-23 cm long and 2.5-3.8 mm in diam, cylindrical, pendulous, twisted, slightly torulose, sharply beaked, septate between the seeds, 20-30-seeded.
+Flowers are large, white, yellowish, rose pink or red, 7-9 cm long with a calyx 15-22 mm and corolla with standard and wings, staminal tube and glabrous ovary and style.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 1],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 1],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 1],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 1],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 1],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

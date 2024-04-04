@@ -1,0 +1,74 @@
+Here is the dictionary of traits with sublists of (value, evidence) based on the input text:
+
+<pre>{
+  "Fruit colour description": [
+    ("black", 0),
+    ("blue", 0),
+    ("bluish", 0),
+    ("brown", 0),
+    ("brownish", 0),
+    ("chocolate", 0),
+    ("coral", 0),
+    ("crimson", 0),
+    ("darkgreen", 0),
+    ("green", 0),
+    ("greenish", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("magenta", 0),
+    ("maroon", 0),
+    ("olive", 0),
+    ("orange", 0),
+    ("orangish", 0),
+    ("pink", 0),
+    ("pinkish", 0),
+    ("plum", 0),
+    ("purple", 0),
+    ("purplish", 0),
+    ("red", 1),
+    ("reddish", 1),
+    ("tan", 0),
+    ("violet", 0),
+    ("white", 0),
+    ("whitish", 0),
+    ("yellow", 0),
+    ("yellowish", 1)
+  ],
+  "Fruit colour": [
+    ("black", 0),
+    ("blue", 0),
+    ("brown", 0),
+    ("green", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("orange", 0),
+    ("pink", 0),
+    ("purple", 0),
+    ("red", 1),
+    ("white", 0),
+    ("yellow", 0)
+  ],
+  "Crown": [
+    ("both", 0),
+    ("canopy", 0),
+    ("understorey", 0)
+  ],
+  "Fruit size": [
+    ("large", 0),
+    ("small", 0)
+  ],
+  "Fruit shape": [
+    ("ellipsoid", 0),
+    ("elongate", 0),
+    ("fusiform", 0),
+    ("globose", 0),
+    ("ovoid", 1),
+    ("pyramidal", 0),
+    ("rounded", 0)
+  ],
+  "Conspicuousness": [
+    ("conspicuous", 0),
+    ("cryptic", 0)
+  ]
+}
+</pre>Note that only the "Fruit colour", "Fruit shape" and "Conspicuousness" traits have been assigned evidence values based on the input text, as the other traits were not explicitly mentioned in the text. Additionally, the "Fruit size" trait has not been assigned any evidence values as the text did not provide enough information to determine whether the fruit size was large or small.

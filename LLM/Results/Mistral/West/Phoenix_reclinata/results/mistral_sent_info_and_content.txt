@@ -1,0 +1,326 @@
+We are interested in obtaining botanical trait information about the species Phoenix reclinata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Peduncle of â inflorescence not greatly elongating, sometimes scarcely emerging from the bract, 10-30 cm.
+Trunk dull brown, free of leaf-sheaths below, with persistent leaf-sheaths above, in uppermost 1-2 m. irregularly marked with oblique leaf-scars, and bearing persistent leaf-bases, injured stem exuding a clear yellowish gum.
+The inflorescences form attractive yellow sprays.
+Crown shape: palm, upright/erect.
+Fruit length: ½ to 1 inch.
+J F M A M J J A S O N D Flowering Fruiting.
+This species grows edible, oblong fruit , orange in color , at 2.5 cm in diameter.
+Leaf color is bright to deep green on 30 cm petioles with long, sharp spines at the base, with 20 to 40 leaves per crown.
+The leaves are pinnate , induplicate , to 5 m long, with arching rachis which ends in a single leaflet, leaflets are narrow, glossy, dark green, and are arranged in multiple planes.
+The fruit is smaller than and inferior to that of the true date palm.
+Petiole/Leaf bases : 1' long, pale green to yellow-green, un-split leaf bases retained on trunk for many years.
+Inflorescence : 2'-3' long, from within leaves, arching, peduncles yellow-orange.
+A mature specimen of Senegal date palm can reach 35 feet in height with a 12 to 20-foot-spread and creates a striking tree which casts a light shade.
+Leaves are pinnate with a prounced sideways curve, growing 2.5 to 4.5 m 7.5 to 14 feet) in length and 75 cm in width.
+Trunk/branches: branches don't droop, showy, typically multi-trunked, thorns.
+Male flowers creamy white, rapidly turning brown, musty scented, calyx ± 1 mm.
+The fruit form in pendent clusters.
+The Senegal date palm is variable in shape and form but tends to grow as clumps composed of multiple stems reaching 25 ft to 50 ft in height.
+The luminous orange-brown fruit are borne in large hanging zig-zagged branches during late summer.
+Fruits oval, 10-15 mm long, bright orange when mature.
+Clustering, 8-10 inches in diameter, texture is fibrous and patterned with old leaf base remnants.
+Pistillate flowers usually only one carpel reaching maturity, 3 - 4 mm high.
+Phoenix reclinata habit, young palm.
+Leaf color: bright to deep green.
+Clustering palm, often thicket-forming.
+Phoenix reclinata - Succulentes.
+Leaf type and persistence: evergreen.
+The leaves are pinnate , 4-6 m long, with 80-100 leaflets on each side of the central rachis.
+Female inflorescence emerging from the bract and often greatly elongating after anthesis, with the fruiting rachillae pendulous, rachillae ± 40-60, 15-40 cm.
+Small yellow blooms on branching inflorescences, up to 3 feet long.
+Female flowers greenish, rounded, ± 2 mm.
+A large, clumping palm, to about 10m tall.
+Phoenix reclinata , the wild date palm or Cape date palm , commonly grows from 3 m to 6 m in height, sometimes reaching 10 m.
+It bears showy, creamy-white pollen-laden male flowers from August to October.
+Clustering, very rarely solitary palm, often forming dense thickets with trunks ultimately to 10 m. or more tall, ± 15 cm.
+Tree, up to 10 m high.
+Male inflorescence of Phoenix reclinata, acanthophylls in foreground, pollinator present, white scales on rachis above.
+P. reclinata is a dioecious clustering palm, producing multiple stems from 7.5 to 15 m in height and 30 cm in width.
+Flowers unisexual, male flowers creamy white, rapidly turning brown, musty scented, calyx cup-shaped, c. 1 mm long, with 3 triangular lobes, corolla tubular at the base with 3 lobes 6-7 mm long, acute, somewhat dentate towards the apex, fleshy, stamens 6, epipetalous, shorter than petals, female flowers greenish, rounded, c. 2 mm in diameter, calyx cup-shaped, c. 1.5 mm long, with 3 triangular lobes, petals 3, free, rounded, up to 5 mm long, closely overlapping, staminodes 6, stigmas reflexed.
+It is a slowly growing tree, exclusively propagated by seed.
+Phoenix canariensis is a large solitary palm, 10-20 m tall, occasionally growing to 40 m.
+Leaf color is bright to deep green on 30 cm petioles with long, sharp spines at the base, with 20 to 40 leaves per crown.
+Papaver - Papaver.
+Fruit ovoid-ellipsoid or almost obovoid, ripening yellow to bright orange, 13 - 20 x 7 - 13 mm, mesocarp sweet, scarcely fleshy, about 1 - 2 mm thick.
+Phoenix reclinata.
+Filter Plant Links Bulbs and Rhizomes 69 Climbers 29 Grasses 31 Groundcovers and Perennials 149 Shrub 211 Succulents 96 Tree 204 Water Plants 32.
+Leaves pinnate or feather-shaped, 3-4 m long, lowermost leaflets reduced to spines.
+The leaves are long and pinnately divided with keeled, narrow, green leaflets.
+Seed obovoid, with rounded apices, 12 - 14 x 5 - 6 mm, embryo lateral opposite raphe, endosperm homogeneous.
+Stems: Clustering and leaning, to 10 m tall and 15-18 cm in diameter, leaf scars are crowded rings.
+Pinnate, up to 8-15 feet long, bright green, arching and armed with sharp needle-like spines towards the base of the petiole.
+The fruit, called a date, follows the female flower.
+General Information Stems multiple, usually ascending, to 8 m, diam.
+Ripening fruit on P. reclinata.
+Phoenix reclinata is a very hardy, evergreen, palm with shiny, light to dark green, long arching leaves that become spiny close to the stem.
+Fruit : ovoid, 3/4" long, yellow-orange when ripe.
+Stems multiple, usually ascending, to 8 m, diam.
+The fruit is an oval, yellow to orange drupe 2 cm long and 1 cm in diameter and containing a single large seed , the fruit pulp is edible but not the best of dates.
+Leaf color is bright to deep green on 30 cm petioles with long, sharp spines at the base, with 20 to 40 leaves per crown.
+The fruit are borne in large, pendant clusters and contain one seed each.
+Trunk : multiple, 10"-12" thick, either covered irregularly with leaf scars, or with retained, un-split leaf bases and some fibrous weave.
+Flowers and fruit: Inflorescences are orange-colored, to 1 m long, and branched to one order.
+Description     Dioecious, usually clustering, rarely solitary tree up to 15 m tall, often forming dense thickets, trunk up to 10 m tall, erect or oblique, unbranched, cylindrical, up to 25 cm in diameter, dull brown, the upper part with persistent leaf sheaths, the lower part free of leaf sheaths but marked with leaf scars, exuding a clear yellowish gum when injured.
+Foliage is pinnate and recurved, growing 2.5 to 4.5 m in length and 0.75 m in width.
+This species grows edible, oblong fruit, orange in color , at 2.5 cm in diameter.
+Fruit almost always developed from 1 carpel only, very rarely all 3 developing, calyx in fruit to 2 mm.
+Leaves clustered at the end of trunk, pinnate, up to 4 m long, sheathing at the base, arching, sheath splitting and persistent, reddish-brown, fibrous, true petiole c. 15 cm long, apparent petiole c. 50 cm long, with on each side 10-15 irregularly arranged acanthophylls 3-10 cm long, leaflets up to 130 on each side of the rachis, towards the top arranged singly and regularly, towards the base in groups of 2-5,sessile, linear-lanceolate, up to 50 cm x 3.5 cm, single-fold, stiff, pointed, when old splitting along the midvein, bright green, often shiny, when young bearing white indumentum on the lower surface, margin finely spiny.
+Old frond bases are medium brown and remain on the trunk forming a showy trunk which is attractive all year long.
+The 1000-seed weight is 200-1100 g.
+It may be either single or multi-stemmed, sometimes forming a dense, bushy clump.
+Pistillate inflorescence erect, arching with weight of fruits, prophyll as for staminate inflorescence, peduncle green-yellow turning orange-brown, becoming pendulous on fruit maturity, to 60 - 1.5 cm, rachillae spirally arranged often in irregular horizontal whorls, about 19 - 40 in number, to 6 - 55 cm long.
+Crown of ± 25 green leaves or more, dead leaves frequently rather long-persistent.
+Inflorescence Les plantes sont unisexuees et des inflorescences apparaissent au sommet de la tige du palmier.
+This striking palm creates an interesting silhouette with its multiple, gracefully curved, often reclining, slender brown trunks, and dense crowns of stiff but feathery leaf fronds.
+The multiple trunks lose older fronds as the palm grows, clearing lower trunks of all foliage.
+Field: Clustering and leaning, to 10 m tall and 15-18 cm in diameter, leaf scars are crowded rings.
+It bears large branches of seeds that turn orange-brown when ripe.
+Morphology Page fan palm feather palm palmate leaf costapalmate leaf costapalmate closeup pinnate leaf bipinnate leaf praemorse leaflets leaf folds inflorescence branching.
+Tall, Old Canary Island Palm in Phoenix Arizona.
+Flower characteristics: showy, emerges in clusters on 2-3' long, orange, branched panicles.
+Fruit color: reddish-brown.
+Bark: brown and fibrous underneath the crown, then gray and smooth, with closely set rings along the rest of the trunk.
+Male and female flowers are borne on separate plants.
+Geranium - Pelargonium.
+Morphology A tufted palm, often forming clumps, the stems occasionally as tall as 28 ft. but commonly much less Provided by:.
+This species grows edible, oblong fruit , orange in color , at 2.5 cm in diameter.
+The leaves are arching, bright green fronds and form crowns at the top of the stems.
+Phoenix reclinata leaf bases with spines.
+They are topped by crowns of dark green to yellow green pinnate fronds.
+Phoenix reclinata - description.
+Fruits ripening from green through orange to reddish brown, ellipsoid, length 12--18 mm, diam. 7--8 mm.
+Spread: 12 to 20 feet.
+Leaf blade length: 12 to 15 feet, leaflets are 1 feet.
+They are also spiny palms, each leaf base starting with viciously narrow, strong barbs, that turn into leaves farther from the base.
+The orange-brown fruits are borne during February, March and April.
+Leaf to 2.5 m. long, bright shiny green, not glaucous, arcuate, true petiole ± 15 cm., with coarse red-brown sacking-like sheath, apparent petiole ± 50 cm.
+Leaf type: odd-pinnately compound.
+The leaves are up to 8-15 ft long and about 3 ft wide and recurve attractively toward the ground.
+Other Phoenix species, but the stem and leaflet arrangement are distinctive.
+Fall characteristic: not showy.
+The somewhat showy flower stalks, often lost within the thick foliage, are followed by one-inch-long, reddish-brown dates which are incredibly showy.
+A Canary Island date palm with 10 m of trunk is approximately 60 years of age.
+Phoenix reclinata leaflet tips.
+Habit : clustering with crowns of 15-25 feather leaves.
+The Phoenix reclinata is a clustering date palm from south-east Africa, including Madagascar, the Comoros islands to the Arabian peninsula.
+Size 3 to 6m.
+The leaf stem is armored with vicious needles near the trunk.
+Phoenix reclinata is a dioecious clumping palm, producing multiple stems from 7.5 to 15 m in height and 30 cm in width.
+Leaf Description : pinnate, flat, often with a 90 degree twist, markedly arching, up to 14' long, heavily armed near the base with modified leaves that are long, pungent spines, bright to medium green, rachis yellow-green, NOTE: leaves that are plumose are felt to all be hybrid species.
+Phoenix palms characteristically have sharp spines on the basal portion of the fronds.
+Staminate inflorescence erect, prophyll green-yellow in bud, strongly 2-keeled, coriaceous, splitting 1 or 2 times between margins, 40 - 60 x 5 - 6 cm, peduncle 10 - 30 x 1.3 cm, not greatly elongating beyond prophyll, rachis 17 - 30 cm, rachillae congestedly arranged in a narrow bush, numerous, 6 - 20 cm long.
+Both are borne on 3 ft branched inflorescences.
+Bulbs Climbers Cycads Euphorbias Ferns Grasses Herbs Orchids Parasites Shrubs Succulents Trees Sources of Information Disclaimer Subject Index.
+A clump-forming palm with shiny, curved fronds and yellow-purple spines.
+Stem 10 m, erect or oblique, without leaf sheaths to 20 cm in diam., dull brown, with persistent leaf sheaths 1 - 2 m below crown, otherwise becoming smooth, irregularly marked with oblique internode scars, cracked vertically, injured stem exuding clear yellowish gum.
+Dioecious, male and female flowers occur on separate plants.
+Male florets are a dirty, pale yellow and fall off after blooming, females are small, globose and yellow-green.
+Cream-colored staminate and pistillate flowers are produced on different plants.
+General description:  Clustering palm often forming extensive thickets, stem 10-12 m long, leaves arcuate, 2-3.5 m long, leaflets 80-130 on each side of rachis, regularly arranged distally in one plane of orientation but medial and basally arranged in groups of 3-5, fruits ovoid-ellipsoid to almost obovoid, 13-20 mm long and 7-13 mm in diameter, yellow to bright orange when ripe.
+Staminate flowers creamy-white, calyx cupule 1 mm high, petals with apex acute-acuminate in shape and with jagged margins, 3 , 6 - 7 x 2 - 3 mm.
+Fruits are up to 1-2.5 cm long, ovoid and reddish-brown to scarlet when ripe.
+Fruit covering: fleshy date.
+Leaves: Pinnate , induplicate , to 5 m long, with arching rachis which ends in a single leaflet, many narrow, glossy, dark green leaflets arranged in multiple planes for most of the length, but in a single plane near the tip, the lowermost leaflets are modified into sharp, thin spines, and no crown shaft is formed from leaf sheaths.
+Phoenix reclinata is a dioecious clumping palm, producing multiple stems from 7.5 to 15 m in height and 30 cm in width.
+Phoenix reclinata leaflets in a single plane near leaf tip.
+Ze zijn 12-18 mm lang en 7-8 mm in diameter.
+It bears large branches of seeds that turn orange-brown when ripe, and attracts fruit-eating birds.
+The plants are unisexual and florets appear at the top of the palm stem.
+Fruit an ovoid-ellipsoid or almost obovoid drupe 13-25 mm x 7-15 mm, pale yellow to orange or dull red, smooth, calyx and petals persistent, mesocarp 1-2 mm thick, dry or moist, 1-seeded.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 1],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 1],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 1],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 1],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

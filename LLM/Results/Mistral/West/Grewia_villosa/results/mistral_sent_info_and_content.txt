@@ -1,0 +1,248 @@
+We are interested in obtaining botanical trait information about the species Grewia villosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Ovary not lobed, densely villous, style c. 3 mm.
+Ovary globose, densely covered with antrorse hairs, style c. 3-4 mm long, stellate hairy, stigma 4-lobed.
+Stamens 25-30, filaments c. 5 mm long.
+Leaves are fairly large, serrated and heart-shaped.
+They are short, pale and recurving obscurely between the bases of the five straight, acutely pointed sepals that form the conspicuous star-shape around the flower centre.
+Drupe dorsoventrally somewhat compressed, unlobed, subglobose, c. 1 cm in diameter, c. 8 mm long, cordate at the base, densely villous, yellow-brown or coppery red.
+A coarse-leaved shrub.
+The reddish-brown stems are in contrast: smooth and hairless between the prominent rings of the nodes.
+The stamens spread, their yellow anthers topping straight white filaments.
+Grewia villosa is a shrub, often scrambling and hardly exceeding 4 m in height.
+White lenticels are sparsely scattered along the surface of the older brownish stem in picture, not visible on all the smaller stems present in the photo.
+Leaves with 1-2.5 cm long, filiform, densely stellate hairy petiole, lamina rugose above, densely soft hairy beneath, ovate to broadly ovate or narrowly to broadly orbicular or somewhat oblate, 1.4-7 cm long, 1.4-7.5 cm broad, 5-costate, basal 2 nerves somewhat indistinct, subcordate to cordate at the base, margin scalloped , each serrature with bunch of long hairs, apex obtuse-apiculate, rarely emarginate, stipules foliaceous, ovate-oblong, c. 1 cm long, densely villous outside.
+Much branched shrub 1-3 m tall, young branchlets with yellowish silky hairs.
+Fruit reddish, c. 15 mm.
+Petals yellow, about half the length of the sepals, oblong or obovate-oblong, with a basal nectariferous claw circumvillous within but not extended above into a narrow ledge, nectary and lamina of about equal length, pubescent behind the nectary and along the mid-line of the lamina.
+Much-branched shrub 1-3 m. tall, young branchlets with yellowish silky hairs.
+Shrub 1.2-4.5 m high, plants apparently either bisexual or unisexual, stems flattened, young shoots densely covered with villous hairs.
+Sepals 5-9 mm long, linear-lanceolate, silky pubescent outside, slightly pubescent and yellow inside.
+Shrub, 1-3 m high.
+Androgynophore up to 0.75 mm long, glabrous, with a more or less membranous, undulate rim.
+Flowers whitish-yellow, c. 2 cm across, pedicel 5-8 mm long, bracts elliptic-lanceolate, c. 7-8 mm long, stellate tomentose on both sides.
+Grewia villosa'' is a shrub, often scrambling and hardly exceeding 4 m in height.
+Stem with ash-grey bark, young twigs covered with dense fine stellate tomentum.
+Sepals oblanceolate, 8-10 mm long, c. 2.5 mm broad, villous outside, acute.
+Bulbs Climbers Cycads Euphorbias Ferns Grasses Herbs Orchids Parasites Shrubs Succulents Trees Sources of Information Disclaimer Subject Index.
+Leaf-blade up to 120 mm in diam., suborbicular to broadly elliptic, apex rounded, slightly cordate at the base, sometimes asymmetric, margin serrate, sparsely pubescent, green and finely reticulate above, grey pubescent or villous below, veins prominent and reticulate, petiole up to 40 mm long, setulose-pubescent, stipules 5-12 mm long, ovate to broadly oblanceolate, pubescent, submembranous.
+'Graines 1-4 par drupe.
+The short petal tips curve back, gripping the flower base through the gaps between the star-shaped spread of the sepals.
+Flowers reddish-brown.
+Buds globose to oblong-globose.
+Inflorescences leaf-opposed and often arising some distance from node.
+Ovary not lobed, densely villous, style about 3 mm long, pubescent, especially towards the base, stigma divided into many laciniate segments.
+Leaves suborbicular to broadly elliptic, veins reticulate.
+Stamens up to 3 mm long, filaments whitish, anthers yellow.
+Morphology:.Arbuste'de 1,5-3 m de haut, ram -¦ Morphology:.Much branched shrub 1-3 m tall, -¦
+Flowers dull red, yellow or brownish, sepals 5-10 mm long, densely hairy on the outside, usually reddish on the inside, petals much smaller than sepals, 1-3 mm long, usually pinkish.
+Fruit unlobed, subglobose, flattened vertically, 1-1.6 cm in diameter, orange to rusty-brown, covered with small warts tipped by long hairs, outer wall crustaceous and well-separated from the pulp.
+Leaf-lamina up to 12 cm.
+Both petals and sepals are pale beige and velvety on the inside.
+Long marginal hairs collect around some bigger leaves in spaced clusters upon the serrations.
+Cyme 4-flowered, umbellate, peduncles axillary, rarely leaf-opposed, 0.8-1.5 cm long, densely villous.
+Flower-buds globose to cylindric-globose.
+A small shrub, c. 2-3 m tall.
+Ovary densely villous, style 1.5-3 mm long, stigma much divided.
+Closed sepals on the buds in picture appear soft and velvety on the outside, beige-brown in colour, not as pale and creamy as their inside surfaces.
+Inflorescences leaf-opposed or frequently arising some distance from the node, peduncle up to 5 mm.
+Leaves broadly ovate to orbicular, 2-15 cm long, 1.6-18.5 cm wide, rounded to obtuse or slightly apiculate at the apex, rounded to cordate at the base, margin serrate, pubescent above, more so on the veins, densely stellate-pubescent beneath with long simple hairs on the veins, veins prominent and finely reticulate, leaves appearing bullate when young, petiole 0.6-5.5 cm long, densely villous, stipules broadly ovate to ovate-lanceolate, 5-10 mm long, caducous.
+Fruit about 15 mm in diam., globose, reddish, shallowly 4-lobed, with small scattered tubercles bearing rather long, caduceus, setulose hairs.
+Categories : IUCN Red List least concern species Grewia Fruits originating in Africa Flora of the Indian subcontinent Flora of Oman Trees of Western Asia Plants described in 1803 Malvaceae stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+Petals narrowly obovate, claw minute with indistinct pit, densely ciliate around gland, limb c. 5 mm long, c. 2 mm wide, dull yellow, emarginate to retuse.
+Inflorescences leaf-opposed or frequently arising some distance from the node, peduncles up to 5 mm long, pubescent, pedicels similar, up to 3 mm long, bracts about 7 mm long, ovate, similar to the stipules.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Shrub", 1],
+["Tree", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 0],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 1],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 1]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 1],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 1],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

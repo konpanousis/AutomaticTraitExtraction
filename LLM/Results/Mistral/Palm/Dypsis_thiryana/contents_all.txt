@@ -1,0 +1,119 @@
+
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 0],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 0],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 0],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 1]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 0],
+    ["green", 1],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 0],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 0],
+    ["white", 0],
+    ["yellow", 1]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 0],
+    ["ovoid", 0],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ],
+  "Leaf arrangement": [
+    ["pinnate", 1],
+    ["bipinnate", 0],
+    ["palmate", 0],
+    ["simple", 0]
+  ],
+  "Leaf shape": [
+    ["unequally jagged and toothed at apex", 1],
+    ["entire", 0],
+    ["lobed", 0],
+    ["serrate", 0]
+  ],
+  "Plant height": [
+    ["tall", 0],
+    ["medium", 0],
+    ["short", 0],
+    ["<40cms", 1]
+  ],
+  "Leaf width": [
+    ["wide", 0],
+    ["narrow", 1],
+    ["medium", 0]
+  ],
+  "Inflorescence": [
+    ["hanging off", 1],
+    ["terminal", 0],
+    ["axillary", 0]
+  ],
+  "Number of fronds": [
+    ["one", 0],
+    ["two", 1],
+    ["three", 0],
+    ["multiple", 0]
+  ],
+  "Growth habit": [
+    ["clustering", 1],
+    ["solitary", 0]
+  ],
+  "Rank": [
+    ["SEEDLING", 1],
+    ["JUVENILE", 0],
+    ["INTERMEDIATE", 0],
+    ["MATURE", 0],
+    ["FLOWERING", 1]
+  ]
+}
+
+

@@ -1,0 +1,227 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 1],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 1],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Fruit surface": [
+["minutely warty", 1],
+["hairy", 1],
+["softly hairy", 1],
+["roughened", 1],
+["smooth", 0],
+["shiny", 0],
+["glossy", 0],
+["dull", 0]
+],
+"Fruit type": [
+["one-seeded", 1],
+["multiple-seeded", 0]
+],
+"Fruit development": [
+["from 1 carpel", 1],
+["from 2 carpels", 1]
+],
+"Fruit arrangement": [
+["densely crowded", 1],
+["loosely arranged", 1]
+],
+"Fruit stigmatic remains": [
+["basal", 1],
+["apical", 0]
+],
+"Fruit epicarp": [
+["minutely roughened", 1],
+["softly hairy", 1],
+["hairy and warty", 1],
+["prickly", 1],
+["smooth", 0]
+],
+"Fruit mesocarp": [
+["granular", 1],
+["with a layer of sclereids", 1],
+["with included tannin cells", 1],
+["with elongate fibres", 1]
+],
+"Fruit endocarp": [
+["very thin", 1]
+],
+"Leaf type": [
+["pinnate", 1],
+["simple", 0]
+],
+"Leaf arrangement": [
+["spirally arranged", 1],
+["distichous", 0]
+],
+"Leaf sheath": [
+["forming a well-defined crownshaft", 1],
+["not forming a crownshaft", 0]
+],
+"Leaf indumentum": [
+["covered with a variety of indumentum types", 1]
+],
+"Leaflet type": [
+["undivided", 1],
+["divided", 0],
+["rhomboid praemorse", 1]
+],
+"Leaflet margins": [
+["entire", 1],
+["serrated", 0],
+["lobed", 0]
+],
+"Stilt roots": [
+["present", 1],
+["absent", 0]
+],
+"Stem type": [
+["solitary", 1],
+["clustered", 0]
+],
+"Stem height": [
+["3-7 m tall", 1]
+],
+"Stem diameter": [
+["2-4 cm in diameter", 1]
+],
+"Stem surface": [
+["smooth", 1]
+],
+"Male flower length": [
+["up to 27 mm long", 1]
+],
+"Male flower stamens": [
+["5-6 stamens", 1]
+],
+"Plant type": [
+["shrub", 1],
+["tree", 1]
+],
+"Plant growth": [
+["cespitose", 1],
+["pleonanthic", 1]
+],
+"Plant stem rings": [
+["conspicuously ringed with leaf scars", 1]
+],
+"Inflorescence type": [
+["rope-like", 1]
+],
+"Inflorescence emergence": [
+["from leathery spathes", 1]
+],
+"Inflorescence growth pattern": [
+["grow in a circular pattern around one or more trunk rings beneath the crown shaft", 1]
+],
+"Flower sex": [
+["monoecious", 1]
+],
+"Female flower length": [
+["7-9 mm long", 1]
+],
+"Inflorescence arrangement": [
+["1-3 per node", 1]
+],
+"Peduncle length": [
+["10-15 cm long", 1]
+],
+"Seed attachment": [
+["basally attached", 1]
+],
+"Seed hilum": [
+["rounded hilum", 1]
+],
+"Seed raphe": [
+["elongate with reticulate branches", 1]
+],
+"Seed endosperm": [
+["homogeneous", 1],
+["ruminate", 1]
+],
+"Embryo position": [
+["basal", 1]
+],
+"Germination": [
+["adjacent-ligular", 1],
+["eophyll praemorse", 1]
+],
+"Pollen shape": [
+["ellipsoidal", 1],
+["bi-symmetric", 1]
+],
+"Pollen aperture": [
+["distal sulcus", 1]
+],
+"Pollen ectexine": [
+["intectate", 1]
+],
+"Pollen foot layer": [
+["upper surface of foot layer covered by fine, dense gemmae or clavae", 1]
+]
+}
+

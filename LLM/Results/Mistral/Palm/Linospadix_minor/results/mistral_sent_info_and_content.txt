@@ -1,0 +1,160 @@
+We are interested in obtaining botanical trait information about the species Linospadix minor.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The leaf petiole is 4-51cm long with almost vertical angle.
+The pinnae are semi-glossy dark green coloured above, lighter green below, with midrib prominent on both surfaces and veins that are not prominent on lower surface.
+Fruit elongate/cylindrical, 8-18 mm.long by 3-8 mm diameter, yellow or red at.maturity, epicarp irregularly rugose when.fruit is fully mature.
+Linospadix minor , more commonly known as the minor walking stick palm is a small North-East Queensland tropical forest palm with stems between 7mm and 20mm in diameter, growing from 1 m to 5 m high, with semi-glossy dark green leaves, and a crown of 7 to 12 leaves Linospadix minor Palms and Cycads Societies of Australia webpage.
+Leaf bases longitudinally striated and sheathing the stem.
+Petals are free in female flowers and fused in male.
+Stamens 7-10 in each male flower.
+Wind turns leaf-tips brown and leaves lose their luster.
+First pair of true leaves simple, pinnatisect and deeply bilobed.
+Stem erect, slender, eventually becoming bare, Distribution of Linospadixconspicuously ringed with leaf scars.
+Inflorescence : 2' long, from within leaves, unbranched, sometimes multiple.
+Leaflet blades about 18-23 x 1-6 cm.
+Stems 1-5 m tall,.7-20 mm diameter, internodes elongate,.green, crown with 7-12 leaves.
+Linospadix minor produces inflorescence up to 80cm long.
+Seed elongate/ellipsoid.
+Plants may.be less an 1m to more than 4m tall, sparsely.or densely clustered, and leaves may be.small to large with few to many segments.
+Small or clustering undergrowth palms of rain forest in New Guinea andeastern Australia, with spicate inflorescences with the peduncular bractinserted far above the prophyll at the base of the flower-bearing part ofthe inflorescence, seed with ruminate endosperm.
+Leaves bifid to pinnate, neatlyabscising or marcescent, a crownshaft not well developed, sheaths soon surfaces, transverse veinlets usually obscure.
+Fruit elongate/cylindrical, 8-18 X 3-8 mm, yellow or red at maturity, epicarp irregularly rugose when fruit is fully mature.
+Male and female flowers may appear to be in separate spikes but both are produced in each spike and the males shed following anthesis.
+Their leaves may be small to large with few to many segments.
+Calyx persistent at the base.
+Inflorescence about 38-80 cm long.
+Trunk : multiple, 1" in diameter, light green to grey with age, prominently ringed.
+Linospadix minor, half-ripe fruit.
+Habit : clustering with a crown of 3-5 feather leaves.
+Clustering small palm, 1-2 m tall.
+Pollen ellipsoidal, slightly asymmetric to lozenge-shaped, aperture a distal sulcus, ectexine tectate, coarsely perforate, or coarsely perforate-rugulate, aperture margin slightly finer, infratectum columellate, longest axis 24-41 µm.
+Leaflet apex praemorse , at least the broader ones.
+Pistillate flowers eventually much larger than the staminate, sepals 3, distinct, broadly imbricate, petals 3, distinct, slightly exceeding the sepals, with broad imbricate bases and conspicuous, thickened, triangular, valvate tips, staminodes 3-6, irregularly lobed and tooth-like, gynoecium unilocular, uniovulate, ± ovoid, with 3 short stigmas, becoming recurved, ovule laterally attached near the base, hemianatropous.
+It grows a solitary, slender, cane-like trunk with closely spaced nodes.
+Linospadix minor , more commonly known as the minor walking stick palm is a small North-East Queensland tropical forest palm with stems between 7mm and 20mm in diameter, growing from 1 m to 5 m high, with semi-glossy dark green leaves, and a crown of 7 to 12 leaves.
+Petiole/Leaf bases : very thin, unarmed, un-split leaf bases.
+Spacing: 36-48 in.
+Embryo small, conical , about 1.5 mm long, located at the apex of the seed.
+Seeds about 12-15 x 2-3 mm, outer surface with fine longitudinal ribs.
+Stems l-5 m tall, 7-20 mm in diam., internodes elongate, green, crown with 7-12 leaves.
+Leaves consist of about 2-24 sessile leaflets each attached to the rhachis by a broad base.
+© J.L. Dowe Scale bar 10mm.
+Linospadix minor is a clustering small palm with stems between 7mm and 2cm in diameter, growing from 1m to 5m high, with a crown of 7 to 12 leaves.
+Fruits +/- cylindrical , red, orange or yellowish when ripe, about 8-18 x 3-8 mm.
+Terminal leaflets or segments wider at the base than any of the lateral leaflets.
+Leaves to 110 cm long, irregularly segmented with united pinnae, segments with broad bases, or regularly pinnate with narrow pinnae, petiole 3.6-51 cm long, 1-4 mm wide, pinnae 3-24 per leaf, semiglossy dark green above, lighter green below, midrib prominent on both surfaces, veins not prominent on lower surface, lamina chartaceous, irregularly corrugated, when backlit under 10X magnification, with scattered, circular clear "cells" to 0.1 mm wide linearly parallel to midrib and veins.
+Major veins 4 or 5 per leaflet.
+Infructescence about 50-80 cm long.
+Small to very small, solitary or clustered, unarmed, pleonanthic,monoecious palms.
+Fruit ellipsoidal to spindle-shaped, rarely curved, bright red at maturity, perianth whorls persistent, the stigmatic remains apical, epicarp smooth, mesocarp thin, fleshy, with thin fibres next to the endocarp, endocarp very thin, closely adhering to the seed.
+Seed subbasally attached, the raphe extending ca.
+Fruit : eliptical, bright red when ripe, 1/2" long.
+Fruit elongate/cylindrical, Aug-18 X 03-Aug mm, yellow or red at maturity, epicarp irregularly rugose when fruit is fully mature.
+Crownshaft : pseudocrownshaft, 4" tall, consisting of multiple leaf bases that each only partly cover stem, very pale green.
+Inflorescence to 80 cm long.
+The fruits are small, cylindrical shaped, yellow or red when ripe containing one seed each.
+© J.L. Dowe Male flowers.
+Leaves to 110 cm long, irregularly segmented with united pinnae, segments with broad bases, or regularly pinnate with narrow pinnae, petiole 3.6-51 cm long, 1-4 mm wide, pinnae 3-24 per leaf, semiglossy dark green above, lighter green below, midrib prominent on both surfaces, veins not prominent on lower surface, lamina chartaceous, irregularly corrugated, when backlit under 10X magnification, with scattered, circular clear cells to 0.1 mm wide linearly parallel to midrib and veins.
+The 30cm fronds are divided into about sixteen segments with large fishtail effect at the end, almost as if the leaf had been torn across.
+Types of Plants Air Plants Bamboo Begonias Bromeliads Bulbs, Corms & Tubers Cactus Carnivorous Plants Conifers Cycads Evergreen Ferns Platycerium Ficus Orchids Ornamental Grasses & Sedges Container Grass Ornamental Trees Palms Roses Shrubs Submerged Plants Succulents Growing Environment Environments Garden Plants Indoor Plants Low Light Plants Terrarium Plants Water Plants Growing Habit Climber Ground cover Decorative Features Flowering Plants Foliage Plants Plants Uses Annuals Commercial Cultivation Culinary crop Culinary Herbs Cutting Flowers Deciduous foliage Fruit Tree Hobbyist Plants Top Anti-Pollutant Houseplants Plants Information General Care General Information Ideas Aquarium Aquarium Plants Bog Plants Availability Rare & Unusual Plants.
+There are 3 to 24 pinnae per leaf.
+Seed germination time 40 to 364 days.
+Leaf Description : pinnate, flat, terminal leaflets wider than the rest, light green, 3' long, very upright in orientation.
+Staminate flowers squatly bullet-shaped in bud, to 3 X 2 mm wide, petals apically rounded, with conspicuous longitudinal striations, green at anthesis, not widely opening, stamens 7-20, attached at different levels in the staminal cluster, connective not extending beyond the anther, anther lobes irregular or uneven.
+In deep shade, the leaves colour is a deep green.
+These palms may be less an 1m to more than 4m tall, sparsely or densely clustered.
+Usually flowers and fruits as a shrub 1-2 m tall but occasionally grows to 5 m.
+L. minor unripe fruit.
+Large, scattered, orbicular 'cells' visible with a lens.
+Linospadix minor, more commonly known as the Minor Walking Stick Palm is a small North-East Queensland tropical forest palm with stems between 7mm and 20mm in diameter, growing from 1 m to 5 m high, with semi-glossy dark green leaves, and a crown of 7 to 12 leaves © 2020
+Petals free in female flowers, fused in male.
+Linospadix minor , more commonly known as the Minor Walking Stick Palm is a small North-East Queensland tropical forest palm with stems between 7mm and 20mm in diameter, growing from 1 m to 5 m high, with semi-glossy dark green leaves, and a crown of 7 to 12 leaves The Minor Walking Stick Palm has a limited distribution in the rainforests of the southern Mcllwraith Range , and is most abundant in the Queensland's wet tropical forests south of Cooktown to Mission Beach and as far inland as Windsor Tableland References â 1.0 1.1 Linospadix minor Palms and Cycads Societies of Australia webpage.
+Linospadix minor , more commonly known as the minor walking stick palm is a small North-East Queensland tropical forest palm with stems between 7mm and 20mm in diameter, growing from 1 m to 5 m high, with semi-glossy dark green leaves, and a crown of 7 to 12 leaves The minor walking stick palm has a limited distribution in the rainforests of the southern Mcllwraith Range , and is most abundant in the Queensland's wet tropical forests south of Cooktown to Mission Beach and as far inland as Windsor Tableland.
+Stems l-5 m tall, 7-20 mm diam., internodes elongate, green, crown with 7-12 leaves.
+At the tenth leaf stage: leaf compound with two broad-based, sessile, longitudinally veined leaflets or simple with a leaf of similar shape and texture.
+Cataphylls 2 or 3, sheathing the stem.
+The leaves are up to 110cm long, irregularly segmented with united pinnae, segments broadly adnate to the rachis or regularly pinnate with narrow pinnae.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 1],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

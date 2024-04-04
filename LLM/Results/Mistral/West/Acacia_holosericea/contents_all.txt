@@ -1,0 +1,60 @@
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1]
+],
+"Trunk and root": [],
+"Latex": [],
+"Crown": [],
+"Stem shape": [],
+"Bark": [],
+"Bark color": [],
+"Leaf shape": [
+["Simple leaf", 1]
+],
+"Petiole": [
+["Petiolated leaf", 1]
+],
+"Leaf blade": [
+["Obovate blade", 1]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1]
+],
+"Leaf base": [
+["Rounded leaf base", 1]
+],
+"Leaf apex": [
+["Rounded leaf apex", 1]
+],
+"Vein": [
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1]
+],
+"Tendril": [
+["Plant without tendrils", 1]
+],
+"Spine": [
+["Plant without spines", 1]
+],
+"Blade color": [
+["Uniformly coloured blade", 1]
+],
+"Fruit": [
+["Pod", 1]
+],
+"Inflorescences": [
+["Spike of flowers or inflorescences", 1],
+["Flower head", 1]
+],
+"Sexuality": [],
+"Flower color": [
+["Yellow coloured flower", 1]
+],
+"Flower shape": [
+["Rod-like flower", 1]
+]
+}
+

@@ -1,0 +1,171 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Leaf shape": [
+["pinnate", 1],
+["bifid", 1],
+["divided", 1]
+],
+"Staminodes": [
+["ring", 1],
+["two to five teeth", 1],
+["upright", 1],
+["conspicuous", 1]
+],
+"Bracts of Rachillae": [
+["spirally subdistich or distich", 1],
+["short", 1],
+["triangular", 1],
+["each one languid flowers triad located in a shallow depression", 1]
+],
+"Anthers": [
+["baxifix or Medifix", 1],
+["oblong", 1],
+["pointed at the end or bifid", 1]
+],
+"Peduncle": [
+["single bract", 1],
+["branched spike- shaped or one-to two-fold", 1]
+],
+"Stem": [
+["erect", 1],
+["rarely exceeding 8 m tall", 1],
+["usually very much less", 1],
+["sometimes stilt-rooted at the base", 1],
+["with very short to moderately long internodes", 1],
+["and conspicuous leaf scars", 1]
+],
+"Stamens": [
+["8 to 40 present", 1]
+],
+"Leaf length": [
+["shorter than, or equally long as the leaves", 1]
+],
+"Stylus": [
+["solid", 1],
+["the scars are bent back to blossom", 1]
+],
+"Pollen": [
+["ellipsoidal or flattened triangular", 1],
+["and from mild to significant asymmetry", 1]
+],
+"Germination": [
+["adjacent-ligular", 1],
+["eophyll simple or bifid", 1]
+],
+"Sepals": [
+["three sepals are free", 1],
+["spherical", 1],
+["imbricat", 1]
+],
+"Inflorescence axis": [
+["running in a simple ear off", 1],
+["or it bears at the top a few, forced standing Rachillae", 1],
+["long", 1],
+["protrude beyond the inflorescence axis", 1],
+["and are in the armpit of narrow, triangular bracts", 1]
+],
+"Petals": [
+["two to three times as long as the sepals", 1],
+["valvat", 1],
+["grown very short at the base", 1],
+["The three petals project beyond the sepals", 1]
+],
+"Gynoecium": [
+["ovoid or ellipsoidal", 1]
+],
+"Seed": [
+["ovoid or ellipsoidal", 1],
+["basally or laterally attached", 1],
+["usually furrowed by sparse vascular strands", 1],
+["raphe superficial or impressed", 1],
+["endosperm homogeneous or ruminate", 1],
+["embryo basal", 1]
+],
+"Exocarp": [
+["smooth", 1]
+],
+"Mesocarp": [
+["fleshy with two layers of flat longitudinal fibers", 1]
+],
+"Endocarp": [
+["thin and fragile", 1]
+],
+"Window": [
+["sometimes form in the leaf blade window", 1],
+["so the leaves dry up on the plant or fall off under their own weight", 1]
+],
+"Filaments": [
+["short", 1],
+["slender", 1],
+["short fused at the base", 1],
+["connected to the base of the petals", 1]
+]
+}

@@ -1,0 +1,244 @@
+We are interested in obtaining botanical trait information about the species Oncosperma horridum.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Pollen ellipsoidal symmetric, aperture a distal sulcus, ectexine tectate, coarsely perforate-finely reticulate with supra-tectate, angular, striate, block-like clavae, aperture margin similar, infratectum columellate, longest axis 27-43 µm.
+A slender, tall, clustering palm native to rainforests on the Malay Peninsula, Sumatra, Borneo and the Philippines, to 700 m.
+It is a solitary or multistemmed palm, as is noted, links, on new growing stem.
+Oncosperma horridum est une espèce multicaule, souvent aussi solitaire, qui peut former des touffes de 4 à 10 stipes minces et droits pouvant atteindre 20 m de haut et un diamètre de 25 cm, ce qui lui permet de dominer les autres arbres de la forêt tropicale.
+It is a clustering pinnate species with droopy leaves and intensely spiny trunks.
+They display flowers distributed spirally all over the length, arranged in triads formed by two male flowers and one female.
+The leaves are carried by dark thorny petioles up to 1 m long ending in a green-grey sheath wrapping completely the trunk, up to 1 m long, thorny too.
+It has genuinely straight upright trunk  with slender stems and very droopy leaflets.
+The stem is slender and armed with sharp spines on the trunk and leaf stalks.
+The flowers are monoecious and spirally arranged.
+The fruits are oval, waxy, initially of green colour, then brown and finally black when ripe, with 1,5-2 cm of diametre.
+Fruits: Its fleshy fruits are round, slightly flattened, waxy, black, one-seeded, and 1.5–1.8 cm across, with finely pimpled surfaces.
+Stem reaching 20 m, all plant parts spiny, pinnate leaf, leaflets horizontal or nearly so, 2-3 m long.
+It has straight upright stems growing over 20 m tall and is covered with long, downward pointing prickles.
+Inflorescences large, yellow below the leaves.
+Initially, they are enclosed in a grey spathe, deciduous and very thorny.
+Fruit spherical, dark blue-black, with lateral or subapical stigmatic remains, epicarp smooth or pebbled, mesocarp thinly fleshy, without fibres, endocarp thin, crustaceous, closely adherent to the seed, with a round basal operculum.
+Big clump, monoecious, stem reaching 20 m', all plant parts spiny, pinnate leaf, straight and drooping at end, 2-3 m. leaflets lanceolate, petiole 1-2 m with short spathe, Inflorescence yellow, fruit oval 2cm diam.,
+Tall, usually clustered, spiny, pleonanthic, monoecious palms.
+Pistillate flowers ± globular, sepals 3, distinct, rounded, imbricate, petals 3, distinct, rounded, imbricate at the base, the tips valvate, staminodes 6 , very small, tooth-like, gynoecium unilocular, uniovulate, ± globose or ovoid, the stigmas apical, scarcely prominent, ovule form unknown.
+Stems erect, often very tall, becoming bare, ringed with leaf scars, frequently armed with scattered or dense, robust spines, the spines tending to erode with age, in one species the stems sometimes branching aerially.
+All parts covered with massive, mostly downward directed black spines.
+Tall clustering very spiny pinnate-leaved palms, native to Sri Lanka, Southeast Asia and West Malesia, with conspicuous crownshafts and seed with ruminate endosperm.
+Seed attached by an elongate lateral hilum, raphe branches anastomosing, partially embedded in the endosperm, endosperm deeply ruminate, embryo subbasal.
+Fruit ovate, green changing brown, then ripening black, 1.5 to 2 cm across, waxy.
+The small marbled sized fruit grow in long strings.
+The grey stems are covered by black acuminate thorns facing down, up to 10 cm long, and are marked by brown rings in correspondence to the bases of the fallen leaves.
+Spacing: 12-15 ft. 15-20 ft.
+Growth Form: It is a slender palm that grows in clusters of 4–6 stems or more, and has very dense crowns.
+The great yellow inflorescences come out under the sheath in correspondence to the rings on the stem and are ramified and thorny, up to 60 cm long.
+In contrast to the more widely cultivated O. tigillarum it has fewer, and thicker trunks, and larger leaves on which the leaflets are held flat on one plane, rather than drooping as in O. tigillarum.
+It has fairly straight upright stems.
+The large crown is formed by pinnate leaves, slightly arcuate, even more than 3 m long.
+The bright green pointed pinnulae are uniformly arranged on the sides of the rachis on only one level, slightly drooping, up to 50 cm long and 3 cm broad.
+Flowers monoecious , spirally arranged.
+The leaflets are drooping, giving the crown a feathery appearance.
+Oncosperma horridum  is a multi stemmed species, often even solitary, that can form tufts of 4-10 thin erect stems reaching the height of 30 m and the diametre of 25 cm, towering over the trees of the tropical forest.
+Its stem can grow up to 20 m tall, and is covered with black prickles.
+Foliage: It produces pinnate leaves, whose leaflets are arranged closely and neatly on both sides of the rachis, like the teeth of a comb.
+Spacing: 20-30 ft. 30-40 ft.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 1],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 1],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Pollen shape": [
+["ellipsoidal", 1],
+["spherical", 0]
+],
+"Pollen aperture": [
+["distal sulcus", 1],
+["proximal sulcus", 0],
+["polar pores", 0]
+],
+"Pollen exine ornamentation": [
+["tectate", 1],
+["scabrate", 0],
+["verrucate", 0],
+["perforate", 1],
+["reticulate", 1]
+],
+"Pollen aperture margin": [
+["similar", 1],
+["dissimilar", 0]
+],
+"Pollen infratectum": [
+["columellate", 1],
+["granular", 0],
+["rugulate", 0]
+],
+"Plant height": [
+["<10m", 0],
+["10-20m", 0],
+["20-30m", 1],
+["30-40m", 0],
+[">40m", 0]
+],
+"Stem diameter": [
+["<10cm", 0],
+["10-20cm", 0],
+["20-30cm", 0],
+["30-40cm", 0],
+[">40cm", 1]
+],
+"Stem orientation": [
+["upright", 1],
+["leaning", 0],
+["decumbent", 0]
+],
+"Stem spines": [
+["present", 1],
+["absent", 0]
+],
+"Leaf type": [
+["pinnate", 1],
+["bipinnate", 0],
+["simple", 0]
+],
+"Leaflet arrangement": [
+["horizontal", 1],
+["vertical", 0],
+["drooping", 1]
+],
+"Leaflet length": [
+["<1m", 0],
+["1-2m", 1],
+["2-3m", 1],
+["3-4m", 0],
+[">4m", 0]
+],
+"Leaf petiole length": [
+["<1m", 0],
+["1-2m", 1],
+["2-3m", 0],
+["3-4m", 0],
+[">4m", 0]
+],
+"Leaf petiole spines": [
+["present", 1],
+["absent", 0]
+],
+"Inflorescence color": [
+["yellow", 1],
+["white", 0],
+["green", 0],
+["red", 0]
+],
+"Fruit stigmatic remains": [
+["lateral", 1],
+["apical", 1],
+["basal", 0]
+],
+"Fruit epicarp": [
+["smooth", 1],
+["pebbled", 1],
+["rugose", 0]
+],
+"Fruit mesocarp": [
+["fleshy", 1],
+["fibrous", 0],
+["dry", 0]
+],
+"Fruit endocarp": [
+["thin", 1],
+["thick", 0],
+["crustaceous", 1]
+],
+"Fruit operculum": [
+["round", 1],
+["oval", 0],
+["irregular", 0]
+],
+"Plant growth form": [
+["clustering", 1],
+["solitary", 1]
+],
+"Plant habit": [
+["tall", 1],
+["short", 0],
+["spiny", 1],
+["pleonanthic", 1],
+["monoecious", 1]
+]
+}

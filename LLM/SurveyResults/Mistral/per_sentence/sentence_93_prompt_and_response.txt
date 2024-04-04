@@ -1,0 +1,44 @@
+We are interested in obtaining botanical trait information about the species Jatropha gossypiifolia.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Inflorescence: Common peduncle, terminal to 10 cm long, partial ones cymose dichotomous, lax, bracts linear-lanceolate, acute, up to 12 mm long, stipitate, gland-toothed, glabrous.
+
+Initial dictionary of traits with all possible values:
+{"Sexuality": ['Terminal sexuality'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Sexuality": [
+    ["Terminal sexuality", 1]
+  ],
+  "Inflorescence type": [
+    ["Peduncle", 1],
+    ["Cymose dichotomous", 1],
+    ["Lax", 1]
+  ],
+  "Bract shape": [
+    ["Linear-lanceolate", 1]
+  ],
+  "Bract apex": [
+    ["Acute", 1]
+  ],
+  "Bract size": [
+    ["Up to 12 mm long", 1]
+  ],
+  "Bract attachment": [
+    ["Stipitate", 1]
+  ],
+  "Bract margin": [
+    ["Gland-toothed", 1]
+  ],
+  "Bract surface": [
+    ["Glabrous", 1]
+  ]
+}

@@ -1,0 +1,55 @@
+We are interested in obtaining botanical trait information about the species Bourreria succulenta.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaf blades 5-15 x 4-8 cm, elliptic, oblong, or ovate, glabrous, chartaceous to coriaceous, the apex obtuse, acute, notched and mucronate, the base tapering, the margins entire and slightly revolute, petioles 0.5-1.5 cm long.
+
+Initial dictionary of traits with all possible values:
+{"Leaf glands": ['absent'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf glands": [
+    ["absent", 1]
+  ],
+  "Leaf blade length": [
+    ["5-15 cm", 1]
+  ],
+  "Leaf blade width": [
+    ["4-8 cm", 1]
+  ],
+  "Leaf blade shape": [
+    ["elliptic", 1],
+    ["oblong", 1],
+    ["ovate", 1]
+  ],
+  "Leaf blade surface": [
+    ["glabrous", 1]
+  ],
+  "Leaf blade texture": [
+    ["chartaceous", 1],
+    ["coriaceous", 1]
+  ],
+  "Leaf blade apex": [
+    ["obtuse", 1],
+    ["acute", 1],
+    ["notched", 1],
+    ["mucronate", 1]
+  ],
+  "Leaf base": [
+    ["tapering", 1]
+  ],
+  "Leaf margin": [
+    ["entire", 1],
+    ["slightly revolute", 1]
+  ],
+  "Petiole length": [
+    ["0.5-1.5 cm", 1]
+  ]
+}

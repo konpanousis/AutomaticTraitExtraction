@@ -1,0 +1,229 @@
+We are interested in obtaining botanical trait information about the species Rhapis subtilis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The stems of this plant are pencil-thin and nearly fiber-free and have a lot of visible green stem showing through.
+Pink Flower Plants.
+Upto 6 inch Planters.
+Red / Pink Pebbles.
+Encyclopedia Index Families Genera Species Arecaceae Rhapis Palms Palms & Cycads.
+Seed with short lateral raphe, endosperm homogeneous, laterally penetrated by the seed coat, embryo subbasal or lateral.
+Rhapis excelsa outdoors and typical fan/palmate leaf.
+Black Flower Seeds.
+Rhapis subtilis has a varying number of leaf.segments with varying widths.
+White Flower Plants.
+Mature plants.have from two to nine leaflet segments per leaf.
+Black Flower Plants.
+Rhapis subtilis variegated - Plant.
+Stems: Individual stems/canes 2–3 m tall, 8–15 mm in diameter with coarse fibers producing a diagonal lined, squared open, mesh.
+Male and female inflorescence similar, branched to 1-2 orders, to 30-50 cm long, prophyll and rachis bracts similar, overlapping not inflated, rachis 6-30 cm long with two first order branches, rachillae usually few, 3-25 cm long.
+Fruit Seeds.
+Purple / Violet Pebbles.
+Pistillate and distinct, wedge-shaped, each with a short apical style, distally expanded into a conduplicate, fimbriate, tube-shaped stigma, ovules basally attached, 1 in each carpel, hemianatropous, with a basal fleshy aril.
+Back to Arecaceae index.
+Rhapis excelsa ,.canes are dark green, have closely spaced leaf base scars and.are covered with fibrous leaf sheaths.
+Pink Flower Bulbs.
+Thin leaves with wide segments curve downward providing a very graceful effect.
+Leaflets are also pointed.whereas Rhapis excelsa.usually has blunt irregularly toothed ends as regular.segments of approximately the same width with corresponding.leaves having roughly the same number of leaf segments.Whereas
+Leaflets are also pointed whereas Rhapis excelsa usually has blunt irregularly toothed ends as regular segments of approximately the same width with corresponding leaves having roughly the same number of leaf segments.
+Red Flower Bulbs.
+Not many palms excell as indoor palms as Rhapis species.
+Purple Flower Seeds.
+Fruit globose, 8-10 mm diam., borne on an up to 2 mm long receptacular stalk.
+Petiole 20–25 cm long, 1-3 mm across.
+Fruit: Globose, 8–10 mm diameter, 1–3 borne on an up to 2 mm long receptacular stalk.
+The stems are densely clustered, thin, cane-like and rarely more than 1.5 m tall.
+Rhapis excelsa can be identified by its typical leaflets which end bluntly or raggedly, unlike most of the other common Rhapis that have pointed leaflets.
+Perennial Flowers.
+Orange Color Flower Seeds.
+White Flower Seeds.
+Rhapis leaves typically have less than 8 to 10 leaflets per leaf These delicate, deeply split fan leaves droop from very thin petioles along most of the stem length making these palms look luxuriously bushy.
+On the.other hand Rhapis excelsa.is usually grown from division of offset suckers which spread.laterally as sometimes long cane-like rhizomes.
+All Rhapis are fan palms with typically deeply divided leaves.
+Fruit to 9.5 x 9.5 mm, 1-3 borne on a short receptacular-stalk to 2 mm, epicarp shiny translucent, minutely papillose, with conspicuous black lenticels.
+Leaf sheaths may be up to 300mm long, the edges.of which have light brown fine fibres, that closely enwrap.the canes.
+Inflorescences are interfoliar, arising from within the.upper leaf sheaths and is enclosed in brown papery bracts.
+Pink Flower Seeds.
+The branchlets are green stiff and rather brittie, branched.to second order, and fairly upright in habit.
+Queensland fruits are greenish maturing to light brown,.spherical, 3 to 6mm across.
+Red Flower Seeds.
+It has many thin, bamboo-like stems that grow from the underground rhizome and give the palm the appearance of a bush eventually, especially in tropics, can spread quite a ways creating a large wall of palms.
+Blade V-shaped or semicircular in outline, flattened, glossy dark green to pale green abaxially as well as adaxially, varible in size up to 40 cm in diameter, splitting variable to 0.1–17 cm from hastula, segments 2–11, 7–25-folded, to 38 cm long, transverse veinlets very conspicuous.
+Slender clustering dioecious or polygamous fan palms with reed-like stems, from Southern China to Thailand and North Sumatra, often on limestone, instantly recognizable from the leaves divided between the folds into segments.
+Rhapis subtilis has.canes that are less than 15mm in diameter and smallish.leaflets that are thin in section.
+Rank: SEEDLING.
+Male flowers ovoid to 6.1 x 4.0 mm, calyx to 2.5 mm, lobes to 0.7mm with irregular margin, sometimes darkly pigmented, corolla marked with faint vertical lines of darker pigment, with acute lobes, narrowed into a receptacularstalk to 1.8 mm, filaments, shorter row to 1.5 mm, longer row to 2.0 mm, broad, to 0.5 mm in diam., keeled, pistillode present.
+Rhapis subtilis.
+It differs from other species in only having first or second order branching in the inflorescence, large coriaceous flowers conspicuously banded with pigment when mature, with vertical lines of pigment on the corolla producing a ribbed appearance and irregularly toothed calyx.
+Rank: FLOWERING.
+Stems are heavily clothed in dark brown fibers and are about one-half inch in thickness.
+At less than 2.5 metres mature height this species is easily distinguished from Rhapis excelsa by its smaller size at maturity.
+Mix Color Flower Seeds.
+With some sun the leaf crowns become larger and the stems attain greater diameters.
+Inflorescences : Male and female inflorescence similar, branched to 1–2 orders, to 30–50 cm long, prophyll and rachis bracts similar, overlapping not inflated.
+The fruit is described as white or whitish on specimen labels.
+Green Flower Bulbs.
+It is a relatively small palm, growing maybe 6 feet tall at the most, and only forming narrow clumps of very thin-stemmed plants.
+Blue Flower Seeds.
+The species are commonly known as lady palms.They are fan palms , with the leaves with a bare petiole terminating in a rounded fan of numerous leaflets.
+It is a shorter palm, normally only about 4 or 5 feet tall.
+The leaf.blade can be from 200mm to 400mm across arranged in a.semi-circle.
+Stems or.canes are very slender usually around 10mm in diameter.although some plants may have broader canes.
+Encyclopedia Index Families Genera Species Arecaceae Rhapis Palms.
+Planters By Shape.
+Yellow Flower Seeds.
+Leaves induplicate, palmate, marcescent, divided to the base or to ca.
+Flowers are.arranged irregularly along the angular branchlets.
+Seeds by Flower Color.
+Orange Color Flower Bulbs.
+Leaf sheath 10–15 cm long, often with persistent ligule.
+Stems to 3 m tall, with sheaths 8-20 mm diam., without 4-15 mm.
+Each leaflet is multiribbed, pointed and.minutely toothed on outer and inner margins.
+Pollen ellipsoidal, usually with slight to obvious asymmetry, aperture a distal sulcus, ectexine tectate, coarsely perforate, aperture margin slightly finer, infratectum columellate, longest axis 21-40 µm, post-meiotic tetrads tetrahedral.
+Hibiscus divers - Hibiscus non identifies.
+Spacing: 36-48 in.
+Male flowers ovoid to 6.1 x 4.0 mm, calyx to 2.5 mm, lobes to 0.7mm with irregular margin, sometimes darkly pigmented, corolla marked with faint vertical lines of darker pigment, with acute lobes, narrowed into a receptacularstalk to 1.8 mm, filaments, shorter row to 1.5 mm, longer row to 2.0 mm, broad, to 0.5 mm diam., keeled, pistillode present.
+The leaf tips are usually nearly pointed, but sometimes have that look like they were cut with a pinking shears, as in Rhapis excelsa.
+R. subtilis is a dioecious multi-stemmed palm that.grows to a maximum height of around 2.5 metres.
+Leaves are typically divided into 2 or 3 leaflets with bluntly pointed tips.
+Summer Flower Bulbs.
+Rhapis subtilis has canes that are less than 15mm in diameter and smallish leaflets that are thin in section.
+Yellow Flower Bulbs.
+Rhapis subtilis - Pacsoa.
+Rhapis subtilis subspecies subtilis.
+Yellow / Orange Pebbles.
+Small, clustering, unarmed, pleonanthic, dioecious or polygamous palms.
+Female flowers, cylindrical to 5.5 x 3.2 mm, often conspicuously banded, calyx to 2.2 mm with a pale basal rim, lobes to 0.9 mm with a dark, irregular margin, corolla with vertical markings sometimes less distinct than in the male, with acute triangular, black or black-based beak like lobes, with a receptacular-stalk to 2 mm, 3 carpels developing, staminodes present.
+Fragrant Flower Seeds.
+The leaf shapes of this bushy dwarf palm are enormously variable, ranging from a simple recurved blade to a small palmate leaf with more than 10 segments.
+The flowers are well spaced on few pale coloured, smooth textured rachillae.
+Purple Flower Bulbs.
+Germination remote-tubular, eophyll entire, slender, strap-shaped, plicate.
+Each stems developed at the end several leaves, which are divided into several segments and are fan-like.
+Stems to 3 m tall, with sheaths 8-20 mm in diam., without 4-15 mm.
+Aloe vera - Succulent Plant.
+Description: Rhapis subtilis is a small, tightly clustered evergreen palm species growing in groups and rarely larger than 1.5-3 m high.
+Stems slender, reed-like, erect, covered with persistent leaf sheaths, eventually becoming bare, conspicuously ringed with leaf scars.
+Leaves are palmate, dark green, thin textured and divided.into few to many irregular segments that are divided to the.centre of the leaf.
+Flowers: Small creamy white, 5–6.5 mm long, different sexual types of flowers similar, calyx irregularly lobed, evenly pigmented, male flowers slightly longer than the female and hermaphroditic ones.
+Rhapis excelsa leaf showing typical jagged/premorse leaf ends.
+Leaf , plication development in the leaf , stem vasculature , roots , floral.
+Inflorescence, the male and female similar in general appearance, branching to 1 or 2 orders, peduncle relatively long, to 220 mm, glabrous, prophyll tubular, overlapping the first rachis bract, relatively thin-textured, pale-brown to reddish-brown, inner surface usually dull, occasionally shiny , outer surfaces dull, mostly glabrous, tomentose sometimes on edges and keels, rachis bracts 1-2, similar in appearance to the prophyll, overlapping the base of the next bract, rachis overall length 65-280 mm, ca.
+Blue Flower Bulbs.
+Rhapis multifida is probably the most beautiful of all the commonly grown Rhapis palms and is somewhat of a miniaturized version of Rhapis humilis with numerous very slender, delicate pointed leaflets making up each leaf.
+Fibres on leaf sheaths.are fine and closely adhere to the canes, giving canes a.slender rather neat appearance.
+Black Flower Bulbs.
+The leaves are so deeply divided that the leaflets look like separate entities and create the illusion of fingers off a hand.
+This species also can be identified by its having ten or more pointed drooping leaflets per leaf and tall, less fiber-covered stems reaching up to 18 feet in some old palms.
+This species of Rhapis has a relatively fine leaf sheath and prominent cross veins on the leaf segments, and rachis bracts usually with little or no tomentum.
+Flower Seeds.
+Above 20 inch Planters.
+Thailand Lady Palm is a small species and can grow up to 2mt height.
+Ornamental Tree > Rhapis palms.
+New fronds come out from the center of the trunk.
+Rhapis is a small genus of palms containing perhaps 12 species--all from Asia, including South China, Thailand and several islands.
+Petioles are slender and wire-like up to 300mm.long although usually shorter and sparsely covered with fine.fluffy hairs.
+Light Shade Foliage: Grown for foliage Evergreen Foliage Color: Unknown - Tell us Height: 4-6 ft. 6-8 ft. 8-10 ft. 10-12 ft.
+The stems tend to be naked in older plants, without as much fibres as with Rhapis excelsa but ligule sometimes remaining intact at maturity.
+Leaves are very dark green.
+And the flowers will turn to a yellowish colour and not become red -¦.
+Purple / Violet Planters.
+Many Rhapis spp have initially rachillae of pink color on the inflorescence, which subsequently as the flower buds grow to mature flowers turn green.
+The plants have thin stems growing to 3-4 m tall, branching at the base, forming clumps and are dioecious , with male and female flowers produced on separate plants.
+Calla Lily Bulbs.
+Tightly clustered, small-sized palm forming large clumps.
+Flowers, relatively well spaced on the rachillae, large, coriaceous.
+Fragrant Flower Bulbs.
+Fruit usually developing from 1 carpel with apical stigmatic remains, more rarely 2 or 3 carpels developing, sometimes the stalk-like corolla base persisting and becoming a sub-woody fruit stalk, epicarp becoming purplish-brown or white, mesocarp fleshy, somewhat fibrous, endocarp thin, brittle.
+Taxon biology: Very variable in leaf dissection, but easily distinguished by the relatively large flowers with leathery perianths.
+Yellow Flower Plants.
+Individual stems 2-3 m tall, 0.4-1.5 cm diam.
+R. subtilis wide leaf form.
+Flowers 5-6.5 mm long, different sexual types of flowers similar, calyx irregularly lobed, evenly pigmented, male flowers slightly longer than the female and hermaphroditic ones.
+Inflorescence, the male and female similar in general appearance, branching to 1 or 2 orders, peduncle relatively long, to 220 mm, glabrous, prophyll tubular, overlapping the first rachis bract, relatively thin-textured, pale-brown to reddish-brown, inner surface usually dull, occasionally shiny , outer surfaces dull, mostly glabrous, tomentose sometimes on edges and keels, rachis bracts 1-2, similar in appearance to the prophyll, overlapping the base of the next bract, rachis overall length 65-280 mm, about 2.3 mm in diam., increasing up to 4 mm, rachillae few, to 34-238 mm long, 0.5-1.6 mm in diam.
+Staminate flowers symmetrical, calyx cup-shaped, thick, shallowly 3-lobed distally, the lobes somewhat irregular, triangular, glabrous or hairy, corolla fleshy, tubular, inserted above calyx and appearing ± stalked basally, the 3 lobes ± triangular, valvate, usually very short, sometimes ciliate at the margins, stamens 6, filaments elongate, but adnate along ± the entire length of the corolla tube, free at their very tip, anthers short, rounded, latrorse, pistillode minute, 3-lobed.
+Purple Flower Plants.
+In the tropics, this palm can actually grow pretty tall, up to 12'.
+White Flower Bulbs.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 1],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

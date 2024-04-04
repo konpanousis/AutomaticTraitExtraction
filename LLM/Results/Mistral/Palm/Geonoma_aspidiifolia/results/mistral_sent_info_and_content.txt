@@ -1,0 +1,113 @@
+We are interested in obtaining botanical trait information about the species Geonoma aspidiifolia.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Definitie: A leaf having two or more distinct leaflets that are evident as such from early in development.
+Fruit ±globose, sometimes somewhat pointed, green, brown, or purple-black, 1-seeded, stigmatic remains basal, the rachillae often becoming brightly coloured, epicarp, thin smooth, mesocarp thin, with narrow longitudinal fibres, endocarp thin, crustaceous to membranous.
+Pistillate flowers sunken in the pit with only the tips of the floral organs exserted, sepals 3, united basally and adnate to the receptacle, often keeled, free and imbricate distally, petals 3, connate in a soft tube, briefly adnate to receptacle basally, ending in 3, valvate, chaffy, spreading lobes, staminodes united in a tube, truncate, 6-toothed or 6-lobed, lobes, if present, spreading at anthesis, tubes basally adnate to the receptacle, and sometimes also the corolla tube, gynoecium tricarpellate but 2 carpels vestigial at anthesis, unilocular, uniovulate, ovule anatropous, style tubular, lateral to basal, elongate, ending in 3 linear stigmas, recurved at anthesis.
+Leaves 9 per stem, irregularly pinnate, not plicate, bases of blades running diagonally into the rachis, sheaths 9.5 cm long, petioles 20.6 cm long, drying green or yellowish, rachis 19.5 cm long, 2.3 mm in diameter, veins raised and rectangular in cross-section adaxially, pinnae 3 per side of rachis, basal pinna 13.7 cm long, 1.5 cm wide, forming an angle of 74° with the rachis, apical pinna 13.9 cm long, 8.7 cm wide, forming an angle of 35° with the rachis.
+A clump-forming, small, water-loving, moderately fast growing, monoecious, forest understorey palm.
+Inflorescences peduncles 4.3 cm long, peduncular bracts 4.0 cm long.
+Extremely variable genus of mostly rather small solitary or clustering palms from rain forest in Central and South America, with distinctive anthers with divergent thecae.
+They have compound , broad leaves.
+Small to moderate, solitary or clustered, unarmed, pleonanthic, monoecious palms.
+Imagem principal.
+Seed ± globose, hilum short, basal, raphe encircling the seed, endosperm homogeneous, embryo erect basal.
+Inflorescences infrafoliar, prophyll length 3.7-6.9 cm, peduncular bract length 3.4-4.7 cm, distance between bract scars 0.2-0.8 cm, peduncle length 3.4-6.0 cm, peduncle width 2.7-4.8 mm, orders of inflorescence branching 1, rachilla length 4.4-8.7 cm, rachilla width 2.6-3.9 mm, number of rachillae 2-4, flower pits spirally arranged, fruit diameter 6.1-7.0 mm, fruit length 8.4-11.2 mm.
+Leaves 9 per stem, irregularly pinnate, not plicate, bases of blades running diagonally into the rachis, sheaths 9.5 cm long, petioles 20.6 cm long, drying green or yellowish, rachis 19.5 cm long, 2.3 mm in diameter, veins raised and rectangular in cross-section adaxially, pinnae 3 per side of rachis, basal pinna 13.7 cm long, 1.5 cm wide, forming an angle of 74° with the rachis, apical pinna 13.9 cm long, 8.7 cm wide, forming an angle of 35 ° with the rachis.
+Categories : Geonoma Trees of the Caribbean Trees of Central America Trees of South America Arecaceae genera Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+Leaves irregularly pinnate with multi-veined pinnae, sheath length 8.5-11.5 cm, petiole length 8.0-29.0 cm, rachis length 13.0-23.5 cm, rachis width 1.8-3.1 mm, number of leaf divisions per side of rachis 2-3, basal angle of pinna divergence 63-90°, basal pinna width 0.6-3.0 cm, apical angle of pinna divergence 32-42°, apical pinna width 6.0-12.5 cm, apical pinna length 9.0-16.0 cm.
+Geonoma is a genus of small to medium-sized palms native to the forest understorey of tropical Central and South America.
+Inflorescences peduncles 6.1 cm long, peduncular bracts 6.6 cm long.
+Leaves pinnate, regularly or irregularly divided, or entire and bifid, sheath short, splitting opposite the petiole, margins fibrous, glabrous or variously tomentose, petiole short to long, slightly grooved or flattened adaxially, rounded abaxially, glabrous or tomentose, blade bifid, or with 2 or 3 pairs of leaflets, or irregularly divided, or nearly evenly pinnate, thin and papery or somewhat leathery, usually glabrous adaxially, glabrous, tomentose or with scales abaxially, especially along the main ribs, uniseriate hairs present or absent, midribs of single folds conspicuous, transverse veinlets not evident.
+Pollen ellipsoidal, usually with either slight or obvious asymmetry, aperture a distal sulcus, ectexine tectate, coarsely perforate or perforate and/or micro-channelled, and rugulate, aperture margin usually slightly finer, infratectum columellate, longest axis 22-48 µm.
+Identification: Stems clustered 1.2-3.0 m tall, stem diameter 0.5-1.0 cm, internode length 1.3-3.8 cm, internodes green, or reddish-brown distally, number of leaves per stem 7-12.
+Geonoma aspidiifolia subspecies aspidiifolia Species Information.
+Stem very short, subterranean, erect, or creeping, slender, sometimes tall, enclosed by thin leaf sheaths, becoming bare, usually cane-like, ringed with close or distant, conspicuous or inconspicuous leaf scars.
+Definition: whole plant arborescent.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+It has smooth, green stems, 1.8 m. tall, 0.7 cm.
+Individuals can grow to 3 m.
+Plants 1.8 m tall, stems 1.8 m tall, 0.8 cm in diameter, solitary or clustered, canelike, internodes 2.7 cm long, covered with reddish or brownish scales, especially in their distal part.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

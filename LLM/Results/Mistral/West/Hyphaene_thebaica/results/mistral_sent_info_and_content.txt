@@ -1,0 +1,251 @@
+We are interested in obtaining botanical trait information about the species Hyphaene thebaica.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Pagina 1 van 1.
+The inflorescence is similar in both sexes, up to 1.2 m long.
+The doum palm is a dioecious palm and grows up to 17 m high.
+Trunk is Y-shaped, with a girth of 90 cm., and the tree is easily recognizable by the dichotomy of its stem forming up to 16 crowns.
+The leaves are fan shaped and measure about 120 by 180 cm.
+Bole fairly smooth but clearly showing the scars of the fallen leaves.
+Hyphaene thebaica is a dioecious palm 10-17 m high.
+The stems, covered in good part by the remains of the petioles of the old leaves which cross in a typical way, can reach a height around the 15 metres with a diameter of 30-45 cm.
+The trunk, which can have a girth of up to 90 cm , branches dichotomously and has tufts of large leaves at the ends of the branches.
+Palm solitary or forming clumps of 5-7 stems almost emerging from the same point and at different stages of development, armed, pleonanthic, dioecious.
+Stem 8-15 m in height and 30-45 cm in diameter, branched to 1-4-order dichotomies , with the first one appearing 2.5-4 m above ground, producing up to 16 leaf crowns, the stem covered or not with remnant leaf sheaths which fall off in aged individuals, grey, leaving conspicuous, 1-3 cm thick ring scars when young, then the scars becoming closer in older individuals.
+Staminate flowers borne in a cincinnus of 3 flowers, one flower emerging at a time, subtended by a minute, membranous, green bracteole, calyx basally tubular, apically with 3 acute, elongated lobes, corolla with a stalk-like base, valvate, lobes 3, ovate, hooded, striate, stamens 6, connate at the base to the corolla, filaments with a swollen base, anthers medifixed, versatile, latrorse to introrse, pistillode 3-lobed, minute.
+Tree, up to 10 m or more tall, solitary, dichotomously branched.
+The fruits are globose or pear-shaped, of glossy brown colour when ripe, 6-7 cm of diameter, with edible pulp and very hard seed, utilized in the past as vegetable ivory for producing handicrafts.
+Leaves spirally arranged into dense crowns, with 8-20 leaves per crown, fan-shaped, up to 1.5 m long, sheathing at the base, petiole up to 140 cm long, margins brown or black with spines up to 1 cm long, hastula up to 1.5 cm long, costa up to 3.5 cm long, blade 55-90 cm long, costapalmately divided for up to 75% of its length, with up to 40 segments, with a single fibre between each segment, blue-green, segments single-fold, apex divided, outer half with brown or pale scales.
+The petioles are about a metre long, sheathing the branch at the base and armed with stout upward-curving claws.
+Habit : solitary branching palm with a crown of 15-20 fan leaves.
+Fruits 1-seeded , 5-6 cm  long, 4-5 cm in wide, highly variable in shape and size , borne on a 6-8 mm long pedicel, basal stigmatic remains, epicarp ranging from orange, red to brown or dark-brown in ripe fruits, smooth, shiny, waxy, often presence of small dots, reduced sterile carpels usually visible towards the base of the fruit, mesocarp conspicuously fibrous, up to 8 mm thick, sweet, endocarp well developed.
+The flower is red and the fruits are hard, woody, and sweet in taste.
+Leaves 120 x 180 cm, fan shaped, in tufts at the ends of branches with the blade divided into segments about 60 cm long.
+The fruit ripens in 8-12 months.
+Leaves 10-18 per crown, costapalmate, spirally arranged, dark green to bluish, leaf sheath 24-30 cm long, 16-20 cm wide, grey-brown, with a triangular cleft at the base, often remaining below the leaf crown or throughout the length of the stem in young individuals, margins fibrous, armed from the mid-length with robust, triangular, upward pointing black spines, petiole 1-2 m long, 5-10 cm wide at the base and 3-4 cm at mid-length, green-grey to black, at the base adaxially channelled and abaxially rounded, towards the apex dorso-ventrally compressed in cross-section, margins armed with robust, triangular, reflexed or upward pointing black spines, up to 2 cm long and 0.8-1 cm wide at the base, displaying different shapes, hastula 1.5- 6 cm long, green, with slightly black margins, costa 40-60 cm long and 1.5-2.2 cm in width, light green, smooth, conspicuously recurved, triangular in cross-section, leaf blade olive-green, 1-2 m long, showing small brown dots becoming darker when the leaf dries, divided at 1/3 of its length into 50-60 regular segments, main veins prominent on the abaxial side, basal segments 30-50 cm long and 1.5- 2.5 cm wide, middle segments 50-60 cm long and 5-7 cm wide, apical segments 35-50 cm long and 1.5-4.5 cm wide, single-folded, with a slightly bifid apex up to 4-7 cm long, presence of interfold filaments between segments of up to 60 cm long, a brown, light and smooth indumentum present at the base of the leaf blade and encompassing the mid veins, especially on young leaves, and becoming caduceus on aged leaves.
+Abstract The Hyphaene thebaica one of the palm plant, belong to Arecaceae family.
+The bark is fairly smooth, dark grey and bears the scars of fallen leaves.
+The leaves, of green-grey colour, are costapalmate, wide up to 1,5 metres, a divided in rigid segments, on a long petiole equipped of blackish thorns at the margins.
+Older leaves are bitter and unpalatable.
+Seeds 2-3.5 x 3 cm, ivory in colour, trunkate at base, apex obtuse.Hyphaene
+Arab J Fd Nutr 3:6-67.
+Branches of female spadices stouter, in the fruiting stage marked by densely tomentose cushions after the fall of the fruit.
+Male flowers shortly stalked, solitary in pits of the spadix, spathe-bracts encircling the spadix, pointed.
+The tree has a Y-shaped trunk and the leaf is shaped like a large fan.
+The leaves vary from green to gray and are held by beautiful, bright yellow leaf stalks which are armed with black thorns along their margins.
+On germination, the cotyledon stalk buries the radicle and plumule to a depth of 60 cm.
+Inflorescence : from with crown, upright, arching, 3'-4' long, branched- 8" branched off main peduncle, flowers yeloow-white.
+Fruit a drupe, highly variable in shape and size, ovate to globose to obovate, usually with some irregular bumps around the base and/or shoulders towards the apex, 4.5-9 cm x 4.5-7 cm, sessile or with short and wide pedicel, smooth, yellowish brown to orange, red or dark red-brown, dull or shiny, 1-seeded, mesocarp 4-8 mm thick, dry, fibrous, endocarp 3-8 mm thick, bony.
+Similar to H. compressa, but fruits irregularly knobbly.
+Fruits 6-10 x 6-8 cm, smooth, shiny brown when ripe.
+Fruit : pear shaped, brown, 3" long, reportedly edible.
+Male and female flowers on separate trees.
+Inflorescences unisexual, interfoliar, pistillate and staminate inflorescences similar.
+Trunk : single, though in California usually branches at ground level , 20" diameter, retained split leaf bases for up to 10' or so, then trunk tends to clean itself, tan.
+Pistillate flowers larger than staminate, borne solitary in each pit, subtended by a membranous bracteole, supported by a short, thick, densely hairy pedicel, sepals 3, distinct, triangular-rounded, imbricate, striate, petals 3, similar to the sepals but more flexible, staminodes 6, fused in an epipetalous ring, sagittated, flattened, anthers undifferentiated, gynoecium globose, 3-carpellate, 3-ovulated but only reaching maturity.
+Male and female flowers are produced on separate trees.
+They are 6-10 x 6-8 cm, smooth, rectangular to cubical, with rounded edges, shiny brown when ripe, about 120 g each when fresh, 60 g when dry, each containing a single seed.
+The inflorescence is similar in both sexes, up to 1.2 m long, with short branches at irregular intervals and 2-3 spikes arising from each branch.
+Dioecious tree up to 20 m tall, with dichotomous branching, trunk solitary, up to 40 cm in diameter, soon dividing into 2 branches, which may divide again to give 8 crowns, most of the trunk covered with leaf bases breaking up into fibres near the base of the trunk.
+Seed shaped like fruit, 3-4 cm x 2.5-4 cm, endosperm white, with hollow centre.
+Flowers unisexual, 3-merous.
+Leaves 120 x 180 cm, fan shaped, borne in tufts at the ends of branches with the blade divided into segments about 60 cm long, margins entire, leaf stalk about 60-100 cm long, sheathing at the base with numerous upwardly curving hooks.
+The inflorescences are similar in general appearance, up to about 1.2 m long, branching irregularly and with two or three spikes arising from each branchlet.
+Leaf Description : markedly costapalmate, waxy/leathery, blue-green-grey to green-grey, 4'-6' long.
+Seeds as diversely shaped as the fruits, basally attached, endosperm white, with a coconut flavour when young, with a central hollow cavity when ripe, germination remote-tubular, cotyledonary petiole buried up to 80 cm underground, eophyll linear-lanceolate, plicate.
+Petiole/Leaf bases : 2' long, slightly channeled, armed with dark, hooked teeth , light yellow-green underneath to pale grey to peach colored near base, some scurf on sides and teeth, leaf bases split and often retained on trunk until maturity.
+Flowers unisexual, 3-merous, male flowers with minute green bracts, calyx with tubular base and 3 acute, hooded lobes, corolla with a basal stalk and 3 overlapping, obovate and hooded lobes, stamens 6, on the base of the corolla lobes, female flowers much larger than male ones, pedicel short and wide, sepals 3, free, triangular, acute and leathery, petals 3, rounded, somewhat smaller than sepals, scarious, staminodes 6, ovary globose, 3-locular, but only 1 locule fertile, stigmas 3, sessile.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Palm tree", 1],
+["Tree", 1],
+["Shrub", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 0],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 1]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 1],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

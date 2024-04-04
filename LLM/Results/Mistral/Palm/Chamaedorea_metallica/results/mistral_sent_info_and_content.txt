@@ -1,0 +1,137 @@
+We are interested in obtaining botanical trait information about the species Chamaedorea metallica.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+C. metallica showing the characteristic metallic sheen.
+The flower stalk comes from the lowest leaves and the female has a characteristic orange stalk with attractive orange flowers.
+Hoogte: 50 cm.
+C. metallica inflorescence close-up.
+Spacing: 12-15 in.
+The female plant a single spike of pistillate fls.
+Easy, Easy to Moderate, Moderate.
+Afmeting: 50 cm.
+.The leaves are firm and undivided with a deep shade of green that will become dark green and almost black with a metallic sheen.
+The leaves are held upright,.
+Stems: Solitary, erect stems, 0.5-3 m tall, 0.5-2.5 cm in diameter and ringed with narrow bands of leaf scars.
+Flowers and fruits: Inflorescence erect, with 10-12 green branches on palms with staminate flowers and a single spike on plants with pistillate flowers, turning red-orange when in fruit.
+Blooms are followed by green egg-shaped fruits that turn black when ripe.
+Pin on Pinterest.
+Stem: Single, unbranched up to 50-120 cm long and up to 2,5 cm in diameter white-spotted with swollen leaf rings and growing with a narrow profile.
+Entire leaves that have a. metallic sheen.
+Height: 10 cm.
+The leaves have the most amazing metallic sheen.
+x 20 cm.
+Flame Thrower Palm Tree: Medium.
+Metallica Palm Tree: Small.
+Morphology Page fan palm feather palm palmate leaf costapalmate leaf costapalmate closeup pinnate leaf bipinnate leaf praemorse leaflets leaf folds inflorescence branching.
+A very attractive small palm, with simple, undivided leaves,.and a deep apical notch.
+Width: 5 cm.
+Male and female blossoms grow on different plants.
+Rank: FLOWERING.
+Encyclopedia Index Families Genera Species Arecaceae Chamaedorea Palms.
+The elliptical fruits are about a 0.5 inch long and 0.3 inch in diameter.
+Back to Arecaceae index.
+Pinnately veined, reduplicate , two-lobed with a ruffled or puckered upper surface between veins.
+Potmaat: 14 cm Lees verder.
+The leaves grow straight upwards and can reach 75 cm in length and 40 cm in width.
+Orange male and female flowers are borne on different plants.
+Leaves: 30-70 cm long and 25-40 cm wide, tough, durable, simple, undivided, erect, almost straight, bifid and notched at the tip in the shape of a chalice or fish's tail, dark green with an amazing metallic sheen.
+Upper and lower leaf surfaces are metallic blue-green and clustered near the tip of the stem.
+Florida Royal Palm Tree: Large.
+Fruits: Small black, elliptical about a 13 mm long and 8 mm in diameter.
+Adventitious roots form near the stem base.
+The Chamaedorea Metallica is a small palm tree native to the tropical rainforests of Central America.
+Chamaedorea metallica leaves and inflorescence.
+Palm Tree Size  *.
+This palm has a thin green trunk.
+Mature height only 120-150 cm.
+It has a single stem, unbranched up to 50-120 cm long and up to 2,5 cm in diameter white-spotted with swollen leaf rings and growing with a narrow profile.
+The leaves are 30-70 cm long and 25-40 cm wide, tough, durable, simple, undivided, erect, almost straight, bifid and notched at the tip in the shape of a chalice or fish’s tail.
+Rank: SEED.
+Variegated Persian Ivy – Climber plants.
+It produces attractive little red, purple or orange flowers that grow in a branched inflorescence.
+The spherical to egg-shaped fruits are black when ripe.
+Small, solitary palm, leaves simple, two-lobed, with a metallic blue sheen.
+Slow, Slow to Moderate, Moderate.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

@@ -1,0 +1,301 @@
+We are interested in obtaining botanical trait information about the species Leucaena leucocephala.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Mimosa glauca sensu L.1763 Misapplied.
+Flower Blossom.
+Oxford Fenceline tree Leucaena leucocephala , subspecies glabrata, habit as a fenceline tree, to 10m tall.
+They are alternately arranged along the stems and borne on stalks 2-5 cm long.
+Its leaflets are relatively large with pointed tips.
+It has hard heavy wood , with a pale-yellow sapwood and light reddish-brown heartwood.
+Each of these pods contains 10-25 hard seeds  that are glossy brown, flatenned , and somewhat oval in shape.
+These pods are initially green in colour, but turn brown or reddish-brown as they mature.
+A shrub or small tree usually growing 2-10 m tall, but occasionally reaching up to 15 m or more in height.
+Leucaena is an evergreen tree, often reaching a height of 7–18 m.
+Leucaena On White Background.
+Stems and Leaves The younger stems are green and usually densely covered in fine greyish coloured hairs.
+Older stems have a relatively smooth, greyish or greyish-brown, bark with numerous small raised spots.
+The fruit are elongated , flattened, pods with a pointed tip.
+Its leaflets are relatively small with rounded tips.
+Its pods are relatively small and contain 5-8 seeds.
+Bark is mid grey-brown with shallow rusty orange-brown vertical fissures, slash reddish.
+Brown Pods Of Leucaena Leucocephala Tree.
+Morphological description Deep-rooted  shrub or tree 2-6 m tall, form varies from shrubby and highly branched to arborescent with a short clear bole to 5 m, upright angular branching and an open, rounded crown , both subspecies coppice densely from basal buds.
+Leucaena Leucocephala Tree With Nice Ball Shape Flowers.
+Each of the small flowers has five tiny sepals , five small greenish-white coloured petals , and ten prominent pale yellow or whitish coloured stamens.
+Holm L, Pancho J V, Herberger J P, Plucknett D L, 1979.
+The flowers are tiny, white or pale yellowish, in dense ball-like heads about 3/4 inch in diameter.
+The fruit of the two species is also very similar, but that of the lead tree is usually blunt at the tip, or with a short point, while that of the mimosa is usually more tapered at the tip, with a longer, more slender point.
+Seeds are small with a flat surface, hard testa, discoidal shape, dark brown color, and transverse alignment in the pods.
+Leucaena leucocephala de Wit , White Lead Tree, Lead Tree Family Leguminosae the Legume Family, subfamily Mimosoideae, Mimosa and relatives Distinguishing Characteristics This deciduous shrub or small tree to 25 feet tall has an open, spreading crown and smooth, pale gray-brown bark.
+The leaflets, with a pointed tip and an uneven base, are small and numerous, with 13 to 17 pairs per pinna.
+White Popinac Seeds On White Background.
+Similar Species in Florida The foliage is remarkably similar to that of the mimosa , but the foliar gland of the lead tree, if present, is located on the rachis of the leaf between the lowermost pair of pinnae, while that of the mimosa is located near the base of the petiole.
+These two sub-species can be distinguished by the following differences: Leucaena leucocephala subspecies leucocephala is a relatively small and much-branched tree with younger stems that are densely covered with fine greyish-coloured hairs.
+Mimosa glauca sensu L.1763 Mimosa leucocephala Lam.
+Pods are 9-19 cm long, 13-21 mm wide, linear-oblong and flat with papery pod walls, mid- to orange-brown, glabrous and slightly lustrous , or densely covered in white velvety hairs , arranged in clusters of 3-20 and occasionally up to 45, per flower head.
+These two sub- species can be distinguished by the following differences: L. leucocephala subspecies leucocephala is a relatively small and much-branched tree with younger stems that are densely covered with fine greyish-coloured hairs.
+Each flower head produces 5–25 pods that are flat, linear to oblong in shape, lustrous, covered with velvety hairs, and consists of 15–30 seeds, which are released from both margins of the pod.
+Leucaena  leucocephala is a small to medium-sized tree, up to 15 m tall and if having a single trunk, this being up to 35 cm in diameter, with older trees in favourable sites reaching 20 m tall and 50 cm in diameter.
+Fruits ripen in 10-15 weeks.
+The leaflets are small, 9-21 mm long, 2-4.5 mm wide, linear-oblong or weakly elliptic, acute at the tip, rounded to obtuse at the base and glabrous except on margins, with a concave, cup-shaped, elliptic petiole gland.
+Seeds are reported to germinate in a temperature range of 15–40°C, and a pH range of 4–9.
+Description  Leucaena de Wit) is a fast growing, evergreen, thornless shrub, reaching a height of 5 m to 20 m.
+These leaflets are elongated in shape with pointed tips , and are either hairless or have hairy margins.
+These clusters are borne in the leaf forks on stalks 2-6 cm long, with one to three clusters present in each leaf fork.
+Green Leaf On White Background.
+There are also several interspecific hybrids of leucaena that produce either no or very few seeds.
+Fresh Leucaena Pods Isolated On White Background.
+Bark on young branches is smooth and grey-brown or salmon pink, whereas older barks are darker grey-brown, and Trough with shallow, rusty orange-brown vertical fissures, and deep red inner bark.
+A small raised structure is usually present on the leaf stalk , or just below where the lowest pair of branchlets meet.
+Distinguishing Features a shrub or small tree growing up to 10 m or more tall.
+As a tree, it can grow up to 30 feet tall.
+Its leaflets are very small with slightly pointed tips.
+Leaves bipinnate with 4-9 pairs of pinnae per leaf and 13-21 pairs of leaflets per pinna.
+The leaves are twice-compound and have 3-10 pairs of branchlets.
+The plant usually has flowers and pods simultaneously.
+Flowers and Fruit The flowers are borne in dense globular clusters , which look like a 'pompom' when the flowers open.
+©Philmarin/via wikipedia - CC BY-SA 3.0 Title Fenceline tree Caption Leucaena leucocephala , subspecies glabrata, habit as a fenceline tree, to 10m tall.
+Seeds are dark brown with the hard-shining seed coat.
+Its pods are relatively small and contain about 5-8 seeds.
+It has a very fast growth rate: young trees reach a height of more than 20 ft in two to three years.
+The root system of mature plants is deep, with an architectural composition of long taproots, fine tertiary roots, and numerous robust lateral roots.
+The fruits are flat, rounded or blunt at the tip or with a short, broad point, 5 to 7 inches long and an inch or less wide, and reddish brown when mature, with 10 to 20 flattened seeds.
+It spreads through the cleared areas as a shrub or tiny tree rising up to 10 m in height.
+Those of the mimosa are pink and are borne in loose, open heads, while those of the lead tree are white or yellowish and are borne in tight, ball-like heads.
+They are alternately arranged along the stems and borne on stalks  2-5 cm long.
+Bark mid grey-brown with shallow rusty orange-brown vertical fissures.
+Bolivian wattle has slightly grooved , finely hairy or hairless , younger stems that are greenish in colour.
+Unknown plants or plants without names.
+Pasiecznik Title Seed pods Caption Leucaena leucocephala , subspecies glabrata, cluster of unripe pods on a single flower head.
+Leucaena is a long-lived perennial legume.
+Hairy anthers distinguish Leucaena from all other mimosoid legume genera.
+Immature pods glabrous and slightly lustrous.
+Flowers arranged on compact globose heads, the flower heads in groups of 2-6 in leaf axils arising on actively growing young shoots, the leaves developing simultaneously with the flowers, the heads 12-21 mm in diameter with 100-180 flowers per head, the flowers white.
+Each of these pods contains 10-25 hard seeds that are glossy brown, flattened , and somewhat oval in shape.
+Form varies from shrubby and highly branched in subspecies leucocephala to arborescent with a short clear bole to 5 m, upright angular branching and an open, rounded crown in subspecies glabrata.
+Description Leucaena leucocephala is a shrub or small tree usually growing 2-10 m tall, but occasionally reaching 15 m or more in height.
+Flowers white to pale cream, calyx c. 3 mm, glabrous at base, puberulent at apex, 5-toothed, petals narrowly oblanceolate , ca.
+Several pods will usually develop from each flower cluster.
+The branchlets are 2-10 cm long and each bears 5-22 pairs of leaflets.
+Leucaena leucocephala is a leguminous tree classified under the Family Fabaceae.
+Fruits ripen in 10-15 weeks and are dehiscent, opening when ripe and shedding seeds.
+Variegated Arrowhead -¦.
+Leaves are bipinnate and slightly asymmetric with 6–8 pairs of leaflets.
+It often has a combination of flowers, immature and mature pods all present on the tree at the same time.
+Leucaena leucocephala cluster of developing fruit Photograph by Shirley Denton, courtesy of Atlas of Florida Vascular Plants.
+Top Scientific Name Synonyms Family Common Names Origin Cultivation Naturalised Distribution Habitat Habit Distinguishing Features Stems and Leaves Flowers and Fruit Reproduction and Dispersal Environmental Impact Legislation Management Similar Species.
+Leaves are bipinnate, bearing numerous leaflets 8 mm to 16 mm long.
+Leucaena leaves appear similar to those of tamarind, having white flowers tinged with yellow, and having long flattened pods.
+L. leucocephala subspecies glabrata is a relatively large and sparsely-branched tree with younger stems that are hairless.
+Bucks transinoculated and fed leucaena have good quality semen.
+These pods are initially green in colour, but turn brown or reddish-brown as they mature.
+Older stems have a relatively smooth, greyish or greyish-brown, bark with numerous small raised spots.
+Its pods are relatively large and contain 10-25 seeds.
+Leucaena produces puffy white flowers and green seed pods, which turn brown as they mature.
+Each of the small flowers has five tiny sepals , five small greenish-white coloured petals , and ten prominent pale yellow or whitish coloured stamens.
+The inflorescence is usually borne on actively growing shoots, cream in color, and globular/capitate in shape with 100–180 flowers per head.
+The stem is woody, cylindrical, branched, and dark brown.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+The inflorescence is a cream coloured globular shape producing clusters of flat brown pods, 13 to 18 mm long containing 15-30 seeds.
+The fruit are elongated , flatenned, pods with a pointed tip.
+The flowers are borne in dense globular clusters , which look like a 'pompom' when the flowers open.
+Bimodal Summer Uniform Winter.
+The younger stems are green and usually densely covered in fine greyish coloured hairs.
+It has a deep taproot and is highly branched.
+The leaves are twice-compound and have 3-10 pairs of branchlets.
+The leaves are twice-pinnately compound, to about a foot long, with four to nine pairs of pinnae , and usually a dimple-like gland on the rachis between the lowermost pair.
+A small raised structure is usually present on the leaf stalk , or just below where the lowest pair of branchlets meet.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 1],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 1],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 1],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 1],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 1],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

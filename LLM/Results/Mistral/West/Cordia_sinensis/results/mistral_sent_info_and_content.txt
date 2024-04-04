@@ -1,0 +1,255 @@
+We are interested in obtaining botanical trait information about the species Cordia sinensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Petal or tepal color:.
+A shrub usually up to 4 m. or a bushy tree up to 8 m. high, branchlets angular, fulvous-tomentellous to subglabrous when young, glabrescent, often cream becoming grey or brown and lenticellate with age.
+Stamens 4, male flowers with rudimentary pistillode.
+Categories : IUCN Red List least concern species Cordia Plants described in 1753 Taxa named by Carl Linnaeus Trees of the Caribbean Trees of Central America Flora of Florida Trees of Quintana Roo Trees of the Yucatx¡n Peninsula Garden plants of North America Ornamental trees Drought-tolerant trees Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Commons category link is on Wikidata.
+Flowers male on pedicels 0.5-1.5 mm.
+Flowers are short-stalked, bisexual, white in colour which open only at night.
+Flores con pedicelo de 3-4 mm.
+The fruit is conical, orange or red with a fleshy, viscid pulp overlying a 1-4 large seeds.
+Flowers scented, bisexual or sometimes functionally unisexual, in lax ± pubescent inflorescences.
+The stem bark is greyish brown, smooth or longitudinally wrinkled.
+The dense, evergreen foliage consists of dark green, leathery, alternate , ovate leaves, 18 cm long, with wavy margins.
+Buds of Scarlet cordia.
+Drupe orange when ripe, ovoid or narrowly ovoid, tapering towards apex, 7-10 x 5.6-7.9 mm.
+Tangled shrub or usually a spreading often several-stemmed tree 3-10 m. tall, young stems ridged, slightly pubescent, young bark pale, smooth but later brownish grey or yellowish brown to almost black, densely longitudinally fissured and very rough, innovations often ± velvety, fawn-coloured.
+Fruit 12-15 x 8-11 mm., ovoid or ellipsoid, apiculate, glabrous, yellow, orange or reddish when ripe, surrounded at the lower third by the widely enlarged, usually cream, campanulate calyx, mesocarp fleshy, pyrene c. 8 x 7 mm., ± rhomboidal or quadrangular in cross section, 1-3 seeded.
+Pear-shaped fruits follow the flowers, averaging 5 cm in length.
+Leaves, underside.
+Leaf or leaflet margin:.
+Ovoid, pointed fruits on a saucer-shaped calyx.
+Branches tend to be somewhat drooping, and the tree is naturally multitrunked.
+Stamens 4, inserted at the corolla-throat, filaments 2-3 mm.
+Tree Shrub Herb Climbers Succulents Grasses Sedges.
+Leaves : Sub-opposite, entire, oblanceolate, apex rounded, mucronate, base tapering into petiole.
+.Stamens 4, filaments not hairy.
+Corolla creamy white, tube 5 mm.
+Corolla whitish or cream, tube 4.5-5 mm long, lobes 4.
+Common Names No Data ð Overview Overview Summary Brief Diagnostic Diagnostic Keys Description SubSpecies Varieties Races Diagnostic Keys Description No Data
+Fruiting calyx funnel- or cup-shaped, 3-4.9 x 5.2 x 8.5 mm.
+Flowers are 5 cm wide, red-orange in color, tubular, flaring with 5-7 lobes, bearing 5-7 stamens of similar height.
+Leaves opposite or subopposite, rarely alternate, blade oblanceolate-oblong or oblong, 1.8-11.8 x 0.5-4 cm, attenuate to cuneate at the base, obtuse to rounded or rarely notched at the apex, entire to coarsely crenate, ± densely pubescent on both surfaces, not or only slightly scabrid, practically always with tufts of long soft hairs in the axils beween midrib and main lateral veins beneath, petiole 3-18 mm long.
+Flowers in terminal clusters, white, the calyx lobes covered in soft rusty hairs.
+.Small, white in colour.
+Shrub or small tree up to 12 m tall, young branchlets ± densely pubescent.
+The crown is round to vase-shaped.
+Leaves opposite, subopposite or alternate, petiole 0.3-1.0 cm.
+Cordia dichotoma is a small to moderate-sized deciduous tree with a short bole and spreading crown.
+Female:corolla-lobes 3-4 mm.
+Leaf-blades typically narrowly oblong-elliptic or oblanceolate to oblanceolate-obovate, mostly rather longer than in species 16, 1.5-11 cm.
+.Calyx 4-5 lobed, silky inside.Corolla
+Flowers sweet-scented in rather laxer panicles than in species 16, 6.5 x 7 cm., peduncles and secondary axes up to 1.5-3 cm.
+These leaves are covered with small hairs, lending them a rough, "sandpapery" texture.
+Style with 0.5-2.5 mm long stigmatic branches.
+The stem bark is brown, to cream brown.
+The fruit is a yellow or pinkish-yellow shining globose which turns black on ripening and the pulp gets viscid.
+Male:corolla-lobes oblong, 4.5 mm.
+Flowers hermaphrodite only , Flowers hermaphrodite and unisexual.
+Fruit : Drupe ovoid, small yellow or reddish-brown when ripe.
+A small deciduous tree.
+Flowers are produced in clusters at branch ends throughout the year, particularly in the spring and summer.
+C. sinensis exhibits a range of growth forms, from low shrub to a multi-stemmed tree up to 12m in height.
+.Ovary 4-celled, ovule 1 in each cell, style terminal.
+Leaves opposite, subopposite or alternate, oblong to obovate, greyish-green with pale hairs on both surfaces, margins entire or with widely spaced teeth on the apical half.
+Corolla white, glabrous, tube 2.5-4.0 mm.
+Flowers are white or cream in colour.
+Fruit ovoid with a long tip, embedded in the persistent calyx, orange-red when mature.
+Fruit yellow, orange or bright red, 0.7-1.3 cm.
+When only a single trunk is allowed to develop, it can attain a diameter of 30 cm.
+A shrub or small tree up to 16 ft.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 1],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 1],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 1],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

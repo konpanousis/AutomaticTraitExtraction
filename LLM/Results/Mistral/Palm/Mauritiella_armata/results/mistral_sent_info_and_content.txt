@@ -1,0 +1,143 @@
+We are interested in obtaining botanical trait information about the species Mauritiella armata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+A. aculeata tends to be smaller, with trunk diameters around 10 cm, M. armata and M. macroclada trunks reach 25 - 30 cm, all three retain persistent leaf bases towards the top of the stem.
+The six stamens have thick, angular, long stamens.
+Hibiscus divers - Hibiscus non identifies.
+Rank: GERMINATING.
+The gynoecium is dreifx¤chrig with three ovules.
+The seed is spherical or oblong, basally attached, with an elongated apical knob.
+In the basal -tube zweikielige Vorblatt follow especially narrow spirally arranged bracts, in each of which a single male flower is a tubed zweikieligen Brakteole.
+Dioecious plants Trees of South America Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+The trunk is partially obscured by the dead leaf sheaths, the lower areas are free.
+The inflorescence is usually solitary, interfoliar, with male and female units represented in separate plants.
+The petiole is clearly developed, smooth, unarmed and often coated with wax.
+Tree, Caespitose palm.
+M. armata trunk detail.
+The fruits are globose to ovoid, 2,5-3,5 cm long and of 2-3 cm of diameter, with epicarp covered by rhomboid brown reddish scales arranged vertically, containing only one ellipsoidal white seed.
+From 7.5 to 18 m tall, the trunks are clustering and armed with small spines, usually with stilt roots at the base.
+The crown is Roehrig at the base and has three long, leathery lobes, which are much longer than the calyx.
+Along abaxial folds of the leaf blade is divided almost to the starting point.
+.The fruit is round, usually one seed and bears apical scar remains.
+Definition: whole plant herbaceous.
+Female plant with two inflorescences and one fructescence.
+The endocarp is barely differentiated.
+The bracts are spirally to approximately double spaced and each carry a single female flower.
+Rank: FLOWERING.
+Bronze Blue-Green Height: 8-10 ft. 10-12 ft. 12-15 ft. 15-20 ft.
+The mesocarp is rather thick and fleshy.
+The stems have some real wicked spines.
+The leaves are slightly costapalmate, reduplicate, almost circular, 1-1,4 m broad, of glossy dark green colour above, covered by white-bluish pruinescence below, deeply subdivided almost up to the base in 30-80 linear-lanceolate segments, long, in the median part 0,6-1,2 m and 1,5-3,5 cm broad, with drooping pointed apex, the petioles are 60-80 cm long, unarmed, oval in section, covered by whitish pruinescence.
+Mauritiella armata can be 20 m tall with 8-14 cm trunks ©
+Bright to deep green, the foliage has silvery, glaucous undersides.
+The bracts on the axis are similar to those on the stem, each carrying a hanging or protruding lateral axis of the first order.
+.The leaves are palmately divided.
+The segments are folded numerous and easy.
+The numerous bracts on the inflorescence stem overlap each other and are distich.
+The peduncle is short, the cover sheet briefly, Roehrig, zweikielig.
+The exocarp is busy with numerous vertical rows of reddish- brown scales.
+The stems have sparse, short spines and the roots are an incredible orange color which is striking in comparison to the color of the trunk.
+Mauritiella is a dioecious genus of flowering plant in the palm family found in South America where it is commonly called buriti.
+.The female flowers are larger than the males.
+The leaf blade is approximately circular in outline.
+.The male flowers are symmetrical.
+The six staminodes are laterally fused with her two stamens.
+A very striking palm, featuring multiple spiny trunks to about 15m,.with large, deeply segmented palmate leaves which can have up to 120 segments,.and a silvery undersurface.
+The male and female inflorescences, on different individuals, are similar, coming out between the leaves with ramifications of second order, up to about 1 m long, initially erect, and then drooping.
+Each 1 m leaf of a mature tree is palmate with a brief costa, borne on a long petiole, and divided into numerous, deep segments, leaves of juvenile trees are flattened and much less divided.
+It is about 3ft tall now and has tolerated mid/upper
+This is round to ellipsoidal, located basally.
+The crown is fused in the lower third to half.
+They are medium sized, reduplicat and costapalmat short.
+The upper leaf surface is usually glabrous, the lower surface is usually covered with white wax and dandruff.
+Categories : Trees of Peru Trees of Ecuador Trees of Brazil Trees of Guyana Trees of Venezuela Trees of Suriname Trees of Bolivia Trees of Colombia Calamoideae Palm stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Taxonbars with automatically added basionyms All stub articles.
+The internodes are often filled with thorn-like adventitious roots.
+The leaves are fairly stiff and deeply split, but do droop a bit at the edges, especially in the younger offshoots.
+Spacing: 4-6 ft. 6-8 ft. 8-10 ft.
+The Testa is thin, homogeneous endosperm.Dissemination
+Stems clustered, to 20 m tall, and 15-25 cm in diameter, at least on the lower part armed with short conical root spines.
+The Mauritiella armata Burret is a cespitous dioecious species, rarely solitary, with slender erect whitish stems, 5-20 m tall and of 8-14 cm of diameter, on which are visible the rings trace of the fallen leaves spaced of about 10 cm, armed at least in the lower part of conical spiny adventitious roots, 1-3 cm long, which take root close to the base forming a mass of roots.
+The round fruit is usually one- seeded and covered in red to brown scales with a thick, fleshy mesocarp.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

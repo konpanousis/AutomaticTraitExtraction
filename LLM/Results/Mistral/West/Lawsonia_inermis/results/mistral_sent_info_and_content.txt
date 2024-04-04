@@ -1,0 +1,264 @@
+We are interested in obtaining botanical trait information about the species Lawsonia inermis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Lawsonia inermis is a glabrous branched shrub or small tree.
+Calyx-tube 1-1.7 mm.
+Stem bark.
+Longevity L. inermis is a perennial shrub or small tree.
+Young barks are greyish brown, older plants have spine-tipped branchlets.
+Calyx has 0.2 cm tube and 0.3 cm spread lobes.
+Seeds 3 mm long, angular, with thick coat.
+Volgende pagina.
+Leaves of henna plant are entire, opposite, sub-sessile, oval-shaped and smooth.
+Glabrous shrub or small tree 1.5-7 m. tall often densely tangled and several m. wide, bark ashy grey or brown, smooth or striate, spines sometimes present and up to 3.5 cm.
+Vorige pagina.
+The flowers are typically white, but specimens with dark pink blooms are also available.
+Terminal panicles of highly fragrant flowers bloom seasonally.
+Seeds 2-2.6 mm long.
+Lawsonia inermis , commonly called henna, is a large, evergreen shrub or small tree with a densely branched habit.
+Flowers numerous in large, pyramidal, terminal cymes, fragrant, 1 cm across and 4-merous, calyx with 2 mm long tube, and 3 mm long spreading lobes, petals orbicular or obovate, white or red, stamens 8, inserted in pairs on the rim of the calyx tube, ovary 4-celled, style up to 5 mm long, erect.
+Fruit a globose capsule, 4-8 mm in diameter, many-seeded, opening irregularly.
+It is glabrous and multi-branched, with spine-tipped branchlets.
+Evergreen shrub or tree 2-7 m high, young stems 4-sided, sometimes forming rigid spines.
+Seeds have typical, pyramidal, hard and thick seed coat with brownish coloration.
+The fruits are small, brown globose capsule, opening irregularly and split into four sections with a permanent style.
+Bloom Description: White or pink.
+Decals en skins.
+Stamens with the filaments c. 5 mm.
+The genome consists of a 1.46 Mb chromosome and three plasmids of 0.03, 0.04, and 0.19 Mb.
+L. inermis is a much-branched, glabrous shrub or small tree, 2-6 m tall, with greyish-brown bark, unarmed when young, older plants with spine-tipped branchlets.
+The family Lythraceae comprises 31 genera and 620 species of herbs, shrubs and trees that are recognizable by their flaky bark, opposite, entire leaves that lack gland dots, ovary is more or less superior.
+New branches are green in colour and quadrangular, turn red with age.
+Leaves elliptic, obovate to oblanceolate, 1.2-6.7 x 0.5-2.7 cm, base cuneate into short petiole, tip acute.
+Evergreen shrub or small tree 2-7 m. high, glabrous, with the young branches 4-angular and the old ones terete, rigid and often spinescent.
+In terminal panicles, cream, fragrant.
+Henna is a tall shrub or small tree, standing 1.8 to 7.6 m tall.
+Lawsonia inermis variation spinosa Pers.
+Petals ovate, 1.5-2.5 mm long, base cordate, yellowish-white, style c. 3 mm long.
+Leaves opposite, entire and sub-sessile, elliptic to broadly lanceolate, 1.5-5 cm x 0.5-2 cm.
+Leaves 1.2-6.7 x 0.5-2.7 cm., elliptic, obovate to oblanceolate, acute at the apex, sometimes mucronulate, narrowed into a short petiole, pinnately nerved, submembranous.
+Henna - Lawsonia inermis - Seeds.
+Leaves have length of 2-3 cm with 1-2 cm width.
+Leaves are small, opposite, entire margin elliptical to broadly lanceolate, sub-sessile, about 1.5 to 5 cm long, 0.5 to 2 cm wide, greenish brown to dull green, petiole short and glabrous acute or obtuse apex with tapering base.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+The ovary is four-celled, 5 mm long, and erect.
+Hypanthium plus sepals 3-5 mm long, sepals ovate-triangular.
+Description Small, arid tropical bush, usually only several feet tall.
+Its petals are ovate , with white or red stamens found in pairs on the rim of the calyx tube.
+Flowers whitish, scented, pedicels 2-4 mm.
+The leaves grow opposite each other on the stem.
+The fruit is usually a capsule, the testa of about half the genera has distinctive, initially inverted mucilaginous hairs.
+During the onset of precipitation intervals, the plant grows rapidly, putting out new shoots.
+The leaves are elliptic to lanceolate in shape, reaching up to 2" long and 1" wide, and held on slender branches armed with thorns.
+Fruits purplish green, 4-6 mm.
+Shrub, Tree.
+Inflorescence has large pyramid shaped cyme.
+The leaves gradually yellow and fall during prolonged dry or cool intervals.
+Alles in Flms.
+Lawsonia inermis, également appelé.
+Flowers creamy-white, sweet scented.
+Henna fruits are small, brownish capsules, 4-8 mm in diameter, with 32-49 seeds per fruit, and open irregularly into four splits.
+Flowers are small, numerous, aromatic, white or red coloured with four crumbled petals.
+Mature specimens can reach up to 20' tall with an equal spread.
+Petals white, cream, greenish white, green or yellow, 1.5-2.5 mm.
+The chromosome number reported for L. inermis is 2 n = 30.
+A small glabrous shrub with opposite, elliptic to obovate leaves, flowers 4-merous, white, in terminal panicles, fragrant, capsule ± 5 mm in diameter dehiscing irregularly.
+Calyx-tube 1-1.7 mm.
+Henna shrub is highly branched and has greyish-brown barks.
+Type: Broadleaf evergreen.
+Flowers scented, pedicels 2-4 mm long.
+Leaves elliptic or oblong to oblanceolate, 1-8.5 cm.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 1],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 0],
+["Square stem section", 1]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 1],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 1],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 1],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 1],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 1],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 1]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 1]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 1],
+["Red coloured flower", 1],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 1],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

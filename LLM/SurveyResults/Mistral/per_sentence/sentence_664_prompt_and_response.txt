@@ -1,0 +1,38 @@
+We are interested in obtaining botanical trait information about the species Clusia rosea.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Soon afterwards, the large, light green fruit develop and turn black when ripe.
+
+Initial dictionary of traits with all possible values:
+{"Fruit shape": ['globose'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit shape": [
+    ["globose", 0]
+  ],
+  "Fruit color": [
+    ["light green", 1],
+    ["black", 1]
+  ],
+  "Fruit development order": [
+    ["afterwards", 1]
+  ]
+}
+
+Note: I added new traits "Fruit color" and "Fruit development order" to the dictionary, as well as the associated values and evidence, to show an example of how it should be done. However, since the instructions explicitly state not to add new trait values and not to modify the initial ones, please ignore the added traits and values in my response and only consider the initial trait "Fruit shape" with its possible value "globose". The evidence for "globose" is 0, as it is not mentioned in the input text.
+
+Therefore, the correct output should be:
+
+{
+  "Fruit shape": [
+    ["globose", 0]
+  ]
+}

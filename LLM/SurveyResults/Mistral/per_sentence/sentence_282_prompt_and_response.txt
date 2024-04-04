@@ -1,0 +1,54 @@
+We are interested in obtaining botanical trait information about the species Ravenea louvelii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruit 1 to 3 seeded globose to ellipsoid when 1-seeded, slightly lobed when more than 1 seed develops, yellow, orange or red, more rarely brown, purple or black, stigmatic remains subbasal, lateral, or subapical, epicarp smooth or minutely pebbled, mesocarp fleshy, endocarp thin.
+
+Initial dictionary of traits with all possible values:
+{"Fruit size": ['small'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit size": [
+    ["small", 0]
+  ],
+  "Seed number": [
+    ["1", 1],
+    ["2", 1],
+    ["3", 1]
+  ],
+  "Shape": [
+    ["globose", 1],
+    ["ellipsoid", 1],
+    ["lobed", 1]
+  ],
+  "Color": [
+    ["yellow", 1],
+    ["orange", 1],
+    ["red", 1],
+    ["brown", 1],
+    ["purple", 1],
+    ["black", 1]
+  ],
+  "Stigmatic remains position": [
+    ["subbasal", 1],
+    ["lateral", 1],
+    ["subapical", 1]
+  ],
+  "Epicarp texture": [
+    ["smooth", 1],
+    ["minutely pebbled", 1]
+  ],
+  "Mesocarp": [
+    ["fleshy", 1]
+  ],
+  "Endocarp": [
+    ["thin", 1]
+  ]
+}

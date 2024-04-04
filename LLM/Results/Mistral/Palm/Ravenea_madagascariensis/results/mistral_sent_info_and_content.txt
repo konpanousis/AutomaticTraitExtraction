@@ -1,0 +1,230 @@
+We are interested in obtaining botanical trait information about the species Ravenea madagascariensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+A seasonal bloomer 3 petaled whilte boat-shaped spathes of flowers appear in cymes.
+Palm Leaf Type: Pinnate.
+Type: Broadleaf evergreen.
+Eventually the trunk does appear and lengthen, with somewhat attractive leaf scar rings forming on the trunk surface as the lower leaves drop.
+It can be found producing thorn-like pods, which emerge between the leaves, year-round.
+An elegant medium sized palm to about 12m tall, with.leaves erect in a shuttlecock formation, or slightly arching.
+Inflorescencebranchingorder. 1, 2.
+Traveller's Tree is a palm-like tree native to Madagascar.
+Graceful palm, generally of high plateaux.
+Rank: SEEDLING.
+Trees grow from 1.5–8 meters in height, and 13–30 cm in diameter.
+Palm Height: 25 - 40 ft.
+Propagate by seed or division or suckers/offsets.
+White to an off-white flower is produced from these horn-like pods which is similar to the Bird of Paradise.
+These pods form between the the leaves close to the heart of the plant.
+The average height of a Travelers Palm can reach over 40 feet and its trunk can reach over 2 feet in diameter.
+As the Travelers palm grows it loses its fan-like leaves and reveals a brown rigid trunk.
+Each leaf blade is 5-10' long by 2-3' wide and appears at the end of a thick, grooved leaf stalk which is as long or longer than the leaf blade.
+Showy 3-petaled white flowers in cymes rise from boat-shaped spathes in a manner reminiscent of this plant's bird-of-paradise relative.
+The base of each frond is green, yet they become white to dark grey near the tip at maturity.
+Leaf margins are sometimes split as is the case with some bananas.
+Flowers are followed by woody capsules containing edible seeds covered by bright blue arils.
+Leaves. pinnate with two or more leaflets.
+Width: 15 ft. 0 in.
+Height: 30 ft. 0 in.
+Base of trunk often thickened and with surface roots.
+Moderate Palm Maint.
+The leaves are dark green about 8-10 feet long and are plumose.
+Spacing: 10-12 ft. 12-15 ft.
+Woody capsules 3 1/2" long with edible blue seeds.
+High Palm Maint.
+Broadleaf Evergreen.
+Ravenala madagascariensis , commonly called traveller's tree or traveller's palm, is a large tree-like plant which is native to moist forests in Madagascar where it will grow over time to 30-50' tall.
+This plant features an unbranched trunk which is topped by a fan-shaped single plane of enormous, long-stalked, banana-like, deep green leaves.
+It's a rather ordinary non-crownshafted palm with long leaves and long, straight leaflets.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 1],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 1],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Flower color": [
+["white", 1],
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["yellow", 0]
+],
+"Leaf type": [
+["simple", 0],
+["pinnate", 1]
+],
+"Plant type": [
+["annual", 0],
+["biennial", 0],
+["perennial", 1],
+["evergreen", 1],
+["deciduous", 0]
+],
+"Thorn presence": [
+["present", 1],
+["absent", 0]
+],
+"Growth form": [
+["tree", 1],
+["shrub", 0],
+["vine", 0],
+["herbaceous", 0]
+],
+"Leaf arrangement": [
+["alternate", 0],
+["opposite", 0],
+["whorled", 0],
+["rosulate", 0]
+],
+"Leaf margin": [
+["entire", 1],
+["serrate", 0],
+["dentate", 0],
+["lobed", 0]
+],
+"Leaf shape": [
+["linear", 0],
+["lanceolate", 0],
+["oblanceolate", 0],
+["elliptic", 0],
+["ovate", 0],
+["obovate", 0],
+["cordate", 0],
+["orbicular", 0],
+["reniform", 0],
+["palmate", 0]
+],
+"Leaf base": [
+["acute", 0],
+["obtuse", 0],
+["auriculate", 0],
+["rounded", 0],
+["cordate", 0],
+[" truncate", 0]
+],
+"Leaf apex": [
+["acuminate", 0],
+["acute", 0],
+["obtuse", 0],
+["mucronate", 0],
+[" retuse", 0],
+["emarginate", 0],
+["cobwebbed", 0]
+],
+"Inflorescence type": [
+["cyme", 1],
+["raceme", 0],
+["panicle", 0],
+["spike", 0],
+["umbel", 0]
+],
+"Petal number": [
+["3", 1],
+["4", 0],
+["5", 0],
+["many", 0]
+],
+"Leaf size": [
+["small", 0],
+["medium", 0],
+["large", 1]
+],
+"Plant height": [
+["short", 0],
+["medium", 0],
+["tall", 1]
+],
+"Trunk diameter": [
+["thin", 0],
+["medium", 0],
+["thick", 1]
+],
+"Leaf orientation": [
+["erect", 1],
+["horizontal", 0],
+["drooping", 0]
+]
+}

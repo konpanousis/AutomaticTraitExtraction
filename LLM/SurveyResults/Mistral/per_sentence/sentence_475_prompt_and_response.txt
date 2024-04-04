@@ -1,0 +1,29 @@
+We are interested in obtaining botanical trait information about the species Avicennia germinans.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The embryos exhibit cryptovivipary, a process where they start to develop before the seed is shed, but do not break through the outside of the fruit capsule.
+
+Initial dictionary of traits with all possible values:
+{"Seed colour": ['green'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Seed colour": [
+    ["green", 0]
+  ],
+  "Embryo development": [
+    ["cryptovivipary", 1]
+  ],
+  "Fruit capsule": [
+    ["present", 1]
+  ]
+}
+
+Note: This output includes additional traits and their corresponding values and evidence levels based on the input text. The initial dictionary provided only included "Seed colour" as a trait, but the input text mentioned "embryo development" and "fruit capsule" as well. Additionally, the evidence level for "green" as a seed color was set to 0 because there was no mention of seed color in the input text.

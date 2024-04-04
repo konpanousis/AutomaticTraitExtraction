@@ -1,0 +1,152 @@
+We are interested in obtaining botanical trait information about the species Orania ravaka.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+You can see the large terminal leaflet on the older leaf on the left.
+The inflorescence stem is circular in cross section, Short hair, to very long and varied.
+The anthers are oblong, basifix, upright, with a large connective.
+Pistillate flowers with calyx of 3 united sepals, 4 mm long, corolla creamy white, with 3 free petals, 10 x 8 mm, staminodes c. 20, c. 3 mm long, uniform, gynoecium c. 8.5 - 9 mm long, 4 mm wide, pale brown, stigma with 3 elongate lobes.
+Mine has white/silver under the leaflets and the terminal leaflet is not very wide either.
+The number of stamens is 3, 4, 6 or 9 to 32, the filaments are free or differently deformed, short to moderately long, and fleshy.
+Rank: GERMINATING.
+The leaf sheath is formed clearly and tears over the petiole in the longitudinal direction.
+The Triads are not depressed and have tiny, triangular bracts.
+The three to eleven staminodes are very short awl- shaped, or rarely well developed and can potentially fertile pollen form.The gynoecium is dreifx¤chrig with three ovules and of pyramidal shape.
+The endocarp is rather thin.
+The cup is very short, flat, with three flat triangular lobes or with three free imbricaten corners.
+The upper leaf surface is bare and dark green, the lower leaf surface is covered with dense white Indument, rarely with brown pubescence along the midrib.The
+The embryo sits subapical or lateral.Dissemination
+The leaves are 10-12 foot long.
+The seed surface is slightly furrowed by a network of fibers.
+.The male flowers are narrower and longer than the female.
+The calyx is flat, very short and has three low, triangular lobes, or consists of three free, imbricaten sepals.
+.The female flowers are conical to pyramidal.
+Fruit globose or bilobed, about 4 - 4.5 cm in diam., in an individual said to have about 6 - 8 x 4 cm , dull olive green when young, yellowish green when mature, stigmatic remains sub-basal, epicarp smooth, thin, about 0.7 - 0.8 mm, mesocarp fibrous, about 2 mm thick, endocarp hard, thinner than epicarp, testa light brown, thinner than endocarp, attached to endosperm, endosperm, creamy white, with about 3 cm in diam., with a hollow inside, about 8 mm in diam.
+O. ravaka looks very similar to O. trispatha when adult , leaves are aranged in a big fan way in 2 sides.
+The Brakteolen the individual flowers are very small and not visible.
+The three petals are free, valvat and wide to narrow lanceolate.
+Rank: SEEDLING.
+The side axes of higher order, if any, have inconspicuous, triangular bracts.
+The leaflets are simply folded, arranged regularly and in a plane.
+The flower-bearing axes are usually spreading, flexible, glabrous to hairy and wear in rather greater distances flowers triads distal to single or paired male flowers.
+The shape of the seed plant is unknown.Fruit and seeds.
+The inflorescence axis is shorter or longer than the stem.
+The exocarp is smooth, the mesocarp traversed thin or thick, fleshy and of numerous short, radially arranged fibers.
+Rank: FLOWERING.
+From this point both the radicle and first seedling leaf emerge.
+Also the terminal leaflet on young O ravaka is very wide.
+Leaves in one plane, Inflorescence branched to 2 orders, leaflets with red-brown thin long scales with ragged edges.
+Before flowering they close the inflorescence a completely, then tear along on to release the inflorescence.
+You can see the reddish brown base/petioles here too.
+It develops a slender, solitary trunk and its large leaves are distichously arranged on both sides of the trunk, forming a big, fan-shaped crown.
+The stem is erect, short to long, is bald with time, is fitted with eye-catching rings of leaf scars and sometimes wears korkige, warty bumps.
+Staminate flowers with calyx of 3 united minute sepals, corolla creamy white, with 3 free petals, about 9 - 15 mm long, 3 - 5 mm wide, stamens 16 - 23, filaments free, dark brown, about 1.25 - 1.5 mm long, anthers elongate-lanceolate, about 5 - 6 mm long, free, pistillode unknown.
+Trunk c. 10 - 20 m tall, grossly swollen at base, c. 10 - 20 cm diam.
+The seed is spherical, basally attached with an approximately circular hilum.
+This is usually quite short, grooved on the upper side, rounded at the bottom.
+The three petals are free, valvat and triangular.
+Trunk about 10 - 20 m tall, grossly swollen at base, about 10 - 20 cm in diam.
+Leaves 6 - 8 in the crown - some old individuals with 9 - 13, distichously arranged, densely covered with red-brown tomentum, c. 2.5 - 4.5 m long, leaf-sheath about 21.5 - 35 cm long, 8.5 - 11 cm wide, margins disintegrating into fibres, in some individuals rarely, adaxial surface with thin red-brown tomentum, wax present, abaxial surface with dense red-brown tomentum and creamy white indumentum, sometimes with greyish white indumentum, petiole c. 30 - 94 cm long, c. 1.7 - 2 cm diam.
+.The chromosome number is 2n = 32.
+Trunk c. 10 - 20 m tall, grossly swollen at base, c. 10 - 20 cm diam. , internodes 2.5 - 5 cm, greyish brown, obscurely ringed with scars, bark pale brown.
+The pollen is ellipsoidal and slightly to significantly asymmetric.
+.The male and female flowers resemble each other and are cream colored.
+The three stigmas are short and bent back in the heyday.
+.The leaves are in some species two lines , with most in a spiral arrangement.
+O. ravaka looks very similar to O. trispatha when adult, leaves are aranged in a big fan way on 2 sides.
+Fruit globose or bilobed, c. 4 - 4.5 cm diam., in an individual said to have c. 6 - 8 x 4 cm , dull olive green when young, yellowish green when mature, stigmatic remains sub-basal, epicarp smooth, thin, c. 0.7 - 0.8 mm, mesocarp fibrous, c. 2 mm thick, endocarp hard, thinner than epicarp, testa light brown, thinner than endocarp, attached to endosperm, endosperm, creamy white, with c. 3 cm diam., with a hollow inside, c. 8 mm diam.
+The leaflets are linear - lanceolate, often narrow, folded, with uprooted peak.
+It is usually densely hairy, tapering distally into the petiole.
+Pistillate flowers with calyx of 3 united sepals, 4 mm long, corolla creamy white, with 3 free petals, 10 x 8 mm, staminodes about 20, about 3 mm long, uniform, gynoecium about 8.5 - 9 mm long, 4 mm wide, pale brown, stigma with 3 elongate lobes.
+Leaves 6 - 8 in the crown ?
+It is indeed aptly named because it has a slender trunk topped by gently arching distichous fronds with waxy grey petioles often also coloured reddish-brown.
+Leaves. pinnate with two or more leaflets.
+Staminate flowers with calyx of 3 united minute sepals, corolla creamy white, with 3 free petals, c. 9 - 15 mm long, 3 - 5 mm wide, stamens 16 - 23, filaments free, dark brown, c. 1.25 - 1.5 mm long, anthers elongate-lanceolate, c. 5 - 6 mm long, free, pistillode unknown.
+Pistillate flowers with calyx of 3 united sepals, 4 mm long, corolla creamy white, with 3 free petals, 10 x 8 mm, staminodes c. 20, c. 3 mm long, uniform, gynoecium c. 8.5 - 9 mm long, 4 mm wide, pale brown, stigma with 3 elongate lobes.
+Rank: SEED.
+Embryo placed below middle line of seed.
+There is one, rarely two bracts on the peduncle, which are just above the cover sheet, very large, conspicuous, almost woody and Roehrig.
+They are unarmed, monoecious and repeatedly flowering.
+The largest was maybe 30-35' tall.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

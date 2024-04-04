@@ -1,0 +1,269 @@
+We are interested in obtaining botanical trait information about the species Terminalia catappa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Pollen grains measure about 30 microns.
+The fruit is a drupe 5-7 cm long and 3-5.5 cm broad, green at first, then yellow and finally red when ripe, containing a single seed.
+Nut edible color brown in elliptic shape.
+The leaves are large, 15-25 cm long and 10-14 cm broad, ovoid, glossy dark green, and leathery.
+It has no petals, it has ten stamens, the ovary is inferior, unilocular, the style simple, about 2 mm long and has no pubescence.
+It has an extended crown and very ornamental intense green foliage.
+It has two edges on the sides and narrow wings.
+Usually perfect flowers occur at the base of the raceme and male flowers directly above.
+Volgende pagina.
+The rind of the fruit is a light, pithy, or corky tissue that enables the fruit to float and be dispersed by sea currents.
+Vorige pagina.
+These flowers produce an unpleasant odor, are white or greenish in color and are about 6 mm in diameter.
+They have a thick petiole about 10 to 20 mm long which is pubescent.
+Seeds dark-brown to black, veined.
+Terminalia catappa , commonly called tropical almond or Indian almond, is a medium to large deciduous tropical tree that grows to 75-90' tall with a spreading crown featuring horizontal branching in tiers.
+The leaves turn red to yellow before falling.
+Fruit not stipitate, red or blackish green when ripe, ellipsoid, slightly to strongly compressed, strongly 2-ridged to narrowly 2-winged , 3-5.5 × 2-3.5 cm, glabrous, pericarp woody, rigid.
+Branchlets densely brownish yellow tomentose near apex, densely covered with conspicuous leaf scars.
+It grows upto 90 feet tall.
+The flowers are white or greenish and are grouped in axillary inflorescences.
+Inflorescences axillary, simple, long, slender spikes, 15-20 cm, numerous flowered, axis shortly white tomentose.
+Ornamental parts Plant growing climate Plant growing speed
+Leaves turn an attractive red before dropping.
+Decals en skins.
+Fruit: Showy, Edible.
+Terminalia catappa flowers with a hoverfly - a close up.
+Inflorescence scapiform, racemes 1 or 2, ca.
+During immaturity it is greenish and when it matures it turns purple.
+Of a lighter color on the underside and they acquire reddish colors before falling off.
+The male flowers are located towards the apex and are more numerous than the bisexual ones, which are located at the base of the inflorescence.
+The rind of the fruit, comprising light, pithy/corky tissue, enables the fruits to float and be naturally dispersed long distances by sea currents.
+The tree grows to 35 metres tall, with an upright, symmetrical crown and horizontal branches.
+Calyx tube distally cupular, 7-8 mm, abaxially white tomentose, densely so on ovary, sparsely so on cupular part, adaxially glabrous, lobes 5.
+The flower calyx is about 5 mm long and has five ovate-triangular lobes that are up to 1.5 mm long.
+They are dry-season deciduous , before falling, they turn pinkish-reddish or yellow-brown, due to pigments such as violaxanthin , lutein , and zeaxanthin.
+Flowers of both types are greenish-white or light brown.
+The leaves are alternate although grouped at the end of the stems, broad-obovate or elliptical-ovate, and measure 8 to 25 cm long by 5 to 14 cm wide.
+Terra Natur Mulberry leaves - 12 Leaves.
+Flower color white small in star shape, flowers grow in inflorescence.
+The venation of the leaf is well marked and has about 6 to 9 pairs of veins on the sides.
+Two-winged fruits emerge green, then turn yellow before finally maturing to red.
+Capsule 5- or 6-valved.
+The inner part of the fruit is fibrous, hard and contains an oily seed similar to an almond.
+The fruit are corky and light, and dispersed by water.
+Bloom Description: Greenish white.
+Terminalia and other tree species within the Combretaceae often look rather pagoda-like, the branches are often arranged in whorls and consisting of flattened sprays of leaf rosettes.
+The trees are monoecious , with distinct male and female flowers on the same tree.
+Leaves forming a flat rosette, subsessile or petiolate, stipule ca.
+Fruits are sessile, laterally compressed, ovoid to ovate, smooth-skinned drupes.
+Broadleaved Perennial Seed propagated Tree Woody.
+Licenses - CC_BY References - Reproduction Migration Dispersal Life Expectancy Size Growth Morphology Herbs annual or biennial, with few fibrous roots, stem unbranched, extremely short, sometimes to ca.
+Its branches are distinctively arranged in tiers.
+Each flower spike has male flowers near the tip and bisexual flowers near the base.
+Trees to 20 m tall, trunk to 2 m dbh.
+Winkelwagen 0.
+Leaves color green and can be red in the dry season in ovate shape.
+It is a large deciduous tree.
+The kernel consists of two delicate and intricately entwined cotyledons enclosed in an inconspicuous cream-coloured testa.
+Branches spreading, forming tiers.
+Leaves alternate, crowded into pseudo-whorls at apices of branchlets, petiole 0.5-2 cm, stout, tomentose, leaf blade obovate to oblanceolate, narrowed in proximal half, 12-30 × 8-15 cm, both surfaces glabrous or abaxially sparsely softly hairy when young, base narrow, cordate or truncate, apex obtuse or mucronate, lateral veins in 10-12 pairs.
+In sheltered situations the stem is more or less cylindrical and straight.
+The texture of the leaves is leathery, they are devoid of pubescence both on the upper side and on the underside.
+Alles in Flms.
+Each flower has a tiny 5-lobed calyx with 10 stamens and 1 style.
+Both are 1 cm in diameter, white to greenish, inconspicuous with no petals, they are produced on axillary or terminal spikes.
+Bark brownish black, longitudinally peeling.
+The crown is extended or pyramidal, it has a thick trunk, gray, smooth bark, with longitudinal fissures and thick and horizontal main branches.
+The fruit is a fleshy, sessile drupe with a smooth texture, ovoid or ellipsoidal shape, measuring about 6 cm long by 4 cm wide.
+Trees feature short, straight trunks with dark scaly bark topped by horizontal branching, leathery, broad-ovate, lustrous, dark green leaves which are spirally arranged in rosette-like clusters at the branch tips, apetalous greenish-white flowers in axillary spikes, and dry, egg-shaped, broad-ovate, one-seeded fruits with edible seed kernels which taste like almonds.
+Terminalia catappa fruits Fruit edible color green to red in ovate shape.
+The flowers are grouped in axillary inflorescences of about 15 to 20 cm in length.
+During maturation, fruits change colour from green, through yellow to bright red or dark purplish-red at full maturity.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 1],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 1]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 1]
+]
+}

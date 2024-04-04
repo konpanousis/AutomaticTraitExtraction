@@ -1,0 +1,316 @@
+We are interested in obtaining botanical trait information about the species Albizia adianthifolia.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The petals are partly fused into a 5-9 mm long tube, which is hairy on the outside.
+The fruit is an oblong, flat pod, densely but finely pubescent, transversely veined, and pale brown when ripe.
+Leaves are very characteristic, the 4-8 pairs of pinnae bear 6-12 pairs of leaflets each.
+Leaves are alternate, bipinnately compound with 3 to 10 pairs of pinnae with ovate to lanceolate stipules and leaflets in 5 to 17 pairs per pinna.
+Description     Small to medium-sized deciduous tree up to 30 m tall, bole straight and cylindrical in closed forest but often crooked and/or twisted in more open localities, up to 95 cm in diameter, without buttresses or with small, thick buttresses, bark yellowish brown to grey, smooth or rough, inner bark granular, creamy to yellowish, with clear gum, crown flattened, with large, spreading branches, young branches densely yellowish or reddish pubescent.
+A tree up to 35 m tall, with a slightly buttressed trunk up to 95 cm in diameter.
+Stipules and bracts at base of peduncles c. 5-12 x 3-6 mm., ovate.
+The bark is grey to reddish brown and rough.
+The petioles are densely hairy and have a gland near the base.
+The small flowers are merged into a tube by the stamens.
+Leaves:pinnae 5-8 pairs , each pinna more or less narrowing upwards, leaflets of 2 distal pairs of pinnae 9-17 pairs, obliquely rhombic-quadrate or -oblong, mostly about 7-17 mm.
+The small flowers are in bundles, with stamens much longer than the petals.
+This is a large deciduous tree with a spreading, flat crown, growing to a height of 25 metres.
+The petals are white, with an often pink, red or green tinged staminal tube.
+Stipules and bracts at base of peduncles ovate, about 5-12 mm.
+The fruit is pale brown when ripe and opens along the margin exposing 7-10 seeds.
+The first 2 leaves are opposite, bipinnately compound with 1 pair of pinnae.
+The crown is flattened, with large, spreading branches.
+Stamens are fused partly to form a tube and reddish pink or green at the tips.
+The leaves are pinnately or bipinnately compound.
+Fruit an oblong, flat pod 9-19 cm x 2-3.5 cm, with stipe c. 0.5 cm long, densely but finely pubescent, transversely veined, pale brown when ripe, opening with 2 papery valves, 7-10-seeded.
+The inflorescence is an axillary head with bisexual small flowers which are reddish to greenish white in colour.
+Seeds 7-9.5 x 6.5-8.5 mm., flattened.
+Perennials and small shrubs.
+Albizia adianthifolia is a magnificent, semi-hardy, large, deciduous, wide-spreading, distinctively flat topped tree.
+The grain is straight or interlocked, texture moderately coarse to coarse.
+The flowers are bisexual, regular, 5-merous, reddish or greenish white, almost sessile, subtended by up to 8mm long, caducous or persistent bracteoles.
+The ovary is superior, narrowly ellipsoid, 2-3mm long, gradually tapering into a 3-3.5cm long style.
+The cotyledons are oblong, circa 1cm long, thick and fleshy, rounded, early caducous.
+Petals are white or greenish white and joined for at least two thirds of their length.
+An open pod with seeds.
+Several flowerheads cluster together to create rounded, downy inflorescence, usually held above new leaves.
+Tree 4-30 m. high, crown flattened, bark grey to yellowish-brown and rough , young branchlets densely rather coarsely and persistently rusty- to fulvous-pubescent, pubescence sometimes becoming grey as the branchlet ages.
+Leaves are bipinnately compound, downy, with three to nine pairs of pinnae and ten to thirty pairs of pinnules.
+It is semi-evergreen and bears whitish, puffball-like flowers in spring.
+Filter Plant Links Bulbs and Rhizomes 69 Climbers 29 Grasses 31 Groundcovers and Perennials 149 Shrub 211 Succulents 96 Tree 204 Water Plants 32.
+The seeds germinate in 1-2 weeks.
+The leaves are bipinnate, 7.5-15 cm long, with one to four pairs of pinnae, each pinna with 6-18 leaflets.
+The inflorescence is an axillary head on a 2-6cm long peduncle.
+The petiole is 1.5-7.5cm long, near the base at upper side with a sessile gland, rachis 3-12cm long, yellowish or reddish pubescent.
+The corolla is 6-12.5mm long, with 5-9mm long tube, pubescent outside.
+Attractive, greenish-white and sweetly-scented.
+As the pod dehisces and opens up, the margins often persist as the centre parts fall off.
+Calyx 2.5-5 mm.
+The stipules are relatively large, 7.0 mm long and 2.5 mm wide, lanceolate and readily detach from the plant.
+A profusion of bright green leaves and heavily scented, fluffy flowers are produced in winter or spring.
+They are relatively flat, quite hairy, produced in profusion, usually maturing August to October the flowing year.
+Common Forest Trees of Hawaii - Molucca albizia - CTAHR
+Albizia adianthifolia Albizia adianthifolia is a magnificent, semi-hardy, large, deciduous, wide-spreading, distinctively flat topped tree.
+This is a small to medium-sized deciduous tree up to 30m tall.
+The bark is yellowish brown to grey, smooth or rough, inner bark granular, creamy to yellowish in colour with clear gum.
+Tree 4-30 m. high, crown flattened, bark grey to yellowish-brown and rough.
+.It has large pale, papery pods.
+The fruit is a thin pod with a conspicuous margin and veins.
+The fruit is a pod 15-30 cm long and 2.5-5.0 cm broad, containing six to twelve seeds.
+Trees and large shrubs.
+An iconic African tree, magnificent, large, with a flattened, visibly spreading crown, attractive bark and dainty, -powder-puff--like, snowy flowers.
+Rays: , , 104: all ray cells procumbent, 115: 4-12 rays per mm.
+The seeds are flat and brown.
+Pod oblong, flat or slightly transversely plicate, 9-19 cm.
+Mature pods are reddish-brown, thin and flat, from 13-20 cm long and 2-4 cm wide, and contain eight to twelve reddish-brown seeds, each weighing about 0.5 g.
+Leaves alternate, bipinnately compound with 5-10 pairs of pinnae, stipules ovate to lanceolate, up to 12 mm long, caducous, petiole 1.5-7.5 cm long, near the base at upper side with a sessile gland, rachis 3-12 cm long, yellowish or reddish pubescent, leaflets in 5-17 pairs per pinna, sessile, obliquely rhombic to elliptical-obovate, up to 1.5 cm x 1 cm, cuneate to rounded at base, obtuse to acute at apex, pubescent below.
+Corolla 6-11 mm.
+Albizia adianthifolia has a flattened crown, with large, spreading branches, young branches densely yellowish or reddish pubescent.
+It has graceful, quite large, dark-green compound leaves.
+Seedling with epigeal germination, hypocotyl 2-6 cm long, epicotyl c. 1 cm long, cotyledons oblong, c. 1 cm long, thick and fleshy, rounded, early caducous, first 2 leaves opposite, bipinnately compound with 1 pair of pinnae.
+The bark is yellowish brown to grey, smooth or rough, inner bark is granular, creamy to yellowish, with clear gum.
+The red to pink or greenish stamens are numerous, 3-4 cm long , and are united into a tube for most of their length, although the tips are free and presented like an open fan.
+Every leaflet is obliquely rhombic-quadrate with the midrib diagonally across it.
+Leaves: Up to 20 cm long, resembling fronds of the fern genus Adianthum , from which the species takes its name.
+The stipules are ovate to lanceolate, up to 12mm long, caducous.
+The flowers are white, with numerous 2.5-3.8 cm long stamens, and very fragrant.
+The leaflets are usually rectangular in shape, dark -green above, with paler, velvety undersides.
+They usually flower at the end of the dry season, just after or with the emergence of new leaves.
+The petiole has a gland at the base.
+The seeds are flattened, swollen, globose in shape and brown in colour.
+The bark is grey to yellowish-brown and fairly smooth or sometimes roughish.
+The stamens are usually showy, although in some species such as A. canescens the flowers are inconspicuous.
+The leaves are alternate, bipinnately compound with 5-10 pairs of pinnae.
+The calyx is narrowly obconical, 2.5-5mm long, pubescent outside.
+A tree, to 120 ft. high, mainly in regrowth forest.
+It is a tree growing to a height of 18-30 m tall with a trunk 50 cm to 1 m in diameter.
+The seeds are flattened globose, 6.5-9.5mm x 6.5-8.5mm.
+The fragrant flowers are white withering to a pale orange, appearing in large terminal clusters.
+This tree has a tall, straight stem , and the bark is rough, grey to yellowish-brown, with shallow squares, giving a crocodile skin-like appearance.
+Plant Type: Tree.
+The bole is up to 95 cm in diameter and is straight and cylindrical in closed forest but often crooked and/or twisted in more open savannah and bushland localities, usually without buttresses but with small, thick buttresses in forest localities.
+Flowers subsessile, pedicels pubescent, 0.5-1 mm.
+Peduncles clothed as the young branchlets, bracteoles variably persistent, 5-8 mm.
+Albizia adianthifolia variation intermedia Villiers.
+The bole is straight and cylindrical in closed forest but often crooked and/or twisted in more open localities, up to 95cm in diameter, without buttresses or with small, thick buttresses.
+Young branchlets densely, rather coarsely and persistently rusty- to fulvous-pubescent.
+The rough, grey-brown bark splits into squares and resembles crocodile skin.
+Properties     The heartwood is pale brown or golden brown, sometimes with a greenish tinge, and distinctly demarcated from the c. 5 cm wide whitish or pale yellow sapwood.
+Branchlets and peduncles have grey to brown hairs with the young tips tinged pinkish red.
+The bark is dark grey with horizontal lenticels.
+The flowers are striking, forming relatively large, half-spherical heads.
+Leaves: pinnae 5-8 pairs , each pinna ± narrowing upwards, leaflets of 2 distal pairs of pinnae 9-17 pairs, mostly c. 7-17 x 4-9 mm., obliquely rhombic-quadrate or -oblong, proximal margin at base usually ± rounded into the pulvinus but not auriculate, apex of leaflet usually obtuse and mucronate, sometimes subacute, surface of leaflet thinly pubescent above, rather plentifully pubescent all over beneath, raised venation beneath close.
+The young branches are densely yellowish or reddish pubescent.
+The leaflets are in 5-17 pairs per pinna, sessile, obliquely rhombic to elliptical-obovate, up to 1.5cm x 1cm, cuneate to rounded at base, obtuse to acute at apex, pubescent below.
+Albizia adianthifolia is a medium to large deciduous tree growing up to 35 m in height.
+Flowers: Reddish or greenish white, bisexual and almost sessile , aggregated into stalked heads.
+The leaves are twice compound with the leaflets being 2-5 x 8 mm in size.
+Rough bark Flat crown.
+Fine, rust-yellow coloured hairs cover the bases.
+Large, , dehiscent, light-brown and papery pods.
+Perennial, Not climbing, Tree.
+The fruit is an oblong, flat pod 9-19cm x 2-3.5cm, with stipe circa 0.5cm long, densely but finely pubescent, transversely veined, pale brown when ripe, opening with 2 papery valves, 7-10-seeded.
+New leaves and twigs are pinkish-red, developing into a pleasing lime-green.
+Inflorescence an axillary head on a 2-6 cm long peduncle.
+There are numerous stamens, 3-3.5cm long, united into a tube for most of their length, red to pink or greenish.
+Fruits: A flat pod 9.0-19.0 x 2.0-3.5 cm, covered in dense but fine hairs, with a stipe about 5 mm long.
+Leaves are alternate and twice compound.
+Branchlets are thickly covered with reddish-brown hairs.
+Pod dehiscent, 9-19 x 1.9-3.4 cm., usually pale brown, oblong, flat or slightly transversely plicate, ± densely and persistently pubescent, not glossy, prominently venose.
+Each leaf is separated into 4-8, and each of the partitions has 6-12 pairs of leaflets.
+Leaf color: dark green.
+The hypocotyl is 2-6cm long, epicotyl circa 1cm long.
+Flowers greenish-white with reddish staminal tube.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 1],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 1],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 1],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 1],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 1],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 1],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 1],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 1]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 1],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

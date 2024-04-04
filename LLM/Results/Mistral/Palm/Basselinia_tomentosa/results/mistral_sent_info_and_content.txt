@@ -1,0 +1,104 @@
+We are interested in obtaining botanical trait information about the species Basselinia tomentosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Very full erect leaves, diametrically opposed, evenly spaced pinnae.
+Stem erect, usually ± prominently ringed, internodes glabrous, scaly, or densely tomentose, sometimes with exposed roots at the base.
+Large solitary palm, up to 20 m high with a trunk brown, 15 to 25 cm in diam., robust, covered with leaf ciactrices barely marked.
+Staminate buds symmetrical, sepals 3, distinct, imbricate, ±acute to rounded, petals 3, distinct, valvate, stamens 6, filaments connate at the very base, inflexed at the apex in bud, anthers dorsifixed, bifid at the base and apex, latrorse, pistillode nearly as high as or exceeding the stamens in bud, angled-cylindrical, narrowed to slightly expanded at the apex.
+Leaves, 5 to 10 per crown, ascending and spreading, 7-70 cm long, with 10-11 pinnae, leathery and glossy, dark green above, pale green beneath, sheath 12 to 20 cm long, dark red to purple dark outside, first covered with blackish scales and glabrous.
+Fruit: Fruit more or less spherical, 7-8 x 5-6 mm, with the stigmatic residue displaced toward the middle, brown seed of 4 mm in dia.
+Very small, slender seedling.
+Phenology : An inflorescence, 11 to 40 cm long, long persistent, erect and radiant, 2-3 times branched, entirely covered with scales noix¢tres or dark red, becoming glabrous with age.
+Rank: FLOWERING.
+Characteristic small to moderate pinnate-leaved palms from New Caledonia, displaying substantial variation in habit, leaf and inflorescence form, the prophyll usually incomplete and the fruit with lateral to apical stigmatic remains and ± smooth endocarp.
+Fruit globose to elongate-ellipsoidal, sometimes bilobed, red or black, with lateral to apical stigmatic remains, epicarp smooth or drying pebbled, mesocarp with a thin layer of small, irregular tannin cells external to a thin layer of short sclereids over abundant ellipsoidal tannin cells and a few flat, thin fibres, endocarp thin, vitreous, fragile, sometimes minutely reticulate, with a rounded to elongate basal operculum.
+Pollen ellipsoidal asymmetric, sometimes elongate or lozenge-shaped, aperture a distal sulcus, ectexine tectate, psilate-perforate, perforate and micro-channelled or finely perforate-rugulate, aperture margin similar or slightly finer, infratectum columellate, longest axis 29-48 µm.
+Definition: whole plant arborescent.
+Flower spathe emerges from beneath crownshaft.
+Small to stout, solitary or clustered, unarmed, pleonanthic, monoecious palms.
+Palms - botanically identified only.
+Seed globose, kidney-shaped or ovoid-ellipsoidal, hilum and raphe short to elongate, the raphe branches anastomosing laterally, rarely scarcely anastomosing, endosperm homogeneous, embryo basal or lateral below the middle.
+Pistillate flowers smaller than, equaling or larger than the staminate, sepals 3, distinct, imbricate, rounded, petals 3, distinct, imbricate except for the briefly valvate apices, staminodes 3 at one side of the gynoecium, small, tooth-like, gynoecium unilocular, uniovulate, stigmas 3, prominent, recurved, ovule ± pendulous, sometimes briefly arillate, usually hemianatropous.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

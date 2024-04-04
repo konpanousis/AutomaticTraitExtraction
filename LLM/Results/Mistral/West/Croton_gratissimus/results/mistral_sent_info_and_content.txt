@@ -1,0 +1,284 @@
+We are interested in obtaining botanical trait information about the species Croton gratissimus.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+It is capable of becoming a large tree in certain instances and it may reach 10m high if there is sufficient heat and rain.
+A small tree, 20-50 ft. high.
+The leaves are alternate, glossy bright green above.
+Croton gratissimus' leaves are discolorous - olive-green above and silver below.
+Rust-coloured flower buds, which are present throughout winter, open after the first rains.
+This is followed by 3 chambered, greyish capsules covered in red brown dots.
+The crown is rather sparse or elegantly dome-shaped, occasionally pyramidal, and the mature foliage has a russet orange tint which contrasts beautifully with the young green leaves.
+Indigenous to South Africa, Croton gratissimus is a tall shrub or small tree that flourishes in a smaller garden.
+The tree typically grows in a distinctive forked shape, with handsomely weeping, brittle branches and striking, glossy, egg-shaped leaves, which become particularly visible in windy weather.
+The lower surface is  a striking silvery green and dotted with small, cinnamon-coloured scales.
+The branches of this tree are brittle and have a drooping growth habit.
+First green, it turns yellow as it matures.
+Members have flowers that are typically unisexual, carried on the same plant, and have a high radial symmetry.
+The lavender feverberry is a small tree that can either be deciduous or semi-deciduous depending on climatic and soil conditions.
+Lavender Fever-berry.
+It has grey, patterned bark, aromatic, dark, silvery green leaves with pale, pearly white undersides and cinnamon-red spots, and masses of tiny, creamy, star-like flowers carried on drooping spikes.
+The leaves are fragrant when crushed.
+Cylindrical Snake Pla-¦.
+The inflorescence is a yellow-flowered raceme up to 10 cm long and borne terminally.
+The fruit is yellow with 3 lobes.
+As the foliage matures, it develops a burnt orange tint which contrasts sharply with the younger leaves.
+It is a slender tree with fine, drooping foliage and a crown which spreads upwards in a 'V'-shape with drooping terminal branches.
+Young twigs are slender and angular and covered in silver and rust-coloured scales.
+The elongated leaves are green above and the lower surface is silvery with little brown scales.
+The upper surfaces are a glossy dark or olive-green, glabrous, and the lower surfaces are covered with a dense layer of silvery hairs.
+The fruit tends to dry out while still on the tree, and explodes rather than splits open, scattering the seeds far and wide.
+It has masses of tiny star-like flowers.
+Leaves of this tree are simple, spirally arranged, dark green on top and silvery white underneath.
+A three-lobed capsule , maturing from green to silvery yellow, with faintly visible orange speckles.
+Drooping spikes , of reddish-brown buds that remain closed and conspicuous on the tree during the dry season.
+Spikes contain different sex flowers, with only one or two females at the bottom of the spike, and the rest are males.
+Both sexes are carried together, and there are usually 1-2 female flowers towards the base, and the rest are male.
+Capsule scaly, 1/3 in.
+The inflorescence is a yellow-flowered raceme up to 10 cm long and borne terminally.
+The new twigs are angled and slender, yellow-brownish, with a layer of fine, silvery scales and scattered brown dots.
+Fruit, formed between September and November, is a three lobed capsule.
+Pale, grey-brown to dark grey, rough with deep rectangular fissures at the base of the trunk, smoother on the upper trunk, with a diameter of 200 - 400mm.
+It is a slender tree with fine, drooping foliage and a crown which spreads upwards in a ‘V’-shape with drooping terminal branches.
+Bole up to 40 cm d.b.h.
+C. gratissimus is a shrub or a small tree that may reach 10 m in height in South Africa, but can grow to 20 m tall further north in Africa.
+A shrub or tree up to 12 m tall, monoecious or sometimes dioecious, trunk usually Y-forked with drooping branches, crown sparse, open, rounded or ± pyramidal.
+Plant Type: Groundcover.
+It bears small cream to golden yellow flowers in summer that are visited by bees.
+It bears spikes of small, creamy coloured flowers borne in Spring to early Summer.
+An exceptionally decorative and ornate, slender tree or fine, large shrub.
+Petioles 0.5-7 cm long.
+Lavender fever-berry.
+The margins are smooth, faintly undulating, the tips broadly tapering to somewhat pointy, and the bases curved to shallowly lobed.
+This tree is sometimes low branched with a fairly dense roundish crown.
+C. gratissimus bears small cream to golden yellow flowers in spikes of about 10 cm long.
+Croton gratissimus  has beautiful silvery-green leaves with red-spotted undersides and a few bright orange leaves in the crown at most times.
+With the first rains of the next season, they typically open into masses of tiny , creamy, golden-yellow, star-like flowers.
+The leafstalk is narrow , silvery, pale yellow-green, with orange lenticels and 2 small glands where is joins up with the leaf blade.
+Racemes 1-15 cm long, erect at first, later drooping, terminal, androgynous or all male, axis angular, bracts 2-3 mm
+The fruit is a 3-lobed capsule, about 10 mm in diameter and densely scaly.
+Lance-shaped to elliptical foliage with silvery undersides.
+Shrubs and Perennials Trees.
+The fruit is a 3-lobed capsule, about 10 mm in diameter and densely scaly.
+Whole fruit capsule, 2.
+Fruit is formed between September and November and is a three lobed capsule.
+Simple, alternately arranged, elliptic to lance-shaped leaves.
+The fruits are 3 chambered capsules, or less often, a drupe, and the stipules are occasionally reduced to hairs, glands, spines, or can be absent completely.
+Croton gratissimus , is a tropical African shrub or small tree with corky bark, growing to 8 m and belonging to the family of Euphorbiaceae or spurges.
+The main stem can be single or multi-stemmed, and branches are frequently arranged in whorls of 3.
+Seeds 7 x 5.5 x 3 mm, compressed-ellipsoid, smooth, slightly shiny, light brown, caruncle 1.5 mm wide, pentagonal, flattened.
+Croton gratissimus , is a tropical African shrub or small tree with corky bark, growing to 8 m and belonging to the family of Euphorbiaceae or spurges.
+A slender tree with fine, drooping foliage and branches, the Lavender.
+A small tree or shrub with a rough grey bark.
+The leaves are strikingly silver on the under surface and dotted with brown glands.
+The upper surface is dark green and shiny, without hairs, while the under surface is covered by dense scales producing a silvery colour.
+The fruit is a  3-lobed capsule which turns yellow when mature.
+It bears male and female flowers on the same tree, and the latter develop into three-lobed capsules about 10mm in size.
+This plant has lance-shaped to elliptical foliage with silvery undersides.
+The flowers are small, golden-yellow, borne on a long spike.
+The leaves emit a strong, aromatic fragrance when crushed, and a single, bright orange leaf is often visible.
+Bark Flowers Habit & habitat.
+The leaves of the lavender croton are simple and alternate, with a beautiful and striking silvery under-surface.
+First green then it turns yellow as it matures.
+Leaves are also dotted with cinnamon coloured glandular scales.
+The crushed, slender-petioled leaves are pleasingly and distinctively fragrant with an aromatic oil reminiscent of sweet flag.
+Root Very pretty in flower, found in swamps and on stream Read more.
+A scattering of tiny, cinnamon coloured glandular scales can also be observed on the bottom parts.
+This is followed by 3 chambered capsules covered in red brown dots.
+Crops Prod. 8, 29–35.
+A watery or milky latex is present in most parts of the tree.
+The leaves are mostly simple, or if compound, never pinnate, but always palmate, and are generally alternately arranged along the stems, which often contain a milky or watery latex.
+Lavender fever berry  is a small, deciduous tree with a shrub-like growth form and non-aggressive roots.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 1],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 1],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 1]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 0],
+["Leaf blade discoloured", 1]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 1],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 1]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 1],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

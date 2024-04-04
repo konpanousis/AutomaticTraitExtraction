@@ -1,0 +1,139 @@
+We are interested in obtaining botanical trait information about the species Elaeis oleifera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The leaves are pinnate , and reach between 3-5 m long.
+It grows at least 6 m tall.
+Si riproduce per seme, che germina in 3-6 mesi, la fruttificazione inizia dal quarto-quinto anno di età.
+Physiology and Phenology The stem has a single growing point from which a leaf primordium develops about every second week.
+The species range from low-growing herbaceous plants to semi-woody shrubs up to 2 m tall.
+Flowers and fruits are bright red in colour and form into dense clusters.
+It has a large, full crown of 12' long leaves, leaflets more on an even plane than its cousin , and trunks are mostly prostrate.
+Reproductive Biology Flowers are unisexual, with female flowers grouped in clusters of 200-300 close to the trunk at the end of short heavy pedicels, with male flowers borne in spikes.
+The adults are relatively large black beetles of approximately one and a half inch in length, and the larvae may grow to two inches in length.
+Meunier J, Hardon JJ.
+Each fruit is made up of an oily, fleshy outer layer , with a single seed , also rich in oil.
+The stomatal area and density and daily stomatal opening.were determined by microscopic observations at a 40x magnification.of the impressions with transparent enamel on.the back of the central leaflets of leaf number 17, according.to Flórez and Cruz.
+Haz clic para expandir.
+The infructescences are compact, ample and roundish at the centre and tending to conical at the apex, quite typical, ovoid or rhomboid fruits, 2-3 cm long, of intense orange red colour when ripe, containing 1-3 seeds, weighing 3-10 g, with fibrous and oily mesocarp, thick 2-4 mm which forms the 30-40% of the whole fruit, often are present parthenocarpic seedless fruits, formed, for about the 90%, by the mesocarp.
+From left to right, 1 to 18 interspecific OxG hybrids Coari × La Me, 6 to 29 E. guineensis dura type palms.
+Mesocarp cells situated above the pedicel stained darker blue.
+Juvenile leaves are lanceolate and entire but gradually becoming pinnate, mature leaves spirally arranged, paripinnate, up to 7.5 m long, petiole 1-2 m long, spinescent, clasping the stem at base, leaflets linear, 35-65 x 2-4 cm, up to 376 per leaf.
+Spacing: 15-20 ft. 20-30 ft.
+Dark green pinnate leaves slightly curved and turned towards the apex, 2-4 m long, on a 1-2 m long petiole with the margins equipped with short and thick spines, with regularly distributed pinnules, 60-120 cm long and 4-8 cm broad, pointed, initially rigid, then hanging towards the apex, lying almost on a plane.
+From leaf primordium to fully expanded leaf takes about 2 years.
+Leaf number 17.of the "Sinú-Coarí" was the longest and showed the highest.number of leaflets, although its area was not the biggest.
+The plant produces both male and female flowers, but not usually at the same time.
+It is large and single-stemmed topped by a crown of large, arching leaves.
+Mature palms are single-stemmed, and can grow well over 20 m tall.
+Reclame maken.
+The stipe diameter was.estimated from the height:.
+It reproduces by seed, which germinates in 3-6 months, the fructification begins by the fourth-fifth year of age.
+Fruits are ovoid-oblong drupes, 2-5 cm long, tightly packed in large ovoid bunches with 1000-3000 fruits, drupes with a thin exocarp, an oleiferous mesocarp and a lignified endocarp containing the kernel with embryo and solid endosperm.
+Elaeis oleifera is an evergreen Tree growing to 4 m by 3 m at a slow rate.
+Latin Name Common Name Habit Height Hardiness Growth Soil Shade Moisture Edible Medicinal Other.
+Response to drought stress, senescent leaves LOC105060420
+Usually unisexual inflorescences among the leaves, but on the same plant, often produced alternately, the female ones 30-40 cm long on an about 40 cm long peduncle, compact, ramified, the male ones, up to about 60 cm long and carrying white flowers.
+In the first 2 years, lateral growth of the trunk dominates, giving a broad base up to 60 cm in diameter.
+Fruits yellowish orange to red, oblong, ca.
+Broadleaved Perennial Seed propagated Tree Woody.
+E. guineensis is a monoecious, erect, one-stemmed palm tree, usually 20-30 m high, with an adventitious root system that forms a dense mat in the upper 35 cm of the soil with only a few roots penetrating deeper than 1 m. The stem is cylindrical, up to 75 cm in diameter and covered with petiole bases in young palms, smooth in older trees.
+Base of fruit of normal shedding fruit.
+Fruit base from the non-shedding fruit.
+Shrub, Tree, Solitary palm.
+Leaves 3-4 m long, pinnae 30-90 on each side, regularly inserted in one plane, the central ones to 60 cm long and 4 cm wide.
+All leaf bases contain inflorescence primordia, but the first fully developed inflorescence does not appear before leaf 20 and usually much later, some 3 years after germination.
+It grows up 35 m tall and can have leaves or fronds 10–12 m long.
+The Elaeis oleifera Cortés is a slow-growing monoecious species, with single stem, procumbent or erect, 1 to 6 m long, and with 30-50 cm of diameter, rooting in the part in contact with the soil, thickly covered in the youngest part by the residuals of the foliar petioles and peduncles of the inflorescences.
+The flowers are produced in dense clusters, each individual flower is small, with three sepals and three petals.
+Peduncular bracts or spathes cover female inflorescences, hindering the pollen entry.
+The palm fruit is reddish, about the size of a large plum, and grows in large bunches.
+The fruit bunch positioned just higher than the ripe bunch in the whorl had less orange-colored fruit, and was at the pre-ripe stage, with fruit more firmly attached to the fruit bunch.
+Stem subterranean or prostrate, 10-20 cm in diameter, erect only for a few meters.
+Inflorescence 50-80 cm long, with ca.
+After that, the trunk starts growing in height, 35-75 cm per year, reducing its diameter up to 40 cm.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the dictionary of traits with sublists of (value, evidence) based on the input text:
+
+<pre>{
+  "Fruit colour description": [
+    ("black", 0),
+    ("blue", 0),
+    ("bluish", 0),
+    ("brown", 0),
+    ("brownish", 0),
+    ("chocolate", 0),
+    ("coral", 0),
+    ("crimson", 0),
+    ("darkgreen", 0),
+    ("green", 0),
+    ("greenish", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("magenta", 0),
+    ("maroon", 0),
+    ("olive", 0),
+    ("orange", 0),
+    ("orangish", 0),
+    ("pink", 0),
+    ("pinkish", 0),
+    ("plum", 0),
+    ("purple", 0),
+    ("purplish", 0),
+    ("red", 1),
+    ("reddish", 1),
+    ("tan", 0),
+    ("violet", 0),
+    ("white", 0),
+    ("whitish", 0),
+    ("yellow", 0),
+    ("yellowish", 1)
+  ],
+  "Fruit colour": [
+    ("black", 0),
+    ("blue", 0),
+    ("brown", 0),
+    ("green", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("orange", 0),
+    ("pink", 0),
+    ("purple", 0),
+    ("red", 1),
+    ("white", 0),
+    ("yellow", 0)
+  ],
+  "Crown": [
+    ("both", 0),
+    ("canopy", 0),
+    ("understorey", 0)
+  ],
+  "Fruit size": [
+    ("large", 0),
+    ("small", 0)
+  ],
+  "Fruit shape": [
+    ("ellipsoid", 0),
+    ("elongate", 0),
+    ("fusiform", 0),
+    ("globose", 0),
+    ("ovoid", 1),
+    ("pyramidal", 0),
+    ("rounded", 0)
+  ],
+  "Conspicuousness": [
+    ("conspicuous", 0),
+    ("cryptic", 0)
+  ]
+}
+</pre>Note that only the "Fruit colour", "Fruit shape" and "Conspicuousness" traits have been assigned evidence values based on the input text, as the other traits were not explicitly mentioned in the text. Additionally, the "Fruit size" trait has not been assigned any evidence values as the text did not provide enough information to determine whether the fruit size was large or small.

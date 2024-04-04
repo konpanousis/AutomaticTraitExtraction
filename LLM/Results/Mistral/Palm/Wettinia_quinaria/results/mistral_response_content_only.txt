@@ -1,0 +1,151 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 1],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 1],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Stilt roots": [
+["brown", 1],
+["black", 1]
+],
+"Precipitation": [
+["4000 mm", 2]
+],
+"Leaf length": [
+["3-5.5 m", 1]
+],
+"Pinnae per side": [
+["35-60", 1],
+["20-35", 1]
+],
+"Leaf texture": [
+["pendulous", 1],
+["entire", 1],
+["sparsely pubescent below", 1],
+["glabrous on both sides", 1],
+["spreading horizontally in one plane", 1]
+],
+"Central pinna length": [
+["60-115 cm", 1],
+["70-110 cm", 1]
+],
+"Central pinna width": [
+["4-12 cm", 1],
+["7-16 cm", 1]
+],
+"Veins": [
+["16-18", 1]
+],
+"Leaflets": [
+["premorse", 1]
+],
+"Crownshaft": [
+["long gray-green", 1]
+],
+"Growth rate": [
+["rather fast", 1],
+["moderately slow", 1]
+],
+"Stem height": [
+["4-10 m", 1],
+["8-15 m", 2]
+],
+"Stem diameter": [
+["7-13 cm", 1],
+["10-20 cm", 2]
+],
+"Spathes": [
+["leathery", 1]
+],
+"Inflorescences per node": [
+["5-7", 1],
+["3-11", 1]
+],
+"Peduncle length": [
+["10-40 cm", 1],
+["15-35 cm", 1]
+],
+"Rachis length": [
+["1-8 cm", 1],
+["2-20 cm", 1]
+],
+"Branches": [
+["4-7", 1],
+["2-10", 1]
+],
+"Male flower length": [
+["8 mm", 1],
+["7-8 mm", 1]
+],
+"Number of stamens": [
+["8-11", 1],
+["5-9", 1]
+],
+"Female flower length": [
+["10-11 mm", 1]
+]
+}

@@ -1,0 +1,118 @@
+We are interested in obtaining botanical trait information about the species Drymophloeus oliviformis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Small to moderate, solitary or rarely weakly clustering, unarmed, pleonanthic, monoecious palms.
+Bright red slow to mature.
+A solitary stemmed palm with. graceful crown of arching leaves with broad triangular leaflets.
+Spacing: 36-48 in.
+Description: It is a small-medium sized palm with a slim solitary trunk and broad wedge.
+Leaves pinnate, leaflets broad, dark green, with premorse tips.
+Plants may flower at a small size.
+Seed ovoid, surface smooth, hilum apical, raphe much branched, branches somewhat sunken, endosperm homogeneous or ruminate, embryo basal.
+Stem erect, slender, ringed with rather widely spaced leaf scars, sometimes short stilt roots present basally.
+Pollen ellipsoidal or oblate triangular, asymmetric to pyriform, aperture a distal sulcus or trichotomosulcus, ectexine tectate, perforate or perforate-reticulate, aperture margin similar or slightly finer, infratectum columellate, longest axis ranging from 50-63 µm.
+Staminate flowers borne laterally toward the lower side of the pistillate flower in rounded indentations in the rachillae, sepals 3, distinct, imbricate, irregularly but strongly keeled, margins thin, variously notched, petals 3, distinct, ovate, valvate, evenly thickened, adaxially grooved, reflexed at anthesis, stamens numerous, 24 to more than 320, filaments moderate, awl-shaped, anthers elongate, sagittate basally, uneven, sometimes divided apically, medifixed, versatile, latrorse, pistillode with 3 short, rounded, 3-angled lobes or ovoid attenuate to 2/3 as long as the stamens, usually shortly trifid apically.
+Inflorescence: Sparsely branched with several long, thin rachillae, often covered with brown scaly hairs.
+H.E.Moore : up to 5 m tall, variable in terms of leaf size, width and texture.
+Leaves: Pinnate, varied from narrow to wide, glabrous to pubescent, small to large, and almost rubbery texture
+Encyclopedia Index Families Genera Species Arecaceae Drymophloeus Palms.
+Single stemmed , usually less than 3 m tall and 2-7 cm in diameter.
+Fruit fusiform to ovoid, red at maturity, stigmatic remains apical, epicarp thin, smooth, becoming pebbled when dry, mesocarp fleshy, fibrous, with stinging crystals, fibres adherent to the thin, rather smooth endocarp, endocarp usually circular in cross-section, 5-lobed in D. hentyi and D. subdistichus).
+Height: 10-15 ft.
+Leaflets broad, dark green, with premorse leaf tips.
+Small to moderate, solitary pinnate-leaved palms, native to Moluccas, New Guinea, the Bismarck Archipelago, Solomon Islands and Samoa, with crownshaft and praemorse leaflets, elongate peduncles and seed rounded in cross section, the endosperm can be ruminate or homogeneous.
+Germination adjacent-ligular, eophyll bifid, or entire, ovate, margins toothed.
+Drymophloeus beguinii is a small to medium-sized palm clustering with small crown, reaching up to 5 m. tall.
+Back to Arecaceae index.
+Atrractive small, dainty palm with very thin trunk and slightly bulging crwonshaft and fishtail leaflets, from Papau.
+It is a small-medium sized palm with a slim solitary trunk and broad wedge shaped leaflets.
+Pistillate flowers broadly ovoid, sepals 3, distinct, imbricate, hooded, edges minutely toothed or variously notched, petals 3, twice as long as the sepals in late bud, distinct, ovate, imbricate, lateral margins shortly fringed, tips thick, valvate, staminodes 3, shortly joined basally, wide, truncate and bifid or uneven distally, gynoecium symmetrical, ovoid, tapering distally, unilocular, uniovulate, stigmas 3, recurved, ovule attached laterally or pendulous from the top of the locule, form unknown.
+It is indeed quite variable and like most understory palms, individuals of these species vary in terms of leaf size, width and texture, even when the floral and fruit characters are uniform.
+Crown: Up to 1,8 m in diameter, with 5 to 7 leaves.
+D. oliviformis leaf close-up.
+Seed: The endosperm of the seed is ruminate.
+Drymophloeous oliviformis x8 in 6" pots.
+Areceae stubs.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+("black", 0),
+("blue", 0),
+("bluish", 0),
+("brown", 0),
+("brownish", 0),
+("chocolate", 0),
+("coral", 0),
+("crimson", 0),
+("darkgreen", 0),
+("green", 0),
+("greenish", 0),
+("grey", 0),
+("ivory", 0),
+("magenta", 0),
+("maroon", 0),
+("olive", 0),
+("orange", 0),
+("orangish", 0),
+("pink", 0),
+("pinkish", 0),
+("plum", 0),
+("purple", 0),
+("purplish", 0),
+("red", 1),
+("reddish", 0),
+("tan", 0),
+("violet", 0),
+("white", 0),
+("whitish", 0),
+("yellow", 0),
+("yellowish", 0)
+],
+"Fruit colour": [
+("black", 0),
+("blue", 0),
+("brown", 0),
+("green", 0),
+("grey", 0),
+("ivory", 0),
+("orange", 0),
+("pink", 0),
+("purple", 0),
+("red", 1),
+("white", 0),
+("yellow", 0)
+],
+"Crown": [
+("both", 0),
+("canopy", 0),
+("understorey", 1)
+],
+"Fruit size": [
+("large", 0),
+("small", 0)
+],
+"Fruit shape": [
+("ellipsoid", 0),
+("elongate", 0),
+("fusiform", 1),
+("globose", 0),
+("ovoid", 1),
+("pyramidal", 0),
+("rounded", 0)
+],
+"Conspicuousness": [
+("conspicuous", 0),
+("cryptic", 0)
+]
+}

@@ -1,0 +1,108 @@
+We are interested in obtaining botanical trait information about the species Maxburretia furtadoana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Arecaceae genera Palm stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+Flower about 2.5 mm long, male flower with 1 mm long staminal tube and 0.5 mm long pistillode, female flower with flattened,about 0.3 mm long staminodes and about 1.5 mm long gynoecium.
+Dwarf clustering ± stemless or erect dioecious fan palms of karst limestone in southern Thailand and Peninsular Malaysia, with fibrous sheaths, the fibres sometimes spine-like, leaves induplicate, inflorescences slender with very small flowers and fruit.
+Seed basally attached, endosperm hemianatropous with basal funicular arils, pistillode of staminate flower homogeneous, with a thin lateral intrusion of seed coat, embryo lateral minute, 3-lobed.
+Pistillate inflorescences superficially similar to staminate but branching to 2 orders only, slightly more robust and with branches less divaricate, and bearing solitary pistillate flowers: pistillate flower at anthesis creamy-yellow, with no detectable scent, about 2.5 long, 2 mm wide, calyx of 3 distinct, imbricate, rounded sepals about 0.9 mm high, 1 mm wide, with erose margins, corolla of 3 petals about 2.5 mm long, 1.5 mm wide, joined in the lower one third, to form a short corolla tube, staminodes 6, joined below into a staminodial tube adnate to the corolla, filaments short, tipped with flattened empty anthers about 0.3 mm long, carpels 3, free except at the very base where minutely joined, about 1.5 mm long, 0.5 mm wide, tapering to pyramidal style tipped by a pointed stigma, upper part of carpel densely covered with silky hairs, ovule bitegmic, anatropous, basally attached, with a conspicuous funicular aril.
+Stem moderate if present, with very close leaf scars, usually completely obscured by persistent leaf sheaths.
+Young fruit greenish, covered in silky hairs, more or less mature fruit pale yellowish-green , glabrescent except near tip, borne on the persistent perianths, usually only one carpel developing, narrowly ovoid, 8 mm long, 4 mm wide, apiculate in stigmatic remains, epicarp more or less smooth, mesocarp about 0.2 mm thick, endocarp scarcely differentiated, seed about 7 mm long 3 mm wide, with a slight dark brown, elongate postament, the embryo lateral about 2 mm above the base opposite the postament, endosperm homogeneous.
+An unusual clustering palm with trunks to 4 m that are densely.covered with stiff, needle like remains of leaf sheaths.
+Fruit cupule and smaller, empty anthers, carpels 3, distinct, follicular, united usually developing from only 1 carpel, ellipsoidal , with apical for a very short distance at the base, with triangular style, the carpel stigmatic remains, perianth whorls persistent, epicarp silky hairy when surface hairy distally in 2 species, glabrous in the third, ovules basally young, the hairs falling off at maturity , mesocarp thin, fleshy, attached, anatropous or intermediate between anatropous and endocarp scarcely developed.
+Description.Clustering, dioecious, pleonanthic fan palm, spreading by basal suckers to produce clumps of up to 10 or more stems, stems to 3 m tall at maturity, rarely to 5 m, 5 cm in diam., base of stem free of leaf sheaths, pale brown, with close vertical cracking and leaf sheath scars, upper 1-2 m or more of stem clothed with long-persisting leaf sheaths, the combined diameter 12-15 cm.
+Leaf anatomy not studied, all species very similar in floral anatomy.
+Inflorescences unisexual, axillary, arching out of the leafaxils: staminate inflorescence usually more slender and more highly and divaricately branched than the pistillate, branching to 3 orders, 25-40 cm long, with 3-5 primary branches , axis flattened at base, to 5 mm wide, 3 mm thick, densely flocculent-hairy at edges, prophyll adnate to the axis, to 7 cm long, 7 mm wide, tubular, irregularly bilobed to 1 cm at apex,.
+M. furtadoana leaf sheath detail.
+The curious leaf sheaths, expanding to form partial whorls of spines, are highl) distinctive, such leaf-sheath fiber spines are known elsewhere only in species 0f the genera Coccothrinax Sarg. , Trithrinax Mart. , and in Zombia L. H. Bailey.
+Clustering dioecious palm, rarely with more than 10 stems.
+Leaf petiole up to 30-50 cm long, cross section subcircular basally to oval distally, 3-5 mm in diam., blade rounded in outline, flattened, up to 75 cm in diam., split into 25-30 single-fold segments, splits longest about ½ radius in the distal part, individual segments with 1-5 cm long indentations, pale green above, covered with thin white wax below.
+Small, clustering, acaulescent or shrubby, unarmed, pleonanthic, hermaphroditic or dioecious palms.
+Germination not known, eophyll simple, entire, sulcus, ectexine tectate, perforate, or perforate-rugulate, aperture margin plicate.
+Fruit narrowly ovoid, about 0.8 x 0.4 cm, yellowish brown at maturity.
+Leaves induplicate, palmate, marcescent, sheath expanding into a mass of discrete fibres, irregular or neatly joined at the tips opposite the petiole, or developed as rigid spines, petiole well developed, unarmed, ± semicircular in cross-section, adaxial hastula ± triangular or rounded, sometimes hairy, abaxial hastula obscure, blade neatly divided to ca.
+Inflorescence 25-40 cm long, with 3-5 first order branches, rachillae to 4 cm long, male inflorescence branched to three orders, male flowers solitary or in groups, female inflorescence branched to 2 orders, flowers solitary.
+Pollen ellipsoidal, usually bi-symmetric, aperture a distal opposite the intrusion.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

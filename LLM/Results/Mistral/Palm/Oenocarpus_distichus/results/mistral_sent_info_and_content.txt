@@ -1,0 +1,107 @@
+We are interested in obtaining botanical trait information about the species Oenocarpus distichus.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Seed ovoid-ellipsoidal to globose, hilum basal, raphe lateral, branches parallel, indistinct, endosperm homogeneous and striate, or ruminate, with central cavity, embryo basal, very large, extending through the endosperm into central cavity.
+It grows very straight up to 25 m height, with individual leaves on juvenile poles up to six meters long, arranged, as noted, in a single plane, with leaflets growing from the central rachis on mixed planes similar to inajx¡.
+This arborescent palm is the one often spotted at slope tops in pastures, its crown of huge leaves arranged on a single plane.
+A flowering palm that produces a dark-purple, oily fruit.
+The stem, often somewhat greenish-gray, retains deeply etched leaf base scars at 20- to 25-cm intervals up its length to the base of the crown, creating a horizontal squaring pattern identifiable to some distance.
+It regenerates in small gaps and seems relatively shade tolerant, capable of developing enormous juvenile crowns beneath thin overhead canopies.
+Oenocarpus distichus is an evergreen Tree growing to 8 m by 4 m at a slow rate.
+Latin Name Common Name Habit Height Hardiness Growth Soil Shade Moisture Edible Medicinal Other.
+A striking, tall, solitary palm to 10 m tall on which the leaves are arranged in a single flat plane.
+Stem erect, densely covered in fibrous leaf sheaths, when mature becoming bare except rarely fibrous network persistent, leaf scars smooth, flush with stem basally, swollen and prominent distally, a small mass of slender roots sometimes present basally.
+It forms a slender, solitary trunk to 10 m or more tall.
+Fruit ripen quickly, maturing - turning a dark glossy blue or black - shortly after the onset of the first consistent rains of the wet season.
+The spreading leaves hold numerous, dark glossy green and somewhat drooping leaflets that spread in all directions and give the leaf a distinctly plumose appearance.
+Moderate to very large, solitary or clustered pinnate-leaved palms from Central and South America, with distinctive inflorescences in the form of a horse-s tail.
+The leaves are plumose, and it has long, drooping, dark glossy green and somewhat drooping leaflets.
+Pistillate flowers shorter than the staminate, sepals 3, distinct, suborbicular, imbricate, hooded, petals 3, distinct, imbricate except for valvate apices when young, otherwise like the sepals, staminodes tooth-like or lacking, gynoecium ovoid, briefly stalked, unilocular, uniovulate, style short, cylindrical, bearing 3 fleshy stigmas, reflexed at anthesis, papillose adaxially.
+The leaves are plumose,.and it has long, drooping, dark glossy green and somewhat drooping leaflets.
+Moderate to massive, solitary or clustered, unarmed , pleonanthic, monoecious palms.
+Fruit ellipsoidal to globose, dark purple when ripe, perianth persistent, stigmatic remains apical to slightly eccentric, epicarp smooth or minutely pebbled, waxy, mesocarp fleshy, oily, with internal fibres adnate to and covering the seed, endocarp apparently lacking.
+Pollen ellipsoidal, occasionally oblate triangular, with slight or obvious asymmetry, aperture a distal sulcus, occasionally, a trichotomosulcus, ectexine tectate, finely or coarsely perforate-rugulate, aperture margin finer, infratectum columellate, longest axis 38-56 µm.
+A striking, tall, solitary palm to 10 m tall on which the leaves are arranged in.a single flat plane.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 1],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

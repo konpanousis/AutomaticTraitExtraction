@@ -1,0 +1,48 @@
+We are interested in obtaining botanical trait information about the species Khaya senegalensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves 15-60 cm or more, petiole and rachis cylindric, glabrous, leaflets 8-32, subopposite to alternate, apical 2 pairs opposite, petiolules 5-10 mm, leaflet blades basally on rachis ovate but apically on rachis oblong to elliptic, 7-17, 3-6 cm, abaxially greenish white, adaxially dark green, secondary veins 9-14 on each side of midvein and prominent on both surfaces when dry, base broadly cuneate to ± rounded, margin entire, apex mucronate to acuminate.
+
+Initial dictionary of traits with all possible values:
+{"Leaf base": ['Leaf base attenuated'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf base": [
+    ["Leaf base attenuated", 0],
+    ["broadly cuneate", 1],
+    ["\u00b1 rounded", 1]
+  ],
+  "Leaf length": [
+    ["15-60 cm or more", 1]
+  ],
+  "Petiole and rachis": [
+    ["cylindric", 1],
+    ["glabrous", 1]
+  ],
+  "Leaflets": [
+    ["8-32", 1],
+    ["subopposite to alternate", 1],
+    ["apical 2 pairs opposite", 1],
+    ["petiolules 5-10 mm", 1]
+  ],
+  "Leaflet blades": [
+    ["ovate", 1],
+    ["oblong to elliptic", 1],
+    ["7-17 cm", 1],
+    ["3-6 cm", 1],
+    ["abaxially greenish white", 1],
+    ["adaxially dark green", 1],
+    ["secondary veins 9-14 on each side of midvein", 1],
+    ["prominent on both surfaces when dry", 1],
+    ["margin entire", 1],
+    ["apex mucronate to acuminate", 1]
+  ]
+}

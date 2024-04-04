@@ -1,0 +1,68 @@
+We are interested in obtaining botanical trait information about the species Acacia polyacantha ssp. campylacantha.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves: Paripinnate, alternate, axis 4-20 cm long, slender, velvet-hairy, softly prickled, pulvinate, a gland at the base on upper side, sidestalks 15-25 pairs, 4-5 cm long, slender, velvet-hairy, glands between uppermost 4 pairs, leaflets are 30-50, opposite, stalkless, blade 5-7 × 0.5-1 mm, densely velvet-hairy, papery, base flat, tip subpointed or blunt, margin fringed with hairs, midrib near distal margin, lateral nerves and intercostae obscure.
+
+Initial dictionary of traits with all possible values:
+{"Flower shape": ['Five-petalled flower', 'Tubular flower'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Flower shape": [
+    ["Five-petalled flower", 0],
+    ["Tubular flower", 0]
+  ],
+  "Leaf arrangement": [
+    ["Alternate", 1]
+  ],
+  "Leaf type": [
+    ["Paripinnate", 1]
+  ],
+  "Leaf axis length": [
+    ["4-20 cm", 1]
+  ],
+  "Leaf axis characteristics": [
+    ["Slender", 1],
+    ["Velvet-hairy", 1],
+    ["Softly prickled", 1],
+    ["Pulvinate", 1]
+  ],
+  "Leaf base gland": [
+    ["Present on upper side", 1]
+  ],
+  "Sidestalks number": [
+    ["15-25 pairs", 1]
+  ],
+  "Sidestalks characteristics": [
+    ["4-5 cm long", 1],
+    ["Slender", 1],
+    ["Velvet-hairy", 1]
+  ],
+  "Upper sidestalks glands": [
+    ["Present between uppermost 4 pairs", 1]
+  ],
+  "Leaflets number": [
+    ["30-50", 1]
+  ],
+  "Leaflet arrangement": [
+    ["Opposite", 1]
+  ],
+  "Leaflet characteristics": [
+    ["Stalkless", 1],
+    ["Blade 5-7 × 0.5-1 mm", 1],
+    ["Densely velvet-hairy", 1],
+    ["Papery", 1],
+    ["Base flat", 1],
+    ["Tip subpointed or blunt", 1],
+    ["Margin fringed with hairs", 1],
+    ["Midrib near distal margin", 1],
+    ["Lateral nerves and intercostae obscure", 1]
+  ]
+}

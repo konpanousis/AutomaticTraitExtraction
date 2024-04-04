@@ -1,0 +1,26 @@
+We are interested in obtaining botanical trait information about the species Syagrus sancona.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The unbranched stem can be 20 - 30 cm in diameter, it is topped by a crown of 8 - 16, dark green leaves that can each be up to 3.5 metres long.
+
+Initial dictionary of traits with all possible values:
+{"Measurement": ['Maximum Stem Height in Meters: 30.0'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Measurement": [
+["Maximum Stem Height in Meters: 30.0", 0],
+["Maximum Stem Diameter in Centimeters: 30.0", 1],
+["Number of Leaves: 16", 1],
+["Maximum Leaf Length in Meters: 3.5", 1]
+]
+}
+
+Note: The initial dictionary provided only included the "Maximum Stem Height in Meters" trait value, but this does not appear in the input text. Instead, the text mentions the "Maximum Stem Diameter in Centimeters", "Number of Leaves", and "Maximum Leaf Length in Meters" traits, so these have been added to the dictionary along with the corresponding binary evidence values. Since there is strong evidence for these values in the input text, the binary evidence values have been set to 1. The initial trait value of "Maximum Stem Height in Meters: 30.0" has been kept in the dictionary with a binary evidence value of 0, since there is no evidence for this value in the input text.

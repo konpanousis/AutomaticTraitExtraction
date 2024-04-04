@@ -1,0 +1,107 @@
+We are interested in obtaining botanical trait information about the species Dypsis pusilla.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Inflorescence : from within leaves abruptly appearing from within wall of fiber,.
+Fruit : barely oblong, 1" thick, purply black when ripe.
+Leaf Description : pinnate, flat, slightly arching, medium to light green, about 4'-6' long, leaflets relatively widely spaced apart compared most pinnate palm leaves.
+Trunk with basal surface roots and occasionally with aerial roots at 40-50 cm from ground, bark brown, internodes 3-10 mm long.
+Branching frond in red oval.
+Dypsis pusilla new red leaf.
+This delightful little palm is closely related to Dypsis fibrosa and D. utilis but is much smaller.
+In some cases it will start this way and then at the tip spit into two distinct rachis with the leaflets opening off the two at the tip instead of sharing one like below.
+Trunk : multiple, and potentially branching, covered with dense layer of light brown pendent fibrous material.
+Branched frond up close.
+Reddish-bronze new red leaf in red ovals.
+They are small, less than 12 inches tall.
+Dypsis pusilla - Frond branching from rachis.
+Petiole/Leaf bases : 12"-24" long, narrow, unarmed, un-split leaf bases.
+Habit : clustering with a crown of 8-12 feather leaves per stem.
+Definition: whole plant arborescent.
+Dypsis pusilla - Frond branching from rachis.By
+Spacing: 4-6 ft. 6-8 ft.
+Full Sun Sun to Partial Shade Light Shade Foliage: Evergreen Foliage Color: Unknown - Tell us Height: 6-8 ft. 8-10 ft. 10-12 ft.
+D. pusilla branches less often but both mine have two stems each.
+Dypsis pusilla - Frond branching from rachis - DISCUSSING PALM TREES WORLDWIDE - PalmTalk.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 1],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

@@ -1,0 +1,110 @@
+We are interested in obtaining botanical trait information about the species Attalea geraensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The leaves are basal, curved and bright, with rachis measuring 1.4 to 2.3 m long, with 75-79 pairs of pinnae or leaflets decreasing to the apex, the leaflets of the base measure 50 cm long by 7 mm wide, the middle 40 cm long by 2.5 c mwide.
+Leaf , root , gynoecium.
+The inflorescence is protected by a sheath woody and deeply grooved in the longitudinal direction, about 30 cm long by 2.5 4 cm in diameter, composed of staminodes androgynous, i.e. they have both sexes on the same plant or on different individuals.
+Solitary, small to massive pinnate-leaved palms native to Central to South America and the Caribbean, with fibrous leaf sheaths, often huge leaves, and with inflorescences that are either staminate or pistillate or carry flowers of both sexes, all on the same plant, fruit is generally large with very thick endocarp, 1-3 or more seeded.
+Haz clic para expandir.
+Small to massive, solitary, acaulescent or erect, unarmed, pleonanthic, monoecious palms.
+Rank: SEEDLING.
+Fruit ± ovoid, sometimes asymmetrical, 1-several seeded, with a short to moderate beak and apical stigmatic remains, perianth and staminodal ring persistent and enlarging, epicarp minutely grooved, bearing scales, mesocarp usually fleshy and fibrous, endocarp very thick, stony, smooth without or closely grooved, often with included fibres, the pores subbasal, deeply impressed, ?
+Female inflorescence. Photo-colecionandofrutas.org.
+Rank: FLOWERING.
+Unlike other.vertebrate-dispersed plants, many palm species present a low fruiting.synchrony.
+Each fruit has up to 3 seeds.
+Fruits are globular drupes measuring 3-7 cm in.length, and 2-5 cm in diameter, these drupes have a hard, indehiscent.endocarp surrounding 1-3 seeds, although 4-6 seeds may be present,.pyrenes are globular with.a coconut-like endosperm.
+Stem subterranean to tall, usually becoming bare, obliquely marked with leaf scars.
+Entra o regx­strate.
+The male flower measures 1 cm in length.
+In the last case, they had 13.22.3.88 fruits, and 26.90 5.88 seeds.
+The large fruits contain up to six edible seeds and are somewhat slow to germinate, but growth is fast and plants start fruiting after only a few years with curious flower spikes springing from the ground.
+The aerial portion is.composed of the crown with 2-11 leaves 1.4-2.2 m long, in which leaflets.are regularly arranged in the same plane exhibiting brown scales on the.lower surface.
+The female flowers are arranged in two rows along the branches, measuring approximately 2 cm diameter when opened.
+Seed ellipsoidal or laterally somewhat flattened, basally attached with fine anastomosing raphe bundles, endosperm homogeneous, solid , embryo basal.
+Acaulescent palm , caespitose , crown to 2.5 m in diameter.
+Germination remote-tubular, eophyll entire, lanceolate.
+Pistillate flowers very much larger than the staminate, generally ovoid, sepals 3, distinct, ± triangular, broadly imbricate, leathery, petals 3, distinct, rounded or ± triangular with triangular tips, glabrous or tomentose, staminodal ring large, coriaceous, tomentose, gynoecium of 3-several connate carpels, ovoid or obpyriform, style tapering, stigmatic lobes equal in number to the carpels, linear, reflexed at anthesis, ovules 1 per carpel, basal, form unknown.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 1],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

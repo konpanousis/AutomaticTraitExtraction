@@ -1,0 +1,55 @@
+We are interested in obtaining botanical trait information about the species Vernonia amygdalina.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves alternate, simple, stipules absent, petiole 0.2 to 4 cm long, blade ovate-elliptical to lanceolate, 4 to 15 cm, 1 to 4 cm, cuneate or rounded at base, shortly acuminate at apex, margin minutely toothed to coarsely serrate, finely pubescent but often glabrescent, pinnately veined.
+
+Initial dictionary of traits with all possible values:
+{"Petiole": ['Petiolated leaf'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Petiole": [
+    ["Petiolated leaf", 1]
+  ],
+  "Stipules": [
+    ["Present", 0],
+    ["Absent", 1]
+  ],
+  "Leaf arrangement": [
+    ["Opposite", 0],
+    ["Alternate", 1]
+  ],
+  "Leaf type": [
+    ["Compound", 0],
+    ["Simple", 1]
+  ],
+  "Leaf blade shape": [
+    ["Ovate-elliptical", 1],
+    ["Lanceolate", 1]
+  ],
+  "Leaf base shape": [
+    ["Cuneate", 1],
+    ["Rounded", 1]
+  ],
+  "Leaf apex shape": [
+    ["Shortly acuminate", 1]
+  ],
+  "Leaf margin": [
+    ["Minutely toothed", 1],
+    ["Coarsely serrate", 1]
+  ],
+  "Leaf pubescence": [
+    ["Finely pubescent", 1],
+    ["Glabrescent", 1]
+  ],
+  "Leaf venation": [
+    ["Pinnately veined", 1]
+  ]
+}

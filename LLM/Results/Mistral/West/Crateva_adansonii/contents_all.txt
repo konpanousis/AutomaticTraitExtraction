@@ -1,0 +1,100 @@
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1]
+],
+"Trunk and root": [],
+"Latex": [
+["No exudate", 1]
+],
+"Crown": [
+["Regular density of the crown", 1],
+["Leaves grouped at the top of the axes", 1]
+],
+"Stem shape": [],
+"Bark": [],
+"Bark color": [],
+"Leaf shape": [
+["Digitized leaf", 1],
+["Simple leaf", 1]
+],
+"Petiole": [
+["Petiolated leaf", 1],
+["Sessile leaf", 1]
+],
+"Leaf blade": [
+["elliptical blade", 1],
+["obovate blade", 1],
+["ovate-lanceolate", 1],
+["lanceolate blade", 1]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1]
+],
+"Leaf base": [
+["Leaf base oblique", 1],
+["Leaf base obtuse", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex acuminate", 1],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 1],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1]
+],
+"Spine": [
+["Plant without spines", 1]
+],
+"Blade color": [
+["Uniformly coloured blade", 1]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 1]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 1],
+["Green coloured flower", 1]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}
+

@@ -1,0 +1,65 @@
+We are interested in obtaining botanical trait information about the species Pinanga coronata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Inflorescence infrafoliar, pendulous or erect then pendulous, green when young, becoming yellow pink to red, base very stiff, peduncle flattened, 1-6.5 x 0.5-2 cm, prophyll 20-28 x 4.5-8 cm, pale yellow when fresh, light brown when dry, smooth, rachis 2-9 x 0.2-1 cm, smooth, rachillae 5-22, glabrous, straight, spreading to parallel, not in same plar basal rachillae with 19-51 triads on each sid apical rachillae with 15-36 triads.
+
+Initial dictionary of traits with all possible values:
+{"Fruit shape": ['ovoid'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit shape": [
+    ["ovoid", 0]
+  ],
+  "Inflorescence position": [
+    ["infrafoliar", 1]
+  ],
+  "Inflorescence orientation": [
+    ["pendulous", 1],
+    ["erect then pendulous", 1]
+  ],
+  "Inflorescence color": [
+    ["green", 1],
+    ["yellow pink to red", 1]
+  ],
+  "Inflorescence base stiffness": [
+    ["very stiff", 1]
+  ],
+  "Peduncle shape": [
+    ["flattened", 1]
+  ],
+  "Peduncle dimensions": [
+    ["1-6.5 x 0.5-2 cm", 1]
+  ],
+  "Prophyll dimensions": [
+    ["20-28 x 4.5-8 cm", 1]
+  ],
+  "Prophyll color": [
+    ["pale yellow when fresh", 1],
+    ["light brown when dry", 1]
+  ],
+  "Rachis dimensions": [
+    ["2-9 x 0.2-1 cm", 1]
+  ],
+  "Rachillae number": [
+    ["5-22", 1]
+  ],
+  "Rachillae appearance": [
+    ["glabrous", 1],
+    ["straight", 1],
+    ["spreading to parallel", 1]
+  ],
+  "Basal rachillae triads": [
+    ["19-51", 1]
+  ],
+  "Apical rachillae triads": [
+    ["15-36", 1]
+  ]
+}

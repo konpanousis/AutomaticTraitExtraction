@@ -1,0 +1,30 @@
+We are interested in obtaining botanical trait information about the species Nypa fruticans.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+A bunch of Nipah fruit drooping due to its weight.
+
+Initial dictionary of traits with all possible values:
+{"Fruit size": ['large'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit size": [["large", 1]]
+}
+
+Explanation:
+The input text mentions that the Nipah fruit is drooping due to its weight, which suggests that the fruit is large. Therefore, there is strong evidence for the value 'large' in the input text for the trait 'Fruit size'. The binary number '1' indicates this strong evidence.
+
+Note: The initial dictionary provided only included the value 'large' for the trait 'Fruit size'. If additional values for this trait were provided in the initial dictionary, they would also need to be included in the output dictionary, even if there is no evidence for them in the input text. For example, if the initial dictionary included the values 'small' and 'medium' for the trait 'Fruit size', the output dictionary would include all three values, with binary numbers indicating the strength of evidence for each value:
+
+{
+  "Fruit size": [["large", 1], ["small", 0], ["medium", 0]]
+}
+
+In this case, the binary number '0' indicates that there is no evidence for the values 'small' and 'medium' in the input text.

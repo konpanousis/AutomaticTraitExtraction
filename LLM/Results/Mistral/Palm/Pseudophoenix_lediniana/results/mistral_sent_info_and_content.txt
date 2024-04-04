@@ -1,0 +1,108 @@
+We are interested in obtaining botanical trait information about the species Pseudophoenix lediniana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flower pseudopedicel 0.7-2.0 mm long, 1.4-1.7 mm diam., green to glaucous, calyx a shallow three-lobed cupule, 4.0-5.2 mm diam., lobe apices rounded, green to glaucous, margins hyaline, petals ovate, 5.5-6.0 mm long, 4.7-4.9 mm wide, green, glaucous abaxially, spreading, with ca.
+Spacing: 6-8 ft. 8-10 ft.
+Leaves 15-17 in the crown, spreading, leaf ca.
+Small tree, four to six metres tall, with pinnately compound leaves and solitary, swollen stems.
+Overall, it is similar to P.vinifera with an upright habit except as the palm matures,the base of the tree is considerably wider than other P. species.
+Flowers are green and bisexual , the ripe fruit are red.
+A medium-sized solitary palm with a smooth, grey trunk that is.distinctly swollen in middle, and long, graceful, pinnate leaves.
+The leaves, on a 20-25 long robust petiole, are pinnate, up to about 3 m long, with linear-lanceolate leaflets slightly drooping in the adult plants, arranged more or less regularly along the rachis on slightly different planes, 50-60 cm long and 2-2,5 cm broad in the median part, of intense green colour.
+The Pseudophoenix lediniana Read is a solitary species, monoecious, unarmed, with erect stem, that usually does not exceed 10 m of height with a diameter of 20-35 cm, cylindrical with enlarged base or slightly ventricose, of whitish grey colour, waxy in the young plants, on which stand out the annular scars of the junction of the fallen leaves.
+It is a medium sized tree, 10-20 metres tall, with pinnately compound leaves and solitary stems slightly swollen at the base.
+It is a medium-sized tree, 10-20 metres tall, with pinnately compound leaves and solitary stems slightly swollen at the base.
+Globose fruits, of 1,5-2,2 cm of diameter, less frequently bi- or triglobose, of reddish colour, waxy, containing 1-3 globose seeds of about 1,2-1,4 cm of diameter.
+Rank: FLOWERING.
+Inflorescence arching to pendulous, branched to 3 orders, ca.
+Painfully slow.
+Like the waxy white trunk the way it shows the leaf scars.
+Categories : Pseudophoenix Arecaceae genera Trees of the Caribbean Neotropical realm flora Palm stubs Tree stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+Inflorescences between the leaves , up to about 1,5 m long, with ramifications of the third order, hermaphroditic flowers singly arranged in spiral on the rachillas, except in the terminal part where are present few male flowers, with trilobate calyx, 3 petals, 6 stamens, trilocular gynaeceoum and short sessile stigmata.
+P. lediniana trunk close-up.
+The foliar base, of green grey to bluish green colour, waxy, wraps entirely the stem for a length of 40-60 cm.
+Seed 12.3-14.6 mm long, 10.9-14.2 mm diam.
+Trees in this genus are medium to large palms with single, unclustered trunks.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

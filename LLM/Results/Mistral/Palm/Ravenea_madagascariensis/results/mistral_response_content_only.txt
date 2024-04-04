@@ -1,0 +1,180 @@
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 1],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 1],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Flower color": [
+["white", 1],
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["yellow", 0]
+],
+"Leaf type": [
+["simple", 0],
+["pinnate", 1]
+],
+"Plant type": [
+["annual", 0],
+["biennial", 0],
+["perennial", 1],
+["evergreen", 1],
+["deciduous", 0]
+],
+"Thorn presence": [
+["present", 1],
+["absent", 0]
+],
+"Growth form": [
+["tree", 1],
+["shrub", 0],
+["vine", 0],
+["herbaceous", 0]
+],
+"Leaf arrangement": [
+["alternate", 0],
+["opposite", 0],
+["whorled", 0],
+["rosulate", 0]
+],
+"Leaf margin": [
+["entire", 1],
+["serrate", 0],
+["dentate", 0],
+["lobed", 0]
+],
+"Leaf shape": [
+["linear", 0],
+["lanceolate", 0],
+["oblanceolate", 0],
+["elliptic", 0],
+["ovate", 0],
+["obovate", 0],
+["cordate", 0],
+["orbicular", 0],
+["reniform", 0],
+["palmate", 0]
+],
+"Leaf base": [
+["acute", 0],
+["obtuse", 0],
+["auriculate", 0],
+["rounded", 0],
+["cordate", 0],
+[" truncate", 0]
+],
+"Leaf apex": [
+["acuminate", 0],
+["acute", 0],
+["obtuse", 0],
+["mucronate", 0],
+[" retuse", 0],
+["emarginate", 0],
+["cobwebbed", 0]
+],
+"Inflorescence type": [
+["cyme", 1],
+["raceme", 0],
+["panicle", 0],
+["spike", 0],
+["umbel", 0]
+],
+"Petal number": [
+["3", 1],
+["4", 0],
+["5", 0],
+["many", 0]
+],
+"Leaf size": [
+["small", 0],
+["medium", 0],
+["large", 1]
+],
+"Plant height": [
+["short", 0],
+["medium", 0],
+["tall", 1]
+],
+"Trunk diameter": [
+["thin", 0],
+["medium", 0],
+["thick", 1]
+],
+"Leaf orientation": [
+["erect", 1],
+["horizontal", 0],
+["drooping", 0]
+]
+}

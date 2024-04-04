@@ -1,0 +1,33 @@
+We are interested in obtaining botanical trait information about the species Archontophoenix maxima.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The red, ovoid fruits are 1-1.5 cm long and have remnants of the stigma at the apex.
+
+Initial dictionary of traits with all possible values:
+{"Measurement": ['Minimum Fruit Length in Centimeters: 1.1'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Measurement": [
+    ["Minimum Fruit Length in Centimeters: 1.1", 0]
+  ],
+  "Fruit Color": [
+    ["red", 1]
+  ],
+  "Fruit Shape": [
+    ["ovoid", 1]
+  ],
+  "Fruit Length Range in Centimeters": [
+    ["1-1.5", 1]
+  ],
+  "Fruit Stigma Remnants": [
+    ["present at the apex", 1]
+  ]
+}

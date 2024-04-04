@@ -1,0 +1,32 @@
+We are interested in obtaining botanical trait information about the species Vernonia colorata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The stemless, lanceolate leaves are hairy.
+
+Initial dictionary of traits with all possible values:
+{"Flower shape": ['Flower with 6 or more petals'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Flower shape": [
+    ["Flower with 6 or more petals", 0]
+  ],
+  "Leaf shape": [
+    ["lanceolate", 1]
+  ],
+  "Stem presence": [
+    ["stemless", 1]
+  ],
+  "Leaf hairiness": [
+    ["hairy", 1]
+  ]
+}
+
+Note: This output assumes that the initial dictionary of traits is incomplete and adds additional traits and their associated values based on the input text. The initial dictionary only contained one trait ("Flower shape") with one possible value, but the input text contains information about the leaf shape, stem presence, and leaf hairiness. Therefore, these additional traits and their associated values are added to the output dictionary. The binary value for "Flower with 6 or more petals" is set to 0 because there is no evidence for this value in the input text.

@@ -1,0 +1,254 @@
+We are interested in obtaining botanical trait information about the species Clausena anisata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Up to 10 m tall, this species has smooth, thin, grey-green bark becoming brownish and mottled with age.
+Venation is prominent on the lower surface.
+Type: Medium Shrub, 3 to 5m. Form: Multi-stemmed and slender, with fine glossy foliage.
+Shrub or small tree up to 10 m tall, bark grey, mottled, young branches and leaves pubescent becoming glabrous.
+Leaves impari-pinnate, leaflets alternate, ovate or elliptic, base asymmetric, apex emarginate, margin crenulate, densely gland-dotted.
+The compound leaves are up to 30 cm long and stipules are absent.
+The 8 stamens have filaments 2-6
+Flowers : Inflorescence axillary racemes , flowers white, tetramerous.
+The inflorescence is a panicle, borne in winter and spring, from July to November in South Africa.
+Rheum Dis Clin N Am.
+Morphology Inflorescence of elongate puberulous panicles, as long as the subtending leaves or a little shorter, peduncle long, bracts and bracteoles scarious, very small, caducous.
+Stamens 8, 4 mm long, inserted at the base of the disk, filaments subulate, flattened towards the base, anthers basifixed, 1 mm long, introrse, elliptic, 2-lobed at the base.
+The leaflet shape is ovate to narrowly elliptic with asymmetric base, the apex tapering and notched.
+Sepals 4, 0.8 mm long, acute, slightly joined at the base, pubescent.
+Succulent Up to 5cm.
+Shrub 25cm to 50cm.
+The leaves are alternate to spiral up the stems, often crowded near stem-tips.
+The petiole is from 10 mm to 25 mm long, while leaflet petiolules are short.
+Leaflets are 11-37 in number, alternate to sub-opposite, and ovate to narrowly elliptical in shape, with a markedly asymmetric, rounded or cuneate base.
+The 300 mm long leaves are compound, with about 11 to 37 leaflets, arranged alternately to sub-oppositely.
+Image notes: Leaves pinnately compound with 10-17 alternate or subopposite leaflets and a terminal leaflet.
+The bisexual flowers of Clausena anisata grow in sparse axillary sprays or in cyme-shaped panicles up to 16 cm long.
+The flowers are scented, bisexual, regular, with 4 sepals about 1 mm long, 4 petals that are 3 to 7 mm long, elliptical, concave and cream to yellowish-white.
+The blades are initially purplish brown, maturing to dark green to bright green and covered in translucent gland dots.
+The leaf surfaces are densely covered with embedded, pellucid glands, which are strongly aromatic when bruised.
+Clausena anisata is a very neat and attractive small tree, that gives off a strong scent that is considered by many to be unpleasant, when the leaves are crushed, it smells like horse urine, as its Afrikaans common name, perdepis, describes.
+The leaflet apex is obtuse or notched, and the margins are entire or crenulate.
+Petals 4, 4-5 mm.
+Herbarium. says Corolla 5up to 10 straight  stamens.
+The leaflets are ovate to narrowly elliptical, with a marked asymmetric, rounded base, an obtuse or notched apex and entire margins, with no stipules present at the base.
+The small, evergreen to semi-deciduous tree grows to a height of 3 to 5 m and appears quite spindly when young.
+Fruit& seed Berry, globose, 1.3 cm across, seeds oblong.
+Filter Plant Links Bulbs and Rhizomes 69 Climbers 29 Grasses 31 Groundcovers and Perennials 149 Shrub 211 Succulents 96 Tree 204 Water Plants 32.
+Tree 4m to 8m.
+The average seed weight is 78.8 mg.
+A small, neat and attractive tree.
+Shrub 50cm to 75cm.
+Fruit an ovoid, fleshy berry, 3.3-7 mm in diameter, single-seeded and turning red or purplish-black when mature.
+Clausena anisata is a small, fast-growing, deciduous tree or a shrub, 3-5 m tall, but it can grow up to 10 m high.
+C. anisata , for example has been described as a shrub under a meter tall and as a tree of 20 metres.
+The scented flowers are bisexual, regular, and 4-merous.
+Clausena anisata , commonly known as horsewood and in Afrikaans as perdepis , is a shrub or small tree usually reaching heights around 4 m, occasionally 10 m.
+Fruit an ovoid, fleshy berry, 3.3-7 mm in diameter, single-seeded and turning red or purplish-black when mature.
+The leaf structure is imparipinnate, comprising four to eight pairs of opposite to sub-opposite leaflets, as well as a terminal leaflet.
+The inflorescence is a hairy, lax axillary panicle.
+Flowers Inflorescence axillary racemes, flowers white, tetramerous.
+The pale yellow, cream or white flowers are about 1 cm in diameter.
+Sepals 4, 0.8 mm.
+Tree A woody, self-supporting perennial plant usually with a single main stem and generally growing more than 6 meters tall.
+The shrubs attains a height of about 3 metres.
+Flower-buds ± 3 mm.
+Leaflet:  8×3 cm, fruits measures 2.5 cm across.
+Flowers: Bunches of small creamy-yellow -stars’ with pronounced stamens, from May to August.
+Flower-buds ±3 mm long, obovoid, pedicels very slender, 3-4 mm long, puberulous.
+Small shrub 3 ft. high with white flowers.
+Grows 3-5m high.
+Sepals are about 1 mm long, while the elliptical petals are 3-7
+This small, evergreen to semi-deciduous tree grows to a height of 3 to 5 m and appears quite spindly when young.
+Approximately 25 seeds per packet.
+The margins are toothed or scalloped.
+The inflorescence varies in form, but is generally a cluster of several flowers with 4 or 5 petals and sepals.
+The 6-9 mm diameter pale green fruit, with translucent skin when ripe, has a sweet pulp with a lemony flavour.
+Licenses - CC_BY References - Diagnostic Diagnostic Keys Description Medium trees, young branchlets pubescent, Leaves odd pinnate, to 15 cm, leaflets opposite, 5 x 2.5 cm, ovate, elliptic, acuminate, base oblique, dentate.
+Fruit& seed : Berry , globose , 1.3 cm across, seeds oblong.
+Ovary 1.3 mm long, subellipsoid, 4-locular with 2 ovules in each loculus, style stout, stigma broadly obtuse.
+The fruit is an ovoid, fleshy berry , 3.3 to 7 mm in diameter, red or purplish-black when mature, containing 1 to 3 seeds, borne in spring and early summer.
+The 8 stamens have filaments 2 to 6 mm long, which are thickened at their base.
+The young parts are covered with fine hairs.
+Succulent 10cm to 20cm.
+Tree 3m to 4m.
+The bark is grey-brown and mottled but fairly smooth.
+Medicinal tree with fleshy red to black fruit.
+Plant Type: Tree.
+The spherical, fleshy fruit is 7 mm in diameter, from green and orange to red and black when ripe.
+Timber is yellowish-white, elastic and dense.
+Clausena anisata is a very hardy, evergreen, shrub or small tree that is spindly when young but matures to a lovely rounded shape.
+Floral parts occur in fours or fives.
+Up to 10 m tall, this species has smooth, thin, grey-green bark becoming brownish and mottled with age.
+Afr J Trad, Comp Alt Med.
+The genus can be distinguished from related plants by the presence of a gynophore , a structure supporting the ovary in the flower.
+Stamens 8, 4 mm.
+A deciduous, small, neat and attractive tree.
+Perennial/ground cover Up to 10cm.
+Leaves are about 3 cms in length.
+The leaf surfaces are densely covered with embedded, pellucid glands that produce a strong aroma when bruised.
+Bulbs Climbers Cycads Euphorbias Ferns Grasses Herbs Orchids Parasites Shrubs Succulents Trees Sources of Information Disclaimer Subject Index.
+Racemes axillary, to 9 cm, pedicels 0.5 cm, bracts 2 mm, flowers white, 4-merous, calyx lobes 1 mm, ovate, pubescent, petals 4 x 2 mm, concave, stamens 8, free, filaments dialated below, unequal, anthers 2 mm, ovary 4 partite, style apical, furrowed, stigma 4-angled.
+Berry 8 mm across, globose.
+The bark is thin, grey-green and smooth, becoming brownish with age.
+The attractive compound, glossy leaves droop gracefully.
+Leaflet dimensions are variable, from 10 mm to 60 mm long and from 6 m to 25 mm wide, the smallest ones at the base.
+Flowers in axillary, cymose panicles, yellow or white.
+Petals 4, 4-5 mm long, whitish, imbricate in bud, elliptic.
+Greyish-brown mottled bark.
+The 8 stamens have filaments 2-6 mm long, which are thickened at their base.
+The compound leaves are up to 30 cm long and stipules are absent.
+Sprays of attractive, creamy white to yellow flowers are produced from May to August, attracting insects and butterflies.
+Shrub or small tree, up to 10 m high.
+Shrub or small tree up to 10 m. tall, bark grey, mottled, young branches and leaves pubescent becoming glabrous.
+Leaves 6-20 cm long, imparipinnate, petiole 1-2.5 cm long, terete or slightly grooved at the base, leaflets alternate, 5-8 on each side of the rhachis, petiolules slender, 1-3.5 mm long, lamina 1-6 x 0.6-2.5 cm, rather smaller in the proximal than in the distal leaflets, ± asymmetric, ovate or ovate-oblong or elliptic to narrowly elliptic, pubescent or glabrous, densely dotted with pellucid glands, acute or slightly emarginate at the apex, margin crenulate or entire, cuneate or rounded at the base, lateral nerves 5-8 pairs.
+Perennial/ground cover 10cm to 20cm.
+Shrub or small tree to 5 m. Leaves imparipinnate, leaflets ovate, toothed, strongly scented.
+As it matures, the Horsewood has a lovely rounded shape with compound, glossy foliage that droops slightly.
+The leaves of these plants are pinnate , divided into leaflets.
+Inflorescence of elongate puberulous panicles, as long as the subtending leaves or a little shorter, peduncle long, bracts and bracteoles scarious, very small, caducous.
+Rootstocks of accession: own root.
+Yellow/white flowers from Spring to Summer.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1]
+],
+"Trunk and root": [],
+"Latex": [],
+"Crown": [],
+"Stem shape": [],
+"Bark": [
+["Smooth bark", 1],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 1],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 1],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 1],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 1]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1]
+],
+"Spine": [],
+"Blade color": [],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 1],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 1],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 1]
+],
+"Sexuality": [],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 1],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

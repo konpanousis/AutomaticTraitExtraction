@@ -1,0 +1,226 @@
+{
+"Fruit colour description": [
+("black", 0),
+("blue", 0),
+("bluish", 0),
+("brown", 0),
+("brownish", 0),
+("chocolate", 0),
+("coral", 0),
+("crimson", 0),
+("darkgreen", 0),
+("green", 0),
+("greenish", 0),
+("grey", 0),
+("ivory", 0),
+("magenta", 0),
+("maroon", 0),
+("olive", 0),
+("orange", 0),
+("orangish", 0),
+("pink", 0),
+("pinkish", 0),
+("plum", 0),
+("purple", 0),
+("purplish", 0),
+("red", 0),
+("reddish", 0),
+("tan", 0),
+("violet", 0),
+("white", 0),
+("whitish", 0),
+("yellow", 0),
+("yellowish", 0)
+],
+"Fruit colour": [
+("black", 0),
+("blue", 0),
+("brown", 0),
+("green", 0),
+("grey", 0),
+("ivory", 0),
+("orange", 1),
+("pink", 0),
+("purple", 0),
+("red", 0),
+("white", 0),
+("yellow", 1)
+],
+"Crown": [
+("both", 0),
+("canopy", 0),
+("understorey", 1)
+],
+"Fruit size": [
+("large", 1),
+("small", 0)
+],
+"Fruit shape": [
+("ellipsoid", 0),
+("elongate", 0),
+("fusiform", 0),
+("globose", 1),
+("ovoid", 0),
+("pyramidal", 0),
+("rounded", 0)
+],
+"Conspicuousness": [
+("conspicuous", 1),
+("cryptic", 0)
+],
+"Leaf colour": [
+("dark green", 1),
+("green", 0),
+("silvery white", 1)
+],
+"Leaf size": [
+("huge", 1),
+("large", 1),
+("small", 0)
+],
+"Petioles": [
+("black", 1),
+("blackish green", 1),
+("dark coloured", 1),
+("glossy", 1),
+("long", 1),
+("thin", 1)
+],
+"Trunk": [
+("grey", 0),
+("orange-pink-reddish", 1),
+("rather thin", 1),
+("short and subterranean", 0),
+("solitary", 1),
+("thin", 1),
+("turns grey", 1)
+],
+"Inflorescence": [
+("erect", 1),
+("less ramified", 1),
+("strong", 1),
+("strongly contracted", 1),
+("upright", 1)
+],
+"Flower": [
+("creepy-yellow", 1),
+("female", 1),
+("male", 1),
+("small", 1)
+],
+"Endocarp": [
+("thin", 1)
+],
+"Mesocarp": [
+("thick", 1),
+("soft", 1),
+("spongy", 1)
+],
+"Seed": [
+("basal", 1),
+("furrowed shallow", 1),
+("globose", 1),
+("one globose seed only", 1),
+("rarely two", 1)
+],
+"Habitat": [
+("understorey", 1)
+],
+"Height": [
+("5 meters", 1),
+("7 meters", 1),
+("15 feet", 1)
+],
+"Diameter": [
+("2 meters", 1),
+("20 cm", 1),
+("3 cm", 1),
+("4.5 cm", 1),
+("5 cm", 1),
+("8 inches", 1)
+],
+"Leaf type": [
+("circular", 1),
+("fan-shaped", 1),
+("palmate", 1)
+],
+"Leaf base": [
+("fibrous", 1),
+("not fibrous", 1)
+],
+"Leaf division": [
+("not quite", 1),
+("partially divided", 1),
+("only shallowly split", 1),
+("remain only partially divided", 1)
+],
+"Leaf blade": [
+("along the adaxial ribs", 1),
+("bright white underside", 1),
+("cut", 1),
+("glossy dark green", 1),
+("large", 1),
+("microscopic silvery white scales", 1),
+("pleated", 1),
+("unsplit", 1)
+],
+"Leaf segments": [
+("divided", 1),
+("free", 1),
+("narrow", 1),
+("rigid", 1),
+("united", 1)
+],
+"Leaf stalk": [
+("dark coloured", 1),
+("distinctly developed", 1),
+("grooved on the upper side", 1),
+("long", 1),
+("rounded at the bottom", 1),
+("sharp", 1)
+],
+"Leaf sheath": [
+("tears over the petiole", 1)
+],
+"Bracts": [
+("larger", 1),
+("similar to those of male inflorescences", 1),
+("short", 1),
+("triangular", 1),
+("triangular peaks", 1),
+("wavy", 1)
+],
+"Flowers": [
+("creepy-yellow", 1),
+("female", 1),
+("larger", 1),
+("long stamens", 1),
+("shallow", 1),
+("six stamens", 1)
+],
+"Stamens": [
+("equal length", 1),
+("oval", 1),
+("six", 1)
+],
+"Anthers": [
+("oval", 1)
+],
+"Indument": [
+("dense", 1),
+("white", 1)
+],
+"Endosperm": [
+("furrowed shallow", 1)
+],
+"Petiole": [
+("black", 1),
+("blackish green", 1),
+("dark", 1),
+("long", 1),
+("sharp", 1)
+],
+"Axis": [
+("densely hairy", 1)
+]
+}

@@ -1,0 +1,139 @@
+We are interested in obtaining botanical trait information about the species Eucalyptus tereticornis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Buds 1216 mm long, 5 mm wide.
+Eucalyptus tereticornis subspecies rotunda A.R.Bean has opercula that are not expanded at the base, juvenile leaves that are green, round and up to 1.2 times as long as broad,.
+Trees, to 25 m high, bark white, smooth, branchlets apically angular, pubescent when young.
+The flower buds are arranged in leaf axils in groups of seven, nine or eleven on an unbranched peduncle 7-25 mm long, the individual buds on pedicels 2-6
+E. amplifolia has distinctive deltoid to orbicular glossy green juvenile leaves, held horizontally into the juvenile and sapling stage, whilst the juveniles of E. tereticornis are broadly ovate and dull and are held in the vertical plane.
+Bark smooth, whitish often some rough, dark grey bark at base, Twigs reddish or yellowish-green.
+Mature buds are an elongated oval shape,
+Camaldulensis and Eucalyptus tereticornis is a tree up to 45 m tall taller.
+The trunk is straight and is usually un-branched for more than half of the total height of the tree.
+Mature buds are an elongated oval shape, 9-16 mm
+It has smooth bark, lance-shaped to curved adult leaves, flower buds in groups of seven, nine or eleven, white flowers and hemispherical fruit.
+Cultivated seedlings : cotyledons reniform to oblong, stems square in cross-section and often winged, leaves always petiolate, opposite until nodes 4 to 7 then alternate, broadly ovate, 6.5-11.5 cm long, 3.5-8.5 cm wide, base truncate to rounded or tapering, apex rounded or pointed, grey-green or green, new growing tips slightly glaucous but glaucescence not persisting as leaves expand.
+Flowers 512, spreading on equal stalks on 57 mm.
+Inflorescence an axillary, solitary, condensed and reduced, umbel-like dichasium, 3-12-flowered, peduncle rounded or angular, 5-25 mm long.
+Eucalyptus tereticornis is an evergreen Tree growing to 35 m by 20 m at a fast rate.
+Has the widest latitudinal range disjunct, narrow-lanceolate, 10x¢18 cm long, 1x¢2 cm,.
+Species in series Liberivalvae all have fruit with an annular disc that is visibly free from the ovary roof.
+Flowers occur in inflorescences of 7 to 11 flowers.
+The trunk is straight, usually unbranched for more than half of the total height of the tree and has a girth of up to 2 m dbh.
+Fruit a capsule, 6-8 x 4-5 mm, pedicellate, truncate-globular, disc ascending, seeds many.
+Multi-stemmed bushy habit and narrow shiny-green leaves.
+Additional references &nbsp Study abstract   There are 35 study abstracts related to Eucalyptus tereticornis J.E.Sm.
+Umbels single at leaf base, 2.53 cm long including the.rounded stalk of 1 cm.
+The bark is shed in irregular sheets, resulting in a smooth trunk surface coloured in patches of white, grey and blue, corresponding to areas that shed their bark at different times.
+Mature buds ovoid to diamond-shaped , green to creamy, scar present, operculum broadly to long conical , stamens erect or the inner ones inflexed, anthers cuboid to oblong , versatile , dorsifixed , dehiscing by longitudinal slits , style long, stigma blunt or tapered, locules 4 or 5, the placentae each with 6 vertical ovule rows.
+Adult leaves disjunct, narrow-lanceolate, 10x¢18 cm long, 1x¢2 cm wide, green, dull, concolorous.
+Mature buds elongated-ovoid dilated at or just above the join and then tapering , the hypanthium short, green to creamy, scar present , operculum horn-shaped , stamens erect, anthers cuboid to oblong , versatile , dorsifixed , dehiscing by longitudinal slits , style long, stigma blunt, locules 4 or 5, the placentae each with 6 vertical ovule rows.
+Juvenile growth : stem usually square in cross-section and prominently winged , juvenile leaves always petiolate , opposite for 5-8 nodes then alternate , ovate, 6-13 cm long, 3-8 cm wide, dull, blue-green or green.
+Bark smooth throughout, mottled white, cream, yellow, pink and grey, sometimes with persistent dark grey flakes of rough bark on base of large trunks.
+Young plants and coppice regrowth have dull bluish green, egg-shaped leaves that are 60-130 mm long and 30-80 mm wide.
+The buds have operculum not dilated basally, usually with rounded blunt tip and 2-3 times the length of the hypanthium.
+Cultivated seedlings : cotyledons reniform to oblong, stems square in cross-section and sometimes winged, leaves always petiolate, opposite until nodes 5-7 then alternate, ovate, 5-12.5 cm long, 2.7-6.5 cm wide, base tapering, apex pointed, green to blue-green.
+It has narrow, lanceolate green leaves, from 10 to 20 centimetres long, and one to nearly three centimetres wide.
+All Eucalyptus tereticornis Scientific Name Eucalyptus tereticornis Categories Tree Common Name Forest Red Gum, Blue Gum Family Myrtaceae Description " Tree to 50 m tall.
+Botany     Evergreen, large tree up to 50 m tall, bole relatively short, straight, up to 200 cm in diameter, bark surface white, grey or grey-blue, decorticating over the whole trunk in large plates or flakes to leave a smooth or mat, mottled surface, crown fairly open.
+Description.Evergreen tree 1846 m high with straight stout trunk 11.8 m in diameter,.large and open or fairly dense crown.
+Seeds usually black, 0.8-1.5 mm long, pyramidal or cuboid, dorsal surface usually pitted, ridges or angles minutely roughened , hilum terminal.
+Juvenile growth : stem usually square in cross-section, sometimes prominently winged , warty or smooth, juvenile leaves always petiolate , opposite for 5 to 8 nodes then alternate , broadly lanceolate or ovate, 5-11.5 cm long, 3-8 cm wide, base rounded, truncate or tapering to petiole, margins sometimes undulate , dull, green.
+Seedling with epigeal germination, cotyledons 2-lobed, first 2-4 leaves opposite.
+Stamens many, threadlike, white, 1012 mm long,.anthers small and elliptical, with small round gland.
+Eucalyptus tereticornis is a tree up to 45 m tall or taller.
+It is a tall tree upto 40m high , Bole is straight and clean with whitish mottled bark, The crown is open, Juvenile leaves opposite, Adult leaves alternate, Inflorescence axillary usually seven flower umbel , Distribution.
+Eucalyptus tereticornis subspecies basaltica A.R.Bean has opercula that are not expanded at the base, juvenile leaves that are dull bluish, egg-shaped to round, up to one to two times as long as broad, and pedicels 2.5-6 mm long,.
+Eucalyptus tereticornis subspecies basaltica A.R.Bean has opercula that are not expanded at the base, juvenile leaves that are dull bluish, egg-shaped to round, up to one to two times as long as broad, and pedicels 2.5-6
+Adult leaves are the same shade of green on both sides, lance-shaped to curved, 80-220 mm
+The juvenile leaves of the Eucalyptus tereticornis have this wonderful, much more rounded shape and it’s a deeper green shade than the mature leaves.
+Crown large, open or fairly dense.
+To cellular collapse so distortion in drying is quite common as well as surface checking dull concolorous.
+Leaves alternate, lanceolate, 1021 cm long, 1225 mm wide,.often curved, acuminate, acute at base, slightly thickened, shiny green on both.surfaces, glabrous.
+Licenses - CC_BY References - Diagnostic Diagnostic Keys Description Trees, to 25 m high, bark white, smooth, branchlets apically angular, pubescent when young.
+Eucalyptus tereticornis is a tree reaching a height of 15 meters or more in the Philippines.
+Leaves simple and entire, stipules absent, petiole 1-3 cm long, rounded or channelled, blade narrowly lanceolate to lanceolate, 10-21 cm x 1-3 cm, acuminate at apex, glabrous, shiny green, pinnately veined, aromatic when crushed.
+Trees Upright Description: A large fast growing Australian native tree.
+Description The tree grows to a height of 20 to 50 metres with a girth of up to 2 metres dbh.
+Adult leaves.
+Bark smooth, whitish, peeling in.irregular thin sheets or large flakes, becoming mottled with white, gray, or.blueish patches.
+It is characterised by its smooth bark, buds in clusters of 7 to 11 in the leaf axils , stamens held erect inside the buds,  fruit with steeply raised disc and exserted valves, typically black, single-coated seed with roughened margins, and dull broadly ovate juvenile leaves held in the vertical plane.
+Frequently tall with a thick trunk but also occurs with a short trunk and heavily branched crown.
+Adult leaves are the same shade of green on both sides, lance-shaped to curved, 80-220 mm long and 10-35 mm
+Eucalyptus camaldulensis differs by its usually smaller habit, its beaked to obtusely conical operculum and smooth seeds.
+Seeds cuboid to pyramidal , 1-2 mm
+Flowers bisexual, white, 1.5 cm across, in 7-11 flowered axillary umbels, pedicel to 1 cm, hypanthium campanulate, 3.5 cm, rugose, operculum conical, 1-1.5 cm, horn-shaped, apex acute, stamens many, filaments unequal, ovary inferior, adnate to the hypanthium, 3-4-celled, ovules many, style simple, stigma capitate.
+Seeds many, tiny, 1 mm long and.broad, shiny dark brown to black.
+Upper branches.
+Fruit a thin-walled globular to ovoid capsule, 5-9 mm x 4-10 mm, enclosed in a woody hypanthium, opening with 4-5 strongly exserted valves, many-seeded.
+Eucalyptus tereticornis is a tree that typically grows to a height of 20-50 m and forms a lignotuber.
+Eucalyptus tereticornis is a tree that typically grows to a height of 20-50 m and forms a lignotuber.
+Young plants and coppice regrowth have dull bluish green, egg-shaped leaves that are 60-130 mm long and 30-80 mm wide.
+Leaves simple, alternate, estipulate, petiole to 25 mm long, stout, glabrous, seedling leaves 5-12.5 x 1.5-6 cm, juvenile leaves 12-22 x 4.5-10 cm, adult leaves 10-20 x 1-2 cm, ovate, elliptic, lanceolate or linear-lanceolate, base subacute, cuneate or oblique, apex acuminate, margin entire, glabrous, coriaceous, gland-dotted, lateral nerves many, pinnate, faint, lopped near the margin forming intramarginal nerve, intercostae reticulate.
+To 25 m high, bark white, smooth , branchlets apically,.
+The fruit is a woody, hemispherical capsule 2-6
+A medium-sized to tall forest tree widespread in eastern Australia from Bega on the South Coast of New South Wales to Cape York Peninsula in north Queensland.
+Tree to 50 m tall.
+In places where the range of E.camaldulensis and E.tereticornis become close or overlap there may be intergradation occuring.
+Fruit pedicellate , hemispherical, 0.2-0.6 cm long, 0.4-0.8 cm wide, disc broad and steeply ascending , valves 4 or 5, strongly exserted.
+Juvenile growth of subspecies mediana is often glaucous but this is soon lost as leaves mature.
+The flower buds are arranged in leaf axils in groups of seven, nine or eleven on an unbranched peduncle 7-25 mm long, the individual buds on pedicels 2-6 mm long.
+Adult leaves alternate, petiole 1.3-3 cm long, blade lanceolate to falcate , 8-22 cm long, 1-3.5 cm wide, base tapering to petiole, concolorous , dull or glossy, green, side-veins greater than 45° to midrib , sparsely to moderately reticulate , intramarginal vein parallel to and just within margin or well removed from it , oil glands mostly island.
+Seed germinates in 4-14 days.
+Inflorescence axillary unbranched, peduncles 0.7-2.5 cm long, buds 7, 9 or 11, pedicellate.
+Seeds rough, brown-black.
+The juvenile growth of this subspecies is very different: stems square in cross-section and strongly winged also, leaves broadly ovate to orbicular , prominently petiolate, green, held in vertical plane.
+Bark smooth throughout, mottled white, cream, yellow, pink and grey, sometimes with persistent dark grey flakes of rough bark on base of.large trunks.".
+Africa , Guinea , Java , Thailand , Peru , Mexico , Venezuela , El Salvador , Colombia , Taiwan , Fiji , China , Guangdong , Guangxi , Guizhou , Yunnan ), Mauritius , Rodrigues , Hawaii x¢¦ Juvenile leaves disjunct, broad-lanceolate, dull grey-green.
+Pistil with inferior.45-celled ovary and long stout style.
+The trunk is straight, usually unbranched for more than half of the total height of the tree and has a girth of up to 2 m dbh.
+Tree to 20 m tall.
+Seed always black and new juvenile growth green, never glaucous.
+Adult leaves alternate, petiole 0.8-3 cm long, blade lanceolate to falcate , 8-20 cm long, 1-3.5 cm wide, base tapering to petiole, concolorous , glossy or dull, green, side-veins greater than 45° to midrib , moderately reticulate , intramarginal vein parallel to and just within margin, oil glands mostly island.
+Fruit pedicellate , hemispherical, 0.3-0.5 cm long, 0.6-1 cm wide, disc steeply raised-oblique, valves 4 or 5, strongly exserted.
+The fruit is a woody, hemispherical capsule 2-6 mm long and 4-8 mm wide with the valves prominently protruding.
+All Media Synonyms Common Names Overview Nomenclature and Classification Natural History Habitat and Distribution Occurrence Demography and Conservation Uses and Management Information Listing Meta data ð Synonyms synonym Eucalyptus insignis Naudin synonym
+Diagnosis, including distribution and treatment advice Cookies on Plantwise Knowledge Bank Like most we.
+Tereticornis is a tree reaching a height of 15 meters or more in meantime.
+Trunk bark.
+Eucalyptus tereticornis Sm. subspecies tereticornis has opercula expanded at the base and juvenile leaves that are lance-shaped to egg-shaped, and two to three times longer than wide.
+Tree reaching a height of up to 50m under ideal conditions native to eastern and.
+Thereafter, limbs are unusually steeply inclined for a Eucalyptus species.
+Perennial Seed propagated Tree Vegetatively propagated.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [["Tree", 1]],
+"Phyllotaxis": [["Opposite phyllotaxis", 0], ["Phyllotaxis alternate", 1]],
+"Trunk and root": [["Base of trunk straight", 1]],
+"Latex": [["No exudate", 1]],
+"Crown": [["Regular density of the crown", 1]],
+"Stem shape": [["Circular stem section", 0], ["Square stem section", 1]],
+"Bark": [["Smooth bark", 1]],
+"Bark color": [["Slice in light bark", 1], ["Slice through pink bark", 0], ["Slice through red bark", 0], ["Slice through brown bark", 0], ["Slice through orange bark with green rhytidome", 0], ["Slice through yellow bark with green rhytidome", 0], ["Slice through light bark with red mottling", 0], ["Slice through yellow bark with brown mottling", 0]],
+"Leaf shape": [["Simple leaf", 1]],
+"Petiole": [["Sessile leaf", 0], ["Petiolated leaf", 1]],
+"Leaf blade": [["Linear leaf blade", 0], ["lanceolate blade", 1], ["elliptical blade", 0], ["obovate blade", 0], ["obtriangular blade", 0], ["asymmetrical blade", 0], ["orbicular blade", 0], ["bilobed blade", 0], ["lobed blade", 0], ["leaf with deep lobes", 0]],
+"Leaf margin": [["Smooth leaf margin", 1]],
+"Leaf base": [["Leaf base attenuated", 0], ["Rounded leaf base", 0], ["Leaf base cordate", 0], ["Leaf base with glands", 0]],
+"Leaf apex": [["Leaf apex sharp corner", 0], ["Leaf apex with wide corners", 0], ["Leaf apex acuminate", 1], ["Leaf apex apiculate", 0], ["Leaf apex mucronate", 0], ["Rounded leaf apex", 0], ["Leaf apex emarginated", 0]],
+"Vein": [["Only the main vein is visible", 0], ["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1], ["Pinnate venation with secondary veins connecting near the margin of the blade", 0], ["Blade trinervate at base", 0], ["Palmate venation with at least 5 main veins", 0]],
+"Tendril": [["Plant without tendrils", 1]],
+"Spine": [["Plant without spines", 1]],
+"Blade color": [["Uniformly coloured blade", 1]],
+"Fruit": [["Drupe, or drupe-like fruit", 0], ["Berry, or berry-like fruit", 0], ["Capsule", 1], ["Pod", 0], ["Follicle", 0], ["Achene", 0], ["Winged fruit", 0]],
+"Inflorescences": [["Flower isolated or in groups of 2 or 3", 1], ["Spike of flowers or inflorescences", 0], ["Rootlet or cluster of flowers or inflorescences", 0], ["Corymb of flowers or inflorescences", 0], ["Umbel of flowers or inflorescences", 1], ["Fascicle of flowers or inflorescences", 0], ["Glomerule of flowers or inflorescences", 0], ["Cyme of flowers or inflorescences", 0], ["Flower head", 0], ["Panicle of flowers or inflorescences", 0]],
+"Sexuality": [["Axillary sexuality", 1], ["Terminal sexuality", 0]],
+"Flower color": [["White flower", 0], ["Pink coloured flower", 0], ["Red coloured flower", 0], ["Yellow coloured flower", 0], ["Green coloured flower", 0]],
+"Flower shape": [["Single-petalled flower", 0], ["Three-petalled flower", 0], ["Four-petalled flower", 0], ["Five-petalled flower", 0], ["Flower with 6 or more petals", 0], ["Tubular flower", 0], ["Butterfly-shaped flower", 0], ["Apetal flower", 0]]
+}

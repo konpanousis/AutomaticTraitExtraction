@@ -1,0 +1,275 @@
+We are interested in obtaining botanical trait information about the species Ziziphus mauritiana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Plants are capable of seed production once they reach a height of about 1 metre.
+Ziziphus oenopolia is a straggly shrub with alternately arranged leaves.
+The fruit consists of a large hard stone surrounded by a white fleshy pulp and a surface skin.
+Varietal behaviour under varying powdery mildew pressure in jujube.
+Leaves variable, alternate, in 2 rows, oblong-elliptic, 2.5-6 x 1.5-5 cm, with tip rounded or slightly notched base, finely wavy-toothed on edges, shiny green and hairless above, dense, whitish, soft hairs underneath.-¦ Read more.
+Ziziphus mauritiana is a spiny, evergreen shrub or small tree up to 15 m high, with trunk 40 cm or more in diameter, spreading crown, stipular spines and many drooping branches.
+It has a round, spreading crown.
+Older stems have a dark grey to blackish coloured bark that is rough and somewhat furrowed.
+Holm L, Pancho J V, Herberger J P, Plucknett D L, 1979.
+Unripe fruit, cut to show the pit in the middle.
+Its fruit turn bright orange when ripe and, unlike these other species, they are hard-shelled berries containing several flattened seeds in a soft white pulp.
+Its leaves are green on both surfaces and its relatively small fruit turn black when ripe.
+Its leaves have green upper surfaces and whitish or rusty lower surfaces and its relatively small fruit turn reddish, purplish or black in colour when ripe.
+It is a fast-growing tree with a medium lifespan, that can quickly reach up to 10-40 ft tall.
+The stone in the fruit is irregularly furrowed and usually contains two cells and two seeds , which have papery testa.
+Old leaves fall in March to April and new leaves appear almost simultaneously.
+Stems and Leaves The young stems have a zig-zagging nature, are finely hairy and are greenish or whitish in colour.
+Fruits at various stages of ripeness, with cracked pit showing the two seeds.
+The twigs are usually softly tomentose when young.
+It can be oval, obovate, oblong or round, and can be 1-2.5 in long, depending on the variety.
+Thus, the tree is leafless for only a short period, except in dry areas.
+Seeds 25 Seeds.
+Mini Rev Med Chem.
+It is dark-green and glossy on the upper side and pubescent and pale-green to grey-green on the lower side.
+The fruit is a soft, juicy, drupe that is 2.5 cm diameter, though in some cultivars the fruit size may reach up to 6.25 cm long and 4.5 cm wide.
+Flowers appear in July to October and the fruit forms soon after, remaining green for about 4 months before turning yellowish on ripening in February to March.
+Fully ripe fruits are less crisp and somewhat mealy, overripe fruits are wrinkled, the flesh buff-coloured, soft, spongy and musky.
+The fully mature fruit is entirely red, soft, juicy with wrinkled skin and has a pleasant aroma.
+The leaves are solitary or in pairs, from 2 to 6 cm in length and 1.5-5.9 cm at the widest point.
+The bark is dark grey, dull black or reddish with long vertical fissures, reddish and fibrous inside.
+But this tree can grow to 15 meters and has many branches and branches that are very numerous and thorny.
+Product Description Z. mauritiana is a spiny, evergreen shrub or small tree up to 15 m high, with trunk 40 cm or more in diameter, spreading crown, stipular spines and many drooping branches.
+There is a single, hard, oval or oblate, rough central stone which contains 2 elliptic, brown seeds, 1/4 in long.
+Its leaves have green upper surfaces and whitish or rusty lower surfaces and its relatively large fruit turn yellowish, orange or reddish-brown in colour when ripe.
+Bidar leaf shape is oval with shiny green color.
+The fruit's skin is smooth, glossy, thin but tight.
+The fruits on wild plants reach about 2 cm in diameter, and on cultivated varieties can exceed 5 cm long.
+The form may be oval, obovate, round or oblong, the skin smooth or rough, glossy, thin but tough.
+Flowers are minute, greenish-white or yellow, hermaphrodite, in sessile or shortly peduncled axillary cymes, and are insect pollinated with an acrid smell.
+The species varies widely in height, from a bushy shrub 1.5 to 2 m tall, to a tree 10 to 12 m tall with a trunk diameter of about 30 cm.
+Ziziphus mauritiana is a medium-sized tree that grows vigorously and has a rapidly developing taproot, a necessary adaptation to drought conditions.
+These leaves are relatively small  and somewhat oval in shape or egg-shaped in outline.
+A thorny and densely branched large shrub or small tree, with a spreading habit, growing 3-10 m tall and up to 10 m across.
+Unknown plants or plants without names.
+The fruit is of variable shape and size.
+It is a fast growing tree with a medium lifespan, that can quickly reach up to 10-40 ft tall.
+The leaves are about 2.5 to 3.2 cm long and 1.8 to 3.8 cm wide having fine tooth at margin.
+These flowers are usually arranged in small loose clusters in the leaf forks , with each cluster usually containing 10-15 flowers.
+It can be oval, obovate, oblong or round, and that can be 1-2.5 in long, depending on the variety.
+Z. mauritiana is a small to medium-sized, single or multi-stemmed, spiny shrub or tree, which is almost evergreen, but is deciduous during the dry season.
+Flowers and Fruit The inconspicuous flowers are greenish, greenish-yellow or whitish in colour.
+The fruit is initially green and turns yellow, orange and red on ripening, being a drupe containing sour-sweet pulp and a hard stone.
+Bark dark grey or dull black, irregularly fissured.
+It can reach up to 12 m tall and 30 cm diameter at breast height, but is highly variable in size and general appearance.
+The leaves are simple, shining green above and whitish tomentose beneath, due to persistent dense hairs , margins minutely serrulate, leaf shape ranging from almost round to an elongated ellipse, commonly sub-orbicular to ovate-oblong, rounded at both ends, highly variable in shape and size but always with three basal nerves and two stipular spines, one long and straight, the other small and curved back, and often brown in colour.
+The alternately arranged leaves are borne on stalks 2-16 mm long.
+It varies in size from 1.2 to 3.7 cm long, and is generally globose or ovoid, and glossy.
+The flowers are tiny, yellow, 5-petalled and are usually in twos and threes in the leaf axils.
+All Categories Seeds - A Seeds-B Seeds-
+Holm L, Pancho JV, Herberger JP, Plucknett DL, 1979.
+Broadleaved Perennial Seed propagated Shrub Tree Vegetatively propagated Woody.
+Z. mauritiana may be erect or wide-spreading, with gracefully drooping thorny branches, zigzag branchlets, thornless or set with short, sharp straight or hooked spines.
+Flowers are white or greenish white and the fruits are orange to brown, 2-3 cm long, with edible white pulp surrounding a 2-locular pyrene.
+Z. mauritiana timber is usually of small dimensions with light red wood, maturing to reddish-brown.
+The ripe fruit is sweet and sour in taste.
+Ziziphus quadrilocularis is a large shrub or small tree with alternately arranged leaves.
+Stipules are mostly spines, in pairs with one hooked and one straight, or both hooked, or rarely with neither as a spine.
+They usually bear a single curved thorn and a leaf at each joint.
+These fruit are rounded or egg-shaped and turn from green to pale yellow, orange, red or reddish-brown in colour as they mature.
+Fruits are first green, turning yellow as they ripen.
+The leaves are alternate, ovate or oblong elliptic with rounded apex, with 3 depressed longitudinal veins at the base.
+The skin of most is smooth and greenish-yellow to yellow.
+The bole is generally short, reaching 3 m in length at most.
+Their upper surfaces are dark green in colour, hairless and glossy, while their lower surfaces are covered with whitish or rusty coloured hairs.
+Z. mauritiana is a spiny, evergreen shrub or small tree up to 15 m high, with trunk 40 cm or more in diameter, spreading crown, stipular spines and many drooping branches.
+Z. mauritiana is a fast growing, spiny, thicket-forming shrub or tree, which can fruit prolifically and disperse seeds over a wide area using mammalian and avian vectors.
+The branches are spreading and droop at the ends.
+India Present, Widespread Native Planted.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 1],
+["drooping axles", 1],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 1],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 1],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 1],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 1],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 1],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 1],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

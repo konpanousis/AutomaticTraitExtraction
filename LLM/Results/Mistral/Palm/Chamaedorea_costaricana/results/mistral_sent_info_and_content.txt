@@ -1,0 +1,222 @@
+We are interested in obtaining botanical trait information about the species Chamaedorea costaricana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The flowers are produced in inflorescences , they are dioecious , with male and female flowers on separate plants.
+Flowers seem to arise from below ground level and plants only 3' tall have large upright flowers nearly as tall as the entire plant.
+Interfoliar has branched green rachis, and branch bracts are papery and overlapping.
+Leaves 4-6, are erect-patent, pinnate 1-2 m long, with pinnae 20-26 on each side, slightly sigmoid or falcate, 25-40 cm long and 2.5-5 cm wide, long acuminate , 2 prominent nerves on each side of the main nerve, rachis 100-120 cm long, tubular sheath, 20-60 cm long, with an elongated triangular extension opposite the petiole insertion, forming auriculated lobes on each side of the petiole.
+Staminate with 15-30 rachillae, these 20-30cm long, 2 mm diam., flexuous and ± pendulous or drooping, green to yellow in flower.
+As a young plant, Its foliage is compact and beautiful but as it grows older, the stems grow longer and the leaves start to twine.
+Leaflets are thin with a high length/width ratio.
+Leaves: 4-6, erect-spreading, pinnate, 1-2 m long, sheath 20-60 cm long or more, tubular, green, longitudinally striate-nerved, apex with a ligule on each side of petiole, these initially lanceolate and membranous and later deciduous or rotting away to leave a triangular base 1-2 cm long, petiole to 35 cm long, grooved near base and green above, rounded and pale below, rachis to 125 cm long, angled and green above, rounded below and with a pale band extending onto sheath, pinnae 20-26 on each side ofrachis, 25-40 x 2.5-5 cm, linear-lanceolate to lanceolate, slightly sigmoid or falcate or nearly straight, alternate or subopposite, long-acuminate, contracted basally and there with a ± raised light green bump above, a whitish midrib prominent above and below with 2 prominent primary nerves on each side ofthis, 2 secondaries between each of these.
+Evenly pinnately compound and have 5-15 lanceolate pinnae per side.
+The fruits are very special with strong red to orange flower stacks from which the black fruits hang in groups.
+However the leaflets are fairly wide- almost ovoid, dark green and fairly leathery.
+It is a large palm for a Chamaedorea, but it does not appear to be as tall as it was expected to grow.
+Separate male and female flowers grow on different plants.
+Small Sabal with papery ligules.
+The petiole is up to 35 cm long, abaxially with a pale band that extends to the sheath.
+Medium indicates a trunk growth of between 30 and 90 cm.
+Its leaves are dark green with a gray cast.
+The leaves are pinnate , with one to numerous leaflets.
+The leaves are pinnate and lancelote- look sort of 'ordinary'.
+Growth Habit - N/A.
+Perennial Flowers.
+It looks like a stout, taller version of Chamaedorea glaucifolia.
+It is a solitary fast-growing species with gracefully arching pinnate leaves and a large, thick, ringed, light-green to yellow-green trunk.
+Fruits are globose in shape, 7-10 mm in diameter and green when unripe while turns black to black-purple when fully ripen.
+It is a solitary stemmed plant with very large bifid leaves , and tends to hold an relatively large number of leaves at a time relative to most other bifid-leaved Chamaedoreas.
+The undersides of the ovoid leaflets are an ornamental glaucous coloration.
+It is a smaller plant, usually only growing up to 3' tall in cultivation, with sea-green, somewhat rough and leathery irregularly pinnate leaves.
+But it is much larger and can reach heights up to 6 m, but usually stay much shorter, or the thicker heavily ringed stems fall over and become partially decumbent.
+Some are suckering palms and some solitary stemmed.
+The fruit is an orange or red drupe 0.5-2 cm diameter.
+Leaf evenly pinnately compound, terminal pinnae fused.
+Base of Chamaedorea hooperiana , showing the angled eruption of stems from the earth- they almost make a swooping shape as they start growing upright.
+The leaves are more leathery and the leaflets a bit longer and narrower.
+It is a low growing species rarely getting up to even 3' tall and holds a relatively large head of parallel-sided bifid long leaves.
+According to Encyclopedia of Cultivated Palms , this species reaches 6-10' tall and clusters grow to 12-25' wide.
+Multiple stems to 3.5m over approximately 10 years.
+The C. costaricana tends to grow tall with thick stems that resemble bamboo more than any other species under this genus.
+Infrafoliar inflorescences , solitary, with peduncle 20-45 cm long, erect in flower, pendulum in fruit, bracts 5-8, rachis 10-20 cm long, inflorescences staminated with 15-30 splints, 20-30 cm long, flexuous and pendulous, green to yellow in flower, flowers 2.5-3.5 mm long and 2.5-3 mm wide, yellow-greenish, sepals free almost to the base, petals valved, free almost to the base, pistillate inflorescences with 10-20 slivers, 20-35 cm long, frequently only bifid, orange and bulging in fruit, flowers 3-3.5 mm long and 2-2.5 mm wide, in lax spirals, pale yellow, slightly sunken, sepals connate briefly at the base, petals imbricated almost to the apex, free.
+It has slightly curving stems that arise densely from a small area and swoop outwards and upwards.
+Immature Chamaedorea elatior plants showing very large, bifid leaves- looking almost like an entirely different species.
+Slender, cane-like, clumped, erect, and less than an inch in diameter.
+Fruits are globose to subglobose , 7-10 mm in diameter, green when unripe and turning black or black-purple when ripe.
+The leaf ends are a fascinating shape somewhat similar to those seen in some other climbing palms and have leaflets that hook backwards near the ends of each leaf.
+It is a suckering, tall species with many narrow leaflets and bamboo-like stems.
+Rank: SEEDLING.
+Perlite, Vermiculite.
+A staminate inflorescence of-¦.
+Pistillate with 10-20 rachillae, these 20-35 cm long, 3 mm diam., very slightly longitudinally ridged, green and spreading in flower, reddish orange and drooping when heavily laden with fruits.
+Rank: FLOWERING.
+Garden pots round low.
+The stems are slender and closely packed with each other.
+The plant grows in colonies with short horizontal stem forming a dense clumps that reaches up to 6 m high and 2-6 cm wide.
+Garden pots color round low.
+Over 50 cm.- Less than 5 cm.
+Round, bluish-black fruits.
+The lateral leaf margins are parallel as well and the leaves are not much longer than they are wide.
+Poppy - Papaver.
+The leaves of this species are either a bright green or a dark bluish-green with mottling, both color forms with prominent ridges.
+It is a solitary stemmed moderately fast growing species up to 15' tall with very thin, spread out and plumose leaflets with a slight glaucous bloom on them.
+Fruits: 7-10 mm diam., globose to subglobose, green maturing black or purplish black, seeds 5-8 mm diam., globose, brownish, endocarp with distinctive s-shaped grooves.
+It bears a beautiful fish tail-shaped unsplit pinnate foliage.
+Geranium - Pelargonium.
+Leaflets are long and narrow and dark green.
+It only grows up to 2 feet high and produces offshoots at its base when it matures.
+Less than 30 cm./ Less than 50 cm.
+Slow indicates annual trunk growth of less than 30 cm.
+It has large, straight, deep green stems that resemble bamboo culms.
+Categories : Chamaedorea Trees of Costa Rica Flora of Costa Rica Flora of Central America Flora of Mexico Plants described in 1859 Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+Flowers: Staminate in moderate or ± dense spirals, 2.5-3.5 x 2.5-3 mm, oblong to depressed-globose, greenish yellow at anthesis ageing to brownish orange, slightly sunken, calyx 1 x 22.5 mm, deeply lobed, yellowish ageing to brownish orange, sepals free nearly to base and only briefly connate there, broadly rounded apically, petals 3 x 2-3 mm, ovate to deltoid, valvate, free nearly to base, spreading apically, ± fleshy, acute and slightly recurved apically, stamens 1-1.5 mm high, filaments short, anthers I mm long, brownish, pistillode to 2 mm high, columnar, slightly tapered apically, pale yellow.
+It grows up to 6.5' tall and is upright and spreading.
+Chamaedorea woodsoniana is probably the largest of the Chamaedorea growing up to 35' tall and with a trunk up to 4" in diameter.
+The stems are quite thin and closely ringed, curving and bending gracefully with age.
+Moreover, it is characterized by having bifid foliage and a slender stem that goes for a quarter-inch in diameter.
+Solitary, caespitose, perhaps clustering.
+Palms generally comprise one or several trunks that grow straight out of the ground, but in some species the trunk grow underground and/or as creepers.
+Flowers are golden yellow in color.
+Leaves of this plant are usually spread out and leaflets may be slightly drooping.
+The crowns hold many dark, glossy green, pinnate leaves - so as to appear much more luxuriant than the "Bamboo Palm."
+Friedman J, Barrett SC.
+Stick-in labels bulb & tuber FMB
+Its stems can reach 12' tall and clusters reach 12' wide.
+This bifid, suckering palm has narrow stems up to 4' tall and ‘medium-sized' leaves with parallel sides of dark green and a leathery texture.
+Spacing: 8-10 ft. 10-12 ft. 12-15 ft.
+Inflorescences: infrafoliar, erect-spreading, peduncles 20-45 cm long, 1-6 cm wide at base, 0.5-1 cm wide at apex, green and erect in flower, reddish orange and nodding in fruit, bracts 5-8, tubular, longitudinally striate-nerved, papery, brownish in flower, becoming shredded with age and ± deciduous, uppermost exceeding peduncle, rachises 10-20 cm long, green in flower, reddish orange in fruit.
+Garden pots square black high.
+Neither insects nor wind: ambophily in dioecious Chamaedorea palms - PubMed.
+Chamaedorea sartorii is a Mexican palm that has a lot of similarities to Chamaedorea oblongata , though perhaps holding just slightly longer leaflets.
+It has bifid deep green leaves with prominent parallel ridges.
+Flower seeds perennials.
+The trunk is about 1" in diameter and very bamboo like with prominent rings.
+No Diameter of the trunk.
+The leaf rachis is up to 100-120 cm long while the petiole is 35 cm long.
+The terminal pinnae basally fused and sometimes larger.
+Subtropical to 6.5', with erect and cane-like growth.
+It is a suckering, bifid species that spreads by underground rhizomes and eventually forms dense colonies of low-growing bifid-leaved plants on skinny stems of about ¼" in diameter.
+These are too immature to show the trunk rings.
+The staminated inflorescences are 20-30 cm long, green to yellow in colour, each flower is 2-4 mm in length and 2-3 mm in width while the pistillate inflorescences are 20-35 cm long, pale yellow in colour, each flower is 3-4 mm in length and 2-3 mm in width.
+Some palms have bisexual flowers and/or male and female flowers on the same inflorescence.
+The stems are up to 1.5" in diameter.
+An easy to grow, clumping palm with abundant soft fronds, and slender, bamboo like stems.
+Each leaves consists of 20-26 pinnae on each side which are slightly sigmoid or falcate in shape.
+Pistillate in ± lax spirals, 3-3.5 x 2-2.5 mm, ovoid-globose, yellow, slightly sunken, calyx I x 2 mm, deeply lobed, greenish yellow, brown-margined, sepals connate only briefly basally, broadly rounded apically, petals 3 x 2.5-3 mm wide, triangular, imbricate nearly to apex, free, erect, acute apically, pistil to 3 x 2 mm, depressed-obovoid, green apically, styles short or lacking, stigma lobes short, recurved, thickened, dark.
+Perennials Stick-in labels bundled per 24 FMPRL
+Flower seeds annual.
+This is a tightly clustering, highly variable species with narrow to wide pinnate leaves arising off perfectly straight stems that, with time, can create a nearly solid barrier of closely spaced green, ½" sticks.
+Starting out as a bifid species for several years, it soon grows into an ovoid, pinnate palm with large and very wide, somewhat leathery leaves with prominent ridges.
+It bears beautiful 2 feet long and 2 feet wide leaves that look like a fishtail.
+The leaves are 4-6 in number, pinnate, 1-2 m in length.
+Fruit set under different pollination-¦.
+This is a solitary stemmed palm with very closely spaced rings.
+It is an impressive bamboo-like solitary species with large pinnate leaves with long, lancelote leaflets that tend to be held in an upright V shape.
+As one of the tall species, its trunk is roughly 1 inch wide with noticeable rings similar to bamboos.
+Most are smaller palms, but some grow up to over 20'.
+No ligule, no C. costaricana blood.
+This is a suckering thin-stemmed drooping-leafed species with nearly ovoid to lancelote leaflets and brilliant red fruits.
+The thin petiole has thick, fleshy base.
+Several trunks Leaves. of palmate or pinnate or feathery appearance.
+More than 15 m.- Less than 6 m. Thorns.
+Flower seeds biennial.
+Chamaedorea linearis is one of the larger Chamaedoreas growing up to 30' tall.
+Stems are about 1.5" in diameter and the leaves are long and arching with widely spaced lanceolate thick leaflets.
+Chamaedorea tepejilote : This is a solitary, or sometimes suckering species from both Central and South America, growing upwards of 20' tall on thick, bamboo-like trunks.
+The leaves of this species are thin but wide, ribbed and tend to hang down a bit.
+Less than 10 m. / Over 10 m. Less than 6 m. Crownshaft.
+The flowers are borne erect on infrafoliar inflorescence.
+Petioles have thin, membranous base.
+.The flower stalk becomes orange when carrying fruit which begins green and turning black when ripe.
+Chamaedoreas are pinnate palms with green, bamboo-like, ringed stems.
+Chamaedorea is a dioecious genus with male and female flowers occuring on separate plants.
+Other labels Stick-in labels water plants FMWP 58x152 mm
+During its younger years, its foliage tends to look like a fishtail but as it grows older it becomes wider and turns into an ovoid pinnate.
+This is a tall, solitary species with a thick trunk, up to 2" in diameter, topped with a sparse arching crown of very thin, plumose leaves.
+Garden pots square black low.
+Suckering, green thin trunks.
+Flower Seed mix.
+They are small palms, growing to 0.3-6 m tall with slender, cane-like stems, growing in the understory in rainforests , and often spreading by means of underground runners , forming clonal colonies.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 1],
+["red", 0],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

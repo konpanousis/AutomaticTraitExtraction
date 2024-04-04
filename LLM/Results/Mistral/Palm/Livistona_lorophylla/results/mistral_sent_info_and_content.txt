@@ -1,0 +1,199 @@
+We are interested in obtaining botanical trait information about the species Livistona lorophylla.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+It is a dioecious palm, growing to 12 m, with prominent leaf scars.
+Leaves 25-40 in a globose crown, petiole arching, 70-200 cm long, 10-17 mm wide, adaxially flat, margins with scattered single curved black spines up to ca 10 mm long, leaf-base fibres moderately prominent, coarse, persistent, lamina costapalmate, regularly segmented, circular, 60-100 cm long, coriaceous, glossy mid green to pruinose grey on both surfaces, lamina divided for 85-98% of its length, with 34-50 segments, depth of apical cleft 55-78% of the segment length, apical lobes acuminate to filiform, semi-pendulous, parallel veins 8-10 each side of midrib, transverse veins thinner than parallel veins.
+Livistona lorophylla  has an up to 15 m tall stem, with a diametre of 8-20 cm, grey, that presents very close internodes caused by the scars of the fallen leaves.
+The inflorescence is interfoliar, 20-160 cm long, and does not extend beyond the crown.
+Fibres in the leaf-base are prominent, coarse, and persistent.
+They are fan palms, the leaves with an armed petiole terminating in a rounded, costapalmate fan of numerous leaflets.
+It presents a peduncular bract and several bracts of the rachis having a tubular shape, sparsely tomentose.
+They have compound , broad leaves.
+It contains only one seed, 7-9 mm long.
+The base of the petiole presents several dense and persistent fibres wrapping the stem until the fall of the petiole.
+They are fan palms , the leaves with an armed petiole terminating in a rounded, costapalmate fan of numerous leaflets.
+The costapalmate leaves are 60-100 cm long, very coriaceous, circular, of glossy green to grey colour, covered by a slight pruina on both surfaces.
+The petiole is arcuate, woody, 100-200 cm long, 10-17 mm broad, flat above and with margins equipped with curved black spines, irregularly arranged, especially in the basal part, up to 10mm long.
+Detail, with the typical segments resembling leather strips and an inflorescence at the leaf base.
+It is a moderately large palm to about 15 m tall with a rounded crown of up to 40 arching, deeply divided, wispy fan leaves.
+Eophyll not seen.
+Tree-like monocot , 3-8 m high.
+The inflorescences are unbranched at the base, and do not extend beyond the limit of the crown, but branch up to three orders.
+Trunk to 15 m tall, 8-20 cm dbh, leaf scars raised, internodes narrow, grey, persistent petiole stubs in the lower portion only.
+Trunk to 15 m tall, 8-20 cm in diameter, breast high, leaf scars raised, internodes narrow, grey, persistent petiole stubs in the lower portion only.
+The fruit can be ovoid or pyriform, 8-14 mm long and with 6-9 mm of diametre, pruinose, dull black when ripe.
+In the lower part of the stem can be found the remnants of the petioles bases that persist for a long time on the stem, forming a characteristic spiral interweaving.
+Individuals can grow to 15 m.
+The petioles of dead leaves persist for the first metre, but shed higher up the stem.
+Although now generally considered synonymous with this species, L. kimberleyana from Western Australia differs slightly and can be distinguished by a stouter stature, a denser crown and grayish leaves.
+Flowers solitary or in clusters of 2-4, broadly funnel-shaped, 1.2-3 mm long, cream, sepals triangular, 0.7-1.8 mm long, membranous, acute, petals triangular to broadly ovate, 1.2-3 mm long, acute to cuspidate, cream, stamens ca 1.6 mm long.
+However, in some populations individuals exhibit intermediate leaf colour.
+L. lorophylla just starting to trunk.
+Definition: whole plant arborescent.
+Seed ellipsoid, 7-9 mm long.
+Rare and diminutive, attractive N Australian palm- a true dwarf fan palm.
+It is similar in appearance to Livistona inermis but more robust- fan leaves very wispy and deeply divided right down their base.
+Bronze Blue-Green Height: 8-10 ft. 10-12 ft. 12-15 ft.
+Livistona lorophylla is a moderate sub-canopy to canopy palm to 15 m tall, leaves are small and regularly segmented, segment apices are semi-pendulous, and with a bifurcate cleft to 78% of the segment length, petiole margins are strongly spined in the basal portion, the inflorescence is unbranched, not extending beyond the limit of the crown, and with up to 8 partial inflorescences, bracts are loosely tubular, flowers are cream, fruit are obovoid to pyriform, to 14 mm long to 9 mm wide, and pruinose dull black at maturity.
+Leaves have a nice blue-grey coloration.
+The foliar lamina is divided for almost the totality of its length in 30-50 foliar segments, divided at the apex for three quarters of their length in two apical, acuminate to filiform, lobes, very drooping.
+A tall, solitary fan palm to 15m with an open globose crown.of up to 40 arching or pendulous deeply segmented leaves.
+Spacing: 4-6 ft. 6-8 ft.
+Flowers solitary or in clusters of 2-4, broadly funnel-shaped, 1.2-3 mm long, cream, sepals triangular, 0.7-1.8 mm long, membranous, acute, petals triangular to broadly ovate, 1.2-3 mm long, acute to cuspidate, cream, stamens about 1.6 mm long.
+The flowers are solitary or in pairs, cylindrical in bud with triangular sepals.
+The inflorescence is ramified up to 3 orders, with 4-8 6 cm long rachillae, glabrous, bearing hermaphrodite flowers, solitary or in small bunches of 2-4, infundibuliform, 1,2-3 mm long, of cream colour.
+Inflorescence unbranched at the base, not sexually dimorphic, 20-160 cm long, not extending beyond the limit of the crown, branched to 3 orders, partial inflorescences 4-8, prophyll not seen, peduncular bract 1, rachis bracts loosely tubular, sparsely tomentose, rachillae 1-6 cm long, glabrous.
+The leaves are pale green-grey to glaucous on the upper surface, and light green-grey and waxy and dull on the lower surface.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Growth habit": [
+["dioecious", 1],
+["monoecious", 0]
+],
+"Height": [
+["12 m", 1],
+["3-8 m", 1],
+["up to 40 arching", 1],
+["15 m", 3]
+],
+"Leaf arrangement": [
+["costapalmate", 2],
+["fan", 2]
+],
+"Leaf base fibres": [
+["moderately prominent", 1],
+["coarse", 1],
+["persistent", 1]
+],
+"Leaf blade shape": [
+["circular", 1]
+],
+"Leaf colour": [
+["glossy mid green to pruinose grey", 1]
+],
+"Leaf division": [
+["85-98% of its length", 1]
+],
+"Leaf margin spines": [
+["scattered single curved black spines up to ca 10 mm long", 1]
+],
+"Leaf petiole": [
+["arching", 1],
+["70-200 cm long", 1],
+["10-17 mm wide", 1],
+["adaxially flat", 1]
+],
+"Leaf segment apices": [
+["acuminate to filiform", 1],
+["semi-pendulous", 1]
+],
+"Leaf veins": [
+["parallel veins 8-10 each side of midrib", 1],
+["transverse veins thinner than parallel veins", 1]
+],
+"Number of leaves in crown": [
+["25-40", 1]
+],
+"Peduncular bract": [
+["one", 1],
+["tubular shape", 1],
+["sparsely tomentose", 1]
+],
+"Rachis bracts": [
+["sparsely tomentose", 1],
+["tubular shape", 1]
+],
+"Stem diameter": [
+["8-20 cm", 2]
+],
+"Stem internodes": [
+["very close", 1],
+["caused by the scars of the fallen leaves", 1]
+],
+"Stem height": [
+["up to 15 m", 1]
+],
+"Stem leaf scars": [
+["prominent", 1]
+]
+}

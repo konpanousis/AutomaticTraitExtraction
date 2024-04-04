@@ -1,0 +1,146 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 1],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 1],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 1],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 1],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Leaf color": [
+["dark green", 1],
+["light brown", 1],
+["maroon", 1],
+["orange", 1],
+["reddish-brown", 1],
+["rust", 1],
+["white", 1]
+],
+"Plant height": [
+["2 to 8 meters", 1],
+["4 to 12 meters", 1],
+["60 inches", 0],
+["30-40 ft.", 0],
+["up to 20 feet", 1]
+],
+"Leaf shape": [
+["curled", 1],
+["feather-like", 1],
+["plumose", 1],
+["triangular", 1]
+],
+"Leaf arrangement": [
+["spirally attached", 1]
+],
+"Inflorescence length": [
+["110 inches", 1]
+],
+"Number of leaves": [
+["4 to 8 leaves", 1],
+["8 to 10 leaves", 1]
+],
+"Growth habit": [
+["vast growth habit", 1]
+],
+"Growth rate": [
+["grows rapidly", 1]
+],
+"Number of stems": [
+["one true trunk", 1],
+["multiple stems", 1]
+],
+"Leaf node color": [
+["golden brown", 1]
+],
+"Leaf petiole texture": [
+["waxy", 1]
+],
+"Fruit type": [
+["black fruits", 1]
+],
+"Seed size": [
+["less than 1/2\" long & 1/4\" wide", 1],
+["the same size", 0],
+["slightly different shape", 0]
+],
+"Seedling age": [
+["planted 2 years ago", 1]
+],
+"Leaf base color": [
+["browny orange and white tormentum", 1]
+],
+"Leaflet shape": [
+["narrow, tight leaflets", 1]
+],
+"Grouping": [
+["This palm often appears in groups of 3 to 5.", 1]
+],
+"Leaf drying behavior": [
+["When its leaves dry up, they hang like a pendulum and sometimes cover the trunk.", 1]
+],
+"Palm-heart edibility": [
+["Palm-heart edible.", 1]
+]
+}
+

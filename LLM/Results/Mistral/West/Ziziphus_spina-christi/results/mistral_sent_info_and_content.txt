@@ -1,0 +1,182 @@
+We are interested in obtaining botanical trait information about the species Ziziphus spina-christi.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flowers 4-6 mm across, subsessile, greenish yellow, sweet scented.
+The light - gray bark is fissured and scaly.
+The leaves are finely hairy at least between the leaf veins.
+Max Height : 6-18m  Spread : 2-15m.
+All Categories Seeds - A Seeds-B Seeds-
+The five petals are spatulate with a length of 1.25 millimeters.
+Leaves alternate, 3-nerved beneath.
+A medium-size tree, with spreading, greyish white branches, glabrous or slightly pubescent.
+The fully mature fruit is entirely red.
+Leaves are small, alternate, and ovate to oval, with a rounded apex, dark, shiny green, with stipular spines.
+Shortly after becoming fully red, the fruit begins to soften and wrinkle.
+Stipules transformed into spines in wild forms unarmed in cultivated forms.
+Trees or shrubs with ovate, beneath 3-nerved leaves.
+.The edible, oval, with a diameter of about 1 centimeter, green, red or dark brown - yellow stone fruits have a hard stone core.Occurrence.
+The bare disc is sublime zehnlappig and grooved.
+Fruit edible, of cherry-size.
+Girtanneria spina-christi Neck.
+Tree, leaves over 2.5 cm.
+Unknown plants or plants without names.
+Constantly having from 1 to 3 millimeters very short Blx¼tenstandsschx¤ften are the downy, hairy zymx¶sen inflorescences.
+It has simple, broad leaves with three noticeable basal veins of 2 cm to 7 cm in length.
+The five finely hairy, keeled sepals are ovate with a length of about 1 millimeter, with more or less pointed upper end.
+Woody plants with simple, stipulate frequently 3-5-nerved leaves and small greenish or yellowish flowers, often in axillary cymes, intra-staminal disc well developed, fruit a drupe or capsule.
+The simple leaf blade is at a length of 2 to 6 centimeters and a width of 1-4 cm ovate - elliptical, almost circular, ovate - lanceolate or elliptical with blunt or nearly heart-shaped Spreitenbasis and short -sharpened, pointed or blunt upper end.
+Inflorescence axillary tomentose, pedicel woolly, approx.
+Flowers are small, numerous, arranged in clusters, white.
+The immature fruit is green in color, but as it ripens it goes through a yellow-green stage with mahogany-colored spots appearing on the skin as the fruit ripens further.
+Fruit a yellow to brown-red drupe.
+Flowers finely pubescent, yellowish-green, in usually many-flowered cymes.
+The upper leaf surface is bare and the underside is depending on variety glabrous or finely pubescent on the veins.
+Leaves glabrous or pubescent on midrib, petiole 3-15 mm long, blade elliptic to ovate-elliptic 1.5-8.5 x 0.8-5 cm, finely serrulate or crenulate, acute to rounded at the apex, symmetrical or almost so at the base.
+Shrub or tree to 15 m tall, usually spiny but sometimes unarmed, bark grey to brown, fissured, branchlets whitish to straw-coloured.
+Ziziphus spina-christi  is a perennial, drought hardy tree.
+Drupe 8-15 mm in diam., yellow to red.
+Vide " Ziziphus spina-christi " apud Vicispecies.
+Leaves glabrous or slightly pubescent beneath.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+The bark of the hanging, flexible branches is grayish - white, glabrous or slightly fine hairs.The
+Average weigh the fruits of 50 g and contains a single large seed.
+Ziziphus Spina Christi is Evergreen tree with an irregular rounded crown.
+Sepals 1.5-2 mm long.
+Flowers bisexual, 5-fid.
+Stipular spines in pairs, one erect, approx.
+Brantner, A.H. and Males, Z. Quality assessment of Paliurus spina-christi extracts.
+The woolly hairy flower stalk is 3 to 5 millimeters long.
+The hermaphrodite, greenish- yellow flowers are radial symmetry and fx¼nfzx¤hlig double perianth with a diameter of 4 to 6 mm.
+Thee Olie - Etherische Olie.
+Seeds 50 Seeds.
+Ziziphus spina-christi.Introductie.
+Syrian Christ thorn usually grows as evergreen shrub or sometimes as a medium to large tree, the plant height usually 3-8 meters can sometimes reach up to 20 meters and trunk diameter of about 60 centimeters.
+A, Chilblain-like lesions on the trunk, B, Small and Itchy Blisters on the arm.
+Hibiscus Flowers Organic Dried Cut.
+Petals c. 1.5 mm long.
+The five stamens do not protrude beyond the corolla.
+The single hard stone contains two seeds.
+.The alternate arranged leaves are divided into petiole and leaf blade.
+Zone of inhibition diameter.
+Tamarix aphylla is an evergreen tree growing up to 18 m in height, seen across Central, East, and North Africa, and some parts of Western and Southern Asia.
+The trunk is short with rough, gray-brown bark.
+The fruit is a globose drupe, fleshy, brown when ripe, edible.
+The 3-12 mm long petiole is hairy hairless or finely.
+Fruit is a globose drupe, red-yellow to yellow-green with a non-separating hard stone surrounded by edible fruit pulp, 10-30 cm diameter.
+Cross pollinated flowers set viable seed.
+The leaf margin is notched almost smooth or hardly recognizable.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1]
+],
+"Trunk and root": [],
+"Latex": [],
+"Crown": [],
+"Stem shape": [],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 1],
+["Presence of spines or prickles on the trunk", 1],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [],
+"Leaf shape": [
+["Simple leaf", 1]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 1],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 1],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1]
+],
+"Inflorescences": [],
+"Sexuality": [],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

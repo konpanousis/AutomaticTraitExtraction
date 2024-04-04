@@ -1,0 +1,25 @@
+We are interested in obtaining botanical trait information about the species Sterculia setigera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves are simple and alternate in arrangement, nerves palmately arranged at base with leaves 5 entire or pointed lobes, leaf-blade is ovate to orbicular in outline, upper surface tends to be stellate and tomentose.
+
+Initial dictionary of traits with all possible values:
+{"Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+[
+{"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 1]
+]}
+]
+
+Note: The value "Leaf apex acuminate" is marked as 1 because the input text mentions that the leaves have "5 entire or pointed lobes", which suggests that the leaf apex is acuminate. However, this is an interpretation and it is possible that the text is not clear enough to make a definitive conclusion. In such cases, it is recommended to err on the side of caution and mark the evidence as 0. However, in this case, I believe that the evidence is strong enough to justify marking it as 1.

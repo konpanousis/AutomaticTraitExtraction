@@ -1,0 +1,277 @@
+We are interested in obtaining botanical trait information about the species Dalbergia melanoxylon.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The fruit is a pod 3-7 cm long, containing one to two seeds.
+Flowers are very small, white, pea-shaped, sweetly scented, produced in branched clusters arising at nodes along the branches, in early summer.
+It is either a multi-trunked shrub or a single-trunked tree 5 to 10 m tall, occasionally reaching up to 12 m under optimal conditions and develops an irregular or rounded crown of short, twisted branches armed with sharp spines.
+These trees are small and heavily branched, the trunks are seldom straight and many stems may be present, the rough bark is grey with many fissures, and the branches have small spines.
+Pod 1-3-seeded, 2.5-7 x 1-1.8 cm, thin, stiff, conspicuously reticulate over the seeds.
+Trees are slow growing, although the plant may reach about 3 m in 10 years, They take up to 100 years to produce a trunk with enough heartwood worth harvesting.
+A small tree up to 20 ft. high, much-branched, glabrous, armed with woody spines which are the hardened tips of short branches often bearing leaves and flowers.
+The leaves are deciduous in the dry season, alternate, 622 cm long, pinnate, with 6-9 alternately arranged leaflets.
+Gillet JB, Polhill RM and Verdourt B, 1971.
+They are covered at first with short crisp hairs, and are usually glabrous.
+They tend to be papery, glabrous, and laxly and rather diffusely veined, with one or two seeds.
+Leaves are up to 22 centimetres long and carry small, oval-shaped leaflets.
+Flowers bisexual, papilionaceous, 4-6 mm long, almost sessile, calyx campanulate, 2-3 mm long, lobes shorter than tube, lower lobe longest, upper lobes fused, corolla whitish, with obovate standard and clawed wings and keel, stamens usually 9, fused into a tube, but free in upper part, ovary superior, with distinct stipe at base, style short.
+Stamens usually 9, united or variously divided.
+Branchlets are clustered at the nodes.
+The dense, lustrous wood ranges in colour from reddish to pure black.
+The heartwood is purplish black, sometimes darker towards the outside, with light streaks and not always uniform in color.
+Ovary 2-4-ovulate, puberulous, style short, oblique, stipe c.1.5 mm long.
+It is often multi-stemmed and much-branched, forming a low, irregularly shaped crown.
+Fruit is a small, brown to khaki-coloured, flattened, thin, papery pod, not splitting, with a slight swelling where there is a seed.
+Some grow out, while others are short and spine tipped.
+Inflorescence a terminal or axillary panicle 2-12 cm long, laxly branched, short-hairy to almost glabrous, many-flowered.
+Palmer E, Pitman N, 1972.
+Dalbergia melanoxylon is a small, spiny, deciduous tree, which grows 5 to 7 m tall.
+The bole is fluted with high narrow ribs separated by deep indentations.
+The leaves are feathery, comprised of up to twelve dull green, blunt oval leaflets arranged in near opposite pairs along the length.
+Perennial, Not climbing, Shrub/Tree.
+Pods are elliptic oblong or irregularly oblong, bluntly pointed, flat and thin.
+The heartwood is dark purple-brown with black streaks, contrasting strongly with the creamy-yellow sapwood.
+The flowers are white and produced in dense clusters.
+The bark is pale grey, smooth, but becoming rough and flaking with age.
+The leaves are deciduous in the dry season , alternate, 6-22 cm long, pinnately compound, with 6-9 alternately arranged leaflets.
+D.P. Gwaze Title Bark Caption Pale-grey to greyish-brown bark of D. melanoxylon, smooth and flaking in long, narrow strips.
+Branchlets clustered at the nodes, some growing out, others relatively short and spine-tipped, covered at first with short crisped hairs, but usually soon glabrescent.
+Spiny shrub or tree, up to 5-12 m. tall, typically several-stemmed and much branched to form a low irregularly shaped crown, bark grey, ultimately rough and fissured or flaking, heartwood purplish-brown to black.
+Description     Deciduous spiny shrub or small tree up to 12 m tall, often several-stemmed and much-branched, bole usually short, branchless for up to 2 m, often gnarled and fluted, up to 50 cm in diameter, bark surface whitish to pale grey or greyish brown, thin, smooth but becoming rough and fissured or flaking, inner bark orange-pink, crown irregular, open, young branches clustered at the nodes, some growing out and others remaining short and spine-tipped, initially short-hairy but soon glabrescent, whitish grey.
+Morphology A small tree up to 20 ft. high, much-branched, glabrous, armed with woody spines which are the hardened tips of short branches often bearing leaves and flowers Provided by:.
+The bark is pale grey to yellow-brown, smooth on young trees, becoming flaking with age.
+The stems are often crooked.
+The inflorescences develop just before or together with new flushes of leaves.
+Bole length occasionally reaches up to 3.6 m, but normally ranges from 1.2 to 1.8 m. Average diameter at breast height at maturity is less than 38 cm, although trees have been found with a dbh of more than 60 cm.
+Copyright D.P. Gwaze Bark Pale-grey to greyish-brown bark of D. melanoxylon, smooth and flaking in long, narrow strips.
+Environmental limitations.The tree is 10 meters tall.
+Properties     The heartwood is very dark brown to purplish black, sometimes with black streaks, and sharply demarcated from the yellowish white, c. 1-cm-thick sapwood.
+Leaves alternate, pinnately-compound, 6-22 cm long.
+The fruit is a pod 37 cm long, containing one to two seeds Seeds - A Seeds-B Seeds-
+The sapwood is yellowish white, and makes an eye-catching contrast with the black heartwood.
+The sapwood is white or yellowish-white, often 12cm wide, and sharply differentiated.
+The flowers are white, produced in dense clusters.
+The tulipwood is cream coloured with red or salmon stripes.
+All Categories Seeds - A Seeds-B Seeds- C
+Leaves are alternate, pinnately compound and 6 to 22 cm long.
+Dalbergia melanoxylon ,African Blackwood, Grenadilla, or Mpingo) is a flowering plant It is a small tree, reaching 415 m tall, with grey bark and spiny shoots.
+Fruit elliptic-oblong or irregularly oblong, bluntly pointed, with the 0.5-1 cm.
+In these carvings the yellowish white sapwood is often still present, distinctly contrasting with the blackish heartwood.
+The bark is pale gray to grayish-brown, papery, fairly smooth, and flaking in long narrow strips.
+Leaves are compound , leaflets are oval, clustered on small branches.
+There are usually nine stamens, united or variously divided.
+Stamens 9 in a single bundle, the upper one free or absent, or fused in 2 bundles of 5.
+It is a small tree , reaching 4-15 m tall, with grey bark and spiny shoots.
+Panicles appearing with flush of new leaves, ±3-12 cm.
+They range from 3 to 7 cm long and 0.8 to 1.4 cm wide.
+Calyx 2.5-3 mm long, slightly puberulous, upper teeth shallow and rounded, the lateral ones rounded, the lower one triangular-acute and longer than the rest.
+In season, the branches of the African blackwood tree are adorned with tiny, white, sweetly-smelling flowers born as clusters on inflorescences, which may reach 12 centimetres in length.
+The timber is slightly oily, exceptionally hard and heavy, brittle and somewhat fissile.
+Seeds are kidney-shaped.
+Inflorescence of axillary and terminal panicles 2.5-8 cm long, usually borne on reduced short, spine-tipped shoots, bracts and bracteoles c.1
+The seedpods of this tree are flattened oblong cases that are roughly pointed, and contain one or two seeds.
+Young parts minutely crisped-puberulous, soon glabrous, bark smooth and pale grey.
+They are soon followed by thin, papery seedpods up to 7 cm long, turning grey at maturity, about six to eight months after flowering.
+The fragrant white flowers are 6 to 9 cm long, occurring in dense clusters.
+Fruit a flat, elliptical to oblong, papery pod 3-7 cm x 1-1.5 cm, with stipe 3-7 mm long, glabrous, greyish brown, laxly veined, indehiscent, 1-2-seeded.
+The flowers are small, white, sweetly fragrant and held in branched clusters arising at nodules along the branches.
+Branches are clustered at the nodes.
+Bimodal Summer Uniform Winter.
+Standard 3.5-4.5 mm long, broadly obovate, emarginate or retuse, claw c.1 mm long, wings oblong-obovate, claw c.1.5 mm long, keel petals shorter and broader than the wings, dorsally slightly connate or free.
+Fruits mature about 7 months after flowering.
+Flowers white, sweet-scented, 3.5-5 mm long, secund, pedicels 1-3 mm long.
+Shrub or straggling tree up to c.10 m high, much-branched, with spines derived from modified shoots, crown irregular, bark rough, greyish, flaking off in small scales.
+Dalbergia melanoxylon Guill. & Perr. is a small, heavily branched tree, typically 4.5 to 7.5 m tall but occasionally reaching 15 m.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 1],
+["Presence of spines or prickles on the trunk", 1],
+["Papyrus bark", 0],
+["Bark peeling in patches", 1],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 1],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 1],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 1]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 1],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 1],
+["Apetal flower", 0]
+]
+}

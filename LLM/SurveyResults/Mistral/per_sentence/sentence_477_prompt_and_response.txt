@@ -1,0 +1,60 @@
+We are interested in obtaining botanical trait information about the species Trichilia trifolia.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Staminal tube cyathiform or short cylindrical, 2-3 mm long, 1-2 mm broad, filaments fused 1/3-2/3 their length, each terminated by 2 subulate lobes, alternate filaments often slightly shorter at least in bud, outside glabrous, inside pubescent to barbate in upper half, anthers 10, 0.5-0.8 mm long, glabrous, antherodes slender, not dehiscing, without pollen.
+
+Initial dictionary of traits with all possible values:
+{"Stamen shape": ['shorter than corolla, connected'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Stamen shape": [
+    ["shorter than corolla, connected", 0]
+  ],
+  "Staminal tube shape": [
+    ["cyathiform", 1],
+    ["short cylindrical", 1]
+  ],
+  "Staminal tube length": [
+    ["2-3 mm", 1]
+  ],
+  "Staminal tube width": [
+    ["1-2 mm", 1]
+  ],
+  "Filament fusion length": [
+    ["1/3-2/3", 1]
+  ],
+  "Filament termination": [
+    ["2 subulate lobes", 1]
+  ],
+  "Alternate filament length": [
+    ["slightly shorter at least in bud", 1]
+  ],
+  "Outside of staminal tube": [
+    ["glabrous", 1]
+  ],
+  "Inside of staminal tube": [
+    ["pubescent to barbate in upper half", 1]
+  ],
+  "Number of anthers": [
+    ["10", 1]
+  ],
+  "Anther length": [
+    ["0.5-0.8 mm", 1]
+  ],
+  "Anther surface": [
+    ["glabrous", 1]
+  ],
+  "Antherode characteristics": [
+    ["slender", 1],
+    ["not dehiscing", 1],
+    ["without pollen", 1]
+  ]
+}

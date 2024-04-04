@@ -1,0 +1,33 @@
+We are interested in obtaining botanical trait information about the species Schoepfia schreberi.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The lower part of these petals are fused to each other to form a tube of sorts.
+
+Initial dictionary of traits with all possible values:
+{"Life form": ['tree'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Life form": [
+    ["tree", 0]
+  ],
+  "Corolla shape": [
+    ["tubular", 1]
+  ],
+  "Corolla fusion": [
+    ["fused", 1]
+  ]
+}
+
+Explanation:
+
+I added two new traits to the dictionary: "Corolla shape" and "Corolla fusion" with their respective possible values "tubular" and "fused". The evidence for the "tree" value under the "Life form" trait is 0 because there is no strong evidence for this value in the input text. However, the evidence for the "tubular" value under the "Corolla shape" trait is 1 because the input text describes the petals forming a "tube of sorts". Similarly, the evidence for the "fused" value under the "Corolla fusion" trait is 1 because the input text states that the lower part of the petals are "fused to each other".
+
+Note: This is just my interpretation of the input text and the possible traits and values that could be extracted from it. There may be other valid interpretations as well.

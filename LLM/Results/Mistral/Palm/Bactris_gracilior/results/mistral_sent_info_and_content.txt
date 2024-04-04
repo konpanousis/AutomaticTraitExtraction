@@ -1,0 +1,294 @@
+We are interested in obtaining botanical trait information about the species Bactris gracilior.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Rank: GERMINATING.
+Stems can be as narrow as 0.3-0.5 centimetres in B.aubletiana or as broad as 25 centimetres in B. gasipaes.
+Stems cespitose, 2-4 m tall, ca.
+They have simple or pinnately compound leaves and yellow, orange, red or purple-black fruit.
+Extremely variable genus of spiny pinnate-leaved palms from Central and South America and the Caribbean, with almost always acute not praemorse leaflets, or entire margins.
+Ripe fruit can be yellow, orange, red or purple-black and range from 0.5-4.5 centimetres long. : 5-11.
+Leaves pinnate or entire bifid, marcescent or neatly deciduous, sheaths usually splitting opposite the petiole, the margins smooth or becoming fibrous, unarmed to densely spiny, glabrous, scaly, hairy or bristly, a ligule-like projection sometimes also present, petiole very short to long, adaxially channelled, flat, or angled, abaxially rounded, variously unarmed to spiny, rachis usually longer than the petiole, adaxially angled except near base where channelled or not, abaxially rounded to flattened, variously armed or unarmed, blade where undivided with smooth or spiny margins, numerous ribs and an apical V-shaped notch, leaflets 1-several-fold, regularly arranged or irregularly grouped, often held in different planes within the groups, linear, lanceolate, or sigmoid, the tips very rarely praemorse , acute or acuminate in a long drip tip, more rarely bifid or irregularly lobed,
+Pistillate flowers scarcely larger than the staminate, calyx annular, somewhat flattened or urn-shaped, truncate or very shallowly 3-lobed, sometimes hairy, scaly or spinulose, corolla much longer than the calyx or ± the same length, urn-shaped, truncate or very shallowly 3-lobed, variously hairy or spiny or glabrous, staminodes absent or forming a membranous ring, not adnate to the corolla, gynoecium columnar to ovoid, sometimes spiny or hairy, trilocular, triovulate, stigmas 3, very short, ovules laterally attached, orthotropous.
+All species have spiny leaves, the spines are often clustered on the petiole or rachis.
+Flowers grow in triplets along the inflorescence, each female flower is flanked by two male flowers, elsewhere along the inflorescence male flowers grow singly or in pairs.
+Rank: FLOWERING.
+Fruit usually 1-seeded, very small to large, ovoid, obpyriform, oblate, or top-shaped, yellow, red, green, brown, purple, or black, epicarp smooth, spiny, roughened or hairy, mesocarp thin to very thick, fleshy, juicy or starchy with sparse or abundant fibres, endocarp thick, bony, with 3 pores at or above the equator, sometimes with fibres radiating from the pores.
+Diminutive to large, solitary or clustered, unarmed to very spiny, pleonanthic, monoecious palms.
+The leaves can be either pinnately compound or simple, in some species like B. hirta both types of leaves exist.
+The staminate flowers are borne in triads along with the pistillate, not concentrated at the tips of the rachillae.
+In some species the spines are only found on the tips of the leaflets. : 4-5  Most species grow in multi-stemmed clumps with stems about 2 metres tall and 3 centimetres in diameter, but they span a range of sizes from tall trees to shrubs with subterranean stems and are sometimes single-stemmed.
+Staminate flowers often somewhat asymmetrical, sessile, or rarely borne on slender, unequal pedicels, calyx cupular or spreading, very short, shallowly trilobed, petals 3, fleshy, asymmetrically triangular, distally valvate, connate basally to ca.
+Petioles range from 5 centimetres to over 1.5 metres in length, while the rachis can be 3 centimetres to over 3 metres long. : 4-5  Inflorescences are borne singly emerging from the leaf axil.
+Bactris gracilior - Unionpédia, o mapa conceitual.
+Inflorescences interfoliar, peduncle 6-10 cm long, recurved, not spiny or sparsely spiny, prophyll 8-12 cm long, thin, chartaceous, peduncular bract 15-24 cm long, sparsely covered with short, black or brown spines, occasiOnally almost glabrous, rachis 3-3.6 cm long, rachillae 8-23, 7-10 cm long, at anthesis densely covered with moniliform trichomes, triads irregularly arranged among paired or solitary staminate flowers, staminate flowers 3-4 mm long, sepal lobes ca.
+Stems generally bear spines on the internodes, in B. glaucescens and B. setulosa spines are also present on the nodes.
+Stems subterranean and very short, to erect, very slender to moderate, with short to long internodes and, eventually, with conspicuous nodal scars, often scaly, frequently armed with short to long spines.
+Germination adjacent-ligular, eophyll bifid or rarely pinnate, often spiny, bristly or hairy.
+Most species are small trees about 2 m tall, but some are large trees while others are shrubs with subterranean stems.
+A small solitary palm with shiny green, pinnate leaves,.and slightly curved, spiny stems,.which eventually reach about 3m tall.
+Seed irregularly globular, basally attached, hilum circular, raphe branches sparsely anastomosing endosperm homogeneous, with or without a central hollow, embryo next to one of the endocarp pores.
+It has tiny spines and is a quite delicate small palm.
+Leaves 5-9, leaf spines scattered, black, terete, to 2 cm long, on lateral surfaces of sheath, usually absent from petiole and rachis, rarely on rachis, sheath to 28 cm long, ocrea to 10 cm long, petiole 0.2-1.1 m long, rachis 42-96 cm long, pinnae 10-24 per side, irregularly arranged in clusters on alternating sides of the rachis proximally, more regularly arranged distally, spreading in different planes, narrowly elliptical, gradually aristate, glabrous, dull green adaxially, brownish and shiny abaxially on drying, sometimes with minute, forward pointing marginal spines, middle pinnae 18-39 x 2.5-4.4 cm.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 1],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Stem width": [
+["0.3-0.5 cm", 1],
+["25 cm", 1]
+],
+"Stem height": [
+["2-4 m", 1]
+],
+"Leaf type": [
+["simple", 1],
+["pinnately compound", 1],
+["entire bifid", 1]
+],
+"Leaf margins": [
+["smooth", 1],
+["becoming fibrous", 1],
+["unarmed", 1],
+["densely spiny", 1],
+["spiny", 1]
+],
+"Leaflets": [
+["acute", 1],
+["acuminate", 1],
+["apical V-shaped notch", 1],
+["bifid", 1],
+["irregularly lobed", 1]
+],
+"Flower type": [
+["pistillate", 1],
+["staminate", 1]
+],
+"Flower arrangement": [
+["triplets", 1],
+["singly or in pairs", 1]
+],
+"Pistillate flower size": [
+["scarcely larger than the staminate", 1],
+["much longer than the calyx", 1],
+["± the same length", 1]
+],
+"Calyx shape": [
+["annular", 1],
+["somewhat flattened or urn-shaped", 1],
+["truncate", 1],
+["very shallowly 3-lobed", 1]
+],
+"Corolla shape": [
+["urn-shaped", 1],
+["truncate", 1],
+["very shallowly 3-lobed", 1]
+],
+"Staminodes": [
+["absent", 1],
+["forming a membranous ring", 1]
+],
+"Gynoecium shape": [
+["columnar to ovoid", 1]
+],
+"Stigmas": [
+["3", 1]
+],
+"Ovules": [
+["laterally attached", 1],
+["orthotropous", 1]
+],
+"Epicarp": [
+["smooth", 1],
+["spiny", 1],
+["roughened or hairy", 1]
+],
+"Mesocarp": [
+["thin to very thick", 1],
+["fleshy", 1],
+["juicy", 1],
+["starchy with sparse or abundant fibres", 1]
+],
+"Endocarp": [
+["thick", 1],
+["bony", 1],
+["with 3 pores at or above the equator", 1],
+["sometimes with fibres radiating from the pores", 1]
+],
+"Stem spines": [
+["clustered on the petiole or rachis", 1],
+["only found on the tips of the leaflets", 1],
+["spines on the internodes", 1],
+["spines also present on the nodes", 1]
+],
+"Petioles": [
+["5 centimetres to over 1.5 metres", 1]
+],
+"Rachis": [
+["3 centimetres to over 3 metres", 1]
+],
+"Staminate flowers": [
+["sessile", 1],
+["rarely borne on slender, unequal pedicels", 1],
+["calyx cupular or spreading", 1],
+["very short", 1],
+["shallowly trilobed", 1],
+["petals 3", 1],
+["fleshy", 1],
+["asymmetrically triangular", 1],
+["distally valvate", 1],
+["connate basally to ca.", 1]
+],
+"Species height": [
+["tall trees", 1],
+["2 metres tall", 1],
+["2 metres tall and 3 centimetres in diameter", 1],
+["shrubs with subterranean stems", 1],
+["3 metres tall", 1]
+],
+"Stem diameter": [
+["3 centimetres in diameter", 1]
+],
+"Stem internodes": [
+["short to long", 1]
+],
+"Stem nodes": [
+["conspicuous nodal scars", 1]
+],
+"Stem texture": [
+["scaly", 1],
+["frequently armed with short to long spines", 1]
+],
+"Seed shape": [
+["irregularly globular", 1]
+],
+"Seed attachment": [
+["basally attached", 1]
+],
+"Hilum": [
+["circular", 1]
+],
+"Raphe branches": [
+["sparsely anastomosing", 1]
+],
+"Endosperm": [
+["homogeneous", 1],
+["with or without a central hollow", 1]
+],
+"Embryo": [
+["next to one of the endocarp pores", 1]
+],
+"Leaf spines": [
+["scattered", 1],
+["black", 1],
+["terete", 1],
+["to 2 cm long", 1],
+["on lateral surfaces of sheath", 1],
+["absent from petiole and rachis", 1],
+["rarely on rachis", 1]
+],
+"Leaf sheath": [
+["to 28 cm long", 1]
+],
+"Ocrea": [
+["to 10 cm long", 1]
+],
+"Petiole": [
+["0.2-1.1 m long", 1]
+],
+"Rachis": [
+["42-96 cm long", 1]
+],
+"Pinnae": [
+["10-24 per side", 1],
+["irregularly arranged in clusters on alternating sides of the rachis proximally", 1],
+["more regularly arranged distally", 1],
+["spreading in different planes", 1],
+["narrowly elliptical", 1],
+["gradually aristate", 1],
+["glabrous", 1],
+["dull green adaxially", 1],
+["brownish and shiny abaxially on drying", 1],
+["sometimes with minute, forward pointing marginal spines", 1]
+],
+"Middle pinnae": [
+["18-39 x 2.5-4.4 cm", 1]
+]
+}

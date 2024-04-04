@@ -1,0 +1,124 @@
+We are interested in obtaining botanical trait information about the species Iriartea deltoidea.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+They have compound , broad leaves.
+The trunks are grey, smooth and sometimes are loaded with epiphytes.
+The leaves are up to 5 m long, and pinnate.
+Leaves 4-6, 3-5 m long, bushy, pinnae numerous, longitudinally split, spreading in different planes, green on both sides.
+The palm produces 1-3m long inflorescences of creamy yellow flowers which are pollinated by bees.
+Stem more or less ventricose, to 25 m tall, 10-30 cm in diam.
+.Tall, straight as an arrow, with cool leaflets.
+The infrafoliar inflorescence is yellow or cream colored and comes out from a big green spathe with horn-like structure.
+Inflorescence buds 1-3 m long, downwards curved, resembling a bulls horn.
+This tall, stilt-rooted palm develops a distinctive bulge in its trunk towards the top in some areas, the purpose of which remains unclear.
+The fruits are globose and green colored.
+Individuals can grow to 30 m.
+Inflorescences are also produced once a month, and take the form of a 1-3m spathe surrounding an equally long spadix of creamy yellow flowers.
+Stem to 20 m tall and 20-40 cm in diameter, often swollen in the middle.
+The black stilt roots can reach 1 meter or less.
+Rank: FLOWERING.
+.Handsome, robust, and fast growing palm.
+Spacing: 10-12 ft. 12-15 ft.
+Inflorescence cream coloured in flower, the numerous pendulous branches to 1.5 m long, borne on a short curved axis.
+A slow growing palm up to 98 ft./30 m.
+Please report any problems Iriartea deltoidea Description Iriartea is a genus in the palm family Arecaceae, native to Central and South America.
+This is a fantastic looking stilt palm with trunks up to 80' tall, long stilt roots , a long, bulging light grey crownshaft and long, arching leaves with very large, fish-tail leaflets.
+It wasn't just one inflorescence, it was three of them, emerging from the leaf bases in a triangular formation.
+Definition: whole plant arborescent.
+I. deltoidea is easily recognized by the prominent bulge in the center of its trunk, and the stilt roots, which form a dense cone up to 1 m in diameter at the base.
+Rank: GERMINATING.
+Base supported by a 1-2 m tall cone of black stilt roots, these 3-5 cm in diameter.
+It is a canopy palm, growing to between 20m and 30m, slowly and steadily.
+Description These palms are canopy trees growing to 20-35 m tall.
+Young seedlings produce 3 to 6 round, simple leaves.
+Tree, Solitary palm.
+Very attractive, tall, stilt rooted palm to 30m,.with dark green plumose leaves,.a green/yellowish crownshaft, and a white, ventricose trunk.
+The whitish trunk stands out amount all the brown and green.
+Subsequent leaves are longer and compound, carrying increasing numbers of pinnae.
+Fruits dull bluish black, globose, ca.
+The leaves are pinnately compound and fan-shaped, with a new leaf produced each month.
+The fruit is a 2-cm diameter drupe , and primarily dispersed by bats and toucans.
+Rank: SEEDLING.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 1],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 1],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 1],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 1],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

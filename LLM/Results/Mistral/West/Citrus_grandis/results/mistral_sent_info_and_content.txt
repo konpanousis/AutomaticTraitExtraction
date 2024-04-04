@@ -1,0 +1,97 @@
+We are interested in obtaining botanical trait information about the species Citrus grandis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruits at maturity subglobose, oblate spheroidal, or subpyriform, depressed or flattened apically, green to yellow, pink, or red, 11-17 cm in diameter, acid, the peel thick, the core solid.
+Leaflets oval, retuse apically, obtuse basally, the margins crenate and somewhat revolute, to 95 mm long, 72 mm wide, petioles broadly winged, wedge shaped, truncate apically, obtuse basally, to 32 mm wide, 40 mm long, articulated with the leaflet.
+Picon A, Alvarez-Gila A, Seitz M, Ortiz-Barredo A, Echazarra J, Johannes A Deep convolutional neural networks for mobile capture device-based crop disease classification in the wild.
+Seeds in pack:.
+Flowers borne singly, in axillary clusters, or in subterminal inflorescences, calyx 5-lobed, petals 5, stamens 20-25, the anthers linear, ovary globose, sharply delimited from the deciduous style.
+Leaves with broadly winged petioles, lamina ovate to elliptic, 5-20 cm.
+Large yellow peeled pomelo fruit on black background.
+The cortex of leaf vein is thick.
+General Information Trees armed with axillary spines 2-3 mm long.
+A spiny spreading tree 5-15 m. high, branchlets pubescent.
+Fruit globose or pear-shaped, 10-30 cm.
+Tree, 5-9 m tall, branches spreading, spines usually blunt when present.
+Mutual synonyms pomelo pomelo tree pummelo shaddock citrus citrus tree Citrus decumana Cite this Source APA MLA CMS
+Morphology Flowers single or in clusters, 3-7 cm.
+With crisp and tender fruit flesh,.
+Decode INCI.
+Flowers large, pedicel pubescent.
+Fruit 13-17 cm in diameter, globose or pyriform, rind thick, yellow.
+Leaves 70-100 x 45-70 mm, sparsely pubescent to glabrous on the lower surface, broadly ovate-elliptic, subacute to obtuse, crenulate, margin undulate, midrib and venis pubescent.
+Petiole broadly winged, c. 15 mm broad, obcordate.
+Pomelo fruit on a white background.
+Pulp yellow or pink-crimson, pulp vesicles lax, acid or slightly bitter.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the dictionary of traits with sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples based on the input text:
+
+```json
+{
+  "Plant type": [
+    ["Tree", 1]
+  ],
+  "Phyllotaxis": [],
+  "Trunk and root": [],
+  "Latex": [],
+  "Crown": [],
+  "Stem shape": [],
+  "Bark": [],
+  "Bark color": [],
+  "Leaf shape": [
+    ["Simple leaf", 1]
+  ],
+  "Petiole": [
+    ["Petiolated leaf", 1],
+    ["Winged petiole", 1]
+  ],
+  "Leaf blade": [
+    ["Ovate leaf blade", 1],
+    ["Elliptical leaf blade", 1]
+  ],
+  "Leaf margin": [
+    ["Margin of crenate leaf", 1],
+    ["Margin of toothed leaf", 1]
+  ],
+  "Leaf base": [
+    ["Rounded leaf base", 1]
+  ],
+  "Leaf apex": [
+    ["Leaf apex with wide corners", 1],
+    ["Leaf apex retuse", 1]
+  ],
+  "Vein": [
+    ["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1]
+  ],
+  "Tendril": [],
+  "Spine": [
+    ["Spines resulting from transformation of a shoot or petiole", 1]
+  ],
+  "Blade color": [],
+  "Fruit": [
+    ["Berry, or berry-like fruit", 1]
+  ],
+  "Inflorescences": [
+    ["Flower isolated or in groups of 2 or 3", 1],
+    ["Inflorescence in clusters", 1]
+  ],
+  "Sexuality": [],
+  "Flower color": [],
+  "Flower shape": [
+    ["Five-petalled flower", 1]
+  ]
+}
+```
+
+Note: This dictionary of traits and sublists of (value, evidence) tuples is based on the input text provided and may not be exhaustive or accurate. It is recommended to consult additional sources for a more comprehensive and accurate understanding of the botanical traits of Citrus grandis.

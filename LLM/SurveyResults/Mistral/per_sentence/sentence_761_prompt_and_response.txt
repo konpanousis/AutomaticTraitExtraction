@@ -1,0 +1,25 @@
+We are interested in obtaining botanical trait information about the species Rhizophora mangle.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Showy, Evergreen, Fruit & Berries.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour": ['green'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour": [
+["green", 0]
+]
+}
+
+Note: There is no strong evidence in the input text for the fruit color being green, so the binary value is set to 0. If the input text mentioned "green fruits" or "green berries", then the binary value would be 1. Additionally, since the input text mentions "Fruit & Berries" but does not specify their color, it is not possible to make a definitive association between the fruit color and the Rhizophora mangle species. Therefore, it is important to set the binary value to 0 to indicate that the association is not certain.
+
+In general, it is recommended to err on the side of caution and set the binary value to 0 if there is any doubt about the association between a trait value and the plant species being described. This will help to ensure that the data is accurate and reliable.

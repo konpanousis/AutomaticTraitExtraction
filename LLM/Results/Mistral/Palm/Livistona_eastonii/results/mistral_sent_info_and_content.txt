@@ -1,0 +1,130 @@
+We are interested in obtaining botanical trait information about the species Livistona eastonii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Seed ellipsoid, 10- 13 mm long.
+Flowers usually cream-coloured, tepals united, in 2 whorls of 3.
+Livistona eastonii is a moderate sub-canopy palm to 15 m tall, leaves are moderate and regularly segmented, segment apices are rigid, and with a bifurcate cleft to 63% of the segment length, the inflorescence is unbranched, not extending beyond the limit of the crown, and with up to 6 partial inflorescences, bracts are tubular, flowers are cream to yellow, fruit are obovoid to ellipsoid, to 16 mm long to 9 mm wide, and glossy purple black at maturity.
+The leaves are green, shiny, elliptic, consisting of 50-60 segments.
+Leaf ,roots , floral , stegmata.
+Leaves 10-20 in a globose crown, petiole 50-200 cm long, 1.4-2 cm wide, arcuate, margins with single or double curved brown spines throughout its length but larger and closer in the proximal portion, leaf-base fibres moderately prominent, coarse, persistent, lamina costapalmate, regularly segmented, subcircular, 60-90 cm long, coriaceous, adaxially pale greyish green, abaxially lighter green, yellowish with age, pruinose, waxy, lamina divided for 50-90% of its length, with 40-50 segments, depth of apical cleft 49-63% of the segment length, apical lobes acute, rigid, parallel veins 5-9 each side of midrib, transverse veins thinner than parallel veins.
+They have compound , broad leaves.
+They are fan palms , the leaves with an armed petiole terminating in a rounded, costapalmate fan of numerous leaflets.
+Inflorescences unbranched at the base, not sexually dimorphic, 100-200 cm long, not extending beyond the limit of the crown, branched to 4 orders, partial inflorescences 5-6, prophyll not seen, peduncular bract 1, tubular, rachis bracts tubular with scattered appressed scales, rachillae 1-9 cm long, glabrous.
+The maximum height of Livistona australis indoors is 5 meters, more frequently about 3 meters.
+Seed ellipsoidal or globose, basally attached, hilum circular or ± elongate, raphe branches few or lacking, endosperm homogeneous, penetrated laterally by a variable, frequently convoluted intrusion of seed coat, embryo lateral.
+The trunk is topped by 1.5 meter brown stalks, with approximately one-third the length densely covered with studs, each rounded leaf is glossy green, split radially, 100-150 centimeters in diameter.
+In the wild, Livistona australis features a columnar thick trunk 30-40 centimeters thick and 20-25 meters tall.
+Eophyll not seen.
+Palms slender to robust, solitary, bisexual or rarely dioecious, trunk unbranched, erect.
+The plant grows in the coastal areas of the Malay Archipelago: the trunk reaches 14 meters tall with a diameter of 17 centimeters.
+Trunk to 15 m tall, 10-15 cm dbh, leaf scars raised, internodes narrow, grey, leaf-bases often persistent.
+Stamens 6, inserted on the inner tepals, the filaments united to form a fleshy ring, anthers medifixed.
+Round leaves are dark green and shiny on the surface and slightly lighter underside, 1.5-2 meters in diameter, and cut into 60 or more segments with double-notched ends.
+Fl. cream, Mar to Jul or Sep. Lateritic loam.
+Flowers small to very small, usually cream-coloured, calyx with receptacle often producing a short, broad stalk, tubular above, tipped with 3 triangular lobes, these sometimes imbricate at the very base, glabrous or hairy, corolla shallow, tubular at the base, apically with 3 triangular, valvate lobes, stamens 6, epipetalous, the filaments connate to form a fleshy ring, tipped with short, slender distinct filaments, anthers medifixed, rounded or oblong, latrorse, gynoecium tricarpellate, the carpels wedge-shaped, distinct in the ovarian region, connate distally to form a common, slender style, with an apical, dot-like or minutely 3-lobed stigma, ovule basally attached, anatropous, where dioecious, anthers or ovules not developing but otherwise as in the hermaphroditic.
+The panicles of yellow flowers are the same length.
+Exceptionally tall plants of 21 m and 10.4 in may be about 720 years and 360 years old respectively.
+Fruit usually developing from 1 carpel, globose to ovoid, pyriform, or ellipsoidal, small to medium-sized, variously coloured, green, scarlet, blue-green, blue-black, black or dark brown, stigmatic remains apical, sterile carpel remains basal, epicarp smooth, dull or shining, often with a wax bloom, mesocarp thin or thick, fleshy or dry, somewhat fibrous, usually easily separated from the bony or woody endocarp.
+Individuals can grow to 12 m.
+Tree-like monocot , 8-10 m high.
+Usually tall, single-stemmed fan-palms of the Horn of Africa and Arabia, and Himalayas to Australia, there are a few dwarf species, most are hermaphroditic but a few dioecious species are known.
+Stem erect, obscured at first by persistent sheaths, later becoming bare or covered with persistent petiole bases, conspicuously or obscurely ringed with leaf scars.
+Trunk to 15 m tall, 10-15 cm in diameter, breast high, leaf scars raised, internodes narrow, grey, leaf-bases often persistent.
+True Livistona chinensis in the wild easily and quickly grows to 15 meters and has a thick trunk 40-50 centimeters in diameter.
+Definition: whole plant arborescent.
+It is thickened at the bottom and covered with the remains of fallen leaves.
+Fruit obovoid, infrequently approaching ellipsoid, 12-16 mm long, 8-9 mm in diam., glossy purple-black, epicarp smooth, pedicel 0.5-2 mm long.
+Flowers solitary or in clusters of 2-4, 1.6-1.9 mm long, campanulate, cream to yellow, sepals broadly ovate, 0.2-1 mm long, fleshy, acute, petals narrowly ovate, 0.5-1.9 mm long, thick, acute, stamens ca 1.5 mm long.
+The leaves may also turn yellow due to underwatering.
+Slender to robust, solitary, armed or unarmed, pleonanthic, hermaphroditic , shrub or tree palms.
+Germination remote-tubular, eophyll lanceolate, plicate, minutely toothed apically.
+Fruit obovoid, infrequently approaching ellipsoid, 12-16 mm long, 8-9 mm diam., glossy purple-black, epicarp smooth, pedicel 0.5-2 mm long.
+Leaves palmate or costapalmate, petiole unarmed or armed with spines, blade divided to varying depths into single-fold induplicate segments, filaments sometimes present at the sinuses.
+In indoor cultivation, the plant flowers infrequently by producing inflorescences 120-130 centimeters long and later clusters of round brown berries.
+Ovary of 3 free carpels that are united above to form a single slender style with apical stigma, ovule basal.
+It produces inflorescences up to 120 centimeters long.
+The petioles are 1.5-2 meters long, with frequent, strong sharp thorns at the edges, the thorns are brown, even almost black, which makes them clearly visible.
+Fruit usually developing from 1 carpel, stigmatic remains apical, epicarp smooth, mesocarp thin or thick, usually easily separated from the stony endocarp.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

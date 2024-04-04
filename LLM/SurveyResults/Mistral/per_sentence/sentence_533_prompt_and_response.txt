@@ -1,0 +1,21 @@
+We are interested in obtaining botanical trait information about the species Bursera simaruba.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaf type: odd-pinnately compound, made up of 3-9 leaflets.
+
+Initial dictionary of traits with all possible values:
+{"Sepals / calyx shape": ['connate'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Sepals / calyx shape": [["connate", 0], ["not connate", 0]],
+  "Leaf type": [["simple", 0], ["compound", 1], ["odd-pinnately compound", 1], ["palmately compound", 0], ["bipinnately compound", 0], ["unipinnately compound", 0]],
+  "Number of leaflets": [["1", 0], ["2", 0], ["3", 1], ["4", 0], ["5", 0], ["6", 0], ["7", 0], ["8", 0], ["9", 1], ["10 or more", 0]]
+}

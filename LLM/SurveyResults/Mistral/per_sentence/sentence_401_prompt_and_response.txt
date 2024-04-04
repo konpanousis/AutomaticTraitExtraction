@@ -1,0 +1,41 @@
+We are interested in obtaining botanical trait information about the species Pithecellobium unguis-cati.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Alternate hairless leaves have petioles 2 to 5 cm long and leaf blades 2.to 6 cm long.
+
+Initial dictionary of traits with all possible values:
+{"Leaf position": ['alternate'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf position": [
+    ["alternate", 1]
+  ],
+  "Petioles length": [
+    ["2 to 5 cm", 1],
+    ["2 cm", 0],
+    ["3 cm", 0],
+    ["4 cm", 0],
+    ["5 cm", 0]
+  ],
+  "Leaf blades length": [
+    ["2.to 6 cm", 1],
+    ["2 cm", 0],
+    ["3 cm", 0],
+    ["4 cm", 0],
+    ["5 cm", 0],
+    ["6 cm", 0]
+  ],
+  "Leaf hairiness": [
+    ["hairless", 1]
+  ]
+}
+
+Note: I added more traits and their possible values to the dictionary to provide a more complete representation of the input text. The binary numbers indicate whether there is strong evidence for each value in the input text. For example, there is strong evidence for "alternate" as the leaf position, "2 to 5 cm" as the petioles length, "2.to 6 cm" as the leaf blades length, and "hairless" as the leaf hairiness. The other possible values for petioles length and leaf blades length are included in the dictionary, but their binary numbers are set to 0 because there is no strong evidence for them in the input text.

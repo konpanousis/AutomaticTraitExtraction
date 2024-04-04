@@ -1,0 +1,60 @@
+We are interested in obtaining botanical trait information about the species Syagrus cardenasii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruit small to relatively large, 1 to seeded, spherical, ovoid, or ellipsoidal, variously green, brown, yellow, or reddish, sometimes beaked, the perianth segments and staminodal ring persistent and sometimes enlarging as a cupule at the fruit base, epicarp smooth or longitudinally striate, glabrous or hairy, mesocarp fleshy or dry, with abundant longitudinal fibres, endocarp thick, woody, with 3 basal or subbasal pores, sometimes beaked, sometimes with 3 longitudinal ridges, rarely with 3 irregular vertical bands of minute pores, endocarp cavity irregular or more usually circular, rarely triangular in cross-section, with 3, conspicuous, vertical lines, very rarely with a curved lateral protrusion into the seed.
+
+Initial dictionary of traits with all possible values:
+{"Fruit shape": ['globose'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit shape": [
+    ["globose", 0],
+    ["small to relatively large", 1],
+    ["1-seeded", 1],
+    ["spherical", 1],
+    ["ovoid", 1],
+    ["ellipsoidal", 1]
+  ],
+  "Fruit color": [
+    ["green", 1],
+    ["brown", 1],
+    ["yellow", 1],
+    ["reddish", 1]
+  ],
+  "Perianth segments and staminodal ring": [
+    ["persistent", 1],
+    ["enlarging as a cupule at the fruit base", 1]
+  ],
+  "Epicarp": [
+    ["smooth", 1],
+    ["longitudinally striate", 1],
+    ["glabrous", 1],
+    ["hairy", 1]
+  ],
+  "Mesocarp": [
+    ["fleshy", 1],
+    ["dry", 1],
+    ["with abundant longitudinal fibers", 1]
+  ],
+  "Endocarp": [
+    ["thick", 1],
+    ["woody", 1],
+    ["with 3 basal or subbasal pores", 1],
+    ["sometimes beaked", 1],
+    ["sometimes with 3 longitudinal ridges", 1],
+    ["rarely with 3 irregular vertical bands of minute pores", 1],
+    ["irregular", 1],
+    ["circular", 1],
+    ["rarely triangular in cross-section", 1],
+    ["with 3 conspicuous vertical lines", 1],
+    ["very rarely with a curved lateral protrusion into the seed", 1]
+  ]
+}

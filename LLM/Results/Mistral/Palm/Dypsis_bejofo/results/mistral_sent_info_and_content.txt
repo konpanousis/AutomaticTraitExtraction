@@ -1,0 +1,192 @@
+We are interested in obtaining botanical trait information about the species Dypsis bejofo.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+This has an extraordinary appearance in that the leaves, which have petioles almost half the length of the entire leaf, are spirally arranged in a shuttlecock manner.
+Semi-plumose leaves to 6 m long, arranged in a sub-tristichous manner.
+Rank: GERMINATING.
+This one has some blue and red as well as straight and recurved leaves.
+Clearly a whitish blue with upright fine leafs, much like a the trunk of a sizable Clinostigma savoryana Bonin palm as far as white.
+Dypsis sp 'bejoufa' wide leaf.
+Large, relatively wide leaflets.
+A spectacular and massive palm, the trunk to 25 m high, and 0.4 m in diameter.
+Rank: SEEDLING.
+The seed of this species is deeply grooved like that of
+Rank: FLOWERING.
+But the leafs are bluer much like a Bizmarkia.
+.Green, red or mottled leaves.
+Spacing: 12-15 ft. 15-20 ft.
+The massive trunk and enormous leaves, sometimes arranged in three rows in an arching crown, give this tree a majestic appearance.
+Full Sun Sun to Partial Shade Foliage: Evergreen Foliage Color: Unknown - Tell us Height: 20-30 ft. 30-40 ft. over 40 ft.
+It is a semitropical species that develops a massive crown and tall, thick trunk.
+Like their weensy little flowers have a few sepals or many?
+Spacing: 8-10 ft. 10-12 ft.
+Great fuzzy orange-brown color on the new spike and leaf bases.
+.The white tomentum and redish fuzz in vein striation patterns starts to emerge more and more.
+The trunk is thinner and foliage more green.
+If the leaflets closest to the petiole were stiffer I would say White.
+The FAT leafed one grows TWICE as fast as the Fine leafed one.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 1],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 1],
+["whitish", 1],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 1],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 1],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Leaf arrangement": [
+["alternate", 0],
+["opposite", 0],
+["spiral", 1],
+["whorled", 0]
+],
+"Leaf shape": [
+["simple", 0],
+["compound", 0],
+["palmate", 0],
+["pinnate", 0],
+["bipinnate", 0],
+["trifoliate", 0]
+],
+"Leaf base": [
+["cordate", 0],
+["cuneate", 0],
+["oblique", 0],
+["rounded", 0],
+["truncate", 0]
+],
+"Leaf margin": [
+["crenate", 0],
+["dentate", 0],
+["entire", 0],
+["lobed", 0],
+["serrate", 0]
+],
+"Leaf apex": [
+["acuminate", 0],
+["acute", 0],
+["cuspidate", 0],
+["mucronate", 0],
+["obtuse", 0],
+["rounded", 0]
+],
+"Leaf size": [
+["small", 0],
+["medium", 0],
+["large", 1]
+],
+"Leaf venation": [
+["parallel", 0],
+["pinnate", 0],
+["palmate", 0],
+["reticulate", 0]
+],
+"Leaf color": [
+["green", 1],
+["red", 1],
+["blue", 1],
+["white", 1]
+],
+"Petioles": [
+["long", 1],
+["short", 0]
+],
+"Trunk": [
+["thin", 1],
+["thick", 1],
+["massive", 1],
+["tall", 1]
+],
+"Trunk diameter": [
+["thin", 0],
+["medium", 0],
+["thick", 1]
+],
+"Height": [
+["short", 0],
+["medium", 1],
+["tall", 1]
+],
+"Light requirement": [
+["full sun", 1],
+["partial shade", 1],
+["shade", 0]
+],
+"Growth rate": [
+["fast", 1],
+["slow", 0]
+]
+}

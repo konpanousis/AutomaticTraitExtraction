@@ -1,0 +1,184 @@
+We are interested in obtaining botanical trait information about the species Piliostigma thonningii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The pods do not spilt but fall from the branches, then rot whilst on the ground, releasing the seeds.
+It grows up to 5-10 m tall, with leaves that are similar to a bauhinia , but it differs from bauhinia by having separate male and female flowers on separate trees.
+Flowers medium to small, unisexual in racemes or panicles, white or pinkish tinged.
+Piliostigma Thonningii Piliostigma thonningii is a leguminous plant belonging to the sub family Caesalpiniacea , a family that comprises of trees, shrubs or very rarely scramblers.
+The small white flowers are not showy.
+Pubescent , dilaté aux deux extrémités, de 2,5-5 cm de long.
+The heartwood is pinkish to dark brown, the sapwood pale brown.
+Differs from similar species in Bauhinia by the unisexual flowers and the indehiscent pods.
+It is dioecious , with male and female flowers on separate plants.
+Piliostigma thonningii is a leguminous plant of sub-family Caesalpiniacea , comprising of trees, shrubs or very rarely scramblers.
+Leaves alternate, conspicuously bi-lobed for one eighth to one third of the length, stipules 3-6 mm long, deciduous, petiole 2-5 cm long, pubescent, blade up to 17 cm x 21 cm, base usually strongly cordate, apex of lobes rounded to acute, leathery, upper surface glabrous, lower surface with rusty-brown crisped hairs and conspicuous reticulate venation, palmately veined with 11-15 basal veins.
+Inflorescence a panicle, usually alternately leaf-opposed and axillary along branches, male inflorescence very narrowly pyramidal, up to 25 cm x 5.5 cm, female inflorescence up to 7 cm long, few-flowered, axes brown-tomentellous.
+Tiny white flowers during Summer.
+Small tree, heavily fruiting.
+Piliostigma thonningii showing leaves, pods and seeds 3.7.
+Pubescent ferrugineux, gris-brun.
+The root yields a red-brown or black dye, and the fruit and seeds a black or blue one.
+Flowers are followed by large, thick, reddish brown, non-splitting pods about 30-70 mm long.
+Approximately 25 seeds per packet.
+Large leathery 2-lobed leaves.
+Fruit an oblong to linear-oblong pod 12-30 cm x 3-7 cm, woody, brown-pubescent when young but later glabrescent, persisting on the tree but finally decaying on the ground, many-seeded.
+The fruits, which are hairy, hard, flattish, rusty brown and woody splits at ripening and usually persistent on the tree, are produced between June and September.
+A conspicuous feature of the tree is its large, simple, two-lobed, leathery leaves which resemble a camel's foot and account for the common name.
+Piliostigma thonningii is a deciduous tree with a single stem.
+Flowers unisexual, fragrant, calyx cupular, 1-2.5 cm long, 5-lobed, brown-tomentellous, petals 5, obovate, 1-2.5 cm long, wrinkled, margin strongly undulate, white to lilac or pink, stamens 10, scarcely reaching the throat of the flower, reduced to staminodes in female flowers, ovary brown-tomentose, rudimentary in male flowers, style very short or absent, stigma capitate.
+Categories : Cercidoideae Fabaceae genera Dioecious plants Taxa named by Christian Ferdinand Friedrich Hochstetter Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Commons category link from Wikidata.
+Pods indehiscent , linear to oblong, woody , many-seeded.
+The tree is perennial in nature and its petals are white to pinkish colour produced between November and April.
+Leaves simple, conspicuously 2-lobed with rust-coloured indumentum.beneath.
+Fertile stamens 10 in male flowers, reduced to staminodes in female flowers.
+Calyx with turbinate.tube and 4-5 short lobes.
+Female flowers with.stigma sessile on the ovary.
+It has large 2-lobed leathery leaves.
+Image notes: Small tree, heavily fruiting.
+Description     Deciduous, dioecious tree up to 10 m tall, sometimes shrubby, bole branchless for 2-3 m, twisted, up to 30 cm in diameter, outer bark rough, longitudinally fissured, dark brown to grey or black, inner bark fibrous, pink to dark red-brown when cut, crown spreading, branches with rusty-brown tomentum, somewhat glabrescent later.
+A 3-10m high medicinal tree.
+The flower petals are white and the thick, calyces are covered in rust coloured hairs.
+The bark is dark brownish grey with a rough surface.
+Seeds usually germinate 5-10 days after sowing.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1]
+],
+"Trunk and root": [],
+"Latex": [],
+"Crown": [
+["Regular density of the crown", 1],
+["Horizontally spreading crowns", 1]
+],
+"Stem shape": [],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 1],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 1],
+["lobed blade", 1],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 1]
+],
+"Tendril": [
+["Plant without tendrils", 1]
+],
+"Spine": [
+["Plant without spines", 1]
+],
+"Blade color": [
+["Uniformly coloured blade", 1]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 1]
+],
+"Sexuality": [],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 1]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

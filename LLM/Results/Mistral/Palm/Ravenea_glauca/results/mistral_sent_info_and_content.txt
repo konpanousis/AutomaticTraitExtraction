@@ -1,0 +1,152 @@
+We are interested in obtaining botanical trait information about the species Ravenea glauca.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaf Description : pinnate, 6' long, flat with somewhat widely spaced, long, thin, slightly drooping leaflets, medium green.
+Non-crownshafted, medium to small caliper.
+Up to 15 feet.
+It has two more flower spears emerging.Randy.
+Rank: GERMINATING.
+Purple King Palm Tree: Large.
+Ascending Descending.
+The leaf type is finely pinnate with graceful and durable dark green bi-color leaflets which are silvery underneath from a waxy coating which gives the species its name.
+The crown will have about 14 to 20 slightly arching fronds.
+Their about 5' overall.
+Pinnate , rather short leaves.
+Easy, Easy to Moderate, Moderate.
+Pagina 3 van 3 • 1 , 2 , 3.
+Up to 20 - 25 feet.
+Majesty Palm Tree: Medium.
+The leaves are up to 2-5 m long, pinnately compound, reduplicate, erect at first then arching, twisted near the apex, with numerous crowded narrow ribbed leaflets.
+Pin on Pinterest.
+The crown is starting to lean and the trunk looks wrinkled.
+Habit : solitary with a crown of 20-25 leaves.
+They can hold as many as 18-20 graceful 4-6 ft long leaves on 3-6 inch petioles.
+Slender, medium sized, single trunked palm to about 8m.
+King Palm Tree: Large.
+Seed germinates in 2 to 3 months.
+The palm below is about 6 ft overall, germinated from seed in 2003.
+Rank: SEEDLING.
+The slender trunk is small caliper up to 4 inch diameter, solitary with no crown-shaft.
+It is a very large palm with a large, untidy crown.
+Spacing: 6-8 ft.
+Trees grow from 1.5–8 meters in height, and 13–30 cm in diameter.
+They are small to large, dioecious palms, with solitary, robust grey stems, swollen at base and gradually tapering upward.
+The seeds are rather small and orange/red.
+Rank: FLOWERING.
+Reaching the maximum average height of 15-25 FT, the Majesty Palm can resist temperatures down to 25 degree with minor leaf damage.
+The peduncle was in all cases extremely short.
+It has scorched leaflet tips.
+Pagina 2 van 5 • 1 , 2 , 3 , 4 , 5.
+The leaf is flat with no recurve to it and the leaflets usually hold on a flat or slightly arching plane.
+Ravenea glauca, crown young.
+A really stunning smaller growing palm with a crown of finely divided leaflets.
+Petiole/Leaf bases : 1' long, slightly channeled, unarmed, ventral surface with a thick layer of white tomentum- almost spongy near very base, un-split.
+As can be seen from the photos, this species can attain heights more than the 15-26 ft that most references claim, on a slender 3-4 inch trunk.
+The leaves are more of a gray green color as well and not as upright the way they attach and are held on the palm.
+The inflorescence is short, borne among the leaves, the fruit is a red drupe.
+Individuals can grow to 8 m.
+Height : 20' estimated.
+Definition: whole plant arborescent.
+The base of each frond is green, yet they become white to dark grey near the tip at maturity.
+One being the heavily tomentosed leaf bases and bottom of the petioles.
+Rare Palms.
+The abaxial side of the leaf is always glaucous and the adaxial side, depending on the plant, could be green or even a whitish blue like this amazing specimen below was displaying.
+Palm Tree Size  *.
+Trunk : single, clean trunk, pale to nearly white with faint, closely spaced rings, 6" thick ,.
+Medium Palm Tree Sizes.Medium
+Majesty Palm Tree: Small.
+Very slight discoloration.
+Rank: SEED.
+Pagina 1 van 1.
+Ravenea glauca with flowers.
+It looks like it has some P. speciosa color in it, but the fronds are more upright and smaller and the new shoots seem to be pink.
+It has symmetrical leaves and develops an attractive swollen base of the trunk.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples based on the input text:
+
+```json
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 0],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 0],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 1],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 0],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 0],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 1],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 0],
+    ["ovoid", 0],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ]
+}
+```
+
+Note: The only fruit colour mentioned in the input text is "red", so the binary value is set to 1. All other values are set to 0 as there is no strong evidence for them in the input text.

@@ -1,0 +1,123 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 1]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Flower type": [
+["dioecious", 1],
+["monoecious", 0]
+],
+"Flower color": [
+["yellowish", 1],
+["yellow", 1]
+],
+"Flower arrangement": [
+["spirals", 1],
+["densespirals", 1],
+["inflorescences", 1]
+],
+"Leaf type": [
+["pinnate", 1],
+["bifid", 1]
+],
+"Leaf arrangement": [
+["spreading", 1]
+],
+"Stem diameter": [
+["6-8 mm", 1]
+],
+"Stem color": [
+["green", 1]
+],
+"Stem texture": [
+["smooth", 1],
+["ringed", 1]
+],
+"Height": [
+["18-36 in.", 1],
+["1-1.5 m", 1]
+],
+"Root type": [
+["slender prop roots", 1],
+["ariel roots", 1]
+],
+"Habit": [
+["solitary", 1],
+["slender", 1],
+["erect", 1]
+],
+"Germination": [
+["adjacent-ligular", 1],
+["eophyll bifid", 1],
+["eophyll pinnate", 1]
+],
+"Rank": [
+["FLOWERING", 1]
+]
+}
+

@@ -1,0 +1,139 @@
+We are interested in obtaining botanical trait information about the species Orania palindan.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+These make O. palindan the tallest and most robust member of the genus.
+Individuals can grow to 30 m.
+Staminate flowers with calyx of 3 united sepals, about 1 mm long, corolla with 3 free petals, about 4 - 11 mm long, 2 - 3 mm wide, stamens 6, filaments free, dark-brown, about 0.6 - 0.75 mm long, anthers elongate-lanceolate, pale creamy yellow, always free, about 3 mm long, pistillode absent.
+Stem erect, short to tall, becoming bare, conspicuously ringed with leaf scars, and sometimes bearing corky, warty protuberances.
+Leaf , root.
+The inflorescences, on a 30-80 cm long peduncle, generate among the leaves , 0,8-1 m long, with numerous rachillae, 25-40 cm long, bearing unisexual flowers united in groups of three.
+Seed spherical, basally attached with a circular hilum, surface somewhat grooved by a sparse network of fibres, endosperm homogenous, sometimes with hollow, clear liquid endosperm present up to maturity, embryo sub-apical or lateral.
+Pretty fast growing palm up to about 25 feet tall.
+The leaves, on a 1-1,5 m long petiole covered by reddish brown tomentum, are paripinnate, 5-6 m long, with 50-65 pairs of leaflets regularly arranged along the rachis, drooping, 1,3-1,8 m long and 5-8 cm broad in the central part, linear lanceolate with irregularly toothed apex, truncated at the apex and toothed in the terminal ones, coriaceous, of pale green colour and glossy above, covered by a thick white tomentum below.
+It has an attractive ringed trunk and upright leaves with drooping leaflets.
+Trunk 20 - 30 m high, c. 15 - 40 cm diam.
+Fruit green in juvenile, greenish yellow or bright reddish orange when mature, developing from 1, 2 or 3 carpels, rounded bi-, or tri-lobed, spherical or globose in one lobed form, rarely obovoid or sub-pyriform, stigmatic remains sub-basal, epicarp smooth, very thin, mesocarp fleshy, traversed by numerous short radial fibres, endocarp dark brown, thinner than mesocarp, with deeply grooved surface, heart-shaped button present basally, testa very thin, dark brown, attached to seed, with grooved surface.
+Length of the leaflets varies from 1 to 2 m and width varies from 4.5 to 7.5 cm in both taxa.
+The inflorescences, initially enclosed in a woody bract: generate between the leaves , 1-2 m long, with ramifications of second order and numerous rachillae, 25-60 cm long, bearing unisexual flowers united in groups of three , but in the terminal part where are present only male flowers in pair.
+Outer part of the trunk is reputed to be strong and has been used to make spears.
+A solitary, pinnate palm to about 8 metres tall.
+Moderate to robust single-stemmed palms with praemorse leaflets and lacking crownshafts, found in Madagascar and from south Thailand through to New Guinea, where most species are found, the peduncular bract greatly exceeds the prophyll, fruits are relatively large and rounded.
+Spacing: 15-20 ft. 20-30 ft.
+Fruit globose or bilobed, c. 6.5 - 7.5 cm diam., sometimes found 4 to 5.5 cm diam., stigmatic remains sub-basal, olive green when young, yellowish green to bright yellow when mature, epicarp smooth, thin, c. 0.5
+Length of the leaflets varies from 1 to 2 m and width varies from 4.5 to 7.5 cm in both taxa.
+Seed spherical, basally attached with a ± circular hilum, the surface of the seed somewhat grooved by a sparse network of fibres, endosperm homogeneous, sometimes with a very small central hollow, embryo subapical or lateral.
+O. palindan in New Guinea is tall and robust: it can reach about 30 to 40 m and diam. of the trunk can be around 40 cm.
+Fruit developing from 1, 2, or rarely 3 carpels, orange, green, or dull orange to yellowish-brown at maturity, spherical or very slightly pear- shaped, where more than 1 carpel developing, each lobe spherical, stigmatic remains subbasal, epicarp smooth, mesocarp thin or thick, fleshy, traversed by numerous short radial fibres, endocarp rather thin.
+Rank: FLOWERING.
+Globose fruits, of 3,5-4,5 cm of diameter, initially green, then yellowish green when ripe, containing only one globose seed of 3-4 cm of diameter, the fruits are highly poisonous.
+Pistillate flowers ± conical or pyramidal, calyx flattened, very short, with 3 low, triangular lobes or with 3 distinct imbricate sepals, petals 3, distinct, valvate, triangular, staminodes 3-11, very short, awl-shaped, or well developed, possibly rarely producing pollen , gynoecium trilocular, triovulate, ± pyramidal, stigmas 3, short, recurved at anthesis, ovule form unknown.
+Spacing: 20-30 ft.
+The foliar base, 60-80 cm long, with fibrous margins and covered by a brown red tomentum externally, wraps only partially the stem of the outer leaves.
+Stems varying in height, often conspicuously ringed with leaf scars, sometimes with wax.
+Staminate flowers with calyx of 3 united sepals, c. 1 mm long, corolla with 3 free petals, c. 4 - 11 mm long, 2 - 3 mm wide, stamens 6, filaments free, dark-brown, c. 0.6 - 0.75 mm long, anthers elongate-lanceolate, pale creamy yellow, always free, c. 3 mm long, pistillode absent.
+Flowers superficially rather similar, creamcoloured, borne in triads in up to half length of rachilla, the rest in dyads, most species with 20 to more than 100 flower clusters per rachilla.
+Beautiful trunk, almost has the look of a Satakentia.Tim.
+The Orania sylvicola H.E.Moore is an unarmed monoecious species, 15-20 m tall, with erect solitary stem, of 15-25 cm of diameter, smooth, greyish, on which are visible the rings trace of the junction of the fallen leaves spaced about 8 cm.
+Definition: whole plant arborescent.
+Small to large, solitary, unarmed, pleonanthic, monoecious palms.
+Fruit globose or bilobed, about 6.5 - 7.5 cm in diam., sometimes found 4 to 5.5 cm in diam., stigmatic remains sub-basal, olive green when young, yellowish green to bright yellow when mature, epicarp smooth, thin, about 0.5 mm thick, mesocarp fibrous, 3 - 4 mm thick, endocarp hard, red-brown, thin, about 0.5 mm thick, endosperm white or creamy white, about 3.2 - 3.5 cm in diam., with a hollow, 1 cm in diam.
+Pistillate flowers with calyx of 3 united sepals, 1.5 mm long, corolla with 3 free petals, c. 3 - 6 mm long, 2 - 4 mm wide, staminodes 6, c. 1 - 1.75 mm long, gynoecium dark-brown, c. 3 - 4 mm long, 3 - 3.5 mm wide, stigma of 3 elongate lobes, 1 mm long.
+Staminate flowers with calyx of 3 united sepals, c. 1 mm long, corolla with 3 free petals, c. 4 - 11
+Pollen ellipsoidal, slight or obvious asymmetry, aperture a distal sulcus, ectexine tectate, finely perforate, perforate and micro-channelled, or perforate-rugulate, aperture margin broad, psilate-perforate, infratectum columellate, longest axis ranging from 23-40 µm.
+O. palindan in New Guinea is tall and robust: it can reach about 30 to 40 m and diam. of the trunk can be around 40 cm.
+Spherical fruits, or bilobate, if developped by two carpels, of 5,5-6 cm of diameter, initially green, then yellowish when ripe, globose seeds of 3-4 cm of diameter of reddish brown colour.
+Fruit globose or bilobed, c. 6.5 - 7.5 cm diam., sometimes found 4 to 5.5 cm diam., stigmatic remains sub-basal, olive green when young, yellowish green to bright yellow when mature, epicarp smooth, thin, c. 0.5 mm thick, mesocarp fibrous, 3 - 4 mm thick, endocarp hard, red-brown, thin, c. 0.5 mm thick, endosperm white or creamy white, c. 3.2 - 3.5 cm diam., with a hollow, 1 cm diam.
+The Orania palindan Merr. is an unarmed monoecious species, up to about 10 m tall, with erect solitary stem, of 25-30 cm of diameter, smooth, greyish, on which are visible the rings trace of the junction of the fallen leaves.
+The leaves, on a 0,5-1 m long petiole, are pinnate, 3,5-4 m long, with leaflets regularly arranged along the rachis, drooping, 0,7-1 m long and 5-8 cm broad in the central part, linear with irregularly toothed apex, truncated at the apex and dentate the terminal ones, coriaceous, of intense green colour above, greyish brown below.
+Pistillate flowers regularly or slightly irregularly arranged, conical or pyramidal, calyx flattened, short, basally tubular with 3 low, triangular lobes, petals 3, valvate, distinct, triangular, staminodes usually creamy pale yellow, mostly 3 - 6 in Malesian species, 11 to more than 20 in Madagascar species, very short, awl shaped or welldeveloped, in most species uniform in size and shape, gynoecium dark brown, triloculate-triovulate, pyramidal, stigmas 3, short, recurved at anthesis, ovule laterally attached, pendulous, presumably hemianatropous.
+The foliar base, 40-60 cm long, with fibrous margins and covered by a brown red tomentum externally, wraps only partially the stem in the most external leaves.
+Philippine solitary pinnate palm with attractive ringed trunk and spread out upright leaves and drooping leaflets.
+Trunk 20 - 30 m high, about 15 - 40 cm in diam.
+Male flowers with calyx having 3 triangular lobes, 3 free petals and 6 stamens, similar female flowers with 6 staminodes, tri-carpellate gynaeceum and trilobed stigma.
+Embryo placed below middle line of seed.
+Habit solitary, pleonanthic, monoecious palms of the forest understorey and canopy.
+Staminate and pistillate flowers superficially rather similar, cream-coloured.
+Pistillate flowers with calyx of 3 united sepals, 1.5 mm long, corolla with 3 free petals, about 3 - 6 mm long, 2 - 4 mm wide, staminodes 6, about 1 - 1.75 mm long, gynoecium dark-brown, about 3 - 4 mm long, 3 - 3.5 mm wide, stigma of 3 elongate lobes, 1 mm long.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 1],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 1],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 1]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

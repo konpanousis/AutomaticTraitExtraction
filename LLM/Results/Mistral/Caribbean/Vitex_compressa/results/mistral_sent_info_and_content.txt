@@ -1,0 +1,307 @@
+We are interested in obtaining botanical trait information about the species Vitex compressa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves decussate-opposite or ternate, palmately 3-7 foliolate, rarely 1-foliolate, the leaflets chartaceous or membranous, sometimes coriaceous, mostly petiolulate, entire or dentate, rarely incised or lobed.
+Morphology Calyx hemispherical, campanulate or obconical, 5-lobed , toothed or truncate, persistent and ± accrescent in fruit.
+Trees or shrubs, rarely woody vines, glabrous, tomentose or villous.
+The fruit is fleshy and round of flattened.
+The leaf stalks are 5-12 cm long.
+It grows 20 m high.
+The flower panicles are 11-30 cm long and 3-5 cm wide.
+Definition: whole plant arborescent.
+Shrubs or trees, more rarely scrambling lianes, deciduous or evergreen, bark smooth or vertically fissured.
+Leaves opposite, rarely in whorls of 3, digitately compound with 3-7 leaflets, usually petiolate, leaflets entire or variously dentate or crenate, often with yellow gland-dots and aromatic, petiolules present or absent.
+Ovary at first ± 2-locular, later usually 4-locular, with single ovule in each locule, style terminal, filiform, shortly bifid Provided by:.
+Drupes fleshy with hard 4-celled endocarp, fruiting calyx usually accrescent, plate-like or cupular Provided by:.
+Small tree, Tree.
+Corolla ± zygomorphic , tube usually creamy-white, straight or curved, shortly cylindrical to infundibuliform, limb blue lilac mauve or pale yellow , upper lip 2-lobed, lower lip 3-lobed, , spreading, the lower-lip median lobe usually larger than the laterals and sometimes more strongly coloured.
+Fruit a drupe or a nut with a hard 4-locular endocarp, fruiting calyx firm and ± cupular to saucer-shaped below the drupe, or enlarged chartaceous campanulate about the nut.
+Ovary initially c. 2-locular, later 4-locular, with a single ovule in each locule, gland-dotted or not, glabrous or apically hairy, style terminal, filiform, bifid, shortly or distinctly exserted.
+Trees, shrubs or occasionally lianas, the stems mostly 4-angled, glabrous to densely hairy Provided by:.
+Fruit drupaceous, fleshy, the endocarp hard, often horny, sometimes incrassate in relation to the cells, 4-celled, seeds obovate or oblong, erect, without endosperm, fruiting-calyx often accrescent, usually patelliform or very shallowly cupuliform, rarely partly enclosing the fruit.
+Flowers with the calyx campanulate, cyathiform, or rarely tubular-infundibular, 5-dentate, or 5-fid, rarely 3-fid or 6-lobed, the teeth mostly slightly unequal, corolla white, blue, violet or yellowish, long-tubular, Provided by:.
+Cymes mostly dichasial, short and dense to open and spreading, sessile or pedunculate, the bracts often well developed, cymes sometimes aggregated into thyrsoid or lax panicles Provided by:.
+The middle 3 leaflets are not equal.
+Flower: lobe of the calyx not patent.
+Inflorescence: synflorescence indeterminate, cyme not divaricate, cyme thyrsoid of the dichasium, number of the flower by cyme pauciflorous to 7 flower/multiflorous more than 7 flower, density of the flower on the cyme lax/congested, peduncle of the cyme conspicuous bigger than calyx, prophyllum slightly developed or inconspicuous.
+Imagem principal.
+The leaves have 5 leaflets.
+Leaf: apex of the limb of the leaflet central acute/acuminate, base of the limb of the leaflet acute/decurrent, differentiation of the colour side abaxial and side adaxial of the limb of the leaflet central discolorous, domatia absent, form of the limb of the leaflet central elliptic/ovate, number of the leaflet bigger than 3, petiole conspicuous, petiolule conspicuous, vernation limb leaflet central conduplicate, relation between long limb leaflet and long petiole smaller than 3.
+It is purple when ripe.
+Corolla white and/or coloured, mostly shades of blue, lilac or mauve, ± zygomorphic, tube shortly cylindrical to long-tubular or ± funnel-shaped, limb spreading, ± 2-lipped, the upper lip 2-fid, the lower 3-fid Provided by:.
+Stamens 4, didynamous, inserted in the tube, mostly exserted Provided by:.
+Il mesure 1,3 cm de long sur 1,5 cm de large.
+Habit Trees or shrubs, rarely woody vines Provided by:.
+Calyx campanulate to tubular, 5-lobed or toothed or nearly truncate Provided by:.
+It is 1.3 cm long by 1.5 cm wide.
+Stamens 4, didynamous, epipetalous, included or exserted from the corolla tube, filaments broadened at the base, glabrous or with glandular or eglandular hairs.
+Leaves opposite or in whorls of 3, 3-7-foliolate, mostly petiolate, leaflets entire, toothed or lobed, often glandular Provided by:.
+Seeds 1-4, oblong to obovoid, without endosperm.
+Inflorescences terminal or axillary, mostly of dichasial cymes, occasionally of cymes aggregated into lax panicles, slender or sturdy, bracteoles inconspicuous, linear, narrowly-lanceolate or narrowly-spathulate.
+Recherche simple.
+
+Initial dictionary of traits with all possible values:
+{"Life form": ['liana', 'tree'], "Leaf position": ['alternate', 'alternate, opposite', 'opposite', 'opposite, whorls of 3', 'opposite, whorls of 3, alternate'], "Leaf composition": ['3 palmate', '3-5 palmate', '3-5 pinnate', '3-5 pinnate, entire', '5-11 pinnate', '5-9 pinnate', 'bi-pinnate, 2 leaflets per jug', 'bi-pinnate, 20-40 leaflets per jug', 'bi-pinnate, 30-32 leaflets per jug', 'entire', 'pinnate, 4-6 leaflets', 'pinnate, 6-8 leaflets'], "Leaf shape": ['elliptic', 'elliptic, elongate', 'elliptic, lanceolate', 'elliptic, obovate', 'elliptic, ovate', 'elliptic, ovate, round', 'elongate', 'elongate, elliptic, obovate', 'elongate, obovate', 'kidney-shaped, circular', 'lanceolate, elliptic', 'linear', 'linear, obovate', 'obovate', 'obovate, elliptic', 'obovate, spathulate', 'ovate', 'ovate, circular', 'ovate, elliptic', 'ovate, elliptic, elongate', 'ovate, heart-shaped', 'spathulate, obovate'], "Leaf margin": ['crenate', 'entire', 'entire, crenate', 'entire, serrate', 'serrate'], "Leaf upper side": ['glabrous', 'glabrous, pubescent', 'pubescent', 'pubescent, glabrous', 'salt crystals', 'scales, glabrous', 'shiny, glabrous', 'woolly, later glabrous'], "Leaf lower side": ['glabrous', 'glabrous, pubescent', 'powdery', 'pubescent', 'scales', 'woolly, later glabrous'], "Leaf glands": ['absent', 'gland on the end of petiole', 'glands near basis and central vein', 'glands near basis and leaf margin', 'translucent oil cells', 'translucent points and lines'], "Leaf rachis": ['Not applicable', 'not winged', 'winged'], "Thorns spines": ['1-2 per leaf axil', '2 per leaf axil', 'absent', 'branch thorns', 'thorns on stem'], "Stipules": ['absent', 'connected', 'present'], "Inflorescence type": ['1-3 sessile', '1-5 sessile', 'dichasium', 'fascicle', 'globose', 'globose in panicle', 'panicle', 'raceme', 'solitary, fascicle', 'spike', 'umbel'], "Sepals calyx shape": ['connate', 'free'], "Sepals calyx numer": ['2-3', '3-5', '4', '4-5', '4-6', '5', '5-6', '6-8', '6-9'], "Petals corolla shape": ['absent', 'free', 'tepals', 'tubular'], "Petals corolla number": ['0', '3-5', '4', '4-5', '4-6', '5', '5, 0', '5-6', '6-8'], "Petals corolla colour": ['Not applicable', 'blue', 'green', 'green, red', 'green-white, yellow-white', 'greenish white', 'red', 'white', 'white, pink', 'white, pink, purple', 'white, whitish', 'white, yellow-white', 'whitish', 'yellow', 'yellow, orange', 'yellow, yellow-green', 'yellow-green', 'yellow-green, green'], "Stamen shape": ['longer than corolla', 'much longer than corolla', 'multiple rows', 'short', 'shorter than corolla', 'shorter than corolla, connected'], "Stamen number": ['10', '15-25', '16', '2', '20', '20-28', '4', '5', '5-6', '6-10', '6-9', '8', 'many'], "Fruit type": ['berry', 'capsule', 'drupe', 'fleshy drupe', 'follicle', 'nutlet', 'pod'], "Fruit shape": ['2-locular, flattened, globose', '3-5-locular, globose', 'elongate', 'elongate, constricted between seeds', 'elongate, slightly constricted between seeds', 'elongate, strongly constricted between seeds', 'flattened obovoid', 'flattened ovate', 'flattened, elongate, twisted', 'flattened, thick, elongate, strongly curved', 'globose', 'globose, 3-angulated', 'linear', 'not flattened, elongate, slightly curved', 'ovoid', 'pyriform, ovoid', 'slightly flattened, elongate, curved'], "Fruit colour": ['black', 'brown', 'brown-black', 'green', 'green, black, whitish', 'green, orange', 'green, orange, red', 'green, red', 'green, yellow', 'greyish', 'orange', 'orange, yellow, red', 'purple, black', 'red', 'red, black', 'red, purple-brown', 'reddish purple', 'whitish green', 'yellow, orange', 'yellowish'], "Aril colour": ['Not applicable', 'orange', 'red', 'white', 'yellow-geen'], "Seed colour": ['Not applicable', 'black', 'brown', 'green', 'grey', 'white', 'whitish']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Life form": [
+["liana", 0],
+["tree", 1]
+],
+"Leaf position": [
+["alternate", 0],
+["alternate, opposite", 0],
+["opposite", 1],
+["opposite, whorls of 3", 1],
+["opposite, whorls of 3, alternate", 0]
+],
+"Leaf composition": [
+["3 palmate", 1],
+["3-5 palmate", 0],
+["3-5 pinnate", 0],
+["3-5 pinnate, entire", 0],
+["5-11 pinnate", 0],
+["5-9 pinnate", 0],
+["bi-pinnate, 2 leaflets per jug", 0],
+["bi-pinnate, 20-40 leaflets per jug", 0],
+["bi-pinnate, 30-32 leaflets per jug", 0],
+["entire", 1],
+["pinnate, 4-6 leaflets", 0],
+["pinnate, 6-8 leaflets", 0]
+],
+"Leaf shape": [
+["elliptic", 0],
+["elliptic, elongate", 0],
+["elliptic, lanceolate", 0],
+["elliptic, obovate", 0],
+["elliptic, ovate", 1],
+["elliptic, ovate, round", 0],
+["elongate", 0],
+["elongate, elliptic, obovate", 0],
+["elongate, obovate", 0],
+["kidney-shaped, circular", 0],
+["lanceolate, elliptic", 0],
+["linear", 0],
+["linear, obovate", 0],
+["obovate", 1],
+["obovate, elliptic", 1],
+["obovate, spathulate", 0],
+["ovate", 1],
+["ovate, circular", 0],
+["ovate, elliptic", 1],
+["ovate, elliptic, elongate", 0],
+["ovate, heart-shaped", 0],
+["spathulate, obovate", 0]
+],
+"Leaf margin": [
+["crenate", 0],
+["entire", 1],
+["entire, crenate", 0],
+["entire, serrate", 0],
+["serrate", 1]
+],
+"Leaf upper side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["pubescent", 1],
+["pubescent, glabrous", 0],
+["salt crystals", 0],
+["scales, glabrous", 0],
+["shiny, glabrous", 0],
+["woolly, later glabrous", 0]
+],
+"Leaf lower side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["powdery", 0],
+["pubescent", 1],
+["scales", 0],
+["woolly, later glabrous", 0]
+],
+"Leaf glands": [
+["absent", 0],
+["gland on the end of petiole", 0],
+["glands near basis and central vein", 0],
+["glands near basis and leaf margin", 0],
+["translucent oil cells", 0],
+["translucent points and lines", 0]
+],
+"Leaf rachis": [
+["Not applicable", 0],
+["not winged", 0],
+["winged", 0]
+],
+"Thorns spines": [
+["1-2 per leaf axil", 0],
+["2 per leaf axil", 0],
+["absent", 1],
+["branch thorns", 0],
+["thorns on stem", 0]
+],
+"Stipules": [
+["absent", 0],
+["connected", 0],
+["present", 0]
+],
+"Inflorescence type": [
+["1-3 sessile", 0],
+["1-5 sessile", 0],
+["dichasium", 0],
+["fascicle", 0],
+["globose", 0],
+["globose in panicle", 0],
+["panicle", 0],
+["raceme", 0],
+["solitary, fascicle", 0],
+["spike", 0],
+["umbel", 0]
+],
+"Sepals calyx shape": [
+["connate", 0],
+["free", 0]
+],
+"Sepals calyx numer": [
+["2-3", 0],
+["3-5", 0],
+["4", 1],
+["4-5", 0],
+["4-6", 0],
+["5", 1],
+["5-6", 0],
+["6-8", 0],
+["6-9", 0]
+],
+"Petals corolla shape": [
+["absent", 0],
+["free", 0],
+["tepals", 0],
+["tubular", 1]
+],
+"Petals corolla number": [
+["0", 0],
+["3-5", 0],
+["4", 0],
+["4-5", 0],
+["4-6", 0],
+["5", 1],
+["5, 0", 0],
+["5-6", 0],
+["6-8", 0]
+],
+"Petals corolla colour": [
+["Not applicable", 0],
+["blue", 0],
+["green", 0],
+["green, red", 0],
+["green-white, yellow-white", 0],
+["greenish white", 0],
+["red", 0],
+["white", 0],
+["white, pink", 0],
+["white, pink, purple", 0],
+["white, whitish", 0],
+["white, yellow-white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellow, orange", 0],
+["yellow, yellow-green", 0],
+["yellow-green", 0],
+["yellow-green, green", 0]
+],
+"Stamen shape": [
+["longer than corolla", 0],
+["much longer than corolla", 0],
+["multiple rows", 0],
+["short", 0],
+["shorter than corolla", 0],
+["shorter than corolla, connected", 0]
+],
+"Stamen number": [
+["10", 0],
+["15-25", 0],
+["16", 0],
+["2", 0],
+["20", 0],
+["20-28", 0],
+["4", 1],
+["5", 0],
+["5-6", 0],
+["6-10", 0],
+["6-9", 0],
+["8", 0]
+],
+"Fruit type": [
+["berry", 0],
+["capsule", 0],
+["drupe", 1],
+["fleshy drupe", 0],
+["follicle", 0],
+["nutlet", 0],
+["pod", 0]
+],
+"Fruit shape": [
+["2-locular, flattened, globose", 0],
+["3-5-locular, globose", 0],
+["elongate", 0],
+["elongate, constricted between seeds", 0],
+["elongate, slightly constricted between seeds", 0],
+["elongate, strongly constricted between seeds", 0],
+["flattened obovoid", 0],
+["flattened ovate", 0],
+["flattened, elongate, twisted", 0],
+["flattened, thick, elongate, strongly curved", 0],
+["globose", 0],
+["globose, 3-angulated", 0],
+["linear", 0],
+["not flattened, elongate, slightly curved", 0],
+["ovoid", 0],
+["pyriform, ovoid", 0],
+["slightly flattened, elongate, curved", 0]
+],
+"Fruit colour": [
+["black", 0],
+["brown", 0],
+["brown-black", 0],
+["green", 0],
+["green, black, whitish", 0],
+["green, orange", 0],
+["green, orange, red", 0],
+["green, red", 0],
+["green, yellow", 0],
+["greyish", 0],
+["orange", 0],
+["orange, yellow, red", 0],
+["purple, black", 0],
+["red", 0],
+["red, black", 0],
+["red, purple-brown", 0],
+["reddish purple", 0],
+["whitish green", 0],
+["yellow, orange", 0],
+["yellowish", 0]
+],
+"Aril colour": [
+["Not applicable", 1],
+["orange", 0],
+["red", 0],
+["white", 0],
+["yellow-geen", 0]
+],
+"Seed colour": [
+["Not applicable", 1],
+["black", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["white", 0],
+["whitish", 0]
+]
+}

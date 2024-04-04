@@ -1,0 +1,342 @@
+We are interested in obtaining botanical trait information about the species Guaiacum sanctum.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Type: Broadleaf evergreen.
+The flowers are blue, with five petals and five sepals.
+Grows up to 10-30 ft. tall and 8-12 ft. wide.
+The corolla has 5 unfused petals that are bluish purple in color.
+Flower Seed pods open to reveal red arils.
+Bloom Description: Blue.
+The fruits are yellow, dehiscent, with a red pulp, inside which there are black seeds.
+Leaf blade length: 1 to 2 inches.
+Leaf type and persistence: evergreen.
+Flower characteristics: very showy, emerges in terminal clusters.
+The calyx has 5 unfused, green sepals.
+The trunk can be to 1 meter in diameter but usually much smaller and branching at its base.
+The trunk, which can reach 50 cm in diameter, is usually multiple.
+Dark brown bark on mature trees peels to show patches of gray.
+The leaves are arranged oppositely and have six to 10 opposite leaflets that are apiculate and have stipules at their leaflet bases.
+Leaves opposite, 6-10 cm, not folded at night, stipules usually deciduous, ovate, 3 mm, apex acuminate, usually mucronulate, hairy, petiole shorter than leaflets, leaflets 6-8, green, elliptic to obliquely oblong or obovate, 20-35 x 8-15 mm, apex rounded, subcoriaceous.
+The fruit is a winged capsule that turns orange at maturity.
+Guaiacum sanctum.
+Guaiacum sanctum is an extremely slow-growing evergreen shrub or small tree with crooked, often multiple trunks and a dense rounded canopy.
+The flowers are followed by small, heart-shaped orange berries.
+The fruit is an ovoid capsule, about 1,5 cm long and up to 1,8 cm broad, of orange yellow colour with 2-5 prominent lobes which open to uncover the ellipsoid seeds, about 1 cm long, of blackish colour enclosed in a bright red aril.
+G. officinale L. G. sanctum L. G. unijugum T.S.Brandegee.
+It puts on an impressive show of blue-purple flowers followed by orange seed pods that split open to reveal red-coated seeds.
+Leaf shape: obovate, elliptic.
+Fruit color: yellow orange.
+Leaf type: even-pinnately compound, made up of 3-5 pairs of leaflets.
+Seeds brown or black, ellipsoid, 10-11 mm.
+The leaves are composed of leaflets 2.5-3 cm long and 2 cm wide.
+The leaves are opposite, paripinnate, 3-10 cm long, with 2-5 pairs of sessile leaves, coriaceous, oblong or obovate, entire, mucronate , of dark green colour, 2,5-3,5 cm long and up to 1,7 cm broad, asymmetric in respect to the central nervation.
+Fruit covering: fleshy, 5-winged capsule.
+The seeds are dark colored with a bright red aril.
+Star-shaped, 5-petaled, blue flowers in terminal clusters bloom on and off throughout the year, but most frequently in early spring.
+Current year twig thickness: thin.
+The complete, perfect, actinomorphic flowers are arranged solitarily in leaf axils.
+Most are seen 8 to 12 feet tall with a beautiful array of multiple trunks and a rounded canopy much like that of a mature crape-myrtle.
+These flowers are followed by small, heart-shaped, yellow orange berries, appearing on the tree at the same time as the bluish purple flowers and creating a lovely sight.
+Flower color: bluish purple.
+They burst open when ripe to reveal black seeds encapsulated separately in a red skin.
+The even-pinnately compound leaves are small, up to 2 in.
+Bark: creamy white to gray, and peels in patches with age.
+They can grow individually or in clusters at the ends of branches.
+Spread: 8 to 12 feet.
+Pinnate compound dark green leaves are evergreen.
+Showy, Evergreen, Fruit & Berries.
+Leaf color: dark green.
+Fruit is a dehiscent orange capsule that splits open when ripe to reveal one or two black seeds each covered with a fleshy bright red aril.
+It will grow over time to as much as 35' tall with a dense rounded canopy, but is most often seen in the 9-12' range.
+The leaves are compound , 2.5-3 cm in length, and 2 cm wide.
+They are dark green in color and occur as three to five pairs of leaflets.
+The species are so similar that in practice little distinction is made between the two, but it is possible to distinguish between them, based on certain characteristics of foliage, bark, and especially wood.
+The one to two-inch-long, leathery, dark green leaves are joined at many times throughout the year by the production of large clusters of bluish purple flowers, the old flowers fading to a light silvery-blue and creating a shimmering haze over the rounded canopy.
+Terminal fascicular inflorescences, in spring and in autumn, with 4-8 blue or purple flowers with 5 sepals and 5 petals, unguiculate and rounded at the apex, 0,7-1,2 cm long and 0,6-0,8 cm broad, and 10 stamina with yellow anthers.
+The bark is creamy white to gray, and peels in patches with age.
+They are followed by small, ornamentally attractive, orange seed pods.
+The ovary has 5 locules each with an ovule.
+The fruit is an ovoid capsule with black seeds in red arils.
+Guaiacum sanctum : Lignum Vitae.
+Fall characteristic: not showy.
+There are 10 unfused stamens.
+Fruit length: ½ inch.
+The Guaiacum sanctum L. is an evergreen tree with specimens which can reach, in the wild, the 25 m of height, but which, in cultivation, keeps much lower, with gnarled trunk up to 60 cm of diameter and whitish bark with vertical superficial fissures, the young branches are grey and enlarged at the nodes.
+Habit Guaiacum sanctum grows as a small shrub to medium size tree up to 10 meters in height.
+General Information Trees, 2.5-10 m, trunk sometimes to 1 m diam., bark scaly, branches many, spreading, smooth, crown dense, rounded.
+Blooming year-round, with a peak in spring, large showy clusters of star-shaped, bluish purple flowers, 1 in.
+Leaf arrangement: opposite/subopposite.
+Guaiacum officinale grows 10 to 30 feet tall, has blue or sometimes white flowers, and light to dark brown seeds.
+The flowers have both male and female parts and yield yellow pods containing black seeds encapsulated separately in a red skin.
+Capsules becoming greenish yellow to bright orange, obovoid, 14-20 x 12-14 mm, 4-5-lobed, 4-5-winged, apex pointed, smooth, glabrous.
+The Lignum Vitae shows off star-shaped 5-petaled blue flowers in clusters that bloom throughout the year.
+This small tree is slow-growing, reaching about 7 m in height with a trunk diameter of 50 cm.
+Trunk/branches: branches droop, very showy, typically multi-trunked, no thorns.
+Crown shape: round, vase.
+
+Initial dictionary of traits with all possible values:
+{"Life form": ['liana', 'tree'], "Leaf position": ['alternate', 'alternate, opposite', 'opposite', 'opposite, whorls of 3', 'opposite, whorls of 3, alternate'], "Leaf composition": ['3 palmate', '3-5 palmate', '3-5 pinnate', '3-5 pinnate, entire', '5-11 pinnate', '5-9 pinnate', 'bi-pinnate, 2 leaflets per jug', 'bi-pinnate, 20-40 leaflets per jug', 'bi-pinnate, 30-32 leaflets per jug', 'entire', 'pinnate, 4-6 leaflets', 'pinnate, 6-8 leaflets'], "Leaf shape": ['elliptic', 'elliptic, elongate', 'elliptic, lanceolate', 'elliptic, obovate', 'elliptic, ovate', 'elliptic, ovate, round', 'elongate', 'elongate, elliptic, obovate', 'elongate, obovate', 'kidney-shaped, circular', 'lanceolate, elliptic', 'linear', 'linear, obovate', 'obovate', 'obovate, elliptic', 'obovate, spathulate', 'ovate', 'ovate, circular', 'ovate, elliptic', 'ovate, elliptic, elongate', 'ovate, heart-shaped', 'spathulate, obovate'], "Leaf margin": ['crenate', 'entire', 'entire, crenate', 'entire, serrate', 'serrate'], "Leaf upper side": ['glabrous', 'glabrous, pubescent', 'pubescent', 'pubescent, glabrous', 'salt crystals', 'scales, glabrous', 'shiny, glabrous', 'woolly, later glabrous'], "Leaf lower side": ['glabrous', 'glabrous, pubescent', 'powdery', 'pubescent', 'scales', 'woolly, later glabrous'], "Leaf glands": ['absent', 'gland on the end of petiole', 'glands near basis and central vein', 'glands near basis and leaf margin', 'translucent oil cells', 'translucent points and lines'], "Leaf rachis": ['Not applicable', 'not winged', 'winged'], "Thorns spines": ['1-2 per leaf axil', '2 per leaf axil', 'absent', 'branch thorns', 'thorns on stem'], "Stipules": ['absent', 'connected', 'present'], "Inflorescence type": ['1-3 sessile', '1-5 sessile', 'dichasium', 'fascicle', 'globose', 'globose in panicle', 'panicle', 'raceme', 'solitary, fascicle', 'spike', 'umbel'], "Sepals calyx shape": ['connate', 'free'], "Sepals calyx numer": ['2-3', '3-5', '4', '4-5', '4-6', '5', '5-6', '6-8', '6-9'], "Petals corolla shape": ['absent', 'free', 'tepals', 'tubular'], "Petals corolla number": ['0', '3-5', '4', '4-5', '4-6', '5', '5, 0', '5-6', '6-8'], "Petals corolla colour": ['Not applicable', 'blue', 'green', 'green, red', 'green-white, yellow-white', 'greenish white', 'red', 'white', 'white, pink', 'white, pink, purple', 'white, whitish', 'white, yellow-white', 'whitish', 'yellow', 'yellow, orange', 'yellow, yellow-green', 'yellow-green', 'yellow-green, green'], "Stamen shape": ['longer than corolla', 'much longer than corolla', 'multiple rows', 'short', 'shorter than corolla', 'shorter than corolla, connected'], "Stamen number": ['10', '15-25', '16', '2', '20', '20-28', '4', '5', '5-6', '6-10', '6-9', '8', 'many'], "Fruit type": ['berry', 'capsule', 'drupe', 'fleshy drupe', 'follicle', 'nutlet', 'pod'], "Fruit shape": ['2-locular, flattened, globose', '3-5-locular, globose', 'elongate', 'elongate, constricted between seeds', 'elongate, slightly constricted between seeds', 'elongate, strongly constricted between seeds', 'flattened obovoid', 'flattened ovate', 'flattened, elongate, twisted', 'flattened, thick, elongate, strongly curved', 'globose', 'globose, 3-angulated', 'linear', 'not flattened, elongate, slightly curved', 'ovoid', 'pyriform, ovoid', 'slightly flattened, elongate, curved'], "Fruit colour": ['black', 'brown', 'brown-black', 'green', 'green, black, whitish', 'green, orange', 'green, orange, red', 'green, red', 'green, yellow', 'greyish', 'orange', 'orange, yellow, red', 'purple, black', 'red', 'red, black', 'red, purple-brown', 'reddish purple', 'whitish green', 'yellow, orange', 'yellowish'], "Aril colour": ['Not applicable', 'orange', 'red', 'white', 'yellow-geen'], "Seed colour": ['Not applicable', 'black', 'brown', 'green', 'grey', 'white', 'whitish']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Life form": [
+["liana", 0],
+["tree", 1]
+],
+"Leaf position": [
+["alternate", 0],
+["alternate, opposite", 0],
+["opposite", 1],
+["opposite, whorls of 3", 0],
+["opposite, whorls of 3, alternate", 0]
+],
+"Leaf composition": [
+["3 palmate", 0],
+["3-5 palmate", 0],
+["3-5 pinnate", 0],
+["3-5 pinnate, entire", 0],
+["5-11 pinnate", 0],
+["5-9 pinnate", 0],
+["bi-pinnate, 2 leaflets per jug", 0],
+["bi-pinnate, 20-40 leaflets per jug", 0],
+["bi-pinnate, 30-32 leaflets per jug", 0],
+["entire", 0],
+["pinnate, 4-6 leaflets", 0],
+["pinnate, 6-8 leaflets", 1]
+],
+"Leaf shape": [
+["elliptic", 0],
+["elliptic, elongate", 0],
+["elliptic, lanceolate", 0],
+["elliptic, obovate", 1],
+["elliptic, ovate", 0],
+["elliptic, ovate, round", 0],
+["elongate", 0],
+["elongate, elliptic, obovate", 0],
+["elongate, obovate", 0],
+["kidney-shaped, circular", 0],
+["lanceolate, elliptic", 0],
+["linear", 0],
+["linear, obovate", 0],
+["obovate", 0],
+["obovate, elliptic", 0],
+["obovate, spathulate", 0],
+["ovate", 0],
+["ovate, circular", 0],
+["ovate, elliptic", 0],
+["ovate, elliptic, elongate", 0],
+["ovate, heart-shaped", 0],
+["spathulate, obovate", 0]
+],
+"Leaf margin": [
+["crenate", 0],
+["entire", 1],
+["entire, crenate", 0],
+["entire, serrate", 0],
+["serrate", 0]
+],
+"Leaf upper side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["pubescent", 0],
+["pubescent, glabrous", 0],
+["salt crystals", 0],
+["scales, glabrous", 0],
+["shiny, glabrous", 0],
+["woolly, later glabrous", 0]
+],
+"Leaf lower side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["powdery", 0],
+["pubescent", 0],
+["scales", 0],
+["woolly, later glabrous", 0]
+],
+"Leaf glands": [
+["absent", 0],
+["gland on the end of petiole", 0],
+["glands near basis and central vein", 0],
+["glands near basis and leaf margin", 0],
+["translucent oil cells", 0],
+["translucent points and lines", 0]
+],
+"Leaf rachis": [
+["Not applicable", 0],
+["not winged", 0],
+["winged", 0]
+],
+"Thorns spines": [
+["1-2 per leaf axil", 0],
+["2 per leaf axil", 0],
+["absent", 1],
+["branch thorns", 0],
+["thorns on stem", 0]
+],
+"Stipules": [
+["absent", 0],
+["connected", 0],
+["present", 1]
+],
+"Inflorescence type": [
+["1-3 sessile", 0],
+["1-5 sessile", 0],
+["dichasium", 0],
+["fascicle", 0],
+["globose", 0],
+["globose in panicle", 0],
+["panicle", 0],
+["raceme", 0],
+["solitary, fascicle", 0],
+["spike", 0],
+["umbel", 0]
+],
+"Sepals calyx shape": [
+["connate", 0],
+["free", 1]
+],
+"Sepals calyx numer": [
+["2-3", 0],
+["3-5", 0],
+["4", 0],
+["4-5", 0],
+["4-6", 1],
+["5", 0],
+["5-6", 0],
+["6-8", 0],
+["6-9", 0]
+],
+"Petals corolla shape": [
+["absent", 0],
+["free", 1],
+["tepals", 0],
+["tubular", 0]
+],
+"Petals corolla number": [
+["0", 0],
+["3-5", 0],
+["4", 1],
+["4-5", 0],
+["4-6", 0],
+["5", 1],
+["5, 0", 0],
+["5-6", 0],
+["6-8", 0]
+],
+"Petals corolla colour": [
+["Not applicable", 0],
+["blue", 1],
+["green", 0],
+["green, red", 0],
+["green-white, yellow-white", 0],
+["greenish white", 0],
+["red", 0],
+["white", 0],
+["white, pink", 0],
+["white, pink, purple", 0],
+["white, whitish", 0],
+["white, yellow-white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellow, orange", 0],
+["yellow, yellow-green", 0],
+["yellow-green", 0],
+["yellow-green, green", 0]
+],
+"Stamen shape": [
+["longer than corolla", 0],
+["much longer than corolla", 0],
+["multiple rows", 0],
+["short", 0],
+["shorter than corolla", 1],
+["shorter than corolla, connected", 0]
+],
+"Stamen number": [
+["10", 1],
+["15-25", 0],
+["16", 0],
+["2", 0],
+["20", 0],
+["20-28", 0],
+["4", 0],
+["5", 0],
+["5-6", 0],
+["6-10", 0],
+["6-9", 0],
+["8", 0],
+["many", 0]
+],
+"Fruit type": [
+["berry", 0],
+["capsule", 1],
+["drupe", 0],
+["fleshy drupe", 0],
+["follicle", 0],
+["nutlet", 0],
+["pod", 0]
+],
+"Fruit shape": [
+["2-locular, flattened, globose", 0],
+["3-5-locular, globose", 0],
+["elongate", 1],
+["elongate, constricted between seeds", 0],
+["elongate, slightly constricted between seeds", 0],
+["elongate, strongly constricted between seeds", 0],
+["flattened obovoid", 0],
+["flattened ovate", 0],
+["flattened, elongate, twisted", 0],
+["flattened, thick, elongate, strongly curved", 0],
+["globose", 0],
+["globose, 3-angulated", 0],
+["linear", 0],
+["not flattened, elongate, slightly curved", 0],
+["ovoid", 0],
+["pyriform, ovoid", 0],
+["slightly flattened, elongate, curved", 0]
+],
+"Fruit colour": [
+["black", 0],
+["brown", 0],
+["brown-black", 0],
+["green", 0],
+["green, black, whitish", 0],
+["green, orange", 0],
+["green, orange, red", 0],
+["green, red", 0],
+["green, yellow", 0],
+["greyish", 0],
+["orange", 0],
+["orange, yellow, red", 0],
+["purple, black", 0],
+["red", 0],
+["red, black", 0],
+["red, purple-brown", 0],
+["reddish purple", 0],
+["whitish green", 0],
+["yellow, orange", 1],
+["yellowish", 0]
+],
+"Aril colour": [
+["Not applicable", 1],
+["orange", 0],
+["red", 1],
+["white", 0],
+["yellow-geen", 0]
+],
+"Seed colour": [
+["Not applicable", 1],
+["black", 1],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["white", 0],
+["whitish", 0]
+]
+}

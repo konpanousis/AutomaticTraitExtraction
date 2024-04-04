@@ -1,0 +1,132 @@
+We are interested in obtaining botanical trait information about the species Syagrus botryophora.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The inflorescences are unbranched or branch once, a single hybrid, S.
+Palms in this genus usually have solitary stems, clustered stems are less common, and a few are stolon -like subterranean.
+The foliar sheath, 40-60 cm long, open on the opposite side to the petiole, displays fibrous margins.
+The leaves of all but one species, S. smithii , are pinnately compound.
+Inflorescences, on a 15-30 cm long peduncle, between the leaves , 30-70 cm long, initially enclosed in a woody bract particularly thick, 50-70 cm long, with a long “beak” at the apex, of pale grey colour and striped externally, initially yellowish that turns purple internally.
+Ramifications of first order with white cream unisexual flowers arranged in triads , except in the terminal part of the rachillae where are present only male flowers solitary or in pair.
+The leaflets are very stiff and instead of bending, they kink, dry at the kinks and then fall off, making the leaflets appear to be truncated in some spots.
+It grows to 4-10m tall, with 8-20 leaves to 2m long.
+The crown is rather elongated due to the number of leaves present at the same time, the growth speed and the distant internodes.
+Ellipsoid fruits, 3,5-4,5 cm long and of 2,5-3 cm of diameter, initially of green colour, then yellowish green when ripe, with bony ovoid endocarp, of brown colour, 3-4 cm long and of 2-2,5 cm of diameter.
+Elegant and strongly arched, with 80-150 pairs of linear acuminate leaflets, they can reach the 2-2,8 m of length © Giuseppe Mazza.
+Rich crown rather elongated because of the large number of leaves leaning one against each other in a fast growth.
+This exotic neat looking palm only grows to around 10-15ft, has a short slender trunk below a.
+The leaves are just too plumose.
+They are monoecious , with both male and female flowers borne in the same inflorescence.
+On the right is a picture of green fruit on the right and near.mature fruit on the left,.ripening to the.yellow color.
+It is very similar to B. odorata , but is easily distinguished from this species by the distinct spathes which are densely covered in rust-coloured, woolly hairs.
+Rank: SEEDLING.
+The stems are normally spineless, but some species have spiny leaf sheaths or spines.
+An average tree can carry as many as 15 leaves or more.
+The leaves get a length of up to 12 feet and are plumose, or.multi-ranked.
+The transition from the leaf sheath to the petiole can be gradual and difficult to identify, but in species where they can be distinguished, leaf sheaths are 2.5-180 cm long and the petioles are 0-30 cm.
+The fruit are drupes, which vary in colour from green to orange to brown.
+Each leaf can be quite heavy and the petiole bases are fibrous and thick.
+Rank: FLOWERING.
+x lacerdamourae , occasionally shows second-order branching, and emerge from between the leaves.
+Garden Plants Wildflowers Plants of the World pati Other common names patioba Synonyms Cocos botryophora
+S. romanzoffiana ,.altho slightly more robust, to about 18m tall.
+The.outer bract of the flower is quite woody when mature and has a very sharp point.on
+The leaves, on a 40-50 cm long petiole, are pinnate, strongly arcuate, 2-2,8 m long, with 80-150 pairs of linear leaflets with acuminate apex, regularly distributed and inserted in two levels along the rachis facing upwards to form a V, 40-70 cm long and 2,5-4 cm broad in the median part, of intense green colour above, paler below.
+Those species that have upright trunks grow 2-36 metres tall with stems that are 6-35 centimetres in diameter.
+Wonderful Syagrus with thin trunk, fast growth , and mod length, arching leaves with fine, slightly sparsely spaced leaflets on a flat plane.
+The leaves are bent at the end, with very hairy margins near the trunk, and consist of 180-320 slightly coiled leaflets irregularly arranged in several planes on the rake.
+The woody bract of the inflorescence turns purple internally.
+Spacing: 8-10 ft. 10-12 ft.
+The 21's are 10-12".
+This means with each leaf nearly a foot of trunk height resulted.
+They range in size from 1.2 to 1.9 cm in length, and 0.7 to 4.5 cm in diameter.
+The fruits are an intense yellow when mature and fall to the.ground when ready for germination.
+Both also retain their leaf bases.
+Rank: SEED.
+The fruit are oval, greenish-yellow, 6–9 cm long.
+The crown is full and rounded.
+Examples of very tall Queen.Palms.
+The trunk base flared with a flush of tons of adventitious roots, probably from the Winter rain, and that helped it stay upright in the winds.
+Trunk covered with an ornamental neat weave of fiber.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+("black", 0),
+("blue", 0),
+("bluish", 0),
+("brown", 0),
+("brownish", 0),
+("chocolate", 0),
+("coral", 0),
+("crimson", 0),
+("darkgreen", 0),
+("green", 0),
+("greenish", 0),
+("grey", 0),
+("ivory", 0),
+("magenta", 0),
+("maroon", 0),
+("olive", 0),
+("orange", 0),
+("orangish", 0),
+("pink", 0),
+("pinkish", 0),
+("plum", 0),
+("purple", 0),
+("purplish", 0),
+("red", 0),
+("reddish", 0),
+("tan", 0),
+("violet", 0),
+("white", 0),
+("whitish", 0),
+("yellow", 1),
+("yellowish", 1)
+],
+"Fruit colour": [
+("black", 0),
+("blue", 0),
+("brown", 0),
+("green", 1),
+("grey", 0),
+("ivory", 0),
+("orange", 0),
+("pink", 0),
+("purple", 0),
+("red", 0),
+("white", 0),
+("yellow", 1)
+],
+"Crown": [
+("both", 0),
+("canopy", 0),
+("understorey", 0)
+],
+"Fruit size": [
+("large", 0),
+("small", 0)
+],
+"Fruit shape": [
+("ellipsoid", 1),
+("elongate", 0),
+("fusiform", 0),
+("globose", 0),
+("ovoid", 0),
+("pyramidal", 0),
+("rounded", 0)
+],
+"Conspicuousness": [
+("conspicuous", 0),
+("cryptic", 0)
+]
+}

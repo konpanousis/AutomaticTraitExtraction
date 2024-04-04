@@ -1,0 +1,114 @@
+We are interested in obtaining botanical trait information about the species Chamaedorea pauciflora.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The flowers are produced in inflorescences , they are dioecious , with male and female flowers on separate plants.
+The fruit is an orange or red drupe 0.5-2 cm diameter.
+Inflorescences dissimilar, males spicate, multiple to 7 at each node, females spicate, solitary at nodes, fruits ellipsoid, to 1.2-1.5 cm long and 5-8 mm diameter, black, with persistent, thickened petals.
+C. pauciflora leaf close-up.
+Pistillate flower with sepals 3, as in the staminate, petals 3, usually connate, distinct lobes valvate or imbricate, staminodes present and tooth-like or absent, gynoecium ovoid, tricarpellate, syncarpous, trilocular, trilovulate, stigmas small, recurved, ovule campylotropous, laterally inserted.
+Inflorescences interfoliar, emerging from the closed part of the sheath, to 80 cm long, peduncular bracts 3-4, tubular, male inflorescences to 8 per node, unbranched, erect, green, with orange flowers, female inflorescences single at the nodes, unbranched, erect, first green, later yellow to orange.
+Leaf , root , seed.
+Inflorescences among or below the leaves, solitary or several per leaf axil, unbranched or branched to 1 order, sometimes forked, staminate often more branched than pistillate, peduncle short to elongate, prophyll tubular with tapering bifid tip, peduncular bracts 2-several, elongate, tubular, sheathing the peduncle, coriaceous or membranous, persistent, tips short, bifid, rachillae, long or short, slender or fleshy, sometimes ridged, lacking bracts at maturity, bearing closely appressed or rather widely spaced, spirally arranged staminate or pistillate flowers, rarely bearing curved acervuli of staminate flowers.
+Rank: FLOWERING.
+Some features of floral anatomy, including vascularisation of the ovule by a strand from each ventral bundle and abundant raphides in styles and stigmas, are characteristic of other genera in Chamaedoreeae and Ceroxyleae.
+Leaves 4-9, simple or rarely pinnate, simple leaves bifid, to 75 cm long and 25-40 cm wide, 4-7, linear to sigmoid leaflets per side.
+Germination adjacent-ligular, eophyll bifid or pinnate.
+Stems solitary to 2 m tall and 1-2 cm diameter, errect.
+Fruits black, 10-12 x 7-8 mm.
+Stem solitary, to 2.5 m tall, 0.5-2 cm in diameter, erect or procumbent, green.
+A small, understory palm, with entire, deeply notched leaves.
+Generally rather small, often clustering, pinnate-leaved dioecious palms from the undergrowth of rain forest from Mexico southwards to South America, very diverse and with a wide range of habits including one climbing species, inflorescence and flower form equally varied.
+Fruit small, globose or oblong, stigmatic remains basal, epicarp smooth, mesocarp fleshy, endocarp thin.
+Staminate flowers symmetrical, sepals 3, entire, united basally or distinct, petals 3, distinct or variously connate, lobes valvate, stamens 6, filaments short, broad or awl-shaped, anthers dorsifixed, included, oblong or didymous, pistillode various, cylindric or expanded basally, sometimes trilobed.
+Leaf sheath 15-30 cm long, closed for up to 1/3 of its length, blade simple or rarely pinnately divided, 40-80 cm long and 20-35 cm wide.
+Seed erect, globose, or ellipsoidal, hilum small, basal, branches of raphe obscure, endosperm cartilaginous, embryo basal to subapical.
+The leaves are pinnate , with one to numerous leaflets.
+Stem usually slender, covered wholly or partially in fibrous leaf bases or smooth, green, prominently ringed with leaf scars.
+Leaves bifid or variously pinnate, very rarely entire, reduplicate, sheath closed or becoming split, short or elongate, sometimes with a marcescent lobe opposite the petiole, petiole short to elongate, flattened adaxially, rounded abaxially, sometimes with a prominent pale green or yellow, abaxial stripe, rachis rounded, angled, or flattened adaxially, rounded abaxially, blade entire, bifid and pinnately ribbed, or regularly or irregularly pinnately divided, leaflets few or many, of 1 or several folds, narrow or broad, often oblique or sigmoid, acuminate, surfaces glabrous.
+Herb, Subshrub, Solitary palm.
+Flowers sessile or partly enclosed in a cavity in the fleshy rachilla, small or minute.
+Small, sometimes moderate, erect or procumbent, rarely climbing, acaulescent or trunked, solitary or clustered, unarmed, pleonanthic, dioecious palms.
+They are small palms, growing to 0.3-6 m tall with slender, cane-like stems, growing in the understory in rainforests , and often spreading by means of underground runners , forming clonal colonies.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

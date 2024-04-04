@@ -1,0 +1,58 @@
+We are interested in obtaining botanical trait information about the species Sterculia setigera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Seeds with stout, peg-like stalks 2 to 3 mm long, persisting on old fruits, seeds ellipsoid, 11 to 12 mm long, 7 to 8 mm wide, greyblack, hilum sub-apical, round, 1 mm wide, at the margin of the aril, aril large, rounded, apical, 5 mm wide, 2 mm high, red, drying orange or red.
+
+Initial dictionary of traits with all possible values:
+{"Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf apex": [
+    ["Leaf apex sharp corner", 0],
+    ["Leaf apex with wide corners", 0],
+    ["Leaf apex acuminate", 0]
+  ],
+  "Seed stalks": [
+    ["Stout, peg-like stalks 2 to 3 mm long", 1]
+  ],
+  "Seed shape": [
+    ["Ellipsoid", 1]
+  ],
+  "Seed dimensions": [
+    ["11 to 12 mm long, 7 to 8 mm wide", 1]
+  ],
+  "Seed color": [
+    ["Greyblack", 1]
+  ],
+  "Hilum position": [
+    ["Sub-apical", 1]
+  ],
+  "Hilum shape": [
+    ["Round", 1]
+  ],
+  "Hilum size": [
+    ["1 mm wide", 1]
+  ],
+  "Aril position": [
+    ["Apical", 1]
+  ],
+  "Aril shape": [
+    ["Large, rounded", 1]
+  ],
+  "Aril dimensions": [
+    ["5 mm wide, 2 mm high", 1]
+  ],
+  "Aril color": [
+    ["Red", 1],
+    ["Orange", 0],
+    ["Red or orange", 1]
+  ]
+}

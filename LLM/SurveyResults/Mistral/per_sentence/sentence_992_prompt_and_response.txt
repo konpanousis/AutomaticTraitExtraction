@@ -1,0 +1,25 @@
+We are interested in obtaining botanical trait information about the species Boscia angustifolia.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves: alternate, or clustered on leaf cushions, obovate, apex tapering or rounded, bristle-tipped, dark green above, much paler below, densely covered with short crystalline hairs below, net-veining raised and clearly visible below, margin entire, petiole hairy, 3-5 mm long.
+
+Initial dictionary of traits with all possible values:
+{"Leaf apex": ['Leaf apex with wide corners', 'Leaf apex mucronate', 'Leaf apex emarginated'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf apex": [
+    ["Leaf apex with wide corners", 0],
+    ["Leaf apex mucronate", 0],
+    ["Leaf apex emarginated", 0]
+  ]
+}
+
+Note: Based on the provided input text, there is no strong evidence for any of the initial leaf apex values in the dictionary. Therefore, all binary values are set to 0. If you want to add the leaf apex value found in the text, you should update the question with a revised dictionary containing all possible values, including the new value "tapering or rounded," for the "Leaf apex" trait. However, as per your instructions, I will not modify the initial dictionary or add new trait values.

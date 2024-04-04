@@ -1,0 +1,110 @@
+We are interested in obtaining botanical trait information about the species Brassiophoenix schumannii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+A slender, solitary palm, stem 2-10 m. tall, 3-5 cm.
+Fruit ellipsoidal, tapered at both ends, wrinkled and ridged when dry, pale yellow-orange or red at maturity, stigmatic remains apical, epicarp with short, single, oblique fibrous bundles and interspersed brachysclereids, mesocarp fleshy, endocarp hard, thick, ridged.
+The stiff, unarching leaves are pinnate to 2 m in length, petioles short or absent, the pinnae being regularly spaced and diamond-shaped, 30 cm long and dark green in color.
+Rank: GERMINATING.
+Seeds can take up 8 months to germinate.
+The inflorescences emerge from beneath the crownshaft, twice branched, with furry ropes of male and female flowers.
+Brassiophoenix fruit matures to yellow, orange, or red in color, each with one seed.
+Fruit yellow-orange at maturity, ellipsoid, 31-35 mm.
+Both species grow to around 9 m in height on 8 cm trunks culminating in 60 cm tall, slightly bulging crownshafts and sparse leaf crowns.
+Small to moderate, solitary pinnate-leaved palm, endemic to New Guinea, with crownshaft and praemorse leaflets, the leaflets conspicuously 3-pronged, the fruit has a deeply grooved endocarp, the seed has homogeneous endosperm.
+Pistillate flowers ovoid, sepals 3, distinct, thickened dorsally, broadly imbricate, bearing large scales, margins split irregularly, petals 3, distinct, about twice as long as the sepals at anthesis, otherwise like the sepals, tips thick, shortly valvate, staminodes joined basally into a shallow ring bearing short 3-lobed projections, gynoecium ovoid, unilocular, uniovulate, style not differentiated, stigma 3-lobed, fleshy, papillose, reflexed at anthesis, ovule laterally attached, pendulous, form unknown.
+Small to moderate, solitary, unarmed, pleonanthic, monoecious palms.
+Small to medium sized, solitary, slender palm,.with fish-tail shaped leaflets.
+Leaves about 9 per crown, spreading, sheath 30-50 cm.
+Inflorescence branched to 2 or 3 orders, 25-74 cm long, 22-58 cm.
+Seed laterally attached, irregular with 5 ridges, pointed distally, hilum elongate, raphe branches curved, somewhat anastomosing, endosperm homogeneous, embryo basal.
+Attractive, dark-green, wedge-shaped leaflets are spaced.
+Flowers cream-colored or yellow-green, glabrous or sparsely punctate, staminate flowers 7-9 mm.
+Pollen ellipsoidal asymmetric, aperture a distal sulcus, ectexine tectate, perforate, or perforate-rugulate, aperture margin similar or slightly finer, infratectum columellate, longest axis ranging from 31-56 µm.
+Staminate flowers bullet-shaped in bud, sepals 3, distinct, short, rounded, imbricate, gibbous basally, edges toothed, petals 3, distinct, ovate, valvate, thick, tapering to a blunt point, stamens numerous , inserted on a conical receptacle, filaments long, slender, anthers elongate, basifixed, latrorse, connective tanniniferous, prolonged basally between the anthers, pistillode small, conical, sometimes with a short terete neck.
+The leaflets are thrice lobed, the center lobe being deepest, forming unusual jagged apices.
+Silhoette of the distinctive leaflet shape.
+Germination adjacent-ligular, eophyll bifid, tips toothed.
+Stem slender, erect, ringed with leaf scars, light grey to brown.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+("black", 0),
+("blue", 0),
+("bluish", 0),
+("brown", 0),
+("brownish", 0),
+("chocolate", 0),
+("coral", 0),
+("crimson", 0),
+("darkgreen", 0),
+("green", 0),
+("greenish", 0),
+("grey", 0),
+("ivory", 0),
+("magenta", 0),
+("maroon", 0),
+("olive", 0),
+("orange", 0),
+("orangish", 0),
+("pink", 0),
+("pinkish", 0),
+("plum", 0),
+("purple", 0),
+("purplish", 0),
+("red", 0),
+("reddish", 0),
+("tan", 0),
+("violet", 0),
+("white", 0),
+("whitish", 0),
+("yellow", 0),
+("yellowish", 0)
+],
+"Fruit colour": [
+("black", 0),
+("blue", 0),
+("brown", 0),
+("green", 0),
+("grey", 0),
+("ivory", 0),
+("orange", 1),
+("pink", 0),
+("purple", 0),
+("red", 1),
+("white", 0),
+("yellow", 1)
+],
+"Crown": [
+("both", 0),
+("canopy", 0),
+("understorey", 0)
+],
+"Fruit size": [
+("large", 0),
+("small", 0)
+],
+"Fruit shape": [
+("ellipsoid", 1),
+("elongate", 0),
+("fusiform", 0),
+("globose", 0),
+("ovoid", 0),
+("pyramidal", 0),
+("rounded", 0)
+],
+"Conspicuousness": [
+("conspicuous", 0),
+("cryptic", 0)
+]
+}

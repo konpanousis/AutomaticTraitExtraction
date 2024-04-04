@@ -1,0 +1,67 @@
+We are interested in obtaining botanical trait information about the species Vitex doniana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves opposite, digitately compound with 5 leaflets, stipules absent, petiole 5 to 20 cm long, petiolules up to 2.5 cm long, leaflets obovate to elliptical, 4 to 25 cm, 2.5 to 10.5 cm, notched to rounded or shortly acuminate at apex, entire, leathery, nearly glabrous.
+
+Initial dictionary of traits with all possible values:
+{"Leaf base": ['Leaf base attenuated'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf base": [
+    ["Leaf base attenuated", 0]
+  ],
+  "Leaf arrangement": [
+    ["Opposite", 1]
+  ],
+  "Leaf type": [
+    ["Compound", 1]
+  ],
+  "Leaf division": [
+    ["Digitate", 1]
+  ],
+  "Number of leaflets": [
+    ["5", 1]
+  ],
+  "Stipules": [
+    ["Absent", 1]
+  ],
+  "Petiole length": [
+    ["5 to 20 cm", 1]
+  ],
+  "Petiole length range": [
+    ["5-20 cm", 1]
+  ],
+  "Petiolules length": [
+    ["Up to 2.5 cm", 1]
+  ],
+  "Leaflet shape": [
+    ["Obovate", 1],
+    ["Elliptical", 1]
+  ],
+  "Leaflet size": [
+    ["4 to 25 cm", 1],
+    ["2.5 to 10.5 cm", 1]
+  ],
+  "Leaflet apex": [
+    ["Notched", 1],
+    ["Rounded", 1],
+    ["Shortly acuminate", 1]
+  ],
+  "Leaflet margin": [
+    ["Entire", 1]
+  ],
+  "Leaflet texture": [
+    ["Leathery", 1]
+  ],
+  "Leaflet surface": [
+    ["Nearly glabrous", 1]
+  ]
+}

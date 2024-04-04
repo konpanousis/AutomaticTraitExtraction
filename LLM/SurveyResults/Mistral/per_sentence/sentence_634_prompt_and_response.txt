@@ -1,0 +1,34 @@
+We are interested in obtaining botanical trait information about the species Rhizophora mangle.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The sprouted seedlings each have a stout, up to 10 inch long, green to brown, point-tipped root.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour": ['green'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit colour": [
+    ["green", 0]
+  ],
+  "Root colour": [
+    ["green", 1],
+    ["brown", 1]
+  ],
+  "Root length": [
+    ["up to 10 inch", 1]
+  ],
+  "Root shape": [
+    ["stout", 1]
+  ],
+  "Root tip shape": [
+    ["point-tipped", 1]
+  ]
+}

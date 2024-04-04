@@ -1,0 +1,146 @@
+We are interested in obtaining botanical trait information about the species Voanioala gerardii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+It is a massive palm of the forest canopy, with solitary stems to 15-20 m tall and c. 35 m diameter.
+A very slow and VERY rare palm from Madagascar.
+Voanioala can reach up to 5 meters in height.
+The flower bearing branches are numerous.
+Rank: GERMINATING.
+Robust solitary, monoecious, palm.
+Immature fruit green covered with dense chestnut-brown scaly indumentum.
+Very large feather palm, up to 20 m tall, closely resembling a coconut palm.
+.Massive feather palm, up to 20m tall, closely resembling a coconut palm.
+Massive feather palm, up to 20m tall, closely resembling a coconut palm.
+Seed irregularly ellipsoid, filling the endocarp cavity, laterally attached with a narrow irregular hilum, endosperm homogeneous but irregularly intruded by the endocarp protuberances, very hard, white, with a narrow irregular central lacuna, embryo basal, top-shaped, positioned opposite an endocarp pore.
+One feature of this palm is the large number of chromosomes its cells contain, at around 600 this is the largest number ever recorded for a monocotyledon.
+The inflorescence is produced between the leaves, and arches through the leaf sheaths, to about 1.5 m long.
+It is supported by a strong root base, and its leaves sprout from the crown.
+Maybe 2 to 3 leaves per year.
+The stems are distinctively -stepped,- marked with the protruding remains of the leaf bases.
+Leaves up to 5m long.
+One feature of this palm is the large number of chromosomes its cells contain,.at around 600 this is the largest number ever recorded for a monocotyledon.
+Rank: SEEDLING.
+Spacing: 6-8 ft.
+The fruit grows in groups at the crown with a thick reddish-brown color.
+Mature fruit 1-seeded, somewhat irregularly ellipsoid, tipped with a short beak and stigmatic remains, epicarp purplish-brown, densely covered with brown scaly indumentum, mesocarp with an outer fibrous zone just below the epicarp, and an inner fleshy zone, endocarp ± ellipsoid, apically pointed, basally truncate, very heavily thickened, pale brown when fresh, becoming grey with age, deeply grooved without, with numerous embedded fibres and lacunae, and with irregular rounded intrusions, penetrating the central cavity, basally with 3 very deep intrusions, each with a pore.
+They are on second & third leaf.
+Inside the outer wall of the fruit lies the endocarp, extremely thick and woody, deeply grooved outside and with irregular protuberances on the inside that penetrate the seed.
+The inflorescence is produced between the leaves,.and arches through the leaf sheaths, to about 1.5 m long.
+The crown is composed of about 1520.leaves, each up to about 5 m long, with no petiole and about 70 crowded,.regularly arranged leaflets.
+It is a massive palm of the forest canopy, with solitary stems to 1520 m tall and.c.
+Rank: FLOWERING.
+The crown is composed of 15-20 bracts, each about 5 meters long.
+The fruits of this species are a rich red-brown colour when ripe and grow in thick bunches at the crown.
+Identification: A massive feather palm, 20 m tall, closely resembling a coconut palm, Leaves, 5 m long, with 70 stiff, waxy green leaflets on each side of the petiole.
+Inside the.outer wall of the fruit lies the endocarp, extremely thick and woody, deeply.grooved outside and with irregular protuberances on the inside that penetrate.the seed.
+There are three distinctive pores at the basal end of the endocarp.
+The male flowers have.12 stamens.
+It is a rediculously slow growing palm.
+The second bract of the inflorescence is thick, woody and deeply grooved, and encloses the flowers in bud, then splitting longitudinally.
+The leaflets are waxy, green, and stiff, and seventy of them can grow from each side of a leaf.
+Solitary, unarmed, pleonanthic monoecious palms.
+It is about 3 feet tall.
+Up to 60 flower stalks develop at a time, and bear mature fruit that is about 8X5 cm, and red-brown when mature.
+The trunk is characteristically 'stepped' and the feather-shaped leaves extending from the crown may reach up to 5 metres long.
+It produces large bunches of reddish brown fruit.
+One feature of this palm is the large number of chromosomes its cells contain, at around 600 this is the largest number ever recorded for a monocotyledon.General:
+Robust solitary unarmed pleonanthic monoecious tree palm.
+The crown is composed of about 15-20 leaves, each up to about 5 m long, with no petiole and about 70 crowded, regularly arranged leaflets.
+It has up to 70 stiff, waxy green leaflets on each side of the petiole.
+The flower bearing branches are numerous and bear both male and female flowers.
+Germination remote-tubular, eophyll entire, lanceolate.
+These juvenile bifid leaves are surprisingly thick.
+The stems are distinctively stepped, marked with the.protruding remains of the leaf bases.
+The male flowers have 12 stamens.
+The second bract of.the inflorescence is thick, woody and deeply grooved, and encloses the flowers.in bud, then splitting longitudinally.
+Rank: SEED.
+Its chromosome number is the highest of all monocotyledons.
+Each seed is up to 2.8 inches long and 1.5 inches thick and is longitudinally grooved.
+Has the largest number of chromosomes in its cells, around 600, highest for any monocotyledon.
+The waxy, green leaflets are fairly stiff, and around 70 are found on either side of the axis of each leaf.
+Stem erect, very conspicuously stepped and ringed with oblique leaf scars.
+V. gerondii is polypoid and has a chromosome count far larger than most palms.
+Sorta Beccariophoenix like sans fibers.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 1],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

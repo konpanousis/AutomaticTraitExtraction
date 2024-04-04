@@ -1,0 +1,120 @@
+We are interested in obtaining botanical trait information about the species Syagrus pseudococos.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Mature height: 80 ft Mature spread: 18 ft Leaf type: pinnate plumose.
+The inflorescences are unbranched or branch once, a single hybrid, S.
+The seeds are ripe around Februrary to April I believe.
+The leaves of all but one species, S. smithii , are pinnately compound.
+Rank: GERMINATING.
+The decaryi never oozed saplike the botryophoras are oozing but always dry saw dust.
+Syagrus pseudococos has a single, thin, greenish trunk which grows over 50 feet high.
+Seeds germinate easily in 6.
+It produces quite large fruit and has a full crown.
+They are monoecious , with both male and female flowers borne in the same inflorescence.
+Rank: SEEDLING.
+Plumose, long green leaves come clustering of these.
+The stems are normally spineless, but some species have spiny leaf sheaths or spines.
+The transition from the leaf sheath to the petiole can be gradual and difficult to identify, but in species where they can be distinguished, leaf sheaths are 2.5-180 cm long and the petioles are 0-30 cm.
+The fruit are drupes, which vary in colour from green to orange to brown.
+Rank: FLOWERING.
+Tall, smooth trunked palm with smallish head of arching plumose leaves.
+The fruits are quite large, the. trunk is thin, and the crown is full.
+x lacerdamourae , occasionally shows second-order branching, and emerge from between the leaves.
+Very tall, somewhat thin trunk that has a. green color when it is younger.
+.Mark, Ed - pseudococos seed is "beaked", and prominently.
+Spacing: 12-15 ft. 15-20 ft.
+It can be distinguished from other species of Syagrus by the pear-shaped form of the fruit.
+Inflorescence: Ropelike, born.
+It is apparent on the bottom 1/3 of the trunk of the tree.
+Those species that have upright trunks grow 2-36 metres tall with stems that are 6-35 centimetres in diameter.
+Any saw dust pins,before the sap showed up?Little 1/8 to 1/4 inch long  saw dust protusions perpendicular to the trunk.
+This one has about 16-17 ft of trunk.
+They range in size from 1.2 to 1.9 cm in length, and 0.7 to 4.5 cm in diameter.
+The seeds are also unique among Syagrus in having a hollow interior to the endosperm, just like a coconut.
+The seeds are also unique among Syagrus in having a.hollow interior to the endosperm, just like a coconut.
+Flowering plant.
+Palms in this genus usually have solitary stems, clustered stems are less common, and a few are stolon -like subterranean.
+The sap appears to be oozing from small vertical cracks on the trunk.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 1],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 1],
+    ["greenish", 1],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 1],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 0],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 1],
+    ["green", 1],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 1],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 0],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 1],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 0],
+    ["ovoid", 0],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ]
+}

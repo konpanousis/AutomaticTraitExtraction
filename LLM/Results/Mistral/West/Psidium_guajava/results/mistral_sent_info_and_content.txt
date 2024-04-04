@@ -1,0 +1,275 @@
+We are interested in obtaining botanical trait information about the species Psidium guajava.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Berry globose, ovoid, or pyriform, 3-8 cm, with persistent calyx lobes at apex, flesh white or yellow, placenta reddish, well developed, fleshy.
+Seeds numerous, yellowish, bony, reniform, 3-5 mm long, embedded in a pink or white pulp.
+Decals en skins.
+Guavasteen Fruit On White Background.
+The fruits are round to egg-shaped, up to 4 inches long and have persistent calyx lobes, yellow skin, pink flesh, and numerous yellowish seeds.
+They are dull grey to yellow-green in color and have a short petiole.
+The flowers are usually borne singly in the upper leaf forks.
+Ripe Guava Or Apple Guava On Black.
+Petals are 4-5 in numbers, white in color and delicate.
+Title Flowers Caption Psidium guajava, close-up of flowers.
+Description Psidium guajava is a shrub or small tree usually growing 1-6 m tall, but occasionally reaching 10 m in height.
+They are oblong to elliptical in shape with an entire margin.
+Style as long as stamens.
+Stigma is green in color and capitate.
+The stem is hard, woody and reddish brown in color.
+Trees, to 13 m tall.
+Alles in Flms.
+The older stems are covered in a smooth, light reddish-brown, bark that peels off in flakes.
+Guava Flower With Leaves.
+Its flowers are borne singly in the leaf forks and its hairless glossy green leaves have 6 or 7 pairs of side veins.
+Flowers solitary or in two- to three-flowered axillary cymes, about 3 cm in diameter, four to six calyx lobes, 1-1.5 cm long, irregular, petals four to five, white, 1-2 cm long, stamens numerous, 1-2 cm long, ovary 4-5-locular, style 1.5-2 cm long, stigma capitate.
+It is a shady tree with white and scented flowers.
+Copyright ©K.M. Siddiqui Habit Psidium guajava , habit.
+Vorige pagina.
+These berries are crowned with the remains of the persistent sepals and have a juicy pink, white or yellowish coloured pulp containing numerous seeds.
+Younger stems are greenish in colour, hairy , and somewhat four-angled.
+Its flowers are usually borne singly in the leaf forks and its somewhat hairy dull green leaves have 10-20 pairs of prominent side veins.
+Guava Fruits Over White.
+Capsella bursa-pastoris.
+Stamen filaments are pale white in color, 12 mm in length, delicate and numerous.
+Fruit a berry, globose, ovoid or pyriform, 4-12 cm long, surmounted by the persistent calyx lobes, exocarp green to yellow, mesocarp fleshy, white, yellow, pink or red, sour to sweet and aromatic.
+The bark is smooth and reddish brown in color.
+The leaf blades are somewhat oval in shape with rounded or pointed tips and rounded bases.
+Set Of Isolated Plant Guava Fruits Herb.
+Flowers are hermaphrodite, in the form of inflorescence born on the pedicel 2 cm long.
+Calyx white in color and irregularly split into 2-4 lobes.
+Bark smooth, green to red-brown, peeling off in thin flakes.
+The stem is woody and thick.
+Leaves are simple, opposite and cm in length and cm in width.
+Armoured scales associated with temperate and subtropical fruit trees in Himachal Pradesh.
+Each leaf has a prominent central vein and 10-20 pairs of side veins that are also relatively obvious.
+The fruits are pear-shaped, 4-12 cm long, berry type.
+The leaves are leathery, shiny above, and oblong to elliptic in shape with distinctive parallel rows of depressed secondary veins emerging from the midvein.
+Fresh flowers along with juice applied as anthelmintic.Unripe
+Young twigs four-angled and ridged, pubescent.
+Isolated On White Background.
+They have hairy undersides , entire margins, and are generally dull green in colour.
+The fruit has numerous seeds.
+The fruits are green in color but yellow when ripe.
+Each flower has four or five green sepals that are fused together at the base and four or five white petals.
+The fruit is either rounded , egg-shaped or pear-shaped and turns from green to yellowish in colour as it matures.
+Bark gray, smooth, peeling in strips.
+It is an evergreen shrub or small tree.
+This sometimes gives the trunks a mottled appearance, because the newly revealed bark is somewhat greenish-brown in colour.
+Leaves opposite, with translucid punstations, petiole 3-10 mm long, blade elliptic to oblong, 5-15 x 3-7 cm, glabrous above, finely pubescent beneath, veins prominent below.
+Its flowers are usually borne in threes in the leaf forks and its hairy dull green leaves have 6-10 pairs of side veins.
+The veins are prominent, and glands are dotted.
+The simple leaves are oppositely arranged along the stems and are borne on short stalks 4-10 mm long.
+Psidium guajava tree is a small shrub-like tree up to 10 m in height.
+Volgende pagina.
+Barks peel off as flakes.
+The seeds are yellowish in colour and kidney-shaped.
+The ovary is inferior with numerous ovules.
+Description Top of page.Shallow-rooted shrub or small tree, up to 10 m tall, branching from the base and often producing suckers.
+Isolated On White.
+Flowers solitary or 2 or 3 in cymes.
+Stamens 6-9 mm.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+The seeds are scattered in the pulp, cream colored and kidney-shaped.
+Calyx cap nearly rounded, 7-8 mm, irregularly opening.
+Duration: Perennial, Evergreen.
+Petals white, 1-1.4 cm.
+Bimodal Summer Uniform Winter.
+The pulp is juicy and creamy.
+These flowers are about 25 mm across and are borne on a hairy stalk 1-2.5 cm long.
+It is a shrubby evergreen tree up to 10 meters in height.
+It is a shrub-like small tree that spreads by branching in various directions.
+Three Whole Guava Fruit With Green Leaf
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 1],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 1],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 1],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 1],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 1],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 1],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 1],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 1],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

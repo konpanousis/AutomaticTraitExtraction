@@ -1,0 +1,120 @@
+We are interested in obtaining botanical trait information about the species Euterpe catinga.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruits black, globose, about 1 cm in diameter.
+Stems clustered, to 20 m tall, 10-15 cm in diameter.
+Inflorescences infrafoliar, ± horizontal at anthesis, peduncle 6-14 cm long, prophyll 0.5-1 m long, peduncular bract 46-90 cm long, without an umbo, rachis 20-45 cm long, rachillae 48-150, 35-75 cm long, 2.5-4 mm diam.
+Mais. expandido. collapsed.
+Stems cespitose with a few atems, or only 1 stem developed with basal Shoots, or solitary, 5-16 m tall, 3.5-9 cm diam.
+Leaves to 3 m long, crownshaft sometimes orange or red, petiole with numerous black adpressed scales, pinnae 40-60 on each side, regularly inserted, narrow, slightly pendulous, the central ones 40-70 cm long.
+Inflorescence erect, 30-50 cm long, with up to 100 branches inserted on all sides of the axis, these 3-4 mm in diameter and covered with short, whitish brown hairs.
+Inflorescences infrafoliar, ± horizontal at anthesis, peduncle 6-14 cm long, prophyll 0.5-1 m long, peduncular bract 46-90 cm long, without an umbo, rachis 20-45 cm long, rachillae 48-150, 35-75 cm long, 2.5-4 mm in diam.
+Moderate to large, solitary or clustered, unarmed, pleonanthic, monoecious palms.
+Tree, Caespitose palm.
+Fruits black, globose, ca.
+Very striking S American clustering palm with bright orange crownshaft.
+Euterpe are tall, slender palms growing to 15-30 metres , with pinnate leaves up to 3 metres long, and a stem only about 100 millimetres in diameter.
+Stem erect, sometimes slender, obscurely to distinctly ringed with leaf scars, grey to white, base sometimes enlarged.
+Staminate flowers elongate, pointed in bud, sepals 3, distinct, broadly imbricate, irregular, rounded to ± pointed, margins often tattered, petals 3, distinct, unequal, asymmetrical, valvate, the tips with short solid points, stamens 6, filaments short, linear, sometimes wider basally, anthers elongate, sagittate, medifixed, latrorse, pistillode 3-lobed, columnar.
+Seed globose, laterally attached, hilum elongate, ± 2-lobed, raphe branches forming a network, endosperm homogeneous or rarely ruminate, embryo subbasal.
+Individuals can grow to 20 m.
+Stems cespitose with a few stems forming a clump, or only 1 stem developed with basal shoots, or solitary, erect, 4-16 m tall, 3.5-15 cm diam. , gray, with a cone of brown or reddish roots at the base, these 0.2-1 m long and 1-1.5 cm diam.
+Criar uma conta.
+Fruits 0.8- 1 cm diam.
+Categories : Euterpe Arecaceae genera Neotropical realm flora Trees of South America Trees of Central America Palm stubs Hidden categories: Wikipedia articles incorporating a citation from the New International Encyclopedia Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+Definition: whole plant arborescent.
+Pistillate flowers ovoid, sepals 3, distinct, imbricate, margins often lacerate, from ca.
+Stems caespitose with a few stems forming a clump, or only 1 stem developed with basal shoots, or solitary, erect, 4-16 m tall, 3.5-15 cm diam. , gray, with a cone of brown or reddish roots at the base, these 0.2-1 m long and 1-1.5 cm in diam.
+The fruit is small, but is produced in great quantity upon branched spadices , which are thrown out horizontally beneath the crown of leaves.
+Pollen ellipsoidal, with slight or obvious asymmetry, aperture a distal sulcus, ectexine tectate, finely perforate, or perforate and micro-channelled and rugulate, aperture margin similar or slightly finer, infratectum columellate, longest axis 35-57 µm.
+Germination adjacent-ligular, eophyll bifid or pinnate with narrow leaflets.
+Similar to other Euterpes with graceful fronds and drooping slender leaflets.
+Fruit subglobose or rarely ellipsoid, small to moderate, single-seeded, stigmatic remains lateral to subapical, epicarp smooth, minutely pebbled when dry, mesocarp rather thin with radially arranged sclereid bundles and an inner layer of thin flat fibres, endocarp thin, crustaceous, tanniniferous.
+Osi kwiatostan jest 20 do 45 cm
+Elegant solitary or clustering pinnate-leaved palms from Central and South America and the Caribbean, with tall graceful stems, and regularly and finely pinnate leaves, the inflorescences have grey-white rachillae.
+Euterpe catinga wurde 1853 von Alfred Russel Wallace in seinem Buch Palm Trees of the Amazon and Their Uses erstbeschrieben.
+Seedling leaves deeply bifid.
+Leaves 5-10, sheath 53-87 cm long including a 1-2 cm ligule, orange or reddish, rarely green, often with burgundy scales, often with a mass of black, elongate, flimsy scales apically, petiole 0-10 cm long, densely covered with black or reddish brown, raised, ramenta-like scales, rachis 1.2-2.4 m long, densely to moderately covered with scales like those of petiole, pinnae 38-75 per side, ±, horizontally spreading, basal pinna 32-75 x 0.3-1 cm, middle pinnae 35-68 x 2-3.5 cm, apical pinna 23-28 x 1-1.8 cm.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

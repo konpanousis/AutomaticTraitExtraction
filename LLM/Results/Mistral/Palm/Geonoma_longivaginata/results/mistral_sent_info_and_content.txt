@@ -1,0 +1,116 @@
+We are interested in obtaining botanical trait information about the species Geonoma longivaginata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Small palm, 3.0 m tall, stems 3.0 m tall, 1.1 cm in diameter, solitary or clustered, canelike, internodes 3.0 cm long, yellowish and smooth.
+Inflorescences peduncles 5.2 cm long, rachillae 3, 17.0 cm long.
+Leaves veins not raised or slightly raised and triangular in cross-section adaxially, rachis 67.2 cm long.
+Fruits 6.5 mm long, 5.3 mm in diameter, the bases without a prominent stipe, the apices not conical, the surfaces not splitting at maturity, without fibersemerging, bumpy from the numerous, subepidermal, tangential, short fibers present, these coming to a point at fruit apices, locular epidermis without operculum, smooth, without pores.
+Leaves veins not raised or slightly raised and triangular in cross-section adaxially, rachis 28.1 cm long.
+The infructescences are thick and red and particularly eye-catching.
+Fruits 6.5 mm long, 5.3 mm in diameter, the bases without a prominent stipe, the apices not conical, the surfaces not splitting at maturity, without fibers emerging, bumpy from the numerous, subepidermal, tangential, short fibers present, these coming to a point at fruit apices, locular epidermis without operculum, smooth, without pores.
+It is a monoecious understory species that grows from Mexico to South America in slowly sparse clusters with emergent leaves that are always very, very red.
+Inflorescences peduncles 9.5 cm long, rachillae 7, 25.7 cm long.
+Individuals can grow to 5 m.
+This smallish, clustering species has thin, cane-like stems, usually no more than 2 m tall, and dainty leaves with sickle-shaped leaflets.
+Leaves 9 per stem, irregularly pinnate, not plicate, bases of blades running diagonally into the rachis, sheaths 14.9 cm long, petioles 28.4 cm long, drying green or yellowish, rachis 52.5 cm long, 4.1 mm in diameter, veins raised and rectangular in cross-section adaxially or not raised or slightly raised and triangular in crosssection adaxially, pinnae 6 per side of rachis, basal pinna 23.8 cm long, 4.1 cm wide, forming an angle of 64° with the rachis, apical pinna 16.6 cm long, 12.7 cm wide, forming an angle of 38° with the rachis.
+Geonoma longivaginata subspecies longivaginata Leaves veins not raised or slightly raised and triangular in cross-section adaxially, rachis 67.2 cm long.
+New leaves are.always very red and may show signs of cold.damage in winter.
+Categories : Geonoma Trees of the Caribbean Trees of Central America Trees of South America Arecaceae genera Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+It differs from G. divisa in its crenulate or shallowly lobed staminodial tube, and from G. ferruginea in its rachillae with short, transverse ridges.
+Geonoma is a genus of small to medium-sized palms native to the forest understorey of tropical Central and South America.
+It suckers but not profusely so and leaves are very variable from finely pinnate to very broad leaflets to a mixture of both.
+Plants 3.0 m tall, stems 3.0 m tall, 1.1 cm in diameter, solitary or clustered, canelike, internodes 3.0 cm long, yellowish and smooth.
+It suckers but not profusely so and.leaves are very variable from finely pinnate to.very broad leaflets to a mixture of both.
+Inflorescences peduncles 11.4 cm long, rachillae 6 , 27.7 cm long.
+Veins not raised or slightly raised and triangular in cross-section adaxially, Nicaragua, Costa Rica, and Panama. 2 2 Rachis 67.2 cm long, rachillae 7, 25.7 cm long. subspecies longivaginata.
+Inflorescences peduncles 9.2 cm long rachillae 4 , 18.8 cm long.
+Definition: whole plant arborescent.
+Leaves veins raised and rectangular in cross-section adaxially, rachis 52.8 cm long.
+Inflorescences peduncles 5.2 cm long, rachillae 3 , 17.0 cm long.
+Leaves veins not raised or slightly raised and triangular in cross-section adaxially, rachis 23.5 cm long.
+New leaves are always very red and may show signs of cold damage in winter.
+Leaves 9 per stem, irregularly pinnate, not plicate, bases of blades running diagonally into the rachis, sheaths 14.9 cm long, petioles 28.4 cm long, drying green or yellowish, rachis 52.5 cm long, 4.1 mm in diameter, veins raised and rectangular in cross-section adaxially or not raised or slightly raised and triangular in crosssection adaxially, pinnae 6 per side of rachis, basal pinna 23.8 cm long, 4.1 cm wide, forming an angle of 64 ° with the rachis, apical pinna 16.6 cm long, 12.7 cm wide, forming an angle of 38 ° with the rachis.
+Inflorescences peduncles 9.5 cm long, rachillae 7 , 25.7 cm long.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 1]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

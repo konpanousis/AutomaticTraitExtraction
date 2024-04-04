@@ -1,0 +1,196 @@
+We are interested in obtaining botanical trait information about the species Dypsis prestoniana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+It can extend for 2 to 8 meters high with 4 to 8 leaves.
+A large solitary palm to 12 metres tall with a very solid trunk,.a browny orange and white tormentum on the leaf bases, and plumose leaves.
+Because of this triangular leaf formation, the trunk looks thicker.
+.Raised bed.Crown.
+Also, it has maroon-colored midribs and white cast from the shaft to the trunk.
+It has one true trunk, which can extend from 4 to 12 meters in height, bearing spirally attached 8 to 10 leaves.
+The seeds are slightly different shape, but about the same size.
+The stems are also turning white.
+Extending my tape measure from the top of my head, it was about 60 more inches to the first branch on the inflorescence.
+Definitie: whole plant growth form.
+Its leaves are curled and attached to a reddish-brown stem.
+It grows rapidly and bears a light brown body and light pink crown.
+Medium Green Height: 30-40 ft.
+Robust solitary palm from Madagascar with dark green leaves and a bit of rust color around the leaf bases.
+Rank: SEEDLING.
+They have distinctive white stripe on the spear and purple tones on the newer petioles.
+The narrow, tight leaflets and long petiole made think they were the same.
+Even smaller than 1/4" x 1/2".
+Moreover, the orange crush is known to have a vast growth habit with a strong trunk bearing glossy green leaves.
+Rank: FLOWERING.
+This palm often appears in groups of 3 to 5.
+.Leaflets going irregular:.
+As the palm matures, it bears purple or red flowers and black fruits.
+.The larger one is soon to have a pair of inflorescence hanging off it as the second begins to emerge.
+The inflorescence was measured as 110 inches in length as measured from where it emerged from the trunk, including the entire curve.
+Spacing: 12-15 ft. 15-20 ft.
+The seeds were tiny: less than 1/2" long & 1/4" wide.
+In terms of height, this plant can group up to 3 meters high.
+The whole plant may reach up to 20 feet high during maturity.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+Although, in younger leaves, the basal part is more of an orange to a red-orange tone.
+Three divided leaves seedling, planted 2 years ago, below arch.
+Dypsis baronii The D. baronii is a palm that has multiple stems that bear feather-like leaves.
+The leaf nodes are golden brown that transitions to a smooth light green leaf petiole that is waxy.
+When its leaves dry up, they hang like a pendulum and sometimes cover the trunk.
+Palm-heart edible.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 1],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 1],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 1],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 1],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Leaf color": [
+["dark green", 1],
+["light brown", 1],
+["maroon", 1],
+["orange", 1],
+["reddish-brown", 1],
+["rust", 1],
+["white", 1]
+],
+"Plant height": [
+["2 to 8 meters", 1],
+["4 to 12 meters", 1],
+["60 inches", 0],
+["30-40 ft.", 0],
+["up to 20 feet", 1]
+],
+"Leaf shape": [
+["curled", 1],
+["feather-like", 1],
+["plumose", 1],
+["triangular", 1]
+],
+"Leaf arrangement": [
+["spirally attached", 1]
+],
+"Inflorescence length": [
+["110 inches", 1]
+],
+"Number of leaves": [
+["4 to 8 leaves", 1],
+["8 to 10 leaves", 1]
+],
+"Growth habit": [
+["vast growth habit", 1]
+],
+"Growth rate": [
+["grows rapidly", 1]
+],
+"Number of stems": [
+["one true trunk", 1],
+["multiple stems", 1]
+],
+"Leaf node color": [
+["golden brown", 1]
+],
+"Leaf petiole texture": [
+["waxy", 1]
+],
+"Fruit type": [
+["black fruits", 1]
+],
+"Seed size": [
+["less than 1/2\" long & 1/4\" wide", 1],
+["the same size", 0],
+["slightly different shape", 0]
+],
+"Seedling age": [
+["planted 2 years ago", 1]
+],
+"Leaf base color": [
+["browny orange and white tormentum", 1]
+],
+"Leaflet shape": [
+["narrow, tight leaflets", 1]
+],
+"Grouping": [
+["This palm often appears in groups of 3 to 5.", 1]
+],
+"Leaf drying behavior": [
+["When its leaves dry up, they hang like a pendulum and sometimes cover the trunk.", 1]
+],
+"Palm-heart edibility": [
+["Palm-heart edible.", 1]
+]
+}

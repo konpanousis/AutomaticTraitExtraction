@@ -1,0 +1,142 @@
+We are interested in obtaining botanical trait information about the species Arenga australasica.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Inflorescence from the upper leaf bases and progressively down the stem, 1-2 m long with 38-44 unbranched pendant panicles of yellowish male and female flowers.
+A. australasica with new leaves.
+A. australasica leaf underside.
+The Australian Arenga Palm is a clumping palm that grows to twenty metres tall.
+Arenga australasica - total height 30-40 cm - pot x 14 cm - gardenpalms.
+Arenga australasica - totale hoogte 30-40 cm - pot x 14 cm - Gardenpalms.
+Its about 6ft tall but is slow growing.
+Monocarpic, but since a suckering palm, only part of the palms dies at flowering- and flowers likea Caryota- all up the trunk finishing at the top- entire flowering time can take many years per trunk.
+The colour of the fruit varies from orange to red.
+Individual trunks die after flowering.
+Flowers are yellow and about 1 cm across.
+The terminal leaflets have a broad, fused base.
+The trunk is light grey, growing to 20 m tall and 30 cm in diameter.
+Stems may retain the black fibrous tissue of old leaf bases, however, these are generally shed leaving a smooth surface ringed with leaf scars.
+Terminal leaflets are fused at their bases and fishtail-like.
+Arenga australasica - total height 30-40 cm - pot x 14 cm.
+Individual stems die after flowering.
+Leaves are pinnate and widely spaced along the rachis, often silvery on lower surface.
+Leaves pinnate , up to 3.5 m long.
+The fronds are wide-spaced along the trunk, which lacks a crownshaft.
+It produces clusters of yellow flowers firstly from the leaf bases higher up the plant, and then progressively down the plant.
+The leaves are subdivided into pinnately divided, close-spaced linear leaflets, growing to 1 m long and 7 cm wide.
+Male flowers have six or more stamens and female flowers have a two to three celled ovary and a three-lobed stigma.
+The leaflets are notched at the end, with blunt ended leaflets at the tip of the frond.
+Stems die after bearing fruit from their lower-most inflorescence.
+Once the lowest inflorescence has produced its fruit, the trunk dies and is replaced by another sucker from the rootstock.
+Sepals 3, petals 3.
+Rank: FLOWERING.
+Flowers in clusters of 3, one female flower and 2 male flowers.
+Ø³Ø¨Ø¯ Ø®Ø±ÛØ¯.
+Fruit globular and red to purple when ripe, ca.
+The fronds are pinnate, dark green above and paler below, and can have over a hundred leaflets per leaf.
+They have a prominent leaf vein on the lower surface and irregular notches extending partway back from the tip of the leaflet.
+Palm often grows to 20 meters, Fruit color, Orange, Red, Being a clustering palm it usually has a number of immature suckers at the base.
+Pinnae silver-grey on underside.
+Older stems are light coloured and ringed with leafbase scars in the younger part, trunks clothed in dark fibrous leaf sheaths.
+Multi-stemmed palm up to 20 m tall with numerous suckers around the base, stems up to 30 cm DBH.
+The plant suckers from the base and individual trunks can grow to about 30 cm in diameter.
+The ripe fruits are red, purple or brown, globular, approximately 2 cm across and contain one to three seeds.
+The fruit are reddish or purple in colour and 1 cm to 2 cm long.
+The Australian Arenga Palm is a large clump-forming palm usually with one to three dominant trunks and numerous immature suckers emerging from the base.
+x 14 cm.
+Flowers are typically clustered in groups of three, with a central pistillate flower and a staminate flower on either side.
+Arenga australasica - totale hoogte 30-40 cm - pot x 14 cm.
+A tall, multi-stemmed pinnate palm, two or three stems dominating.
+Spacing: 20-30 ft. 30-40 ft.
+Leaflets 78-142 per leaf, narrow, stiff, pleated, dark green above and lighter below, apices notched and grows from the rachis at a 30° angle to create a V-shaped leaf.
+Seeds hard and smooth, 10-15 mm long x 10-15 mm diam, tear-shaped to angled.
+They are small to medium-sized palms, growing to 2-20 m tall, with pinnate leaves 2-12 m long.
+Fruits are orange to red usually with 3 seeds, round, 2.2-2.8 cm diameter, and the flesh is highly irritant.
+The leaflets are glossy dark green on the upper surface and grayish beneath and are broadly oval-shaped in outline, 2-3.5 m long and supported by a stout, cylindrical, rough textured leaf stalk to 1.6 m long.
+Arenga australasica pot x 14 cm - MyPalmShop.
+Clumps are often dense and wide-spreading.
+The seeds have a very hard smooth coat embedded in a fleshy layer with a highly irritating juice containing calcium oxalate crystals.
+The 1-2 m long inflorescences arise from the leaf bases of the upper leaves first and then appear progressively down the trunk.
+Leaf Detail.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+("black", 0),
+("blue", 0),
+("bluish", 0),
+("brown", 0),
+("brownish", 0),
+("chocolate", 0),
+("coral", 0),
+("crimson", 0),
+("darkgreen", 0),
+("green", 0),
+("greenish", 0),
+("grey", 0),
+("ivory", 0),
+("magenta", 0),
+("maroon", 0),
+("olive", 0),
+("orange", 1),
+("orangish", 0),
+("pink", 0),
+("pinkish", 0),
+("plum", 0),
+("purple", 1),
+("purplish", 0),
+("red", 1),
+("reddish", 0),
+("tan", 0),
+("violet", 0),
+("white", 0),
+("whitish", 0),
+("yellow", 0),
+("yellowish", 0)
+],
+"Fruit colour": [
+("black", 0),
+("blue", 0),
+("brown", 0),
+("green", 0),
+("grey", 0),
+("ivory", 0),
+("orange", 1),
+("pink", 0),
+("purple", 1),
+("red", 1),
+("white", 0),
+("yellow", 0)
+],
+"Crown": [
+("both", 0),
+("canopy", 0),
+("understorey", 0)
+],
+"Fruit size": [
+("large", 0),
+("small", 0)
+],
+"Fruit shape": [
+("ellipsoid", 0),
+("elongate", 0),
+("fusiform", 0),
+("globose", 1),
+("ovoid", 0),
+("pyramidal", 0),
+("rounded", 0)
+],
+"Conspicuousness": [
+("conspicuous", 0),
+("cryptic", 0)
+]
+}

@@ -1,0 +1,131 @@
+We are interested in obtaining botanical trait information about the species Dransfieldia micrantha.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Tubular, extended, green with dark indumentum, 30-45 cm long, forming narrow crownshaft.
+Stem to 10 m in height, 2-5 cm diam., surface smooth, often reddish when young then turning brown, internodes 4.0-19.5 cm.
+Spermatophyte Flowering plant Fern Moss Fruit Fruit 50% fruits fruiting fresh fruit
+Crownshaft: Smooth, columnar at the stem tip.
+It grows up to 10 m high, with a stem diameter of 2-5 cm and has a crownshaft.
+The inflorescences are borne on the stem below the leaves and are 34-60 cm long with spreading branches.
+Flower Plant stem Panicle Peduncle Pedicel Seed 50% seeds seed coat kernel
+D. micrantha is monoecious and bears small purple flowers, followed by olive-shaped black fruits.
+The leaf sheaths are extended, forming a distinct green crownshaft , the small rachis bears widely spaced, acute leaflets, slightly offset and taper to a point.
+Seeds: Ovoid with a flattened base.
+The inflorescence is borne beneath the crownshaft, protected by a caducous prohyll, once-branched, producing one- seeded fruit with apical remains.
+Encyclopedia Index Families Genera Species Arecaceae Dransfieldia Palms.
+Small clustering palm with a pink crownshaft.
+The inflorescence is borne beneath the crownshaft, protected by a caducous prohyll, once-branched, producing one-seeded fruit with apical remains.
+Leaflets: 12-30 each side of leaf rachis, to 80 cm long, with pointed tips, widely-spaced, arranged regularly, horizontal.
+Fruits: Olive-shaped, one-seeded, black with apical remains.
+Rank: FLOWERING.
+The flowers are in triads throughout the length of the rachillae.
+Small to moderate, clustering or solitary, unarmed, pleonanthic, monoecious, understory tree palm.
+Fruit ellipsoidal, stigmatic remains apical, perianth persistent and clasping, epicarp thin, smooth, mesocarp fibrous, endocarp circular in cross-section, closely adpressed to seed, comprising two layers of closely adhering fibres.
+Leaves 4-7 in crown, new leaves emerging reddish but soon turning green, 1-2 m long including petiole, sheath 30-45 cm long, crownshaft 50-60 x ca.
+Encyclopedia Index Families Genera Species Arecaceae Dransfieldia Palms Palms & Cycads.
+Back to Arecaceae index.
+Dransfieldia micrantha is a slender, unarmed palm possessing a well-defined crownshaft, strongly ridged leaflets with entire, acute apices, an infrafoliar inflorescence with a persistent prophyll that is split apically by the exertion of the peduncular bract, a peduncle that is longer than the rachis, bullet-shaped multistaminate male flower buds in which the filaments in the outer whorl are irregularly inflexed in bud, and fruit with apical stigmatic remains.
+D. micrantha showing pink crownshaft.
+Flowers: Small purple groups of three with a central female and two lateral male flowers) throughout the length of the branches of the inflorescence that carry the flowers.
+Pistillate flowers symmetrical, subglobose, glabrous or with scattered scales as inflorescence, sepals 3, distinct, strongly imbricate, closely resembling staminate sepals, petals 3, strongly imbricate, resembling sepals, but thinner and with acute apex, staminodes 3-4, shortly joined basally, truncate, gynoecium ovoid, symmetrical, pseudomonomerous, unilocular, uniovulate, stigmas 3, ovule located near base of gynoecium, laterally attached, ?campylotropous.
+Dransfieldia micrantha is an elegant palm with pinnate fronds and numerous slender cane-like stems.
+Small to moderate, solitary or clustering pinnate-leaved palm from western New Guinea, with crownshaft, acute leaflets and inflorescence with the peduncular bract deciduous but the prophyll persistent.
+Stem erect, slender, ringed with prominent leaf scars.
+An 5 cm Seitenachse stehen 15 bis 28 dieser Triaden.
+Inflorescences cyme cymes The inflorescence is borne beneath the crownshaft, protected by a caducous prohyll, once-branched, producing one-seeded fruit with apical remains.
+Seed ellipsoidal with flattened base, surface smooth, hilum basal, raphe lateral, endosperm deeply ruminate, embryo basal.
+Stem: Thin, slender, cane-like, solitary, up to 10 m high and 2-5 cm in diameter, grey to maroon in colour, with distinct, widely-spaced leaf scar rings.
+Leaves : Pinnate-compound, elegant.
+Spacing: 8-10 ft. 10-12 ft.
+Le rudiment ovarien mesure moins de 0,5 mm.
+The leaf sheaths are extended, forming a distinct green crownshaft, the small rachis bears widely spaced, acute leaflets, slightly offset and taper to a point.
+Dransfieldia micrantha is a gracious, monoecious, pinnate-leaved palm with numerous slender cane-like stems.
+Inflorescences: Up to 34-60 cm long, born below the leaves, protected by a caducous prohyll, with thin spreading branches, containing both male and female flowers on the same plant.
+L' inflorescence mesure de 34 x  60 cm de long, dont la tige de l' inflorescence fait de 12 x  26 cm.
+Petiole: 10-20 cm long.
+Water vapor Humidex Dehumidifier Heat index Drying Scott Zona 50% Zona Botany Fairchild Tropical Botanic Garden Florida International University Sabal Taxonomy List of Arecaceae genera 50% fan palm fan palms Arecaceae tribe
+The thin trunk is solitary, gray to maroon in color, with distinct, widely spaced leaf scar rings.
+Clustering or rarely solitary, slender understory tree palm.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 1],
+["orange", 0],
+["orangish", 0],
+["pink", 1],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 1],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

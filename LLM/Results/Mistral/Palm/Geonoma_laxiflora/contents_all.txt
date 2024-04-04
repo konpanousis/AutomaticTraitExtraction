@@ -1,0 +1,161 @@
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Leaf arrangement": [
+["alternate", 0],
+["opposite", 0],
+["whorled", 1]
+],
+"Leaf type": [
+["simple", 1],
+["compound", 0]
+],
+"Leaf division": [
+["undivided", 1],
+["divided", 0]
+],
+"Leaf pinnation": [
+["none", 1],
+["pinnate", 1]
+],
+"Leaf base": [
+["running into rachis", 1],
+["not running into rachis", 0]
+],
+"Leaf rachis": [
+["present", 1],
+["absent", 0]
+],
+"Leaf veins": [
+["raised", 0],
+["not raised", 1]
+],
+"Leaf venation cross-section": [
+["triangular", 1],
+["not triangular", 0]
+],
+"Leaf blade length": [
+["25-45 cm", 1],
+["other", 0]
+],
+"Leaf blade width": [
+["15-20 cm", 1],
+["other", 0]
+],
+"Plant height": [
+["3.5 m", 1],
+["other", 0]
+],
+"Stem height": [
+["3.0 m", 1],
+["other", 0]
+],
+"Stem diameter": [
+["0.8 cm", 1],
+["other", 0]
+],
+"Stem internode length": [
+["1.7 cm", 1],
+["other", 0]
+],
+"Stem color": [
+["yellowish", 1],
+["other", 0]
+],
+"Stem texture": [
+["smooth", 1],
+["other", 0]
+],
+"Inflorescence branching": [
+["once branched", 1],
+["other", 0]
+],
+"Inflorescence peduncle length": [
+["6 cm", 1],
+["other", 0]
+],
+"Inflorescence branch length": [
+["20-30 cm", 1],
+["other", 0]
+],
+"Inflorescence branch diameter": [
+["1-2 mm", 1],
+["other", 0]
+],
+"Flower arrangement": [
+["elevated flower pits arranged in distant whorls of 3", 1],
+["other", 0]
+],
+"Staminodes": [
+["united into a tube", 1],
+["other", 0]
+]
+}
+

@@ -1,0 +1,243 @@
+We are interested in obtaining botanical trait information about the species Ficus abutilifolia.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+It is named for the similarity of its broadly ovate leaves to that of Abutilon.
+Crown spreading, more or less dense.
+Ficus abutilifolia is a hardy, deciduous, small to medium sized fig tree that has beautiful, large, heart-shaped leaves.
+Malvanthera Desert fruits Fruits originating in Asia Drought-tolerant plants Plants used in bonsai Flora of Australia Rosids of Western Australia Rosales of Australia Trees of Australia Garden plants of Asia Garden plants of Australia Ornamental trees Plants described in 1847 Hidden categories: Articles with short description Short description matches Wikidata Articles with 'species' microformats.
+It is a lithophytic plant that grows on rocky outcrops, reaching 10 m in height.
+Ficus platypoda grows as a lithophytic shrub or tree to 10 m high.
+Roots: Conspicuous, white to yellow, often exposed extending sinuously over the rock surface and into crevices, well adapted to hugging rock faces and splitting rocks and earning this species a place among the true rock-splitting figs.
+It is virtually restricted to cliff faces and rock outcrops, and is easily recognized from its large, glabrous leaves and smooth, pale bark.
+These veins are red-brown in young leaves and yellow in older leaves.
+Stems: Main stem crooked, twisted or contorted branching low down, exuding a milky latex when cut.
+Bark creamy-white or yellowish-white, rather smooth, powdery or somewhat flaking.
+They may be sessile or on short, stout stalks up to 15 mm long and are green becoming yellow or red when ripe.
+Size 2 to 10m.
+The leaves are alternately arranged along the stems and are elliptical to oval in shape, measuring 5.3 to 16.7 cm long by 3.1 to 13.3 cm wide.
+The gnarled, yellow white, smooth trunk is often twisted and has smooth, papery bark that peels off.
+Bark texture.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+Foliage of a northern specimen.
+Description: Ficus abutilifolia is a bushy shrub 3-4 m tall, eventually becoming a small tree tree 10-15 m tall, deciduous or semi-deciduous with white stems and roots that stand out against the rocks.
+The leaves are broadly ovate and heart-shaped to almost round and are cordate at the base, ranging in size from 75-200 x 65-180 mm.
+Filter Plant Links Bulbs and Rhizomes 69 Climbers 29 Grasses 31 Groundcovers and Perennials 149 Shrub 211 Succulents 96 Tree 204 Water Plants 32.
+Encyclopedia Index Families Genera Species Moraceae Ficus Caudiciforms Succulents Trees.
+Ficus abutilifolia is a small to medium-sized, deciduous to semi-deciduous tree up to 15 m high, though it seldom exceeds 5 m.
+The showy -Klipvy- is a small to medium-size, deciduous to semi-deciduous tree that can grow up to a height of 15m, but seldom exceeds 5m.
+Large figs grow directly from the trunk, with a mottled green white appearance.
+The trunk is usually twisted or contorted, the branchlets stout and glabrous and marked with leaf and stipular scars.
+Principal lateral veins 5-7 on either side of midrib, conspicuous, basal ones prominent, yellowish ending at the margin at or above the middle of the lamina, tertiary venation partly scalariform.
+The bark is whitish to yellowish white and smooth, powdery or somewhat flaking, and it is this conspicuous bark that is immediately apparent.
+They are borne in the axils of the leaves from September to March.
+Fig arrangement.
+Leaves: Altemate in spirals with petiole 2-18 cm long, 2-4 mm thick, lamina leathery, to cordiform, broadly ovate, almost circular or subreniform, 5-20 cm long, 5-18 cm broad, smooth or slightly hairy, particularly on veins, margins entire slightly wavy, apex rounded to acute, base heart-shaped.
+Foliage of a southern specimen.
+The oval to round figs pale can be various shades of yellow, orange, pink, red or purple and 0.9-2.8 cm long by 1-2.8 cm across.
+It is a smalish tree with a smooth bark that has a white colour.
+It is one of the rock splitter figs and has white stems and roots that flatten themselves out along rocks.
+Trees. Perennials.
+Root over rock - Ficus Abutilifolia - Bonsai forum - Bonsai Empire.
+The leaves are large and heart shaped with prominent veins.
+Perennials and small shrubs.
+Trees and large shrubs.
+Leafy twigs 6–15 mm thick, stout, hairless or almost so and marked with leaf and stipular scars.
+The branchlets are covered in fine hairs.
+The fruit, which are 15-25 mm in diameter, are borne singly or in pairs in the leaf axils on terminal branchlets, and are smooth to slightly hairy.
+Fruit : Borne singly or in pairs in the leaf axils on terminal branchlets or on bare branches below the leaves, basal bracts 2.5–3.5 mm.
+They are glabrous on both surfaces, occasionally with velvety hairs beneath, with 4-9 pairs of secondary veins, entire wavy margins and a petiole up to 120 mm long.
+Encyclopedia Index Families Genera Species Moraceae Ficus Caudiciforms Trees.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 1],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 1],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 1],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 1],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 1],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 1],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 1],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 1],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

@@ -1,0 +1,48 @@
+We are interested in obtaining botanical trait information about the species Trichilia trifolia.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Petals fleshy, 5, imbricate, 3 mm long, 1-1.5 mm broad, oblong, elliptic or spathulate, apex rounded and often slightly hooded, glabrous.
+
+Initial dictionary of traits with all possible values:
+{"Petals / corolla colour": ['whitish'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Petals / corolla colour": [
+    ["whitish", 0]
+  ],
+  "Petal texture": [
+    ["fleshy", 1]
+  ],
+  "Petal number": [
+    ["5", 1]
+  ],
+  "Petal arrangement": [
+    ["imbricate", 1]
+  ],
+  "Petal length": [
+    ["3 mm", 1]
+  ],
+  "Petal width": [
+    ["1-1.5 mm", 1]
+  ],
+  "Petal shape": [
+    ["oblong", 1],
+    ["elliptic", 1],
+    ["spathulate", 1]
+  ],
+  "Petal apex shape": [
+    ["rounded", 1],
+    ["hooded", 1]
+  ],
+  "Petal surface": [
+    ["glabrous", 1]
+  ]
+}

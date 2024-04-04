@@ -1,0 +1,254 @@
+We are interested in obtaining botanical trait information about the species Jatropha curcas.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Spore, 16:1-3.
+Leaves broadly ovate, margins entire or shallowly 3-5-lobed, cordate at base, acute or acuminate at apex, 15cm x 13cm, cymes with or without peduncles, flowers unisexual, born at different times on the same inflorescence, petals green 6-7 mm long, capsule ellipsoid, 2.5-4 cm long, seeds blackish ca.2 cm long.
+The small flowers have five red petals and are borne in small branched clusters.
+Female flowers borne singly, with elliptic 3-celled, triovulate ovary.with 3 spreading bifurcate stigmata.
+Thin sections.
+Leaves deciduous, alternate but apically crowded,.ovate, acute to acuminate, basally cordate, 3 to 5-lobed in outline, 640 cm.long, 635 cm broad, the petioles 2.57.5 cm long.
+After pollination, a trilocular ellipsoidal fruit is formed, the exocarp remaining fleshy until the seeds are mature.
+Pods mature to yellow-red before splitting open to release seeds.
+Choose an option 10 seeds 100 seeds 500 seeds Clear.
+Its fruiting capsules are usually bright glossy green and sometimes sparsely pubescent.
+When the seed shell splits, the radicle emerges and four small peripheral roots are formed.
+Oliguria, probably secondary to hypotension.
+Separate male and female flowers are borne together in large elongated clusters , with the male flowers below the female flowers.
+The peripheral vessels were. constricted.
+.Normally, it grows between three and five meters in height, but can attain a height of up to eight or ten meters under favorable conditions.
+Jatropha curcas is a large coarse annual shrub or.
+Soon after development of the first true leaves, the cotyledons wither and fall off.
+Fruit: small capsule-like, round fruit, about 2.5 -. 4 cm in diameter.
+Capsules, 2.54 cm long, finally drying.and splitting into 3 valves, all or two of which commonly have an oblong black.seed, these ca 2 x 1 cm.
+J. curcas is a semi- evergreen shrub or small tree , reaching a height of 6 metres or more.
+The small flowers have five greenish-yellow petals and are borne in small branched clusters.
+Phylogenic tree of nine Jatropha species with flex, poplar, rubber tree and cassava in the Malpighiales order.
+Its fruiting capsules are usually dull yellow and glabrous.
+Its immature fruiting capsules are densely covered in soft blunt spines, but are glabrous.
+Flowers several to many.in greenish cymes, yellowish, bell-shaped, sepals 5, broadly deltoid.
+Trees mature in roughly 4-5 years, reaching up to about 15 feet in height.
+Inflorescences axillary, 6-10 cm, bracts lanceolate, 4-8 mm.
+Female flowers: pedicels elongate, sepals free, approximately 6 mm, petals and disk glands as in male, ovary 3-locular, glabrous, styles bifid at apex.
+Seeds : the seeds are mature when the capsule changes from green to yellow.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+Stipules small, petioles 6-18 cm, leaf blade rotund to ovate, 7-18 × 6-16 cm, papery, nitid green and glabrous adaxially, gray-green and along nerves puberulent to glabrous abaxially, base cordate, apex acute, palmate veins 5-7.
+Branches have smooth gray bark and exude watery white latex when cut.
+Seeds T-Z.
+Munch E, Kiefer J Purging nut.
+Jatropha is a deciduous large shrub or small tree that can reach up to 5 meters in height with smooth gray bark.
+Growing medium accompanying plants.
+Cardiocrinum Giganteum 10 Seeds, Giant Himalayan Lily Fragrant Perennial Flowers.
+J. curcas is a shrub or treelet, 2-5 m tall, with watery latex, bark smooth, branches glaucous-gray, glabrous, sparsely lenticellate, pith larger.
+Shrub or small tree, up to 5 m high, with sticky, milky or reddish latex.
+Plant with Immature Seed capsules.
+Flowers : male and female flowers are produced on the same inflorescence , averaging 20 male flowers to each female flower, or 10 male flowers to each female flower.
+In general, the leaves are green to pale green, alternate to subopposite, and three- to five-lobed with a spiral phyllotaxis.
+Male flowers: sepals 5, approximately 4 mm, connate at base, petals oblong, green-yellow, approximately 6 mm, connate to middle, hairy inside, disk glands 5, nearly terete, stamens 10, outer 5 filaments free, inner filaments connate in lower part.
+Stems /Shoots/Trunks/Branches.
+Flowers give way to green seed pods, each with 2-3 oily black seeds.
+It has thin, often.
+Leaves: dark green, alternate, simple,ovate to.
+Perennials and small shrubs.
+Bloom Description: Yellowish green.
+Maple-like, 3-5 lobed, pale green leaves are cordate at the bases.
+Yellow green flowers bloom in spring.
+Trees and large shrubs.
+The fruit releases three large black seeds , each about 2 cm long and 1 cm in diameter.
+Capsules ellipsoidal or globose, 2.5-3 cm, yellow.
+Description.Shrub or tree to 6 m, with spreading branches and stubby twigs, with a milky or.yellowish rufescent exudate.
+Jatropha curcas , commonly called purging nut, Barbados nut or physic nut, is a dioecious small tree or large shrub that grows to 20- tall.
+Seeds ellipsoidal, 1.5-2 cm, black.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 1],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 1],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 1],
+["leaf with deep lobes", 1]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 1],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 1],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 1],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 1],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 1],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 1],
+["Yellow coloured flower", 1],
+["Green coloured flower", 1]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

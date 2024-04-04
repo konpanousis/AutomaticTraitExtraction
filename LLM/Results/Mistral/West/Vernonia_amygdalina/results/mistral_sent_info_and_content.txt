@@ -1,0 +1,225 @@
+We are interested in obtaining botanical trait information about the species Vernonia amygdalina.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flowers bisexual, regular, 5-merous, strongly exserted from the involucre, pappus consisting of outer linear, caducous scales up to 1.5 mm long and of inner creamy or brownish bristles 4-7 mm long, corolla tubular, 5-8 mm long, whitish, glandular, with erect lobes, stamens with anthers united into a tube, with appendages at apex, ovary inferior, 1-celled, pubescent and glandular, style hairy, 2-branched.
+Towards the dry season new leaves become smaller and become dark greyish green in colour, these are very coarse and bitter, especially those close to the inflorescence.
+A many-stemmed shrub or small tree up to c. 8 m. tall.
+Leaves petiolate, elliptic, lanceolate or ovate, 4-15 cm long, 1.2-4 cm wide, base cuneate or rounded, margins minutely remotely denticulate to coarsely serrate, apex shortly acuminate, apiculate, rather thinly pubescent and glabrescent except for the midrib above, finely crispate-pubescent especially on the veins and often ± glabrescent beneath, petiole 0.2-4 cm long.
+Bitter leaf is a shrub or small tree which grows to three to eight meters high with striated pubescent branches, becoming glabrous on maturity.
+Bip ex Walp.
+Florets 10-24 per capitulum, sweetly scented, strongly exserted, corolla white, occasionally tinged pale lilac, mauve or pink, 5.3-8.2 mm long, lobes erect, connivent, glabrous, 2-3 mm long, with capitate glands.
+Vernonia amygdalina , a member of the daisy family , is a small shrub that grows in tropical Africa.
+Inflorescence a head, arranged in terminal, compound, umbel-like cymes, stalk of head up to 1 cm long, pubescent, involucre cylindrical to broadly ellipsoid, 3-5 mm long, bracts 3-7-seriate, 1-4.5 mm long, appressed.
+Del is a shrub of 2-5 m tall with petiolate green leaves of about 6mm diameter and it is popularly known as bitter leaf.
+Shrub or small tree 0.5-10 m tall, much-branched, spreading, coppice-growing, trunk up to 40 cm in diameter, bark grey or brown, smooth, becoming longitudinally fissured, slash green, becoming black on exposure, stems pubescent with asymmetrical T-shaped hairs.
+Phyllaries many, tightly appressed-imbricate at first, thinly cartilaginous, sometimes puberulous and glandular at the apex and ciliate on the margins, otherwise glabrous, the outer phyllaries from c. 1 mm.
+Stems slender with a pale-brown closely longitudinally furrowed bark, branches and twigs greyish pubescent, the indumentum of 1-armed T-shaped hairs.
+Seed takes 2-3 weeks to germinate.
+Capitula several to numerous in terminal compound corymbiform cymes, stalks of individual capitula 3-12 mm long, pubescent, involucre cylindrical, ovoid-cylindrical or broadly ellipsoid, 3-5 mm long, phyllaries 3-7-seriate, appressed, broadly ovate to lanceolate, 1-4.4 mm long, obtuse to rounded, apiculate, pale green, slightly darker near the apex, finely white-ciliate on the margins.
+The leaves are green with a characteristic odour and a bitter taste.
+Morphology Capitula very numerous in terminal, divaricately branching, rounded panicles, stalks 3-12 mm.
+Description     Shrub or small tree up to 10 m tall, much branched, trunk up to 40 cm in diameter, bark grey to brown, smooth, becoming fissured, young branches densely pubescent.
+Its flowers in heads, 6 mm in diameter and in copious corymbose panicles, pappus white or russet and sweet-scented.
+Achenes 1.7-3.5 mm long, 10-ribbed, thinly pubescent and usually glandular, outer pappus of linear scales, often scant, caducous, 0.2-1.3 mm long, inner of cream or brownish bristles 4-7 mm long, distally flattened.
+A1, A2, A3, A4 Vernonia amygdalina Bitter.
+Amygdalina typically grows to a height of about 1 - 5 metres and it is non-bitter.
+Vernonia amygdalina is a shrub or small tree of 2-5 m with petiolate leaf of about 6cm diameter and elliptic shape.
+Fruit a 10-ribbed achene 1.5-3.5 mm long, pubescent and glandular, brown to black, crowned by the much longer pappus bristles.
+Leaves alternate, simple, stipules absent, petiole 0.2-4 cm long, blade ovate-elliptical to lanceolate, 4-15 cm x 1-4 cm, cuneate or rounded at base, shortly acuminate at apex, margin minutely toothed to coarsely serrate, finely pubescent but often glabrescent, pinnately veined.
+Leaves with petioles 0.2-1.5 cm.
+The leaves are alternate i.e. only one leaf is produced at each node, obovate-lanceolate in shape, with entire or finely toothed margin, finely pubescent beneath.
+The leaves are elliptical and up to 20 cm long.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 0],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 1],
+["Finely fissured bark", 1],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 1]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 1],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 1],
+["Leaf apex apiculate", 1],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 1],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 1],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 1],
+["Panicle of flowers or inflorescences", 1]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 1]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 1],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

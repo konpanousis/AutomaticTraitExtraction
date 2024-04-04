@@ -1,0 +1,25 @@
+We are interested in obtaining botanical trait information about the species Vitex doniana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaf tips rounded or emarginate, leaf bases cuneate.
+
+Initial dictionary of traits with all possible values:
+{"Leaf base": ['Leaf base attenuated'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+[
+{"Leaf base": [["Leaf base attenuated", 0], ["cuneate", 1]]}
+]
+
+Explanation:
+The input text mentions that the leaf bases are cuneate, so we add the tuple ["cuneate", 1] to the "Leaf base" trait, indicating that there is strong evidence for this value in the input text. The initial value "Leaf base attenuated" is not mentioned in the input text, so we add the tuple ["Leaf base attenuated", 0] to indicate that there is no strong evidence for this value.
+
+Note:
+The output format is a dictionary in JSON format, which is enclosed in square brackets to represent a list of dictionaries, even though there is only one dictionary in this case. This is done to ensure consistency in the output format, regardless of the number of traits or values in the input.

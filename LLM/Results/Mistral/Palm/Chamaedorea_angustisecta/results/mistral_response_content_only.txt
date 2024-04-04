@@ -1,0 +1,240 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Leaf type": [
+["pinnate", 1],
+["bifid", 1],
+["entire", 0],
+["reduplicate", 0]
+],
+"Leaf sheath": [
+["closed", 0],
+["becoming split", 1],
+["short", 0],
+["elongate", 1]
+],
+"Petiole": [
+["short", 0],
+["elongate", 1],
+["flattened adaxially", 1],
+["rounded abaxially", 1],
+["prominent pale green or yellow, abaxial stripe", 1]
+],
+"Rachis": [
+["rounded", 1],
+["angled", 0],
+["flattened adaxially", 1],
+["rounded abaxially", 1]
+],
+"Blade": [
+["entire", 0],
+["bifid and pinnately ribbed", 0],
+["regularly or irregularly pinnately divided", 1],
+["leaflets few or many", 1],
+["of 1 or several folds", 1],
+["narrow or broad", 1],
+["often oblique or sigmoid", 1],
+["acuminate", 1],
+["surfaces glabrous", 1]
+],
+"Stem": [
+["slender", 1],
+["cane-like", 1],
+["growing in the understory in rainforests", 1],
+["often spreading by means of underground runners", 1],
+["forming clonal colonies", 1]
+],
+"Flowers": [
+["produced in inflorescences", 1],
+["dioecious", 1],
+["male and female flowers on separate plants", 1],
+["staminate often more branched than pistillate", 1],
+["peduncle short to elongate", 1],
+["prophyll tubular with tapering bifid tip", 1],
+["peduncular bracts 2-several", 1],
+["coriaceous or membranous", 1],
+["persistent", 1],
+["tips short, bifid", 1],
+["rachillae, long or short, slender or fleshy", 1],
+["sometimes ridged", 1],
+["lacking bracts at maturity", 1],
+["bearing closely appressed or rather widely spaced, spirally arranged staminate or pistillate flowers", 1],
+["rarely bearing curved acervuli of staminate flowers", 1],
+["staminate in loose spirals", 1],
+["orange", 1],
+["intensely fragrant", 1],
+["calyx 1.5-2 mm high", 1],
+["deeply lobed", 1],
+["light green in bud", 1],
+["orangish with dark brown margin at anthesis", 1],
+["sepals connate basally", 1],
+["rounded apically", 1],
+["petals 3-4 x 2-2.4 mm", 1],
+["ovate", 1],
+["valvate", 1],
+["free", 1],
+["smooth externally", 1],
+["grooved internally", 1],
+["dark green in bud", 1],
+["orange at anthesis", 1],
+["stamens 2.6 mm long", 1],
+["shorter than pistillode", 1],
+["1/2 as high as petals", 1],
+["filaments 2 mm long", 1],
+["anthers 1.2 mm long", 1],
+["briefly bifid apically and basally", 1],
+["lilac", 1],
+["pistillode 3.5 mm high", 1],
+["columnar", 1],
+["3-lobed apically", 1]
+],
+"Inflorescences": [
+["interfoliar", 1],
+["erect-spreading", 1],
+["staminate 7 at a node", 1],
+["central one largest and opening first", 1],
+["peduncle to 80 cm long", 1],
+["bracts 5-7", 1],
+["prophyll 2.5 cm long", 1],
+["others widely separated at insertion", 1],
+["tubular", 1],
+["truncate", 1],
+["obliquely split", 1],
+["rachis 3.5-7.5 cm long", 1],
+["rachillae 9-16", 1],
+["11-24 cm long", 1],
+["smooth", 1],
+["pendulous", 1]
+],
+"Habit": [
+["solitary", 1],
+["erect", 1],
+["1.5-4 m tall or more", 1]
+],
+"Stem characteristics": [
+["usually slender", 1],
+["covered wholly or partially in fibrous leaf bases", 1],
+["or smooth", 1],
+["green", 1],
+["prominently ringed with leaf scars", 1]
+],
+"Sepals": [
+["3", 1],
+["entire", 1],
+["united basally or distinct", 1],
+["valvate", 1]
+],
+"Petals": [
+["3", 1],
+["distinct or variously connate", 1],
+["lobes valvate", 1]
+],
+"Stamens": [
+["6", 1],
+["filaments short, broad or awl-shaped", 1],
+["anthers dorsifixed, included, oblong or didymous", 1]
+],
+"Pistillode": [
+["various", 1],
+["cylindric or expanded basally", 1],
+["sometimes trilobed", 1]
+],
+"Ovule": [
+["vascularisation of the ovule by a strand from each ventral bundle", 1],
+["abundant raphides in styles and stigmas", 1]
+],
+"Germination": [
+["adjacent-ligular", 1],
+["eophyll bifid or pinnate", 1]
+],
+"Pistillate flowers": [
+["symmetrical", 1],
+["sepals 3", 1],
+["entire", 1],
+["united basally or distinct", 1],
+["petals 3", 1],
+["distinct or variously connate", 1],
+["lobes valvate", 1],
+["stamens 6", 1],
+["filaments short, broad or awl-shaped", 1],
+["anthers dorsifixed, included, oblong or didymous", 1],
+["pistillode various", 1],
+["cylindric or expanded basally", 1],
+["sometimes trilobed", 1]
+],
+"Fruit": [
+["small", 1],
+["globose or oblong", 1],
+["stigmatic remains basal", 1],
+["epicarp smooth", 1],
+["mesocarp fleshy", 1],
+["endocarp thin", 1]
+]
+}

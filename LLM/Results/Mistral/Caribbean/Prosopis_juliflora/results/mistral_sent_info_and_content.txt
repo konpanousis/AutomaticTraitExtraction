@@ -1,0 +1,381 @@
+We are interested in obtaining botanical trait information about the species Prosopis juliflora.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaflets linear -oblong, apex sub-obtuse, mucronulate, sub-pubescent to sub-glabrous, 8-12 mm long and 3-4 mm wide.
+Description Prosopis juliflora is a thorny shrub 3-5 m or tree growing up to 15 m height.
+Oxford Habit Prosopis juliflora , young, medium-sized tree, with typical branchy spreading form, growing in dry thorn scrub forest.
+Prosopis juliflora is a shrub or small tree in the family Fabaceae , a kind of mesquite.
+The flowers are in 5-10 centimetres long green-yellow cylindrical spikes, which occur in clusters of 2 to 5 at the ends of branches.
+In the landscape, trees grow at a moderate rate and can reach a height of 40' and spread 20 to 40' with trunk diameters of up to 3 feet.
+The fruit of P. juliflora is a cylindrical or slightly irregularly curved green pod which turns yellow upon ripening.
+Flower Shape: Fuzzy Spike.
+Thin sections.
+Fruit: fruit indehiscent/subfalcate/yellow/margin parallel/compressed, endocarp without segmentation.
+Dry in the oven,.
+Leaves arising from very condensed short-shoots, moderate or moderately large, bipinnate, the pinnae mostly 1-2 pairs, opposite, the leaflets few to many pairs per pinna, petiole prominent, most frequently 2-5 cm.
+Species Height Crown diameter DBH Forkings/tree Vol./Treee.
+Leaflets oblong and sub-pubescent.
+Inflorescence dense axillary pedunculate spikes 4-8.5 cm long, peduncle c. 6-12 mm long.
+C - N 44.7 ± 5.1 AB 0.71 ± 0.16 — 2.23 ± 0.18.
+Prosopis pallida B. Branches without thorns, small when present, 0.5-1.5 cm long.
+C - 163 43.5 ± 5.8 A 0.60 ± 0.16 9.9 ± 9.5 A 2.17 ± 0.14.
+Growing to a height of up to 12 metres , P. juliflora has a trunk diameter of up to 1.2 m.
+Calyx c. 1 mm long, cup-shaped, 5 toothed, teeth small.
+The stems are shaped in a "mild zigzag" way with one or two stout thorns at each turn of the stem.
+With this process, the seeds germinated between 5 and 10 days.
+Leaf Color: Dark Green.
+Leaflets pubescent , 3-6 mm long and 1.5-2 mm wide.
+Pods are 20 to 30 cm long and contain between 10 and 30 seeds per pod.
+The edge of the fruit has parallel margins.
+The plants are often multi-stemmed and furnished with abundant large and very sharp thorns measuring up to 5 cm.
+Racemes cylindric, 7-15 cm long, rachis puberulent, florets as usual, greenish-white, turning light yellow.
+Flower Color: Cream.
+Its leaves are deciduous , geminate-pinnate , light green, with 12 to 20 leaflets.
+The stigma has a central depression into which pollen falls for fertilisation, assisted by a sugary secretion.
+The fruit is a 14- to 16-cm-long woody legume,.slightly curved and flattened.
+Copyright ©Peter Felker Habit Prosopis juliflora , tree habit, with a stem diameter 1.5m. nr.
+Leaflets 10-20 pairs, 7-17 mm long, 2-3 mm broad, entire, oblong, obtuse, sometimes mucronate.
+Prosopis pallida forma armata AA.
+Stipules spiny, generally 1.0 cm or less long, in pair.
+Interfoliar glands frequent to occasional.
+Flowers sessile, whitish, calyx cupular, about 1 mm.
+Reproductive Biology.Anthesis is protogynous , occurring when the flowers fully open, simultaneously in all flowers of a single inflorescence.
+Fruits straw-yellow in colour.
+Seeds 10-18, oblong.
+The flowers are fragrant golden-yellow, dense spikes about 5-10 cm long.
+P. juliflora wood is hard, heavy and compact, with medium to thick texture and light brown to.dark brown coloration.
+Pods several-seeded,.strongly compressed when young, thick at maturity, more or less constricted.between the seeds, 10–25 cm long, brown or yellowish, 10–30-seeded.
+P. juliflora is a tall tree.
+Inflorescences equal in length to the leaves, or slightly longer or slightly shorter.
+Leaves medium to large, 8-16 cm long.
+Stamens 10, free, exserted, c. 4 mm long, anthers tipped with deciduous glands.
+Flowers appear shortly after leaf development.
+More mature specimens have dark, shaggy bark and feathery, soft, gray-green foliage that provides welcome filtered shade in summer.
+Inflorescences 3 times longer than the leaves.
+Seeds contain 65.2 g protein, 7.8 g fat, 21.8 g total.carbohydrate, 2.8 g fiber, and 5.2 g ash.
+Flowers greenish yellow, pedicel 1 mm.
+Structures of the main flavonoids-¦.
+Leaves alternate, bipinnate, with 1-3 pairs of pinnae, rachis 1-8 cm long, prolonged beyond the last pinnae as a soft bristle.
+Its leaves are deciduous, geminate-pinnate , light green, with 12 to 20 leaflets.
+Leaves, are twice-compound with mostly two, sometimes more pairs of pinnae , 6-8 cm long, 12-25 pairs of oblong leaflets per pinna , 6-16 mm long, 1.5-3.2 mm wide.
+Leaf: leaf alternate/spiralled/bipinnate/rarely pinnate, pinae up to 4 pairs, leaflet opposite/numerous/oblong/base asymmetric/acute/up to 15 pairs and up to 23 mm, nectary sessile/apical.
+Leaflets oblong , apex obtuse , pubescent, 10-18 mm long
+Cuttings from rooted cuttings 81.7 ± 3.9 FG 83.6 ± 4.1 G 78.4 ± 3.6 EF 77.6 ± 4.3 E 60.0 ± 5.6 D.
+Field Cuttings 12.4 ± 5.0 BC 14.1 ± 4.1 C 11.2 ± 6.2 BC 9.0 ± 5.1 B 0.0 A.
+Stem: armed spine robust/rarely without spine/spine geminate minute.
+It has a thick rough grey-green bark that becomes scaly with age.
+Tanning bark 38 ton   0.5.
+C. Thorns 0.5-1.5 cm long.
+Morphological description Evergreen small tree with twisted stem , 3-12 m tall, sometimes shrubby with spreading branches, armed with axillary stipular spines, paired or solitary , 0.5-5 cm long, or sometimes unarmed.
+Leaflets sub-linear and sub-glabrous.
+Oxford Pods Prosopis juliflora , ripe, straw-coloured pods.
+Branches with large thorns, 2-4 cm long.
+Control 0.1 0.3 0.4 0.5 0.6.
+Petals 5, free, c. 3 mm long, tip and margin hairy.
+The cylindrical-shaped.flowers are grouped in small yellowish axillary bunches, the ovoid blackish pods are 3 cm/1.5 cm long.
+The tree is deeply rooted.
+Fruits small, 14-20 cm long.
+Prosopis juliflora is a shrub or small tree in the family Fabaceae, a kind of mesquite.
+Small shrub to moderate tree, the branchlets terete, glabrous, flexuous, obscurely lenticellate, usually armed at the "nodes" with prominent paired spines up to a few cm.
+Inflorescence shape Inflorescence color Pod shape Pod length cm Pod width mm.
+Seed: ovoid compressed/with line on the side/brown.
+Young seedlings are sensitive to fire but older trees become increasingly protected by thick bark as they mature and will resprout rapidly after fire.
+It is 10-20 cm long, sweet to taste and contains 10-20 hard oval or elliptic seeds that are difficult to extract.
+A large shrub or tree, c. 5 m tall, generally armed with stipular spines.
+Flower: anther elliptic/dorsifixed/with gland connective apical pedicellate globose or ovoid, calyx broad/campanulate, flower pentamerous/actinomorphic/bisexual, petal free/linear/fused, stamen 10/free/non equal/whitish.
+Nous contacter.
+Inflorescence a slender, elongate, briefly pedunculate, axillary spike inserted on the short-shoots, peduncles mostly 1-2 cm.
+Fruit straw-yellow to chestnut-brown.
+Growing to a height of up to 12 metres , P. juliflora has a trunk diameter of up to 1.2 metres.
+Fruits large, 16-25 cm long.
+Prosopis pallida forma pallida BB.
+Leaves bipinnate, glabrous or pubescent, 1-3 pairs of pinnae, rarely 4 pairs, petiole plus rachis 0.5-7.5 cm long, pinnae 3-11 cm long, leaflets 6 to 29, generally 11 to 15 pairs per pinna, elliptic-oblong, glabrous or ciliate, rarely pubescent, approximate on the rachis or distant a little more than their own width, herbaceous to submembranous , emarginated or obtuse, pinnate-reticulately curved, leaflets 6-23 mm long x 1.6-5.5 mm wide.
+Legume straight with incurved apex, sometimes falcate, straw-yellow to brown, compressed, linear with parallel margins, stalked and acuminate, 8-29 cm long x 9-17 mm broad x 4-8 mm thick, stipe to 2 cm, endocarp segments up to 25, rectangular to subquadrate, mostly broader than long, seeds oval, brown, transverse.
+Seed broadly ovoid , 6 mm x 4 mm, brownish, embedded in a whitish, slightly sweet pulp.
+Cream colored, cylindrical flowers appear by mid-spring and tan seed pods are shed in summer.
+Plant name Family Context References Poaceae Poaceae Main.
+Fruit straw-yellow or chestnut-brown.
+Chromosomes are only slightly differentiated, with median to subterminal centromeres, one pair of which displays a terminal microsatellite in most species.
+The flowers are in 5-10 cm long green-yellow cylindrical spikes, which occur in clusters of 2 to 5 at the ends of branches.
+Inflorescence: raceme spiciform axillary/pendulous/flower numerous.
+Pods are 20 to 30 cm long and contain between 10 and 30 seeds per pod.
+Leaves, petiolate 1-4 cm, bipinnate with glands between pairs of pinnae, pinnae 1 pair rarely 2, leaflets 12-20 pairs linear-oblong, 7-16 x 1.5-3.2 mm, apex obtuse or short abrupt point, inflorescence axillary in spikelike racemes, 5-10 cm long, flowers densely packed with pale yellow corolla 2.5 mm long, pod compressed, 7-20 cm x 1-1.6 cm, slightly curved, pale yellow, seeds brown 6 mm embedded in white sweet pulp.
+Inflorescence a densely flowered cylindrical raceme , 5-15 cm long, flowers 4-5 mm long, yellow to creamy-brown.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+The edge of the fruit without parallel margins.
+Shrub or small tree, up to 12 m high with spreading branches armed with straight spines 0.6-2.5 cm.
+Oxford Habit Prosopis juliflora , typical medium-sized tree, with branchy spreading form, growing in dry thorn scrub forest.
+Pod pedicellate, c. 16-23 cm long, c. 10-12 mm broad, almost straight to semi-circular, light yellow, glabrous, pedicel c. 5-7 mm long.
+Cylindrical White-greenish Flattened and straight curved at opex 8–29 9–17.
+C + N 50.7 ± 7.6 AB 0.72 ± 0.42 — 2.25 ± 0.13.
+Legume linear or linear-subtorulose, not uncommonly 20 or more cm.
+Oxford Title Pods Caption Prosopis juliflora , ripe, straw-coloured pods.
+Leaflets sub-glabrous, 4-8 mm long and 2-3 mm wide.
+Proceedings Natal, emparn , V. 1.
+
+Initial dictionary of traits with all possible values:
+{"Life form": ['liana', 'tree'], "Leaf position": ['alternate', 'alternate, opposite', 'opposite', 'opposite, whorls of 3', 'opposite, whorls of 3, alternate'], "Leaf composition": ['3 palmate', '3-5 palmate', '3-5 pinnate', '3-5 pinnate, entire', '5-11 pinnate', '5-9 pinnate', 'bi-pinnate, 2 leaflets per jug', 'bi-pinnate, 20-40 leaflets per jug', 'bi-pinnate, 30-32 leaflets per jug', 'entire', 'pinnate, 4-6 leaflets', 'pinnate, 6-8 leaflets'], "Leaf shape": ['elliptic', 'elliptic, elongate', 'elliptic, lanceolate', 'elliptic, obovate', 'elliptic, ovate', 'elliptic, ovate, round', 'elongate', 'elongate, elliptic, obovate', 'elongate, obovate', 'kidney-shaped, circular', 'lanceolate, elliptic', 'linear', 'linear, obovate', 'obovate', 'obovate, elliptic', 'obovate, spathulate', 'ovate', 'ovate, circular', 'ovate, elliptic', 'ovate, elliptic, elongate', 'ovate, heart-shaped', 'spathulate, obovate'], "Leaf margin": ['crenate', 'entire', 'entire, crenate', 'entire, serrate', 'serrate'], "Leaf upper side": ['glabrous', 'glabrous, pubescent', 'pubescent', 'pubescent, glabrous', 'salt crystals', 'scales, glabrous', 'shiny, glabrous', 'woolly, later glabrous'], "Leaf lower side": ['glabrous', 'glabrous, pubescent', 'powdery', 'pubescent', 'scales', 'woolly, later glabrous'], "Leaf glands": ['absent', 'gland on the end of petiole', 'glands near basis and central vein', 'glands near basis and leaf margin', 'translucent oil cells', 'translucent points and lines'], "Leaf rachis": ['Not applicable', 'not winged', 'winged'], "Thorns spines": ['1-2 per leaf axil', '2 per leaf axil', 'absent', 'branch thorns', 'thorns on stem'], "Stipules": ['absent', 'connected', 'present'], "Inflorescence type": ['1-3 sessile', '1-5 sessile', 'dichasium', 'fascicle', 'globose', 'globose in panicle', 'panicle', 'raceme', 'solitary, fascicle', 'spike', 'umbel'], "Sepals calyx shape": ['connate', 'free'], "Sepals calyx numer": ['2-3', '3-5', '4', '4-5', '4-6', '5', '5-6', '6-8', '6-9'], "Petals corolla shape": ['absent', 'free', 'tepals', 'tubular'], "Petals corolla number": ['0', '3-5', '4', '4-5', '4-6', '5', '5, 0', '5-6', '6-8'], "Petals corolla colour": ['Not applicable', 'blue', 'green', 'green, red', 'green-white, yellow-white', 'greenish white', 'red', 'white', 'white, pink', 'white, pink, purple', 'white, whitish', 'white, yellow-white', 'whitish', 'yellow', 'yellow, orange', 'yellow, yellow-green', 'yellow-green', 'yellow-green, green'], "Stamen shape": ['longer than corolla', 'much longer than corolla', 'multiple rows', 'short', 'shorter than corolla', 'shorter than corolla, connected'], "Stamen number": ['10', '15-25', '16', '2', '20', '20-28', '4', '5', '5-6', '6-10', '6-9', '8', 'many'], "Fruit type": ['berry', 'capsule', 'drupe', 'fleshy drupe', 'follicle', 'nutlet', 'pod'], "Fruit shape": ['2-locular, flattened, globose', '3-5-locular, globose', 'elongate', 'elongate, constricted between seeds', 'elongate, slightly constricted between seeds', 'elongate, strongly constricted between seeds', 'flattened obovoid', 'flattened ovate', 'flattened, elongate, twisted', 'flattened, thick, elongate, strongly curved', 'globose', 'globose, 3-angulated', 'linear', 'not flattened, elongate, slightly curved', 'ovoid', 'pyriform, ovoid', 'slightly flattened, elongate, curved'], "Fruit colour": ['black', 'brown', 'brown-black', 'green', 'green, black, whitish', 'green, orange', 'green, orange, red', 'green, red', 'green, yellow', 'greyish', 'orange', 'orange, yellow, red', 'purple, black', 'red', 'red, black', 'red, purple-brown', 'reddish purple', 'whitish green', 'yellow, orange', 'yellowish'], "Aril colour": ['Not applicable', 'orange', 'red', 'white', 'yellow-geen'], "Seed colour": ['Not applicable', 'black', 'brown', 'green', 'grey', 'white', 'whitish']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Life form": [
+["liana", 0],
+["tree", 1]
+],
+"Leaf position": [
+["alternate", 1],
+["alternate, opposite", 0],
+["opposite", 0],
+["opposite, whorls of 3", 0],
+["opposite, whorls of 3, alternate", 0]
+],
+"Leaf composition": [
+["3 palmate", 0],
+["3-5 palmate", 0],
+["3-5 pinnate", 0],
+["3-5 pinnate, entire", 0],
+["5-11 pinnate", 0],
+["5-9 pinnate", 0],
+["bi-pinnate, 2 leaflets per jug", 0],
+["bi-pinnate, 20-40 leaflets per jug", 0],
+["bi-pinnate, 30-32 leaflets per jug", 0],
+["entire", 0],
+["pinnate, 4-6 leaflets", 0],
+["pinnate, 6-8 leaflets", 0]
+],
+"Leaf shape": [
+["elliptic", 0],
+["elliptic, elongate", 0],
+["elliptic, lanceolate", 0],
+["elliptic, obovate", 0],
+["elliptic, ovate", 0],
+["elliptic, ovate, round", 0],
+["elongate", 1],
+["elongate, elliptic, obovate", 0],
+["elongate, obovate", 0],
+["kidney-shaped, circular", 0],
+["lanceolate, elliptic", 0],
+["linear", 1],
+["linear, obovate", 0],
+["obovate", 0],
+["obovate, elliptic", 0],
+["obovate, spathulate", 0],
+["ovate", 0],
+["ovate, circular", 0],
+["ovate, elliptic", 0],
+["ovate, elliptic, elongate", 0],
+["ovate, heart-shaped", 0],
+["spathulate, obovate", 0]
+],
+"Leaf margin": [
+["crenate", 0],
+["entire", 1],
+["entire, crenate", 0],
+["entire, serrate", 0],
+["serrate", 0]
+],
+"Leaf upper side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["pubescent", 1],
+["pubescent, glabrous", 0],
+["salt crystals", 0],
+["scales, glabrous", 0],
+["shiny, glabrous", 0],
+["woolly, later glabrous", 0]
+],
+"Leaf lower side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["powdery", 0],
+["pubescent", 1],
+["scales", 0],
+["woolly, later glabrous", 0]
+],
+"Leaf glands": [
+["absent", 0],
+["gland on the end of petiole", 0],
+["glands near basis and central vein", 0],
+["glands near basis and leaf margin", 0],
+["translucent oil cells", 0],
+["translucent points and lines", 0]
+],
+"Leaf rachis": [
+["Not applicable", 0],
+["not winged", 1],
+["winged", 0]
+],
+"Thorns spines": [
+["1-2 per leaf axil", 0],
+["2 per leaf axil", 0],
+["absent", 0],
+["branch thorns", 0],
+["thorns on stem", 1]
+],
+"Stipules": [
+["absent", 0],
+["connected", 0],
+["present", 1]
+],
+"Inflorescence type": [
+["1-3 sessile", 0],
+["1-5 sessile", 0],
+["dichasium", 0],
+["fascicle", 0],
+["globose", 0],
+["globose in panicle", 0],
+["panicle", 0],
+["raceme", 1],
+["solitary, fascicle", 0],
+["spike", 1],
+["umbel", 0]
+],
+"Sepals calyx shape": [
+["connate", 0],
+["free", 0]
+],
+"Sepals calyx numer": [
+["2-3", 0],
+["3-5", 0],
+["4", 1],
+["4-5", 0],
+["4-6", 0],
+["5", 1],
+["5-6", 0],
+["6-8", 0],
+["6-9", 0]
+],
+"Petals corolla shape": [
+["absent", 0],
+["free", 1],
+["tepals", 0],
+["tubular", 0]
+],
+"Petals corolla number": [
+["0", 0],
+["3-5", 0],
+["4", 1],
+["4-5", 0],
+["4-6", 0],
+["5", 1],
+["5, 0", 0],
+["5-6", 0],
+["6-8", 0]
+],
+"Petals corolla colour": [
+["Not applicable", 0],
+["blue", 0],
+["green", 0],
+["green, red", 0],
+["green-white, yellow-white", 0],
+["greenish white", 0],
+["red", 0],
+["white", 0],
+["white, pink", 0],
+["white, pink, purple", 0],
+["white, whitish", 0],
+["white, yellow-white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellow, orange", 0],
+["yellow, yellow-green", 0],
+["yellow-green", 0],
+["yellow-green, green", 0]
+],
+"Stamen shape": [
+["longer than corolla", 0],
+["much longer than corolla", 0],
+["multiple rows", 0],
+["short", 0],
+["shorter than corolla", 0],
+["shorter than corolla, connected", 0]
+],
+"Stamen number": [
+["10", 1],
+["15-25", 0],
+["16", 0],
+["2", 0],
+["20", 0],
+["20-28", 0],
+["4", 0],
+["5", 0],
+["5-6", 0],
+["6-10", 0],
+["6-9", 0],
+["8", 0],
+["many", 0]
+],
+"Fruit type": [
+["berry", 0],
+["capsule", 0],
+["drupe", 0],
+["fleshy drupe", 0],
+["follicle", 0],
+["nutlet", 0],
+["pod", 1]
+],
+"Fruit shape": [
+["2-locular, flattened, globose", 0],
+["3-5-locular, globose", 0],
+["elongate", 1],
+["elongate, constricted between seeds", 1],
+["elongate, slightly constricted between seeds", 0],
+["elongate, strongly constricted between seeds", 0],
+["flattened obovoid", 0],
+["flattened ovate", 0],
+["flattened, elongate, twisted", 0],
+["flattened, thick, elongate, strongly curved", 0],
+["globose", 0],
+["globose, 3-angulated", 0],
+["linear", 0],
+["not flattened, elongate, slightly curved", 0],
+["ovoid", 0],
+["pyriform, ovoid", 0],
+["slightly flattened, elongate, curved", 0]
+],
+"Fruit colour": [
+["black", 0],
+["brown", 1],
+["brown-black", 0],
+["green", 0],
+["green, black, whitish", 0],
+["green, orange", 0],
+["green, orange, red", 0],
+["green, red", 0],
+["green, yellow", 0],
+["greyish", 0],
+["orange", 0],
+["orange, yellow, red", 0],
+["purple, black", 0],
+["red", 0],
+["red, black", 0],
+["red, purple-brown", 0],
+["reddish purple", 0],
+["whitish green", 0],
+["yellow, orange", 0],
+["yellowish", 0]
+],
+"Aril colour": [
+["Not applicable", 0],
+["orange", 0],
+["red", 0],
+["white", 0],
+["yellow-geen", 0]
+],
+"Seed colour": [
+["Not applicable", 0],
+["black", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["white", 0],
+["whitish", 0]
+]
+}

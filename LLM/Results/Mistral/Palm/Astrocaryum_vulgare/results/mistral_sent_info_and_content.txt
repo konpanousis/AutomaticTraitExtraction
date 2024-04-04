@@ -1,0 +1,118 @@
+We are interested in obtaining botanical trait information about the species Astrocaryum vulgare.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The tree is 10-15 m in height and regenerates easily by growing multiple stems.
+The seed is covered externally with an orange oily pulp.
+The fruit is composed of a woody core almost black color, containing a white almond paste, oilseed, very hard and covered with a yellow-orange pulp, little consistency and oily.
+The fruit is contained in a cupule , this is flat, some 1 by 2 cm, and laciniate-crenulate at its margin.
+Description A medium sized palm growing to 12-30 feet.
+Astrocaryum is a genus of spiny palms with pinnately compound leaves-rows of leaflets emerge on either side of the axis of the leaf in a feather-like or fern-like pattern.
+The trunk is heavily spined and even the inflorescences are covered by a thorny spathe.
+The fruit is composed of a woody core almost black in color, containing a white almond paste, oilseed, very hard and covered with a yellow-orange pulp, little consistency and oily.
+Astrocaryum Astrocaryum is a genus of about 36 to 40 species of palms native to Central and South America and Trinidad.
+The nut is usually narrowed to the base and one-seeded, although it may also be globose in shape if it contains two seeds.
+The fruit has an oily, fibrous-fleshy, yellow or yellow-orange pulp, On average, the fruit weighs about 30 g , and is some 4.5 by 3-3.5 cm in size.
+The flowers are odourous, and osmophores were observed along the petals and also on top of each individual anther.
+Spiny, solitary feather palm, to 10-17 m. Some rare individuals are spineless.
+The trunk and stem parts, have large black spines, that can grow to several inches long.
+Flower anthesis occurred between 05:00 and 07:30.
+In habitus it usually presents as a few to many trunks, each trunk of the same height and width.
+The tree can grow 10-15 m in height, although it is usually shorter.
+The fruit is an orange-coloured, round or roundish drupe , with a shortly pointed apex.
+Astrocaryum is a genus of about 36 to 40 species of palms native to Central and South America and Trinidad.
+Categories : Astrocaryum Arecaceae genera Neotropical realm flora Cocoseae stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+Size: 30x40 cm.
+The shell is 3mm thick.
+The palm is covered in vicious spines, the trunk is densely covered in different lengths of black, flattened spines which grow to 12 cm long, and the infructescence is also covered in black, 1-3 cm long spikes.
+The tree is 10 to 15 m in height and regenerates easily by growing multiple stems.
+The tree is 10-15 m in height and regenerates easily by growing multiple stems.
+A medium sized Caespitose palm growing to 12-50 feet.
+They contain a single large seed.
+The trunk and stem parts have large black spines that can grow to several inches long.
+It contains a large nut with a very hard woody shell, which is almost black in color.
+Awara is one of the medium tall palms from the Amazon rainforest, growing up to.50 feet tall.
+The spadices are held erect, and the inner spathe is two metres long, sometimes more.
+Oval, 2" yellow-orange edible fruits.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 1],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 1]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

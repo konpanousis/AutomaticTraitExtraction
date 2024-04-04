@@ -1,0 +1,278 @@
+We are interested in obtaining botanical trait information about the species Chamaedorea elegans.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Spread: 2 to 3 feet.
+Areca palm - 160cm.
+Erect, slender, to 3/4" diameter, bamboo-like.
+Its trunk is always thin and measures at most about two inches.
+Flower colour:.
+It can be distinguished from C. erumpens by its leaflets appearing thinner and longer.
+Alocasia - 70cm.
+Interfoliar has branched green rachis, and branch bracts are papery and overlapping.
+Leaf tip and margin burn.usually occurs relatively soon after root damage begins.
+Unripe fruits.
+x 80 cm.
+Fruit color: black.
+Leaf color: green.
+Leaf blade length: 4 to 8 inches.
+The crown carries 3-10 long-leaf pinnate leaves.
+Hoogte: 70 cm.
+Height: 2 ft. 0 in. - 7 ft. 6 in.
+Afmeting: 120 cm.
+Yellow male and female flowers are borne on different plants.
+Leaflets thin, high L/W ratio.
+Morphology Page fan palm feather palm palmate leaf costapalmate leaf costapalmate closeup pinnate leaf bipinnate leaf praemorse leaflets leaf folds inflorescence branching.
+Leaflets are thin with a high length/width ratio.
+The leaves begin to turn yellow, or the stem may turn black.
+Under optimum.conditions, the lesions coalesce and form large irregularly.shaped necrotic areas on leaf tips and margins.
+Plants - 17 to 19 cm diameter Pots - 20 cm.
+Evenly pinnately compound and have 5-15 lanceolate pinnae per side.
+A yellow.halo frequently surrounds the lesions.
+Multi-stemmed palm, cycad or tree, Upright.
+Infested leaves become curled or.distorted, with silver-gray scars or calloused areas where.feeding has occurred.
+Stem 0.8-1.5 cm diameter, green, densely ringed with prominent nodes, internodes 0.5-3 cm long.
+Separate male and female flowers grow on different plants.
+Hoogte: 120 cm.
+Smooth green stems can become woody with age.
+Plants - 20 to 24 cm diameter Pots - 25 cm.
+Foliage colour:.
+Inflorescences erect, shorter than or equal to or greatly exceeding leaves, peduncles 15-90 cm long, 5-9 mm wide at base, ± flattened, 4-6 mm wide at apex, rounded, green where exposed in flower, red-orange in fruit.
+Chamaedorea elegans - 70 cm.
+Categories : Chamaedorea Flora of Mexico Flora of Guatemala House plants Garden plants of North America Plants described in 1830 Low light plants Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+Symptoms - Lesions are usually 1/8 to 1/4" long, reddish.brown to black and found all over the frond surface.
+Flower characteristic: flowers periodically throughout the year.
+De Veiling.
+Leaves: Pinnate , reduplicate , to 1 m long, with linear to lanceolate leaflets evenly spaced along the rachis and spreading in a single plane.
+Fruit shape: round.
+Plants have a diameter of 20 to 24 cm.
+The leaflets are lanceolate-linear in shape and the terminal pair is usually fused together at the base.
+Chamaedorea elegans - 120 cm.
+It has 1.2 centimetres -long ringed stigma , punctured crescent-shaped leaves, erect buds , and flexible tubular stems without spines with generally pinnate foliage.
+Leaf shape: lanceolate.
+The bright-to-dark green leaves have leaflets that resemble feathers.
+Leaf evenly pinnately compound, terminal pinnae fused.
+Adult thrips can be identified by a long fringe of hair around.the margins of both pairs of wings.
+Pinnae of Florida Hybrid are intermediate in width.between those of the two parents, except the terminal ones which.are broad.
+Polyscias Fabian - 100cm.
+Slender, cane-like, clumped, erect, and less than an inch in diameter.
+Fruit cover: fleshy.
+Erect inflorescence branches of female plants orange-red with black fruit.
+Fruit characteristic: inconspicuous and not showy.
+C. elegans - C. elegans is a tender, evergreen palm with slender, pinnate leaves and insignificant, yellow flower panicles on mature plants in spring and summer, sometimes followed by small black fruit in autumn.
+Leaf margin: entire.
+The showy stems are bright green.
+Symptoms - Seedlings emerge white and die later as they become.larger.
+Rank: FLOWERING.
+Chamaedorea elegans , commonly called parlor palm or neanthe bella palm, is a small, compact, usually single-trunked palm that is native to rainforests from southeastern Mexico to northern Guatemala.
+Leaf type: even-pinnately compound.
+The leaves spread out attractively and have a drooping form.
+Afmeting: 40 x 40 x 70 cm.
+Bamboo Palm is a subtropical palm, upright, spreading, and multistemmed growing up to 7' in indoor environments.
+Round, bluish-black fruits.
+Monstera monkey leaf mosstok - 70 cm.
+C. elegans is a slender, erect or infrequently decumbent palm, to 2 m tall or more but flowering when very small and less than 30 cm tall, then appearing stemless.
+They usually develop bamboo-like ridges along the trunk as it ages.
+In the summer months, mature plants bloom with small inconspicuous white or yellow flowers, gathered in paniculate on long stalks.
+Even pinnately compound leaf, fused terminal pinnae.
+Plants - 14 to 16 cm diameter Pots - 17 cm.
+The small, light yellow, yellow, or orange-red odorous flowers appear on irregularly branched petioles that grow below or among the leaf.
+Chamaedorea palms have very narrow.stems, usually less than 1 inch in diameter, and can be either.single-stemmed or multi-trunked, depending upon the species.
+Common Names: Parlour Palm, Neanthe Bella Palm Chamaedorea elegans Description: Very popular rainforest palm with small slender solitary trunk and griceful pinnate leaves.
+Symptoms - Brown, elliptical spots on the pinnae.which slightly resembles a fungal leaf spot.
+Pollinated flowers give orange or red stone fruits about half an inch in size.
+Plants have a diameter of 14 to 16 cm.
+Tiny yellow flowers occasionally appear from spring to autumn, followed by small black fruit.
+Stem erect and thickened, bamboo-like.
+Fall characteristic: not showy.
+Dry leaves : usually due to lack of water.
+Plants - 11 to 13 cm diameter Pots - 14 cm.
+Plants have a diameter of 8 to 10 cm.
+Pistillate similar to that of staminate but with 6-10 bracts, rachis slightly shorter, flexuous, orange in fruit, rachillae fewer in number and shorter than those of staminate, to 10 cm long, ± stiff, green in flower, red-orange in fruit.
+With feather-like leaflets, it will grow to an average height between 130cm and 200cm to produce magnificent yellow flowers in summer when there is sufficient light.
+Trunk/bark/branches: showy, usually with one stem/trunk.
+Plants have a diameter of 11 to 13 cm.
+It grows up to 6.5' tall and is upright and spreading.
+Translucent, fading, less green leaves.
+Flowers are golden yellow in color.
+x 40 cm.
+Leaves of this plant are usually spread out and leaflets may be slightly drooping.
+It is a palm tree that grows quite slowly, but eventually grows about 2 meters.
+Not yet if only the tips are brown.
+Its foliage is dark.green and distinctly glossy.
+Stems: Solitary, erect stems, to 2 m tall , up to 1.5 cm in diameter and ringed with leaf scars.
+Leaf type and persistence: evergreen.
+Slender, green stem with leaves congested at the stem apex.
+Flowers and fruits: Inflorescence erect, to 1 m long, green when in flower, turning orange-red in fruit, branched to two orders with up to 35 branches.
+Leaves 5-8, spreading, pinnate, sheath 8-20 cm long, very obliquely open nearly to base and tubular only in lower 1/3, short ligule apically on either side of petiole, margins brownish and ragged, light green or whitish below margin, longitudinally greenstriate-nerved, petiole 10-40 cm long, slender, grooved and green above, rounded and pale below, rachis 15-60 cm long, very slender, 4-sided, angled and green above, rounded below with narrow yellow band extending onto petiole, pinnae 11-21 on each side of rachis, 15-30 × 1-3 cm, linear to narrowly lanceolate, long-acuminate, contracted basally, thin, dark green, midrib prominent and pale, elevated or keeled above, 1-2 less prominent primary nerves on each side of midrib, secondaries numerous, faint.
+Plants - 8 to 10 cm diameter Pots - 11 cm.
+The spherical fruits are black when ripe.
+Leaf arrangement: alternate.
+Staminate flowers in remote to moderate spirals, 3 × 4 mm, depressed-globose, yellow, aromatic, nerved when dry, sessile or slightly sunken in elliptic depressions, calyx 0.75-1 × 2-2.5 mm, moderately lobed, green, petals 2.5 × 2 mm, connate, corolla opening by a 3-angled pore apically, fleshy, stamens 1.5-2 mm long, filaments connate, whitish, anthers 0.75-1 mm long, entire, yellow, pistillode equal to or slightly exceeding corolla, 6-angled, flared slightly apically, pale yellow-green.
+Seed cleaning is rarely necessary with chamaedorea seeds which.have a rather thin fleshy outer layer.
+The terminal pinnae basally fused and sometimes larger.
+Subtropical to 6.5', with erect and cane-like growth.
+It grows five to eight feet tall but is usually kept smaller by pruning the stem back nearly to the ground.
+Width: 2 ft. 0 in. - 3 ft. 0 in.
+Flower color: white.
+Pistillate flowers in remote spirals, 3 × 2.75 mm, globose, yellow, nerved when dry, slightly sunken in elliptic depressions 1-1.5 mm long, calyx 1 × 2 mm, deeply lobed, green, petals 2-2.5 × 1.5-2 mm, connate, corolla opening by a 3-angled pore apically, thick, fleshy, fruits 4-7 mm diameter, globose, black, seeds 3-6 mm diameter, globose.
+Staminate with 4-7 bracts, uppermost exceeding peduncle, largest to 35 cm long, acuminate and bifid apically, fibrous or ± papery, rachis 1.5-20 cm long, longitudinally ridged or angled, green, rachillae 5-35, lower ones the longest, these to 15 cm long, becoming progressively shorter toward apex of rachis, 2 mm diameter, spreading, simple or branched, sharply angled, green.
+Types of Plants Air Plants Bamboo Begonias Bromeliads Bulbs, Corms & Tubers Cactus Carnivorous Plants Conifers Cycads Evergreen Ferns Platycerium Ficus Orchids Ornamental Grasses & Sedges Container Grass Ornamental Trees Palms Roses Shrubs Submerged Plants Succulents Growing Environment Environments Garden Plants Indoor Plants Low Light Plants Terrarium Plants Water Plants Growing Habit Climber Ground cover Decorative Features Flowering Plants Foliage Plants Plants Uses Annuals Commercial Cultivation Culinary crop Culinary Herbs Cutting Flowers Deciduous foliage Fruit Tree Hobbyist Plants Top Anti-Pollutant Houseplants Plants Information General Care General Information Ideas Aquarium Aquarium Plants Bog Plants Availability Rare & Unusual Plants.
+Fruit length: less than.5 inch.
+Submenu Toggle.
+The petiole is thin with a thick, fleshy base.
+Clusters of yellow flowers in loose spirals may bloom in spring if enough light is present.
+They emerge from the trunk as lateral buds and open in the form of clusters of small balls without petals.
+Occasionally, pea-sized berries develop after flowering, which are 6mm in diameter, and dark, collected in paniculate inflorescences.
+Height: 4 to 8 feet.
+Plants have a diameter of 17 to 19 cm.
+The pinnae.are distinctly narrower than the bamboo palm and are medium to.dark green with a grayish cast.
+The thin petiole has thick, fleshy base.
+Insignificant or absent, Yellow in Spring, Yellow, Insignificant or absent in Summer.
+Chamaedorea elegans will reach a height of 2.5m and a spread.of 1.5m after 10-20 years.
+In the wild, the plant can grow to 4ft and 6ft wide.
+The adults have very short.antennae.
+Herbaceous Perennial Seed propagated Shrub.
+Leaf venation: parallel.
+This low growing plant develops to a height of 24.inches and produces basal shoots with age.
+Upper and lower leaf surfaces are green, without spines or obvious tomentum , the midrib is prominent and yellowish.
+Under optimal conditions, the single-stemmed Chamaedorea Elegans grows up to 6 feet.
+Petioles have thin, membranous base.
+The rachis is green and branched and the branch bracts papery and overlapping.
+A woody, rhizomatous plant with a slender green trunk, it is found in tropical areas and grows to 2-3 m tall.
+Base of petiole thick and fleshy.
+Round, fleshy black fruit may occasionally appear, though rarely when grown indoors.
+Plant habit: palm, upright.
+Plant spacing: 18 to 24 inches.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Stem diameter": [
+["1.5 cm", 1],
+["3/4 inch", 1],
+["0.8-1.5 cm", 1]
+],
+"Height": [
+["160cm", 0],
+["70cm", 1],
+["2 ft. 0 in. - 7 ft. 6 in.", 1],
+["120 cm", 1],
+["80 cm", 1],
+["20 to 24 cm", 1],
+["17 to 19 cm", 1],
+["14 to 16 cm", 1],
+["11 to 13 cm", 1],
+["8 to 10 cm", 1]
+],
+"Leaf length": [
+["4 to 8 inches", 1],
+["1 m", 1]
+],
+"Leaf width": [
+["1-3 cm", 1]
+],
+"Leaf type": [
+["even-pinnately compound", 1],
+["pinnate", 1],
+["reduplicate", 1]
+],
+"Leaf color": [
+["green", 1]
+],
+"Leaf arrangement": [
+["alternate", 1]
+],
+"Leaf margin": [
+["entire", 1]
+],
+"Flower color": [
+["yellow", 1],
+["white", 1]
+],
+"Flower characteristic": [
+["inconspicuous", 1],
+["not showy", 1],
+["periodically throughout the year", 1]
+],
+"Fruit cover": [
+["fleshy", 1]
+]
+}

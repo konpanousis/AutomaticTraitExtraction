@@ -1,0 +1,38 @@
+We are interested in obtaining botanical trait information about the species Flacourtia indica.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Disk lobulate, clasping the base of the ovoid ovary, styles 4 to 8, central, connate at the base, spreading, up to 1.5 mm long, stigmas truncate.
+
+Initial dictionary of traits with all possible values:
+{"Leaf base": ['Leaf base attenuated', 'Rounded leaf base'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf base": [
+    ["Leaf base attenuated", 0],
+    ["Rounded leaf base", 0]
+  ],
+  "Disk": [
+    ["lobulate", 1]
+  ],
+  "Ovary": [
+    ["ovoid", 1]
+  ],
+  "Styles": [
+    ["4 to 8", 1],
+    ["central", 1],
+    ["connate at the base", 1],
+    ["spreading", 1],
+    ["up to 1.5 mm long", 1]
+  ],
+  "Stigmas": [
+    ["truncate", 1]
+  ]
+}

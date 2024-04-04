@@ -1,0 +1,184 @@
+We are interested in obtaining botanical trait information about the species Lepidocaryum tenue.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Producing an oblong or ovoid fruit, usually with a seeds, red-brown, covered with scales.
+Leaf , root.
+Total increase per Annual rate of class stolons Age per class stolon).Seedling Bifid leaf from seeds 208 0.48 ± 0.13 0.93 ± 0.083 16.8.Rhizome Bifid leaf from rhizome 366 0.91 ± 0.08 1.08 ± 0.061 8.8.
+Lepidocaryum tenue is a small, dioecious, clonal palm that spreads by means of stolons up to 2.m long.
+Juvenile 1 leaves with up to 18 veins 362 0.58 ± 0.1 1.04 ± 0.062 32.4.
+The bracts of the inflorescence axis are similar to those on - stalk, but a tear at the top.
+The stem is erect and springs from a slender rhizome.
+.The fruit is globose to oblong, usually has a seed and bears apical scar remains.
+This is a small, clustering, palmate palm,.with widely spaced leaflets, and very deeep splits.going to the centre of the leaf.
+The crown has usually 5-12 leaves , with a petiole up to 1 m long, and a lamina divided into 2-16 segments, 29-84 cm long, 5-8 cm wide.
+Clustering unarmed palms of South America with slender erect stems and palmate leaves with segments of varying width, inflorescences small with staminate and pistillate rachillae bearing solitary flowers at each bract.
+Adult 4 Stem with ≥70 rings 38 1.71 ± 0.209 70 99 105.8.
+Pollen ellipsoidal, bi-symmetric, aperture a distal sulcus, ectexine intectate, surface very finely granular, interspersed with bottle-shaped spines set in, and loosely connected to, cavities in a wide foot layer, bulging noticeably inward beneath each spine, the inner face of the foot layer clearly lamellate, aperture margin similar, longest axis 28-41 µm.
+Seed attached near the base at one side, with a shallow furrow along the raphe, testa ?
+Each leaf is divided in half, and each half is, in turn, divided into 2-11 narrow leaflets.
+Mauritiella is a dioecious genus of flowering plant in the palm family found in South America where it is commonly called buriti.
+.The female flowers are larger than the males.
+Stems of Lepidocaryum tenue dug out to show their connecting stolons.
+The fruits are elliptical to globose, up to 3 cm long and 2 cm diameter, and are covered by imbricate scales that turn orange-red at maturity, each fruit has usually one seed.
+Each bract carrying a side branch of the first order.
+Each individual has many stems up to 6 m tall and 4 cm in diameter.
+The stylus is conical and short -lobed.
+Flowering plant Pomegranate Banana Seed Strawberry Seed 50% seeds seed coat kernel Female plants produce oblong or ovoid fruit, usually with one seed, red to brown in color and covered in scales.
+.The leaves are small and Palmat.The leaf sheath tears over the petiole, and is often filled with a very dense coat.
+The six stamens set at the base of the petals.
+Leopoldinia is a mostly monoecious genus of flowering plant in the palm family from northern South America, where they are known as jará palm or pissava palm.
+The fruits are elliptical to globose, up to 3 cm long and 2 cm diameter, and are.covered by imbricate scales that turn orange-red at maturity, each fruit has usually one seed.
+Syagrus weddelliana Plant reproductive morphology Genus Flowering plant Arecaceae Greek language 50% Greek Ancient Greek Modern Greek
+Fruit rounded or oblong, usually 1-seeded, with apical stigmatic remains, epicarp covered in vertical rows of reflexed reddish-brown scales, mesocarp thin, endocarp not differentiated.
+Each fruit contains a seed.
+The seed sits near the base of the sides in the fruit.
+Lepidocaryum is dioecious, with male and female flowers on separate plants, both with interfoliar inflorescences , branched to two orders, which are superficially similar.
+At just 2.5   cm in width, the clustering trunks reach no higher than 3.5 m and are covered at the top by old, adherent leaf bases.
+In all ramets we marked with flagging tape the petiole of the youngest expanded leaf, in order to determine the leaf production rate, which was later combined with the number of leaf scars to determine stem age.
+Nenga is a monoecious genus of flowering plant in the palm family.
+The gynoecium is incomplete dreifx¤chrig and roundish.
+The small, reduplicate leaves are palmate and borne on 60   cm petioles.
+Each leaf is split in half, to the petiole, with each half further divided into 2–11 narrow segments.
+Palms once classified as Microcoelum are herein included, the genus is closely related to Syagrus , from which it is differentiated only by abundant tomentum, strongly versatile anthers, and slight epicarp, mesocarp, and endocarp differences.
+The cup is Roehrig and three-lobed.
+This is a small, clustering, palmate palm, with widely spaced leaflets, and very deeep splits going to the centre of the leaf.
+Laccosperma is a clustering genus of flowering plant in the family palm found in tropical Africa.
+Bulb Cataphyll Plant stem Petiole Eucalyptus Inflorescence 50% Inflorescences cyme cymes Lepidocaryum is dioecious, with male and female flowers on separate plants, both with interfoliar inflorescences, branched to two orders, which are superficially similar.
+The internodes are short, the leaf scars rather unremarkable.
+The endosperm is homogeneous.Dissemination
+Adult 3 Stem with 51-70 rings 56 1.56 ± 0.157 69 93 94.2.
+Each leaf is split in half, to the petiole, with each half further divided into 2-11 narrow segments.
+Male and female inflorescences are branched similar and duplicate.
+The leaf blade is divided by a few, to the point of leaf growth reaching cracks in a few, pointed, segments of different widths.
+The female Rachillae are very short, the flowers appear on them individually.
+The peduncle is long and carries multiple -tube bracts.
+Staminate flowers symmetrical, calyx tubular, briefly 3-lobed, ± striate, petals much exceeding the calyx, basally connate, the tips valvate, stamens 6, borne at the very base of the petals, filaments thick, fleshy, ± angled, the anthers small, basifixed, latrorse, pistillode minute or short, columnar.
+Shrub, Caespitose palm.
+The lowest stem height of a fruiting ramet was 21.
+Pistillate flowers larger than the staminate, calyx tubular, 3-lobed, splitting somewhat irregularly after fertilization, corolla much exceeding the calyx, tubular in basal ca.
+The exocarp is busy with vertical rows of reddish- brown scales.
+Average stem elongation per new leaf was 2.78 ± 0.08 cm.
+Average stem elongation per new leaf was 2.78 ± 0.08 cm.
+In them, the flowers are individually or in pairs.
+The small, reduplicate leaves are palmate and borne on 60 cm petioles.
+The crown is much longer than the calyx, Roehrig in the lower third and has three long lobes.
+Female plants produce oblong or ovoid fruit , usually with one seed , red to brown in color and covered in scales.
+The stamens are thick and fleshy, the anthers are rather small, and basifix latrors.
+Dictyocaryum is a monoecious genus of flowering plant in the palm family found in South America.
+Methods Species description Lepidocaryum tenue is a small, dioecious, clonal palm that spreads by means of stolons up to 2 m long.
+The inflorescence axis is longer than the peduncle.
+Leaves with four segments preferred for thatching.
+Trunks to 2.5 cm in diameter, not exceeding 3.5 meters in height.
+Stem erect, colonial by slender rhizomes, partly obscured by marcescent leaf sheaths above, becoming bare basally, with rather short internodes and inconspicuous nodal scars.
+The inflorescence is interfoliar, erect, with a peduncle up to 1 m long, and 2-18 rachillae up to 15 cm long, arranged along a 10-20 cm long rachis.
+The inflorescence is interfoliar, erect,.with a peduncle up to 1 m long, and 2-18 rachillae up to 15 cm long, arranged along a 10-20.cm long rachis.
+Stem with 11-30 rings,.
+These are rather short and wear a baslaes, rx¶hriges, zweikieliges cover page and sometimes an empty rx¶hriges bract, as well as in -tube arrangement disticher bracts which bear each a flower-bearing side axis.
+Categories : Calamoideae Monotypic Arecaceae genera Flora of the Amazon Flora of South America Dioecious plants Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Taxonbars with multiple manual Wikidata items.
+It is dioecious , with male and female flowers on different plants, both with inflorescences interfoliar, branched.
+Adult 2 Stem with 31-50 rings 95 1.47 ± 0.120 6 85 81.3.
+.The male flowers are symmetrical.
+Adult 1 flowering 148 1.43 ± 0.104 11 63 67.7.
+The small leaves are costapalmate and petioles are born 60 cm long.
+At just 2.5 cm in width, the clustering trunks reach no higher than 3.5 m and are covered at the top by old, adherent leaf bases.
+Slender, clustered, unarmed, pleonanthic, dioecious, undergrowth palms.
+There are six staminodes with tiny, empty anthers.
+This arrangement of stems divides into several individuals any damage caused by tree or.branch falls, instead of having large damage in a single genet, as would happen to a cespitose.palm with phalanx growth habit.
+In all ramets we marked with flagging tape.the petiole of the youngest expanded leaf, in order to determine the leaf production rate,.which was later combined with the number of leaf scars to determine stem age.
+Flower Plant stem Panicle Peduncle Pedicel Fruit 50% fruits fruiting fresh fruit Female plants produce oblong or ovoid fruit, usually with one seed, red to brown in color and covered in scales.
+Italic languages Latin alphabet Rome List of Latin and Greek words commonly used in systematic names List of Latin legal terms Leaf 50% leaves axil foliage The small, reduplicate leaves are palmate and borne on 60 cm petioles.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here's the JSON format of the updated dictionary:
+
+```json
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 1],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 0],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 1],
+    ["reddish", 1],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 1],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 0],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 1],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 1],
+    ["ovoid", 1],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ]
+}
+```
+
+Note: In the input text, there is strong evidence for the following traits and their values:
+
+* Fruit colour description: brown, red, reddish
+* Fruit colour: brown, red
+* Fruit shape: globose, ovoid
+
+All other values in the dictionary have been set to 0 as there is no strong evidence for them in the input text.

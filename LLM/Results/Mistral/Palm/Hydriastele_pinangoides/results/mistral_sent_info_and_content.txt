@@ -1,0 +1,161 @@
+We are interested in obtaining botanical trait information about the species Hydriastele pinangoides.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+New leaves are a deep red to burgundy coloration.
+Spacing: 36-48 in.
+B. Portions of rachillae with triads.
+The inflorescences are branched to three orders with both male and female flowers , some of which are beetle -pollinated.
+The fruit may be ellipsoidal or spherical and colored yellow, orange, red, purple, or black when ripe, each with a single seed.
+This small clumping palm looks a bit like a Pinanga, with skinny stems and short.leaves and fish-tail leaflets.
+Light Shade Partial to Full Shade Foliage: Evergreen Foliage Color: Burgundy/Maroon Height: 10-12 ft. 12-15 ft. 15-20 ft.
+Categories : Areceae Arecaceae genera Taxa named by Carl Georg Oscar Drude Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Commons category link from Wikidata.
+Forms a clump of slender bamboo type.stems with an elongated crown of pinnate leaves with.wedge-shaped leaflets.
+The leaves are like cardboard and leaf veins are covered with waxy scales which eventually fall off.
+Height: 10-20 ft.
+Rank: SEEDLING.
+The leaves are pinnate and widely varied.
+Fruit 10-16 x 4-8 mm when ripe, ellipsoid or cylindrical.to fusiform, pink, red, purple or blackish, with a distinct, dark, sclerotic zone encircling apical stigmatic remains.
+D. Portion of rachilla with fruit.
+Rank: FLOWERING.
+The trunks may be solitary or suckering and may be diminutive to robust, spanning a range of heights.
+Viewing all plants of: Family: Arecaceae Genus: Hydriastele Species: pinangoides.
+Hydriastele Pinanagoides Papua New Guinea 10+ Seeds.
+Full Sun Sun to Partial Shade Foliage: Evergreen Foliage Color: Unknown - Tell us Height: 12-15 ft. 15-20 ft. 20-30 ft. 30-40 ft. over 40 ft.
+Hydriastele pinangoides fruiting.
+Viewing all plants of: Family: Hydriastele Genus: pinangoides.
+Spacing: 8-10 ft. 10-12 ft.
+Very attractive clustering species with skinny stems and short leaves and fish-tail leaflets.
+Hydriasteles are so tropical and gorgeous, new leaves are a deep red to.burgundy coloration.
+A small clumping fishtail palm, with large triangular, ruffled leaves.Synonym:
+Solitary or clustering, slender understorey or midstorey palm to 7 m tall, bearing 5-10 leaves per crown.
+Attractive clumping, skinny and very upright palm with stems very close to each other.
+Leaf 50-157 cm long including petiole, sheath 15-52 cm long, petiole 15-54 cm long,.leaflets 5-10 per side, very variable in size and shape, irregularly arranged usually in 2 or 3 widely spaced groups,.occasionally with portions of the lamina regularly pinnate, or very rarely the entire blade regularly pinnate, single- or.multi-fold, broadly cuneate
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 1],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 1],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 1],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 1],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Leaf color": [
+["burgundy", 1],
+["maroon", 1]
+],
+"Leaf shape": [
+["pinnate", 1],
+["wedge-shaped", 1],
+["fish-tail", 1]
+],
+"Light preference": [
+["Full Sun", 1],
+["Sun to Partial Shade", 1],
+["Light Shade", 1],
+["Partial to Full Shade", 1]
+],
+"Height": [
+["10-12 ft.", 1],
+["12-15 ft.", 1],
+["15-20 ft.", 1],
+["20-30 ft.", 1],
+["30-40 ft.", 1],
+["over 40 ft.", 1],
+["7 m", 1]
+],
+"Spacing": [
+["36-48 in.", 1],
+["8-10 ft.", 1],
+["10-12 ft.", 1]
+],
+"Rank": [
+["SEEDLING", 1],
+["FLOWERING", 1]
+],
+"Plant form": [
+["clumping", 1],
+["clumping fishtail palm", 1],
+["small clumping palm", 1],
+["clumping, skinny and very upright palm", 1]
+],
+"Leaf arrangement": [
+["skinny stems and short leaves", 1],
+["portions of rachillae with triads", 1]
+],
+"Number of leaves per crown": [
+["5-10 leaves per crown", 1]
+]
+}

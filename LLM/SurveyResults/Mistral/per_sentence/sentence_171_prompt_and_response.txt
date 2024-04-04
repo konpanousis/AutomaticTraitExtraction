@@ -1,0 +1,31 @@
+We are interested in obtaining botanical trait information about the species Dypsis lutescens.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flowers are followed by small yellow-orange fruits that mature to nearly black.
+
+Initial dictionary of traits with all possible values:
+{"Fruit size": ['small'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit size": [
+    ["small", 1]
+  ],
+  "Fruit color": [
+    ["yellow-orange", 1],
+    ["nearly black", 1]
+  ]
+}
+
+Note: This solution assumes that the output dictionary should include all possible trait-value pairs extracted from the input text, even if they are not initially present in the input dictionary. If this is not the case, please clarify the instructions.
+
+Additionally, please note that the binary evidence values in the output dictionary represent the presence (1) or absence (0) of strong evidence for the corresponding trait-value pair in the input text. In this particular example, the input text clearly mentions "small yellow-orange fruits" and "nearly black" as the fruit colors, so the evidence values for those trait-value pairs are set to 1. If there were any doubt about the association between a trait-value pair and the input text, the evidence value should be set to 0.
+
+Confidence: 95%

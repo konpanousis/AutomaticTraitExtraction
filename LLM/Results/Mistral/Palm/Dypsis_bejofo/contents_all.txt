@@ -1,0 +1,154 @@
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 1],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 1],
+["whitish", 1],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 1],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 1],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Leaf arrangement": [
+["alternate", 0],
+["opposite", 0],
+["spiral", 1],
+["whorled", 0]
+],
+"Leaf shape": [
+["simple", 0],
+["compound", 0],
+["palmate", 0],
+["pinnate", 0],
+["bipinnate", 0],
+["trifoliate", 0]
+],
+"Leaf base": [
+["cordate", 0],
+["cuneate", 0],
+["oblique", 0],
+["rounded", 0],
+["truncate", 0]
+],
+"Leaf margin": [
+["crenate", 0],
+["dentate", 0],
+["entire", 0],
+["lobed", 0],
+["serrate", 0]
+],
+"Leaf apex": [
+["acuminate", 0],
+["acute", 0],
+["cuspidate", 0],
+["mucronate", 0],
+["obtuse", 0],
+["rounded", 0]
+],
+"Leaf size": [
+["small", 0],
+["medium", 0],
+["large", 1]
+],
+"Leaf venation": [
+["parallel", 0],
+["pinnate", 0],
+["palmate", 0],
+["reticulate", 0]
+],
+"Leaf color": [
+["green", 1],
+["red", 1],
+["blue", 1],
+["white", 1]
+],
+"Petioles": [
+["long", 1],
+["short", 0]
+],
+"Trunk": [
+["thin", 1],
+["thick", 1],
+["massive", 1],
+["tall", 1]
+],
+"Trunk diameter": [
+["thin", 0],
+["medium", 0],
+["thick", 1]
+],
+"Height": [
+["short", 0],
+["medium", 1],
+["tall", 1]
+],
+"Light requirement": [
+["full sun", 1],
+["partial shade", 1],
+["shade", 0]
+],
+"Growth rate": [
+["fast", 1],
+["slow", 0]
+]
+}
+

@@ -1,0 +1,109 @@
+We are interested in obtaining botanical trait information about the species Bactris ptariana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Inflorescences infrafoliar, borne among the persistent leaf bases, peduncle 11-24 cm long, recurved, spiny, prophyll 7-12 cm long, peduncular bract 12-48 cm long, sparsely to densely covered with appressed, black spines to 1 cm long, rachis 2-5 cm long, rachillae 12-25, 6-17 cm long, at anthesis densely covered with short, brown or white, flexuous trichomes, triads irregularly aranged almost to apex of rachillae among paired or solitary staminate flowers, staminate flowers 3-4 mm long, sepal lobes ca.
+Stems can be as narrow as 0.3-0.5 centimetres in B.aubletiana or as broad as 25 centimetres in B. gasipaes.
+They have simple or pinnately compound leaves and yellow, orange, red or purple-black fruit.
+Extremely variable genus of spiny pinnate-leaved palms from Central and South America and the Caribbean, with almost always acute not praemorse leaflets, or entire margins.
+Ripe fruit can be yellow, orange, red or purple-black and range from 0.5-4.5 centimetres long. : 5-11.
+Leaves pinnate or entire bifid, marcescent or neatly deciduous, sheaths usually splitting opposite the petiole, the margins smooth or becoming fibrous, unarmed to densely spiny, glabrous, scaly, hairy or bristly, a ligule-like projection sometimes also present, petiole very short to long, adaxially channelled, flat, or angled, abaxially rounded, variously unarmed to spiny, rachis usually longer than the petiole, adaxially angled except near base where channelled or not, abaxially rounded to flattened, variously armed or unarmed, blade where undivided with smooth or spiny margins, numerous ribs and an apical V-shaped notch, leaflets 1-several-fold, regularly arranged or irregularly grouped, often held in different planes within the groups, linear, lanceolate, or sigmoid, the tips very rarely praemorse , acute or acuminate in a long drip tip, more rarely bifid or irregularly lobed,
+Pistillate flowers scarcely larger than the staminate, calyx annular, somewhat flattened or urn-shaped, truncate or very shallowly 3-lobed, sometimes hairy, scaly or spinulose, corolla much longer than the calyx or ± the same length, urn-shaped, truncate or very shallowly 3-lobed, variously hairy or spiny or glabrous, staminodes absent or forming a membranous ring, not adnate to the corolla, gynoecium columnar to ovoid, sometimes spiny or hairy, trilocular, triovulate, stigmas 3, very short, ovules laterally attached, orthotropous.
+All species have spiny leaves, the spines are often clustered on the petiole or rachis.
+Flowers grow in triplets along the inflorescence, each female flower is flanked by two male flowers, elsewhere along the inflorescence male flowers grow singly or in pairs.
+Fruit usually 1-seeded, very small to large, ovoid, obpyriform, oblate, or top-shaped, yellow, red, green, brown, purple, or black, epicarp smooth, spiny, roughened or hairy, mesocarp thin to very thick, fleshy, juicy or starchy with sparse or abundant fibres, endocarp thick, bony, with 3 pores at or above the equator, sometimes with fibres radiating from the pores.
+Diminutive to large, solitary or clustered, unarmed to very spiny, pleonanthic, monoecious palms.
+Leaves 5-9, leafspines distinctly clustered, black, somewhat flattened, pilose except at base, spinulose, 1-3 cm long, dense on sheath and on lateral surfaces of petiole, fewer on rachis, sheath 20-76 cm long, ocrea not seen, petiole 15-40 cm long, rachis 1-2 m long, pinnae 15-47 per side, irregularly arranged in clusters but spreading in more or less the same plane, linear or linear lanceolate, acuminate, sometimes strongly plicate, sparsely to densely spinulose abaxially, middle pinnae 44-65 x 2.5- 5 cm.
+The leaves can be either pinnately compound or simple, in some species like B. hirta both types of leaves exist.
+The staminate flowers are borne in triads along with the pistillate, not concentrated at the tips of the rachillae.
+In some species the spines are only found on the tips of the leaflets. : 4-5  Most species grow in multi-stemmed clumps with stems about 2 metres tall and 3 centimetres in diameter, but they span a range of sizes from tall trees to shrubs with subterranean stems and are sometimes single-stemmed.
+Staminate flowers often somewhat asymmetrical, sessile, or rarely borne on slender, unequal pedicels, calyx cupular or spreading, very short, shallowly trilobed, petals 3, fleshy, asymmetrically triangular, distally valvate, connate basally to ca.
+Petioles range from 5 centimetres to over 1.5 metres in length, while the rachis can be 3 centimetres to over 3 metres long. : 4-5  Inflorescences are borne singly emerging from the leaf axil.
+Stems generally bear spines on the internodes, in B. glaucescens and B. setulosa spines are also present on the nodes.
+Stems subterranean and very short, to erect, very slender to moderate, with short to long internodes and, eventually, with conspicuous nodal scars, often scaly, frequently armed with short to long spines.
+Stems solitary or cespitose, 2-3 m tall, 3-5 cm diam., spiny on internodes.
+Germination adjacent-ligular, eophyll bifid or rarely pinnate, often spiny, bristly or hairy.
+Most species are small trees about 2 m tall, but some are large trees while others are shrubs with subterranean stems.
+Seed irregularly globular, basally attached, hilum circular, raphe branches sparsely anastomosing endosperm homogeneous, with or without a central hollow, embryo next to one of the endocarp pores.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 1],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 1],
+["red", 1],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 1],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

@@ -1,0 +1,64 @@
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1]
+],
+"Trunk and root": [],
+"Latex": [
+["White latex", 1]
+],
+"Crown": [],
+"Stem shape": [],
+"Bark": [
+["Slice in light bark", 0],
+["Slice through pink bark", 1],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Bark color": [],
+"Leaf shape": [
+["Simple leaf", 1]
+],
+"Petiole": [
+["Petiolated leaf", 1]
+],
+"Leaf blade": [
+["Ovate blade", 1],
+["Broadly ovate blade", 1],
+["Oval blades", 1]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1]
+],
+"Leaf base": [],
+"Leaf apex": [],
+"Vein": [
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 1]
+],
+"Tendril": [],
+"Spine": [],
+"Blade color": [
+["Uniformly coloured blade", 1]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [],
+"Sexuality": [],
+"Flower color": [],
+"Flower shape": []
+}

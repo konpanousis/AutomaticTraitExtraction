@@ -1,0 +1,123 @@
+We are interested in obtaining botanical trait information about the species Pinanga coronata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Pistilla flower creamy white, sessile, calyx cup-shape sepals orbicular to very broad orbicular, 2.5-5 2-3.5 mm, membranous, striate, imbricate acuminate-mucronate-obtuse at the apex, cilia at margins, petals usually smaller than sepal orbicular to very broad orbicular, 2-4.5 x 2-3.
+The basal sheath of the leaf, of yellowish green colour, wraps wholly the stem for a length of about 30-50 cm.
+The new emerging leaf has a colour that can vary from red to pink.
+Pinanga crassipes  is a species of limited size, usually multi stemmed, rarely solitary, that presents a robust stem, up to 7 cm broad that may reach the height of 2 m. It is a variably coloured stem, depending on the age and the cultivation conditions of the palm, from dark green in the young specimens, to pale yellow in the intermediate ones and, finally, grey in the aged ones.
+Fruit obovoid, ellipsoid to ovoid, 11-15 x 6-10 mm, green when youn becoming yellow pink, red to brownish red stigmatic remains apical, epicarp smooth, shiny mesocarp thin, fleshy, endocarp with longitudinal fibers.
+Seed conforming to the fruit, 7.5-12 x 5-7.
+Small, clustered, undergrowth palm.
+Stems erect, unbranched, 2-8 m tall, 1.5-7 cm diam., with internodes 4.5-12 cm, scars 0.5-1.2 cm, stem surface green to brownish green.
+Pin on Pinterest.
+The pinnate and coriaceous leaves can reach 1 m of height.
+Staminate flow sessile, creamy white, stamens 12-16 , pale yellow, about 3-3.5 x 0.2 - 0.4 mm.
+Initially, these are yellow, then turn red and finally black when ripe.
+They are very ramified, with the rachis of colour varying from red to yellow, and bear the characteristic triads of flowers formed by 2 male flowers and one female, of ivory colour.
+Ivory Cane Palm has a medium sized cream colored crown shaft with beautiful bright red to maroon fluorescent like inflorescences sporting purple flowers and jet black fruit.
+On the stem are quite evident the brown rings corresponding to the nasal scars of the fallen leaves.
+The leaves are pinnate, usually ascending, 1,5 m long on an about 30 cm long petiole, of intense green colour and subdivided into pleated segments, about 25-70 cm long and of variable width, with sharp or truncated and toothed tip, the leaves, when opening, are often pink with light dots.
+The flowers stalks and fruit are bright red to blackish and very attractive.
+Areca coronata Blume ex Mart.
+The ovoid fruits, placed on two opposite rows, are about 12 mm long, of red colour turning to black when ripe.
+The inflorescences come out under the leaves, are about 30 cm long, ramified and hanging, of pink colour tending to the coral red when in fruit, the flowers, disposed in the classical triad , and are small and cream-white.
+The inflorescences emerge under the foliar sheaths.
+They are of pale green colour when adult, with the rachis of colour varying from green to bright yellow.
+The petioles, up to 30 cm long, are smooth, of colour varying from green to yellow, and continue on the stem with a sheath wrapping it completely, up to 30 cm long, of the same colour as the petiole.
+New leaves often emerge with a very attractive and intense salmon colored hue changing over time to green with a light ornamental mottling.
+It reproduces by seed and by division, the seeds germinate in 1-3 months at the temperature of 24-28 °C.
+It is a clumping palm with simple to partially divided leaves and yellowish crownshafts.
+While growing, the leaves of the  Pinanga crassipes  start dividing, a little at a time, in several irregular segments, with notched tips, but maintain the contrasting maculation till when the plant is mature.
+Description: A very attractive medium sized clumping palm to about 20- tall in habitat and 10 - 12- in cultivation.
+In the young specimens the leaves are undivided, bifid, of colour varying from pale green to dark green, characterized by irregular spots of contrasting colour, that may change from dark green to brown.
+Inflorescence infrafoliar, pendulous or erect then pendulous, green when young, becoming yellow pink to red, base very stiff, peduncle flattened, 1-6.5 x 0.5-2 cm, prophyll 20-28 x 4.5-8 cm, pale yellow when fresh, light brown when dry, smooth, rachis 2-9 x 0.2-1 cm, smooth, rachillae 5-22, glabrous, straight, spreading to parallel, not in same plar basal rachillae with 19-51 triads on each sid apical rachillae with 15-36 triads.
+A beautiful clumping palm with cream coloured trunks and dark green fronds.
+Leaves 4-7 in the crown, whole leaf including leaf-sheath 150-300 cm, leaf-sheath 35-80 cm, petiole 20-100 cm, deeply oblique adaxially, convex abaxially, rachis 90-180 cm, petiole and rachis smooth or silvery indumentose below, flattened adaxially, convex abaxially, sharp near the apex, leaflets 6-30 on each side of rachis, entire, regularly arranged, elongate linear-lanceolate, falcate-sigmoid, basal leaflets 22-85 x 0.5-6.5 cm, with 1-5 ribs, middle leaflets 32-90 x 0.8-9 cm, with 1-7 ribs, apical leaflets 16-45 x 1.5-10 cm, with 2-13 ribs, notched to deeply cuneate to dentate, indumentose on lower ribs, the surfaces discolorous, upper pale green, lower dark green when fresh, on drying becoming pale brown to pale greenish brown on lower surface and dark brown to dark greenish brown on upper surface.
+The thin foliar segments are run by evident veins.
+The Pinanga coronata Blume is a caespitose, monoecious plant, rather variable, with erect stems, 2-5 m tall, with a diameter of 3-5 cm, smooth, of green colour on which stand out the rings trace of the junction of the fallen leaves.
+About 1 cm long, they have an oval form, slightly pointed at the apex and contain only one seed.
+Crownshaft swollen elongate, 50-100 cm long, 2.5-10 cm diam., slightly wider than the stem, green, yellowish or brownish green, or brownish to reddish yellow when adult, with brown scales, ligule poorly developed.
+Stem slender, 2-5 cm diameter".
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 1],
+["chocolate", 0],
+["coral", 1],
+["crimson", 0],
+["darkgreen", 0],
+["green", 3],
+["greenish", 1],
+["grey", 0],
+["ivory", 1],
+["magenta", 0],
+["maroon", 1],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 2],
+["pinkish", 1],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 4],
+["reddish", 2],
+["tan", 0],
+["violet", 0],
+["white", 2],
+["whitish", 0],
+["yellow", 4],
+["yellowish", 2]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 3],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

@@ -1,0 +1,132 @@
+We are interested in obtaining botanical trait information about the species Phytelephas macrocarpa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flowers are unisexual,.borne on separate individuals, male flowers are clustered in long and.cylindrical unbranched spadices, female flowers are clustered in short and.closely packed glomerular inflorescences.
+A slow-growing plant, it can take from 7 - 25 years from a young seedling before it starts to produce fruit.
+Phytelephas macrocarpa is an evergreen Tree growing to 3.5 m by 3 m at a slow rate.
+Phytelephas macrocarpa is a single-stemmed, unarmed, reclining or erect palm from the extreme northern coastal regions of South America, growing to some 12 m tall.
+The leaves are pinnate, erect or just arcuate, up to about 6 m long with 50-70 leaflets per side, linear, sharp, regularly distributed along the rachis on the same level, up to about 90 cm long in the median part and up to 5 cm broad, of glossy dark geen colour above, paler below.
+Phytelephas macrocarpa is a single-stemmed, unarmed, reclining or erect palm from the extreme northern coastal regions of South America , growing to some 12 m tall.
+When ripe, they yield globose.clusters of partially connate fruits , bearing 6-9 seeds.
+Open / Close.
+When ripe, the fruit which has formed on the female tree, breaks apart and the woody epicarp covered in spines disintegrates, allowing the nuts to fall to the ground.
+Fruits forming heads up to 40 cm.
+The inflorescences generate between the leaves, the male ones are formed by a cylindrical spadix, fleshy, about 70 cm long, bearing white flowers, sessile , about 1,6 cm long, united in groups of four, with 25-250 stamens per group, the female inflorescences generate at the level of the soil, are globose, compact, with about 22 cm long grouped flowers, the flowers, either male or female, emit a pungent odour.
+Solitary rosette palm, with prostrate subterranean part of stem and aerial part wanting, or mid-sized palm tree with decumbent, or erect stem up to 4 m tall.
+Shrub, Solitary palm.
+It is arched and ascending up to a short distal end where a thick.crown of erect, pinnate leaves, up to 6 m long, arises.
+The trunk is about 30 cm across, with prominent leaf scars.
+Dioecious palm, usually solitary, short, sometimes creeping in a semi-subterranean fashion, trunk about 2 m. high and 30 cm.
+Flowers form among the leaves, and in bud are enclosed in two sheaths.
+Si riproduce per seme, in substrati sabbiosi, che germina in 3-6 mesi nelle migliori condizioni, ma può impiegare anche alcuni anni.
+Phytelephas macrocarpa or commonly known as Ivory Nut Palm is a tropical, dioecious, solitary palm with a short trunk of about 3 m high, large crown comprised of 12-20 leaves, large white flowers, and composite fruits.
+Rank: FLOWERING.
+Latin Name Common Name Habit Height Hardiness Growth Soil Shade Moisture Edible Medicinal Other.
+The kernel is covered with a brown, flaky skin and shaped like a small avocado , roughly 4-8 cm in diameter.
+Male and female flowers differ greatly in shape and structure, the male inflorescence being long, cylindrical, fleshy, and spike-like, up to 150 cm long, while the female inflorescence is club-shaped and 40-50 cm long.
+The outer husk is thick and woody with numerous sharp spines, the mesocarp is thin, fleshy, oily and yellowish-orange in colour.
+Each fruit houses 5 or 6 seeds of about 5 x 3 cm, these normally being wedge-shaped, though quite variable in both size and shape, the endosperm is homogeneous, and liquid at first, becoming gelatinous later and finally extremely hard, white and ivory-like, occasionally with a small central cavity.
+Botanical description - Palm exhibiting a quite peculiar habit,.characterised as it is by a creeping stem, from which numerous adventitious.roots depart.
+They are medium-sized to tall palms reaching up to 20 m tall, with pinnate leaves.
+The trunk is about 30 cm across, with prominent leaf scars.
+This is hard and dense with an attractive cream colour, which, on polishing, compares favourably with true ivory.
+Macrocarpa, Latin macrocarpus-a-um = with large fruit.
+The fruiting head is near-spherical and up to 30 cm in diameter, usually with about 15-20 closely set fruits which are conical, 10-15 cm in diameter, and five- to six-angled by the pressure of growth.
+The fruits are grouped in a roundish mass, of up to 50 cm of diameter, covered by woody plaques of dark brown colour with central pointed protrusions, the single fruits contain four to six, rarely up to nine, ellipsoidal or reniform seeds 2-6 cm long.
+Each fruit houses 5 or 6 seeds of about 5 x 3 cm, these normally being wedge-shaped, though quite variable in both size and shape, the endosperm is homogeneous, and liquid at first, becoming gelatinous later and finally extremely hard, white and ivory-like, occasionally with a small central cavity.
+Unusually large seeds and infructescence.
+The fruiting head is near-spherical and up to 30 cm in diameter, usually with about 15-20 closely set fruits which are conical, 10-15 cm in diameter, and five- to six-angled by the pressure of growth.
+B.   numinous.
+Leaves pinnate with 42-95 pairs of leaflets arranged regularly in the same plane.
+Seeds contain.a nutritious matter , at first milk-like, edible and pleasantly.tasting, when ripe turning extremely hard, much like animal ivory.
+Nous contacter.
+It has a brown, woody basal fruit with a delicious white, fleshy pulp much esteemed by the Indians.
+The crown is made up of about 30 plume-like leaves or fronds, each about 8 m long, dead leaves being persistent.
+Seed - it can take 3 - 4 years to germinate.
+Seedling robust with three scale leaves, of which two are usually exposed above the ground, eophyll with 32-36 opposite pinnae.
+Male and female flowers differ greatly in shape and structure, the male inflorescence being long, cylindrical, fleshy, and spike-like, up to 150 cm long, while the female inflorescence is club-shaped and 40-50 cm long.
+Solitary, rarely clusters.
+Male inflorescence.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 1],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 1],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 1],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

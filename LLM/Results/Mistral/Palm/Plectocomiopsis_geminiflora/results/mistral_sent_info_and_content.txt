@@ -1,0 +1,126 @@
+We are interested in obtaining botanical trait information about the species Plectocomiopsis geminiflora.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Ocreas present, entire or becoming tattered.
+The epicarp is matted in irregular vertical rows of reflexed scales, with a thin mesocarp and an undifferentiated endocarp.
+Clustering, moderate to robust rattan with stems to 30 m or more, forming rather dense thickets.
+The male flowers are arranged in clusters of up to 32, each flower held in a cuplike rachilla bract with a two-keeled bracteole.
+The six stamens are laterally fused forming a tube which is tipped by six free, reflexed filaments with short, oblong anthers.
+Moderate to robust, clustered, high-climbing, spiny, hapaxanthic, dioecious, rattan palms.
+Leaves cirrate, sheaths generally dull green with persistent grey tomentum and scattered caducous reddish-brown scales, and abundant scattered golden-yellow spines to 0.8 cm long, the spines sometimes absent on the sheaths subtending the inflorescences, knee absent, ocrea irregular, oblique, fibrous and tattering, petiole absent in adult stems, rachis to 2 m long, cirrus to 1 m, leaflets c. 30 on each side of the rachis, regularly arranged, the largest to 40 x 4 cm, bright shining green, concolorous, with short bristles along the margins, the mid nerve on the upper surface usually with conspicuous golden bristles to 1.5 cm.
+The single fold, lanceolate leaflets may be few to numerous, usually with armed margins and caducous scales, with conspicuous midribs and transverse veinlets.
+The staminodial ring bears six short lobes and sagging, empty anthers , gynoecium egg-shaped to cylindrical, the apical stigmas becoming scaly nearing antithesis.
+The stems are small, densely clustering, spiny, and high climbing with long internodes and conspicuous scars.
+Female flowers are usually borne in clusters of two to four but may be solitary, and, like the male's, are carried in cuplike bracts with two-keeled bracteoles , with the occasional barely developed second bracteole.
+Germination adjacent-ligular, eophyll bifid, lamina composed of several folds.
+The petiole, when present, and the proximal end of the rachis are deeply channeled and spiny, the cirrus and distal end of the rachis are armed with regularly arranged reflexed climbing spines.
+Stem eventually becoming bare, often 3-angled, with long internodes and conspicuous nodal scars, basal branches borne in an axillary position.
+Three incomplete locules are present, each bearing one antropous , basally attached ovule.
+Leaf to 3 m including the cirrus to 1 m, petiole present on juvenile stems, absent in adult, leaflets c. 30 on each side of the rachis, regularly arranged, the largest to 40 x 4 cm, bright shining green, concolorous, with short bristles along the margins, the mid nerve on the upper surface with conspicuous golden bristles to 1.5 cm.
+Seed basally attached, usually depressed, globose, sarcotesta thick, but not juicy, endosperm homogeneous, embryo basal.
+Seed c. 2 x 2 cm, endosperm homogeneous.
+Stems to 30 m or more, without sheaths to 3 cm diam., with sheaths to 6 cm diam., but usually more slender, internodes to 40 cm, shorter in exposed stems.
+Categories : Calamoideae Arecaceae genera Taxa named by Odoardo Beccari Dioecious plants Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+The rachis bracts are tubular and more or less distichous, each subtending a horizontal or pendulous first order branch which features basal, tubular bracts with triangular limbs carrying monopodial flower clusters.
+Ripe fruit oblate, to 2.5 x 3 cm, covered in up to 42 vertical rows of pale greenish to chestnut brown scales.
+Seedling leaf bifid.
+To top.
+Fruit 1 -seeded, perianth whorls persistent and enlarging, stigmatic remains apical, epicarp covered in somewhat irregular vertical rows of reflexed scales, mesocarp thin, endocarp not differentiated.
+Leaves of mature climbing stems pinnate, cirrate, leaf sheath tubular, rather sparsely armed or unarmed, usually bearing caducous indumentum, knee absent, ocrea present, sometimes tattering, but usually remaining entire and conspicuous, flagellum absent, petiole present or absent, it and the proximal part of the rachis deeply channelled and sparsely spiny, cirrus and distal part of rachis abaxially armed with regularly arranged groups of reflexed grapnel spines, leaflets few to numerous, single-fold, lanceolate, entire, regularly arranged, sometimes armed along margins and/or midrib with conspicuous bristles and bands of caducous scales, midribs evident, transverse veinlets conspicuous.
+Stem without sheaths to 30 mm diam., with sheaths to 60 mm diam., but usually more slender, internodes to 40 cm, shorter in exposed stems.
+The fruit has one, rarely two seeds , covered in persistent perianth whorls, and stigmatic apical remains.
+The inflorescence is produced at the top of the stem amongst the most distal, often reduced leaves, axis adnate to the internode and emerging from the leaf sheath mouth.
+Ripe fruit oblate, to 2.5 x 3 cm, covered in up to 42 vertical rows of pale greenish to chestnut brown scales.
+Inflorescences up to 15 produced simultaneously, the male with more slender branches than the female, to 40 cm, with curving branches to 30 cm bearing clusters of flowers.
+Seed c. 2 x 2 cm, endosperm homogeneous.
+Sheaths generally dull green with persistent grey tomentum and scattered caducous reddish-brown scales, and abundant scattered golden-yellow spines to 8 mm long, the spines sometimes absent on the sheaths subtending the inflorescences, knee absent, ocrea not well developed except on juvenile shoots where irregular, oblique and tattering.
+The calyx is also thick and leathery, thrice lobed and scaly, usually persistent into fruit, corolla leathery, scaly, with three lobes.
+In P. corneri the inflorescence is branched to three orders instead of two, with flowers borne on the axes of all orders.
+The seed is basally attached, spherical, usually depressed, with a thick sarcoesta , a homogeneous endosperm and a basal embryo.
+The peduncle is short, the prophyll is tubular and two-keeled, peduncular bracts usually absent, and the rachis is much longer than the peduncle.
+Young leaves are undivided or with few segments, in maturity becoming pinnate and cirrate with a tubular, unarmed or sparsely armed, scaly leaf sheath.
+Clustering high-climbing pinnate-leaved rattan palms of Southeast Asia, sheaths are densely to very sparsely armed and an ocrea is present, hapaxanthic and dioecious, the staminate flowers are borne in dense clusters representing condensed rachillae, each flower solitary, the pistillate flowers also in clusters, but with fewer flowers, each individual flower solitary, fruit relatively large, covered with conspicuous scales.
+The calyx is thick, leathery and tubular, with three lobes, and abaxially covered in scaly trichomes, the corolla is similar, with two distal splits forming three triangle shaped lobes, also bearing scales.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

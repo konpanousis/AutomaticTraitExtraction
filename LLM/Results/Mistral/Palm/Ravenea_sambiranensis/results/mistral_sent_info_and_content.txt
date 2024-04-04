@@ -1,0 +1,126 @@
+We are interested in obtaining botanical trait information about the species Ravenea sambiranensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Individuals can grow to 30 m.
+Amount of leaves in the crown.
+Adult palm showing clear self-cleaning trunk without old leaf remnants and shiny green lower leaves.
+Hibiscus divers - Hibiscus non identifies.
+Obovoid to ovoid-globose.
+Old pistillate inflorescence found under adult trees.
+Orange to coral-red.
+Base sometimes bulbous, Nodal scars faint, nodes 1cm, internodes 3-5cm, sometimes longitudinal holes where mouse lemurs sleep, usually no remnants of sheaths.
+Slender small palm to majestic tree palm.
+The leaves are up to 2-5 m long, pinnately compound, reduplicate, erect at first then arching, twisted near the apex, with numerous crowded narrow ribbed leaflets.
+Inflorescencebranchingorder. 1, 2.
+Ovoid to oblong, rounded at the apex.
+Rank: SEEDLING.
+It is a very large palm with a large, untidy crown.
+Old pistillate inflorescence growing interfoliar, juvenile tree.
+Base of crown bulbous, 18-40 cm across.
+Trees grow from 1.5–8 meters in height, and 13–30 cm in diameter.
+Bifid seedling growing under adult palms.
+They are small to large, dioecious palms, with solitary, robust grey stems, swollen at base and gradually tapering upward.
+Spacing: 12-15 ft.
+Number of stamens. 6.
+Rank: FLOWERING.
+An majestic moderate to large solitary unarmed tree palm.
+A little sea breeze
+The inflorescence is short, borne among the leaves, the fruit is a red drupe.
+Individual adult palm growing in full sun showing slightly arching leaves.
+Close up on the 1 order, old pistillate inflorescence.
+Adult tree growing under canopy also showing porrect leaves.
+The base of each frond is green, yet they become white to dark grey near the tip at maturity.
+Definition: whole plant arborescent.
+The old female inflorescence showed a 1 order division, and 40-70 rachillae.
+Porrect, slightly curved in full sun.
+Left: Juvenile palm growing under canopy showing straight porrect leaves.
+Ravenea is a very diverse genus containing very small undergrowth palms, short and squat palms, slender middle size trees and canopy giants.
+As a seedling this solitary pinnate Madagascan palm is quite attractive- tall, arching leaves up to 12' long shooting out of the ground.
+Leaves. pinnate with two or more leaflets.
+It is small with about four bifid leaves.
+Unripe green fruit showing the obovoid to oblong shape.
+One-seeded, occasionally 2-3-seeded.
+It has symmetrical leaves and develops an attractive swollen base of the trunk.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 1],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

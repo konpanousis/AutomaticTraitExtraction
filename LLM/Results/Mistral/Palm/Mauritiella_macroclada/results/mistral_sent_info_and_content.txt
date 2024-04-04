@@ -1,0 +1,124 @@
+We are interested in obtaining botanical trait information about the species Mauritiella macroclada.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leopoldinia is a mostly monoecious genus of flowering plant in the palm family from northern South America, where they are known as jará palm or pissava palm.
+A. aculeata tends to be smaller, with trunk diameters around 10 cm, M. armata and M. macroclada trunks reach 25 - 30 cm, all three retain persistent leaf bases towards the top of the stem.
+A. aculeata tends to be smaller, with trunk diameters around 10   cm, M. armata and M. macroclada trunks reach 25 – 30   cm, all three retain persistent leaf bases towards the top of the stem.
+The seed is spherical or oblong, basally attached, with an elongated apical knob.
+Seed ± rounded to ellipsoidal, attached basally, apically with an elongate knob, and thin testa, endosperm homogeneous, embryo basal.
+Dioecious plants Trees of South America Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+The inflorescence is usually solitary, interfoliar, with male and female units represented in separate plants.
+Leaves 6-12, blade split into about 60 leaflets, these to 4.5 cm wide.
+Definitie: whole plant growth form.
+Pistillate flowers larger than the staminate, calyx tubular, striate, briefly 3-lobed, often scaly, corolla tubular in the basal 1/3-1/2 with 3 elongate, valvate lobes, staminodes 6, connate laterally by their flattened broad filaments and adnate to the corolla at the mouth of the tube, gynoecium trilocular, triovulate, ± rounded, covered in vertical rows of reflexed scales, style short, conical, stigmas 3, ovules anatropous, basally attached.
+Moderate clustered palms of South America with erect stems armed with root spines, leaves palmate, with segments of equal width, inflorescences are robust, the staminate rachillae catkin-like, each rachilla bract subtending a single staminate flower.
+Leaves 6-12 in a crown, blade split into about 60 leaflets, these to 4.5 cm wide.
+From 7.5 to 18 m tall, the trunks are clustering and armed with small spines, usually with stilt roots at the base.
+Plants flower repeatedly over the course of their lifespan and have separate male and female flowers, although these are borne together on the same inflorescence.
+Nenga is a monoecious genus of flowering plant in the palm family.
+Fruit ± rounded, usually 1-seeded, with apical stigmatic remains, perianth persistent, epicarp covered in many neat vertical rows of reddish-brown reflexed scales, mesocarp rather thick, fleshy, endocarp scarcely differentiated.
+Fruits ellipsoid-oblong, 2-2.5 cm long and 1.8-2 cm diameter, reddish brown.
+Definition: whole plant herbaceous.
+Fruits ellipsoid-oblong, 2-2.5 cm long and 1.8-2 cm in diameter, reddish brown.
+Most have pinnately compound leaves , one species has entire leaves.
+Rank: FLOWERING.
+Stem erect, partly obscured by marcescent leaf sheaths above, becoming bare at the base, the internodes frequently bearing spine-like adventitious roots.
+Bright to deep green, the foliage has silvery, glaucous undersides.
+A. aculeata tends to be smaller, with trunk diameters around 10 cm, M. armata and M. macroclada trunks reach 25 - 30 cm, all three retain persistent leaf bases towards the top of the stem.
+There are about 26 species in the genus, ranging in size from understorey shrubs with subterranean stems to subcanopy trees as tall as 20 metres.
+Mauritiella is a dioecious genus of flowering plant in the palm family found in South America where it is commonly called buriti.
+Palms once classified as Microcoelum are herein included, the genus is closely related to Syagrus , from which it is differentiated only by abundant tomentum, strongly versatile anthers, and slight epicarp, mesocarp, and endocarp differences.
+Stems solitary or clustered, to 10 m tall, and 15 cm in diameter.
+Each 1 m leaf of a mature tree is palmate with a brief costa, borne on a long petiole, and divided into numerous, deep segments, leaves of juvenile trees are flattened and much less divided.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+Stems, leaves and sometimes even the fruit are covered with spines.
+Pollen spheroidal, aperture monoporate, ectexine intectate, surface very finely granular, interspersed with long, thin, slightly bottle-shaped spines set in, and loosely connected to cavities in a wide foot layer, distinctly separated into an upper typically solid layer and a slightly wider strongly lamellate inner layer bulging slightly beneath each spine, aperture margin similar, longest axis 40-55 µm.
+Dictyocaryum is a monoecious genus of flowering plant in the palm family found in South America.
+Moderate clustered, armed, pleonanthic, dioecious, tree palms.
+Staminate flower symmetrical, calyx tubular, briefly 3-lobed, often scaly, corolla tubular at the very base with 3 elongate, valvate, leathery lobes much exceeding the calyx, stamens 6, the filaments distinct, thick, ± angled, elongate, anthers elongate, basifixed, latrorse, pistillode minute.
+Stems solitary or clustered, to 10 m tall and 15 cm diameter.
+Germination adjacent ligular, eophyll with a pair of divergent leaflets.
+The round fruit is usually one- seeded and covered in red to brown scales with a thick, fleshy mesocarp.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

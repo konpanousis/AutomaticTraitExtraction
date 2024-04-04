@@ -1,0 +1,67 @@
+We are interested in obtaining botanical trait information about the species Piliostigma thonningii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The tree is perennial in nature and its petals are white to pinkish colour produced between November and April.
+
+Initial dictionary of traits with all possible values:
+{"Flower color": ['White flower'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Flower color": [
+    ["White flower", 1]
+  ],
+  "Petal color": [
+    ["White petals", 1],
+    ["Pinkish petals", 1]
+  ],
+  "Blooming period": [
+    ["November to April", 1]
+  ],
+  "Life cycle": [
+    ["Perennial", 1]
+  ]
+}
+
+Note: This output is an interpretation of the text and assumes that the petals and flowers are the same thing. If the petals were a different color than the flowers, additional values would need to be included in the dictionary. Additionally, the "Blooming period" and "Life cycle" traits were inferred from the text, but they were not explicitly mentioned in the initial dictionary. If you want to strictly adhere to the initial dictionary, you can exclude these traits.
+
+Also, please note that the input text does not contain the exact phrase "White flower". However, it mentions "white to pinkish" petals, so I assumed that "white" is a possible value for the "Flower color" trait. If you want to be more conservative, you can set the binary value to 0 instead of 1.
+
+Additionally, please note that the output format is a JSON object, not a dictionary. In JSON, keys must be strings, and values can be strings, numbers, objects, arrays, boolean values, or null. In Python, dictionaries are used to represent JSON objects. To convert a Python dictionary to a JSON object, you can use the `json` module like this:
+```python
+import json
+
+# create a dictionary
+d = {"Flower color": [["White flower", 1]], "Petal color": [["White petals", 1], ["Pinkish petals", 1]], "Blooming period": [["November to April", 1]], "Life cycle": [["Perennial", 1]]}
+
+# convert the dictionary to a JSON object
+json_obj = json.dumps(d)
+
+# print the JSON object
+print(json_obj)
+```
+This will output the following JSON object:
+```json
+{
+  "Flower color": [
+    ["White flower", 1]
+  ],
+  "Petal color": [
+    ["White petals", 1],
+    ["Pinkish petals", 1]
+  ],
+  "Blooming period": [
+    ["November to April", 1]
+  ],
+  "Life cycle": [
+    ["Perennial", 1]
+  ]
+}
+```

@@ -1,0 +1,83 @@
+We are interested in obtaining botanical trait information about the species Oenocarpus distichus.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruit ellipsoidal to globose, dark purple when ripe, perianth persistent, stigmatic remains apical to slightly eccentric, epicarp smooth or minutely pebbled, waxy, mesocarp fleshy, oily, with internal fibres adnate to and covering the seed, endocarp apparently lacking.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour": ['black', 'purple'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit colour": [
+    ("black", 0),
+    ("purple", 1)
+  ],
+  "Fruit shape": [
+    ("ellipsoidal", 1),
+    ("globose", 1)
+  ],
+  "Fruit perianth": [
+    ("persistent", 1)
+  ],
+  "Stigmatic remains position": [
+    ("apical", 1),
+    ("slightly eccentric", 1)
+  ],
+  "Fruit epicarp": [
+    ("smooth", 1),
+    ("minutely pebbled", 1),
+    ("waxy", 1)
+  ],
+  "Mesocarp qualities": [
+    ("fleshy", 1),
+    ("oily", 1),
+    ("with internal fibres adnate to and covering the seed", 1)
+  ],
+  "Endocarp presence": [
+    ("apparently lacking", 1)
+  ]
+}
+
+Note: This is not in JSON format, but I included it as a more readable format. To convert it to JSON format, you can use a tool like `json.dumps()` in Python.
+
+Here's the JSON format:
+
+```json
+{
+  "Fruit colour": [
+    ["black", 0],
+    ["purple", 1]
+  ],
+  "Fruit shape": [
+    ["ellipsoidal", 1],
+    ["globose", 1]
+  ],
+  "Fruit perianth": [
+    ["persistent", 1]
+  ],
+  "Stigmatic remains position": [
+    ["apical", 1],
+    ["slightly eccentric", 1]
+  ],
+  "Fruit epicarp": [
+    ["smooth", 1],
+    ["minutely pebbled", 1],
+    ["waxy", 1]
+  ],
+  "Mesocarp qualities": [
+    ["fleshy", 1],
+    ["oily", 1],
+    ["with internal fibres adnate to and covering the seed", 1]
+  ],
+  "Endocarp presence": [
+    ["apparently lacking", 1]
+  ]
+}
+```

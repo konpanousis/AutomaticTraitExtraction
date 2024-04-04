@@ -1,0 +1,73 @@
+We are interested in obtaining botanical trait information about the species Anacardium occidentale.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves simple, alternate, somewhat crowded on twig apices, estipulate, petiole 7-15 mm, stout, swollen at base, glabrous, lamina 6-15.5 x 3-8 cm, obovate, base acute or cuneate, round, apex obtuse, round or retuse, margin entire, glabrous, shiny above, coriaceous, lateral nerves 10-15 pairs, parallel, prominent, intercostae reticulate, prominent, glands axillary on main nerves and its branches.
+
+Initial dictionary of traits with all possible values:
+{"Petiole": ['Petiolated leaf'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Petiole": [
+    ["Petiolated leaf", 1]
+  ],
+  "Leaf type": [
+    ["Simple leaf", 1]
+  ],
+  "Leaf arrangement": [
+    ["Alternate", 1]
+  ],
+  "Leaf stipules": [
+    ["Estipulate", 1]
+  ],
+  "Petiole length": [
+    ["7-15 mm", 1]
+  ],
+  "Petiole description": [
+    ["Stout", 1],
+    ["Swollen at base", 1],
+    ["Glabrous", 1]
+  ],
+  "Leaf shape": [
+    ["Obovate", 1]
+  ],
+  "Leaf base": [
+    ["Acute", 1],
+    ["Cuneate", 1],
+    ["Round", 1]
+  ],
+  "Leaf apex": [
+    ["Obtuse", 1],
+    ["Round", 1],
+    ["Retuse", 1]
+  ],
+  "Leaf margin": [
+    ["Entire", 1]
+  ],
+  "Leaf surface above": [
+    ["Glabrous", 1],
+    ["Shiny", 1]
+  ],
+  "Leaf texture": [
+    ["Coriaceous", 1]
+  ],
+  "Nerves": [
+    ["10-15 pairs", 1],
+    ["Parallel", 1],
+    ["Prominent", 1]
+  ],
+  "Intercostae": [
+    ["Reticulate", 1],
+    ["Prominent", 1]
+  ],
+  "Glands": [
+    ["Axillary on main nerves and its branches", 1]
+  ]
+}

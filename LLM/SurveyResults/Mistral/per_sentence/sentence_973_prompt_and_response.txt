@@ -1,0 +1,49 @@
+We are interested in obtaining botanical trait information about the species Euphorbia poissoni.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Euphorbia venenifica Trémaux ex Kotschy: Has a very poisonous latex, thorns simple not flat at the base without basal prickles.
+
+Initial dictionary of traits with all possible values:
+{"Tendril": ['Plant without tendrils'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Tendril": [
+    ["Plant without tendrils", 0]
+  ]
+}
+
+Note: The input text does not mention anything about tendrils, so the evidence value is set to 0. If you want to include information about the thorns and latex, you will need to add them to the initial dictionary and then evaluate their evidence in the text. For example:
+
+Input text:
+Euphorbia venenifica Trémaux ex Kotschy: Has a very poisonous latex, thorns simple not flat at the base without basal prickles.
+
+Initial dictionary of traits with all possible values:
+{"Tendril": ['Plant without tendrils'], "Latex": ['Non-poisonous', 'Poisonous'], "Thorn": ['Absent', 'Present', 'Simple', 'Flat at base', 'With basal prickles']}
+
+Output dictionary:
+{
+  "Tendril": [
+    ["Plant without tendrils", 0]
+  ],
+  "Latex": [
+    ["Non-poisonous", 0],
+    ["Poisonous", 1]
+  ],
+  "Thorn": [
+    ["Absent", 0],
+    ["Present", 1],
+    ["Simple", 1],
+    ["Flat at base", 0],
+    ["With basal prickles", 0]
+  ]
+}
+
+Note that the evidence value for "Poisonous" is set to 1 because the input text mentions a "very poisonous latex." The evidence value for "Present" and "Simple" under the "Thorn" trait is set to 1 because the input text mentions "thorns simple." The evidence value for "Flat at base" and "With basal prickles" under the "Thorn" trait is set to 0 because the input text explicitly states that the thorns are not flat at the base and do not have basal prickles. The evidence value for "Non-poisonous" under the "Latex" trait is set to 0 because the input text mentions a "very poisonous latex." The evidence value for "Absent" under the "Thorn" trait is set to 0 because the input text mentions "thorns simple." The evidence value for "Plant without tendrils" under the "Tendril" trait is set to 0 because the input text does not mention anything about tendrils.

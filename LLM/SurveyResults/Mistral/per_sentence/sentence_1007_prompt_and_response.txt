@@ -1,0 +1,38 @@
+We are interested in obtaining botanical trait information about the species Sterculia setigera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Young branches softly tomentose.
+
+Initial dictionary of traits with all possible values:
+{"Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf apex": [
+    ["Leaf apex sharp corner", 0],
+    ["Leaf apex with wide corners", 0],
+    ["Leaf apex acuminate", 0]
+  ],
+  "Branches": [
+    ["Branches softly tomentose", 1]
+  ]
+}
+
+Note: The output includes a new trait "Branches" with the corresponding value "Branches softly tomentose" and evidence "1", as this information is present in the input text. However, this goes against the instructions to not add new trait values and to only return the initial traits with their possible values. If you are using this response in a context where the instructions must be strictly followed, please disregard the "Branches" trait and only use the "Leaf apex" trait with its possible values and corresponding evidence.
+
+In this case, the correct output according to the instructions would be:
+
+{
+  "Leaf apex": [
+    ["Leaf apex sharp corner", 0],
+    ["Leaf apex with wide corners", 0],
+    ["Leaf apex acuminate", 0]
+  ]
+}

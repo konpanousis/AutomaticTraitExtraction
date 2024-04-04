@@ -1,0 +1,283 @@
+We are interested in obtaining botanical trait information about the species Capparis tomentosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The butterflies are beautiful - white, yellow, veined with fascinating names like African Small White, Black-veined White, Spillers Sulphur Yellow, Forest White and False Dotted Border, Bushveld Orange Tip, Queen Purple Tip
+A spiny, erect or scrambling shrub 1-3 m. tall or climbing over other vegetation to 6 m. or perhaps more
+The seeds are surrounded by a juicy, white to pinkish pulp.
+Gynophore 2.5-3.5 cm long, glabrous.
+Leaves are elliptic, elliptic-oblong or ovate, 26-70 mm
+A thorny climbing shrub.
+Fruit large, up to 4 cm, pink to orange when ripe.
+Seeds are dark brown, ovoid to kidney shaped and 1-15 mm long.
+Ovary ovoid, bluntly apiculate at the apex.
+The fruit contain many seeds embedded in a pinkish flesh.
+Very showy in full flower, flowering in Spring and Summer.
+Stamens c. 80 with white or pinkish slender filaments up to 4 cm.
+Branches yellow tomentose, with recurved, tomentose spines.
+Flowers conspicuous, pink and white.
+Branches are armed with recurved stipular spines.
+All young parts are densely velvety.
+The fruits hang from a long stalk-like branch called a gynophore.
+It may also be a straggling shrub or small tree.
+Leaf-blades elliptic, oblong-elliptic or obovate, 2.6-7 x 1.3-4 cm, apically rounded, acute or retuse, sometimes shortly mucronulate, basally rounded, cuneate or subcordate, appressed-pubescent or glabrescent, petiole 5-9 mm long, appressed-pubescent.
+The sepals are always tomentose in C. tomentosa.
+Stamens 45-60, filaments 2.5-3 cm long.
+Leaves alternate, oblong to broadly elliptic, grey-green, covered in velvet hairs, margins entire.
+Plant Type: Climber, Scrambler, Shrub, Tree.
+Climber, liane, shrub over 2 m.
+Green, White, Pink, Cream.
+Flowers are 35- 50 mm across, white, fading to pink or purple, in supra-axillary rows of 2-6 flowers, often developing before leaves.
+Morphology:.Fruit up to 5 cm.
+Leaves are ovate-elliptic.
+Leaves are elliptic, elliptic-oblong or ovate, 26-70 mm long and 13-80 mm wide, with tips usually round with a sharp point, light green to greyish green, soft and velvety.
+Morphology Seeds c. 1.4 x 0.8 cm.
+Seeds several, embedded in a pinkish flesh.
+Young twigs appressed-pubescent, frequently glabrescent.
+Flowers quite showy, yellowish-green with a mass of long white or pinkish stamens.
+The flowers develop into red, globose, pendulous fruits, that grow up to 50 mm in diameter.
+Fruit up to 5 cm.
+Scrambler, shrub or tree-like.
+The flowers form in clusters, terminally on the primary branches or on short leafy lateral branchlets or occasionally scattered in the upper leaf-axils.
+The Woolly Caper Bush is a large spiny shrub with a scrambling habit, a canopy climber with attractive orange fruits and flowers for birds, butterflies and other insects, certainly, one for a garden with sufficient space for its long, fast-growing limbs.
+Fruit is a berry, globose or ellipsoid.
+Flowers generally borne in clusters, terminal on the primary branches or on short leafy lateral branchlets, occasionally scattered in the upper leaf-axils, pedicels 1.5-5 cm.
+Fruits globose, up to 5 cm.
+Seeds c. 1.4 x 0.8 cm.
+Flowers sweet-scented, petals white, stamens pink.
+The stem has sharp, paired, hooked spines.
+Scrambling shrub or small tree up to 10 m. high or long.
+Gynophore 25-50 mm long.
+Fruit orange-yellow.
+The flowers develop into red, globose, pendulous fruits, which grow up to 50 mm in diameter.
+They are large and scented, with a mass of pinkish-white stamens which are each 20-35 mm in length and may be crimson coloured at the base.
+Berry spherical, up to 4 cm in diameter, glabrous, brownish or yellowish, with numerous seeds embedded in a pink flesh.
+Scrambler, shrub or tree-1ike, usually a very robust plant.
+Flowers scented, in terminal corymbs of 3-15 flowers, the lower pedicels solitary in the axils of the upper leaves, the upper with linear tomentose bracts c. 3 mm.
+Branches yellow tomentose, rarely becoming glabrous when old, with recurved, tomentose spines.
+Petals pale yellowish-green, spathulate or cuneiform-truncate at the apex, with white hairs at the base within.
+Approximately 25 seeds per packet.
+Inflorescence terminal, corymbose, pedicels 1.5-2.5 cm long, tomentose.
+The leaves are simple, entire and rarely reduced.
+Gynophore 2.5-4 cm long at anthesis, ovary ellipsoid, 1.5-2.5 mm long, with subsessile, flattened stigma.
+Much-branched shrub or small tree, with scrambling or climbing branches up to 7-8 m long, young twigs covered with appressed hairs.
+The sepals are boat shaped and 8-10 mm long.
+Mostly a robust woody climber but occasionally a shrub or small tree, armed with sharp, paired, hooked thorns.
+Gynophore up to 4 cm.
+Fruit globose, up to 4.5-5 cm in diam., glabrous, reddish.
+Leaves alternate, spirally arranged, lamina oblong or broadly elliptic, apex obtuse, emarginate, mucronulate, truncate at the base, 3.5-8 cm long, 1.5-2.5 cm broad, pubescent, becoming glabrous on the upper surface, with 5-8 pairs of secondary veins, petiole 0.4-1.2 cm long, tomentose.
+Racemes with rhachis c. 2.5-5 cm long, or the flowers scattered in the upper leaf axils, pedicels 1.5-2.8 cm long, pubescent, strongly thickened in fruit.
+A prickly woody climber.
+Capparis tomentosa is a spiny, much-branched shrub or small tree, with an upright trunk and climbing, pubescent branches.
+C. zeylanica L. C. zeylanica L. is a climbing or straggling shrub with tomentose branches.
+Young stems and spines are covered in dense velvety yellow hairs.
+Flowers are fragrant with pale yellowish green petals, that surround a tuft of white or pink stamens, that grow up to 30 mm long.
+Leaves petiolate, blade elliptic-lanceolate, elliptic, oblong-elliptic, ovate or obovate, 1.5-9 cm.
+Pink to orange pendulous fruits.
+Fruit 30-50 mm in diameter.
+They are up to 40 mm in diameter, shiny green at first, ripening to pink or orange.
+Flowers are bisexual, bracteates, axillary or supra-axillary, solitary or in rows, in.racemes or umbels.
+The leaves form between the spines and are alternate, oblong to broadly elliptic , greyish-olive green, covered in velvet hairs , margins entire, rolled under.
+Ovary ovoid with 30 or more ovules, stigma indistinct, sessile.
+Sepals boat-shaped, 8-10 mm.
+Flowers are fragrant with pale yellowish green petals, that surround a tuft of white or pink stamens, that grow up to 30 mm long.
+Stamens many, up to 3 cm long.
+Seeds are dark brown, ovoid to kidney shaped and 1-15 mm long.
+Stamens are many, ovary on a gynophore, 1-celled.
+Sepals orbicular, outer ones often fused for 1-2 mm, inner ones free, broadly obovate, rarely oblanceolate, 1.2-2 cm long, puberulous to glabrous, with margin crisped or serrulate.
+Mostly a robust woody climber, which in riverine vegetation may grow to the top of.
+Sepals and petals are 4 in number and are free.
+Petals oblong or obovate-spatulate, 12-20 mm long, basally and marginally pubescent.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 0],
+["Shrub", 1],
+["Bush", 1],
+["Ficus strangler", 0],
+["Liana", 1],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 1],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 1],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 1]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 1],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 1],
+["Hooked spines randomly distributed on the axes", 1],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 1],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 1],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

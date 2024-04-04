@@ -1,0 +1,167 @@
+We are interested in obtaining botanical trait information about the species Rhopaloblaste ledermanniana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Individuals can grow to 30 m.
+Moderately robust, mid-storey, solitary palm bearing up to 11 leaves in the crown.
+Inflorescence 64 - 95 cm long, with a spread of 1.2 - 1.5 m, divaricate, branched to 4 or very rarely 5 orders, primary branches c. 18, 50 - 70 cm long, basal pair of primary branches strongly recurved, prophyll 26 - 37 cm long, 6 - 9 cm wide, with greyish brown, silky tomentum, peduncle 1.5 - 4 cm long, 4 - 6 cm diam., green with scattered reddish brown indumentum, rachillae slender, 17 - 36 cm long, 2 - 2.9 mm in diameter, greenish.
+Staminate flower 5 - 6 mm long, 3 - 4 mm diam.
+Pistillate flower 2 - 3 mm long, 3 - 3.5 mm diam., borne throughout the rachillae, sepals 1.4 - 1.5 mm long, 2.4 - 2.5 mm wide, rounded, petals 2.7 - 2.8 mm long, 1.5 - 1.8 mm diam., rounded with short triangular tips, staminodes 4, lobes 0.4 - 0.5 mm long, 0.4 - 0.5 mm wide at the base, acute at the apex, gynoecium 2.8 - 3 mm long, 1.9 - 2.1 mm diam., ovoid.
+Stem to 15 m tall, 8 - 10 cm diam., surface slightly rough with longitudinal grooves, dark olive-green, becoming brownish black with age, leaf scars prominent, internodes 6 - 8 cm.
+Seed 10 - 12 mm long, 8 - 10 mm diam., ellipsoid-ovoid, testa black.
+Very beautiful palms with those drooping leaflets.
+Fruit 15.5 - 21 mm long, 9.5 - 12 mm diam., ovoid-ellipsoid, yellowish green when immature, becoming orange- red in maturity, with cupule of persistent perianth 5 - 6 mm long.
+Definition: whole plant arborescent.
+Rank: FLOWERING.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Plant height": [
+["15 m", 1],
+["30 m", 1]
+],
+"Stem diameter": [
+["8 - 10 cm", 1]
+],
+"Leaf count": [
+["11", 1]
+],
+"Inflorescence length": [
+["64 - 95 cm", 1]
+],
+"Inflorescence spread": [
+["1.2 - 1.5 m", 1]
+],
+"Primary branches": [
+["18", 1]
+],
+"Peduncle length": [
+["1.5 - 4 cm", 1]
+],
+"Peduncle diameter": [
+["4 - 6 cm", 1]
+],
+"Staminate flower length": [
+["5 - 6 mm", 1]
+],
+"Staminate flower diameter": [
+["3 - 4 mm", 1]
+],
+"Pistillate flower length": [
+["2 - 3 mm", 1]
+],
+"Pistillate flower diameter": [
+["3 - 3.5 mm", 1]
+],
+"Sepals length": [
+["1.4 - 1.5 mm", 1]
+],
+"Sepals width": [
+["2.4 - 2.5 mm", 1]
+],
+"Petals length": [
+["2.7 - 2.8 mm", 1]
+],
+"Petals width": [
+["1.5 - 1.8 mm", 1]
+],
+"Staminodes lobes length": [
+["0.4 - 0.5 mm", 1]
+],
+"Staminodes lobes width": [
+["0.4 - 0.5 mm", 1]
+],
+"Gynoecium length": [
+["2.8 - 3 mm", 1]
+],
+"Gynoecium diameter": [
+["1.9 - 2.1 mm", 1]
+],
+"Seed length": [
+["10 - 12 mm", 1]
+],
+"Seed diameter": [
+["8 - 10 mm", 1]
+],
+"Testa colour": [
+["black", 1]
+]
+}

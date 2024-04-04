@@ -1,0 +1,310 @@
+We are interested in obtaining botanical trait information about the species Albizia lebbeck.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Calyx 3.5-5 mm long, grey-to fulvous-pubescent.
+The pods are pale straw to light brown at maturity, narrow-oblong 12-35 x 3-6 cm, papery-leathery, swollen over the seeds and not constricted between them, indehiscent and borne in large numbers.
+The chromosome number reported for A. lebbeck is 2n = 26.
+Leaves bipinnate, rachis 7.5-15 cm long, glabrous or tomentose, with a large gland 1.2-3.7 cm from the base, stipules c. 3-4 mm long, linear, caducous, tomentose.
+Decals en skins.
+Grows 15- 18m tall with a spread of 9-15m and a trunk diameter of 0.5 - 1m. Medium to fast growth at a rate of  0.5 - 2m p/a with a corresponding diameter growth of 18- 28mm p/a.
+Broadleaved Perennial Seed propagated Tree Vegetatively propagated Woody.
+Stamens 1.5-2.5 cm long, united basally for ±5 mm, tube not or scarcely exserted beyond the corolla.
+The gray, cork-like bark is fissured and somewhat flaky.
+Inflorescences are globular clusters of 16-40 white fragrant flowers.
+There is a round, depressed gland at the base of each set of leaflets.
+Peduncles axillary, 2 or more together, to 10 cm, corymbs 30-40-flowered.
+Trees usually attain a maximum height of up to 18 m.
+The inflorescence consists of large clusters 5-7.5 cm wide of fragrant pedunculate globular flower heads, 15-40, on stalks 5-10 cm long.
+Alles in Flms.
+The calyx has 5 fused sepals forming a tube.
+Leaves are Alternate, twice compound, with 2-6 pairs of pinnae, each pinna with 4-12 pairs of leaflets, leaflets elliptic-oblong, 2-4 cm long.
+Pods straw-coloured to light brown, 12-25 x 3-4.5 cm, oblong, valves coriaceous, glabrous or almost so, glossy, ± venose, conspicuously umbonate over the seeds, margins thickened, very tardily dehiscent and often only after falling to the ground.
+Tree to 15 m high with a rounded crown.
+The leaves of the plant are bipinnate, which are alternately arranged on the smooth, green twigs.
+Stipules caducous, small, leaf rachis with disklike glands near base and at base of pinnae, pubescent or glabrous, pinnae 2-4 pairs, 6-15 cm, leaflets 4-8 pairs, narrowly elliptic or slightly obliquely oblong, 2-4.5 x 1.3-2 cm, both surfaces glabrous or abaxially sparsely finely pubescent, main vein slightly closer to upper margin, apex obtuse or retuse.
+Flowers mimosa-like, in showy, rounded clusters near stem tips, 5-6 cm across, cream or yellowish-white, the numerous stamens are about 2 cm long.
+Calyx and Corolla are funnel-shaped, their pod is pale, flat, and straw-colored and remains on trees after a long-time of ripening.
+Fruit a flat, linear pod, to 30 cm long, with many seeds, dried pods persistent after leaf-fall, often heard rattling in the wind.
+Vorige pagina.
+Graines lenticulaires, de 9-15 mm de diam.
+Stamens white or light yellow-green, tube shorter than corolla tube.
+Flowers whitish, on pedicels 1.5-4.5 mm long, bracteoles 2-3 mm long, rapidly deciduous.
+Flowers are greenish-white and fragrant appearing in spring through mid-autumn.
+The tree was leafless and was entirely covered with these shiny pods.
+The pods are pale straw to light brown at maturity, narrow-oblong, papery-leathery, 15-25 cm long, 3-6 cm wide, swollen over the seeds and not constricted between them, indehiscent and borne in large numbers.
+Flowers cream-colored, fragrant, calyx funnelform, about 4 mm.
+The leaves are bipinnate, 7.5-15 cm long, with one to four pairs of pinnae, each pinna with 6-18 leaflets.
+A smooth trunk is accented by small leafed foliage and arching branches.
+Albizia lebbeck grows as a tree up to 20 m in height mand 2 m in diameter.
+Inflorescence pedunculate heads, solitary or fasciculated, peduncle 3.5-10 cm long.
+Seeds brown, 4-12, ellipsoidal, ca.
+The corolla has 5 greenish fused petals forming a tube twice the length of the calyx.
+Leaflets are obliquely oblong, bright green, folding at night.
+It is not clear whether the inflorescences are fascicled or in panicles.
+Deciduous tree with cracked gray bark, leaves bipinnate, with large gland above base of petiole, pinnae 1-4 pairs, leaflets 3-9 pairs, elliptic or obliquely oblong, 3-5 cm long, flowers creamish-white, in heads on up to 10 cm long peduncles, calyx 3-4 mm long, corolla 6-8 mm long, filaments yellowish-green, tube shorter than corolla tube, pod up to 30 cm long, 3-5 cm brad, flat, pale-straw coloured, 7-12 seeded.
+The bipinnately compound leaves are arranged alternately, to 65 cm long with pinnae in 2 pairs, each with up to10 leaflets.
+Corolla 5.5-9 mm long, glabrous except for puberulence towards the apices of the lobes.
+Seeds 6-12 compressed, pale brown, faveolate on both the faces.
+Seeds are brown, ellipsoidal ca.
+Legume straw-colored, strap-shaped, flat, 15-28 x 2.5-4.5 cm, remaining on trees long after ripening.
+The leaves turn a deep yellow color before falling during the dry season.
+The inflorescence is of corymb type with 30-40 flowers.
+Seeds are brown, flat, orbicular or elliptic, transversely placed with 4-12 in each pod.
+The entire inflorescence is 'fluffy' in appearance, 60 mm in diameter, yellow-green with a pleasant fragrance.
+Description Albizia lebbeck is a deciduous, perennial legume tree, upto 25 meter in height, with grey fissured corky bark, somewhat flaky, inner bark reddish.
+The fruit is a pod 15-30 cm long and 2.5-5.0 cm broad, containing six to twelve seeds.
+The fruit is a flat, dry legume that turns brown at maturity up to 30 cm long and 5 cm wide.
+There are numerous yellowish white stamens that are 7-10 times the length of the corolla.
+The fruits are 10-25 cm long and 3-6 cm broad, reddish-brown pods that contain 5-15 flat rounded, free moving seeds.
+Morphological description Deciduous unarmed  tree , growing to 30 m tall in native forests.
+Seeds 7-11.5 x 7-9 mm, flattened.
+Flowers dimorphic, fragrant, pedicels 3-4 mm, puberulent.
+Legume broadly linear or narrowly oblong, usually 15 or more cm.
+Seeds are brown, flat, orbicular or elliptic, 8-10 x 6-7 mm, transversely placed with 3-12 in each pod.
+A. lebbeck is a deciduous tree that can grow to 30 m in height with a stem diameter of 1 m, but more commonly it is 15-20 m tall and 50 cm in diameter at maturity, with grey fissured corky bark, somewhat flaky, inner bark reddish.
+Calyx campanulate 3-4 mm long, hairy, short toothed, teeth deltoid-acute.
+Albizia Julibrissin is a deciduous tree with light foliage and spreading crown, Leaves are large, conspicuous and bipinnate.
+Small or moderate, spreading tree, the branchlets puberulent when young soon becoming glabrous, conspicuously white-lenticellate.
+The glabrous glands are raised, elliptic to circular, on the upper side of the stalk, close to the base and between most pairs of leaflets.
+Fruits are pods, straw-coloured with prominent seeds that rattle in the wind when ripe.
+The flowers are white, with numerous 2.5-3.8 cm long stamens, and very fragrant.
+Silviculture of genus Albizia and species.
+The fruits of East Indian-walnut, frywood, koko, or lebbek are large, thin, straw-colored , 10-30 cm long and 2.5-5 cm wide, round at both ends or pointed at both ends, 6-12 seeded, seeds 6-9 mm, compressed, pale brown.
+Habit: tree up to 7 m high.
+Leaflets 3-9 pairs, petiolule c. 1 mm long, the lateral leaflets oblong, terminal obovate, obtuse or retuse, glabrous or hairy.
+Bark rough, grey, somewhat flaky, inner bark reddish.
+Inflorescences globose, peduncles 4-8 cm long, sparingly puberulous to pubescent.
+All Climbers Cycads & Succulents Forestry Trees Fruit Trees Grasses Ground Covers Ornamental Trees Palms Seasonal Flowers Shrubs.
+The seeds are relatively large.
+Floral filaments white to cream tipped with pale green, 1.5 - 3 cm long Mature tree in full flower Bipinnate leaves and immature pod Canopy with mature pods Mature pods flat, glabrous, coriaceous, indehiscent, 12 - 35 cm long.
+Inflorescence of many long-pedunculate umbels axillary from the subterminal nodes , peduncles 3-10 cm.
+The leaflets are up to 10 pairs, oblong to obovate, with a rounded leaf apex and entire margin.
+The compound leaves are bipinnate, glabrous or slightly hairy on the axis, pinnae in 2-4 pairs, each with 2-11 pairs of obliquely oblong to elliptic-oblong leaflets, 15-65 x 5-35 mm, shortly stalked, initially bright green and maturing to a duller glaucous green and folding at night.
+Bark grey to light brown, rough, young branchlets glabrous or pubescent.
+It is a tree growing to a height of 18-30 m tall with a trunk 50 cm to 1 m in diameter.
+Pod 15-30 cm long, c. 2.5-5.0 cm broad, thin, pale straw coloured.
+The tree bears innumerable heads of fuzzy, green and white scented flowers.
+Flowers whitish, very fragrant, pedicel hairy, c. 2-3 mm long, bracteate, bract 5 mm long, linear, caducous.
+Its bark is brownish-gray in color.
+General Information Trees, deciduous, 8-12 m tall.
+Flowers are dimorphic, puberulent, and fragrant white to greenish-yellow in color.
+Pinnae 1-4 pairs, 5-20 cm long, often with glands between the upper pairs of leaflets or between all the pairs.
+The sapwood is pale yellow and distinct and the heartwood dark walnut streaked with darker bands.
+A large deciduous tree with dark grey bark, usually cracked, young parts usually hairy.
+Flowers mimosa-like, in showy, rounded clusters near stem tips, 5-6 cm across, cream or yellowish-white, each flower with numerous long stamens.
+Fast Growing Profusion of White Blooms.
+Calyx funnel-shaped, ca.
+Volgende pagina.
+In open situations, trees develop a spreading, sometimes multi-stemmed habit , to 25 m tall and 30 m across, with low branching.
+They help in exchange of gases  similar to stomatas in leaves.
+The corolla is 5.5-9 mm long, glabrous, cream, white or green, with numerous pale green stamens on filaments 15-30 mm long.
+The flowers of  A. lebbeck  are hermaphroditic, fragrant, white to greenish-yellow and borne in rounded, axillary clusters, 2-3.8 cm in diameter at the ends of lateral stalks.
+Corolla green-yellow, funnel-shaped, 7-8 mm, lobes deltoid-ovate.
+They have narrow, tubular, white corollas and numerous stamens.
+Usually asymmetrical at base, dull green above, paler green below.
+Medium to large tree with gray-brown bark, leaves bipinnate, the primary leaflets subopposite, 2-4 pairs, ultimate leaflets opposite, 6-8 pairs, oblong, slightly asymmetric, blunt, 2.5-4.5 cm long.
+Corolla 7-8 mm long, funnel shaped, lobes c. 2 mm long, ovate, acute, hairy externally.
+Description General Information:.Trees, deciduous, 8-12 m tall. -¦ General Information:.
+A. lebbeck bears a slight resemblance to A. suluensis, but the latter may be readily distinguished by the crisped margins of the leaflets and by the golden indumentum on the calyx and corolla.
+Stamens 2.5-3.8 cm long, staminal tube slight¬ly shorter than corolla tube, anthers minute.
+Delicate small flowers are white and bloom in profusion and look like fluffy silk powder puffs followed by pods that can be heard rattling in the wind.
+The complete, perfect, actinomorphic flowers are in arranged in powder-puff ball heads.
+Leaves moderately large, mostly bipinnate, the pinnae 2-4 pairs opposite on the rachis, the leaflets 4-9 pairs, petiole 2-10 cm.
+Leaves subglabrous, puberulous or pubescent: petiole 4-8 cm long, usually with a raised gland a short distance above the pulvinus, rhachis 1.3-8 cm long, usually with a gland just below the junction of the top pinna pair, pinnae 2-4 pairs, rhachillae 4-11 cm long, often with a small gland below the junction of each leaflet pair, leaflets 3-9 pairs, 15-45 x 8-24 mm, obliquely oblong or elliptic-oblong , somewhat asymmetric with the midrib nearer the upper margin, rounded or somewhat emarginate apically, glabrous or rarely thinly pubescent above, glabrous to pubescent beneath.
+Albizia lebbeck is a deciduous, perennial legume tree, upto 25 meter in height, with grey fissured corky bark, somewhat flaky, inner bark reddish.
+The ovary is superior with a single locule.
+The bark in the last picture has a good growth of lichen, the circular grey spots.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 1],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 1],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 1],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 1]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 1],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 1],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 1],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

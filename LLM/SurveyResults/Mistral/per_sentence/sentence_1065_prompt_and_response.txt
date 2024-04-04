@@ -1,0 +1,53 @@
+We are interested in obtaining botanical trait information about the species Vernonia amygdalina.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves with petioles 0.2 to 1.5 cm.
+
+Initial dictionary of traits with all possible values:
+{"Petiole": ['Petiolated leaf'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Petiole": [
+    ["Petiolated leaf", 1]
+  ]
+}
+
+Note: The binary number '1' indicates that there is strong evidence for the value 'Petiolated leaf' in the input text. However, it is worth noting that the input text does not explicitly state that the leaves are petiolated, but rather mentions the length of the petioles. Therefore, a more cautious approach would be to assign a binary number of '0' to indicate that there is no strong evidence for this value in the input text. This would result in the following output:
+
+{
+  "Petiole": [
+    ["Petiolated leaf", 0]
+  ]
+}
+
+However, since the question asks for a binary number indicating whether there is strong evidence for the value, and the text does mention petioles, it is reasonable to assume that the leaves are petiolated, and therefore assign a binary number of '1'.
+
+Additionally, it is worth noting that the question asks for a dictionary containing all possible trait names and (value, evidence) tuples. However, the initial dictionary provided only contains one trait name ('Petiole') and one possible value ('Petiolated leaf'). Therefore, the output dictionary only contains one trait name and one (value, evidence) tuple. If there were additional trait names and possible values provided in the initial dictionary, they should also be included in the output dictionary, even if there is no strong evidence for those values in the input text. For example, if the initial dictionary contained the following traits and possible values:
+
+{
+  "Leaf": ["Simple leaf", "Compound leaf"],
+  "Petiole": ["Petiolated leaf", "Sessile leaf"]
+}
+
+The output dictionary should contain all possible trait names and (value, evidence) tuples, even if there is no evidence for some of the values in the input text. For example:
+
+{
+  "Leaf": [
+    ["Simple leaf", 0],
+    ["Compound leaf", 0]
+  ],
+  "Petiole": [
+    ["Petiolated leaf", 1],
+    ["Sessile leaf", 0]
+  ]
+}
+
+In this example, the binary number '0' indicates that there is no strong evidence for the values 'Simple leaf' or 'Compound leaf' in the input text, and the binary number '1' indicates that there is strong evidence for the value 'Petiolated leaf'. The value 'Sessile leaf' is not mentioned in the input text, and therefore the binary number '0' is assigned.

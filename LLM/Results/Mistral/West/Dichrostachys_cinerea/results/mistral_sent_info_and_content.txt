@@ -1,0 +1,257 @@
+We are interested in obtaining botanical trait information about the species Dichrostachys cinerea.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Pods are usually a mustard brown and are generally twisted or spiralled and may be up to 100 by 15 millimetres.
+The pink/yellow flowers are fragrant and appear in spring and resemble a ballerina with a pink skirt and yellow legs.
+Seeds biconvex, elliptic to subcircular, 4 mm long, 2-4 mm wide, pale tan, glossy, pleurogram elliptic.
+The petioles are up to 50 mm long and the leaf length varies between 10 and 160 mm.
+Lock JM, Heald J, 1994.
+Fruit A flat, linear pod, coiled, indehiscent, opening from apex, seeds 4-6, ovoid, compressed.
+Fruit a pod, linear, flat, coiled, continuous within, indehiscent or opening from apex, seeds 4-6, ovoid, compressed.
+Plant Type: Groundcover.
+They typically grow up to 7 metres in height and have strong alternate thorns , generally up to 8 cm long.
+The bipinnately compound leaves are up to 15 centimetres long.
+The tree generally grows at a medium to slow rate, 6 to 8 centimetres per year.
+Deciduous – Sheds Its Leaves Annually.
+Pods are usually a mustard brown and are generally twisted or spiralled and may be up to 100 by 15 millimetres.
+Flowering Colour: pink | yellow.
+The upper flowers are sterile with protruding staminodes and the lower flowers are hermaphroditic with 1 pistil and 10 yellow stamens each.
+Alantsilodendron pilosum Villiers All Media Synonyms Common Names Overview Nomenclature and Classification Natural History Habitat and Distribution Occurrence Demography and Conservation Uses and Management Information Listing Meta data ð Synonyms No Data ð Common Names English Kalahari Christmas tree Marabou-thorn Painted Thorn Bush Princess's Earrings Sickle bush Gujarati Marud Mordundiyun Hin Vurtuli Hindi
+The bark on young branches is green and densely to sparsely puberulous, and on the older branches is dark-grey brown and longitudinally fissured.
+The roots are non aggressive.
+Dichrostachys cinerea and Deciduous . See more » Dichrostachys Dichrostachys is an Old World genus of legumes in the Fabaceae family.
+Leaves bipinnate, alternate, stipulate, stipules 2, minute, lateral, rachis 30-65 mm, slender, pulvinate, pubescent, pinnae 5-15 pairs, 1.5-2 cm, opposite, even pinnate, slender, pulvinate, pubescent, with a gland between each pairs, leaflets 24-50, opposite, sessile, estipellate, lamina 0.2-0.3 x 0.1 cm, oblong, base obtuse, apex acute, margin entire, ciliate, tomentose, chartaceous, nerves obscure.
+The branches have strong alternate lateral shoots to 8 cm long appearing as thorns that may have leaves at the base.
+Flowers of the Dichrostachys cinerea are characteristically in bicoloured cylindrical spikes that resemble Chinese lanterns and are 6 to 8 centimetres long and fragrant.
+Field tips Bark grey or light brown.
+The bark is rough, yellow to grey-brown and frequently fissured and the stem is rarely thicker than 230 mm.
+Inflorescence spicate, solitary on a bracteate, short shoot, 6-9 cm long including the glabrous to puberulous peduncle.
+Suitable for warm areas, this shrub, with acacia-like leaves, produces unusual pendulous, dummy-shaped flowers with a pink upper half and a yellow tip.
+Shrub or small tree, leaves bipinnate with glands on rachis between pinnae, pinnae 4-18 pairs, leaflets 8-20 pairs, 2-6 mm long, margin hairy, flowers in spikes with lower flowers pink and sterile, upper yellow and fertile, pod coiled, up to 10 cm long.
+Licenses - CC_BY References - Reproduction Migration Dispersal Life Expectancy Size Growth Morphology Growth Form Tree Obtuse Contributor Keystone Foundation Uploader admin view original Alternate-spiral Contributor Keystone Foundation Uploader admin view original Entire Contributor Keystone Foundation Uploader admin view original Bipinnate Contributor Keystone Foundation Uploader admin view original Acute Contributor Keystone Foundation Uploader admin view original Elliptic Contributor Keystone Foundation Uploader admin view original Flower
+Licenses - CC_BY References - Diagnostic Diagnostic Keys Description Small thorny trees, to 6 m high spines axillary, straight, often leaf bearing, bark grey or brownish, with vertical fissures, peeling off in thin flake, branchlets densely pubescent, spine-tipped.
+Flowers polygamous, 2 mm across, in solitary or axillary paired spikes, upper flowers bisexual, yellow, lower ones neutar, pink or purple, bracts oblong, calyx tube campanulate, lobes 5, petals 5, lanceolate connate below, pubescent, valvate, stamens 10, free, exserted, anthers ending in stalked glands, ovary 0.5 mm, subssessile, pubescent, style 3 mm, stigma terminal, truncate.
+Dichrostachys cinerea is a spiny, deciduous shrub or small tree, up to 7 m high, with a rounded crown, 3 m wide.
+­­Upper flowers of a hanging spike are sterile, and are of a lilac or pale purple.
+Leaves are bipinnate, 4-8 cm long with 2-11 pairs of pinnae, each one with 12-22 pairs of leaflets, linear, obtuse to acute, straight to incurved, 2.5-4 mm long, 0.8-1.5 mm wide, ciliolate, otherwise glabrous.
+The wood is very heavy and dark, the heartwood is dark brown and sapwood is light brown or yellow with dark streaks.
+Leaf Arrangement Alternate-spiral Leaf Type Bipinnate Leaf Shape Elliptic Leaf Apex Acute Leaf Base Obtuse Leaf Margin Entire Keystone Foundation Attributions - Keystone Foundation Contributors - Keystone Foundation Status - UNDER_CREATION
+Leaf axes puberulous to minutely pilose, sometimes with red hairlets, especially near base of pinnae, glands peg-like at base of pinnae pairs.
+The twice-compound, petiolate leaves are very variable in size with 4 to 19 pairs of pinnae and each pinna with 9 to 41 pairs of leaflets, giving it an Acacia -like appearance.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+Description Top of page.D. cinerea is a highly variable thorny shrub or small tree to 8 m tall though often smaller.
+Dichrostachys cinerea and Genus . See more » Giraffe The giraffe is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants.
+The fine foliage resembles that of the Umbrella Thorn, The tightly twisted pods also resemble those of the Umbrella Thorn.
+Brasilia Branch A cluster of immature indehiscent pods, spiny shoots and leaves of D. cinerea near Bulawayo, Zimbabwe.
+Seed plants / A---L / F / Fabaceae / Dichrostachys / Dichrostachys cinerea.
+Lower half pink flowers, sterile, upper half yellow, fertile.
+The young twigs are slightly hairy and a characteristic feature is that the spines are not modified stipules but hardened branchlets, ending in a straight, sharp point.
+The pods are dark-brown and twisted in form in clusters, narrowly oblong, variously curved and/or coiled, 5-7 cm long, 8-15 mm wide, blackish, glabrous.
+Colour of the flower :Pink and yellow.
+The species is most commonly known as the 'sickle bush' derived from the curved shape of the pods.
+Upper flowers of a hanging spike are sterile, and are of a lilac or pale purple.
+The flowers are 25 to 50 mm long, pendulous spikes that are borne in the leaf axils, singly or in bundles.
+Each pod contains a large number of seeds, young pods are curved, resembling sickles.
+Dichrostachys cinerea – Espx¨ces Envahissantes Outre-mer.
+In solitary or paired spikes, bicoloured, upper flowers fertile, yellow, lower ones sterile, pink.
+Each flower produces a mass of flat, coiled green pods that turn brown and later fall to the ground.
+It can produce 130 new stems from root suckers within a 15 m radius from the main trunk over 10 years.
+This shrub has acacia-like leaves.
+Terrestrial, Medium sized tree.
+They typically grow up to 7 metres in height and have strong alternate thorns, generally up to 8 cm long.
+A small thorny tree, upto 6m. Keystone Foundation Attributions - Keystone Foundation Contributors - Keystone Foundation Status - UNDER_CREATION
+This plant produces unusual pendulous, dummy-shaped flowers with a pink upper half and a yellow tip.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 1],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 1],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 1],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 0],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 1],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 1],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 1]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 1],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 1],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 1],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 1],
+["Red coloured flower", 0],
+["Yellow coloured flower", 1],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

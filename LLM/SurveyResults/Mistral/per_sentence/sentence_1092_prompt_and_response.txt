@@ -1,0 +1,58 @@
+We are interested in obtaining botanical trait information about the species Acacia polyacantha ssp. campylacantha.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flowers: Bisexual, 4 mm across, white, in leaf-axils solitary or paired spikes, to 8 cm, flower-cluster-stalk to 1 cm, bracts to 6 mm, bracteoles cauducous, calyx 5-lobed, to 1.5 mm, woolly, flower to 3 mm long, lobes 5, stamens many, to 4 mm, basally fused, ovary stipitate, oblong, to 1 mm, style to 4 mm.
+
+Initial dictionary of traits with all possible values:
+{"Leaf shape": ['Bipinnate leaf'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Leaf shape": [
+["Bipinnate leaf", 0]
+],
+"Flower shape": [
+["Bisexual", 1],
+["4 mm across", 1],
+["White", 1]
+],
+"Flower arrangement": [
+["In leaf-axils solitary or paired spikes", 1],
+["To 8 cm", 1]
+],
+"Flower stalk": [
+["Flower-cluster-stalk to 1 cm", 1]
+],
+"Bracts": [
+["Bracts to 6 mm", 1],
+["Bracteoles cauducous", 1]
+],
+"Calyx": [
+["5-lobed", 1],
+["To 1.5 mm", 1],
+["Woolly", 1]
+],
+"Petals": [
+["5", 1]
+],
+"Stamens": [
+["Many", 1],
+["To 4 mm", 1],
+["Basally fused", 1]
+],
+"Ovary": [
+["Stipitate", 1],
+["Oblong", 1],
+["To 1 mm", 1]
+],
+"Style": [
+["To 4 mm", 1]
+]
+}

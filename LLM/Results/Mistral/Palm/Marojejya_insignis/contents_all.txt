@@ -1,0 +1,233 @@
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 0],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 0],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 0],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 0],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 0],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 0],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 0],
+    ["ovoid", 0],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ],
+  "Inflorescence arrangement": [
+    ["hidden amongst leaf bases", 1],
+    ["branched to 1 order", 1]
+  ],
+  "Flower type": [
+    ["staminate", 1],
+    ["pistillate", 1]
+  ],
+  "Flower size": [
+    ["rather small", 1],
+    ["much larger", 1]
+  ],
+  "Sepals": [
+    ["3", 1],
+    ["free", 1],
+    ["unequal", 1],
+    ["narrow", 1],
+    ["ovate", 1],
+    ["keeled", 1],
+    ["chaffy", 1],
+    ["ciliate margined", 1],
+    ["distinct", 1],
+    ["somewhat chaffy", 1],
+    ["ovate with triangular tips", 1]
+  ],
+  "Petals": [
+    ["3", 1],
+    ["unequal", 1],
+    ["ovate", 1],
+    ["keeled", 1],
+    ["ciliate margined", 1],
+    ["distinct", 1],
+    ["similar to the sepals", 1],
+    ["larger", 1],
+    ["short, triangular, valvate tips", 1]
+  ],
+  "Leaves": [
+    ["erect", 1],
+    ["obscurely ringed with leaf scars", 1],
+    ["short", 1],
+    ["sometimes with short root spines", 1],
+    ["numerous", 1],
+    ["massive", 1],
+    ["pinnate", 1],
+    ["entire", 1],
+    ["crown often filled with fibres", 1],
+    ["sheath with or without rounded auricles", 1],
+    ["petiole absent or thick and wide at the base", 1],
+    ["gradually tapering to the rachis", 1],
+    ["adaxially channelled", 1],
+    ["abaxially rounded", 1],
+    ["densely covered with caducous, dense brown scales", 1],
+    ["rachis adaxially deeply channelled", 1],
+    ["abaxially rounded basally", 1],
+    ["becoming laterally channelled distally", 1],
+    ["densely scaly at the base", 1],
+    ["blade undivided", 1],
+    ["± pinnate", 1],
+    ["to 5 m long", 1],
+    ["irregularly split", 1],
+    ["pinnate with two or more leaflets", 1]
+  ],
+  "Germination": [
+    ["adjacent-ligular", 1],
+    ["eophyll bifid", 1],
+    ["with or without a petiole", 1]
+  ],
+  "Staminodes": [
+    ["6", 1],
+    ["narrow", 1],
+    ["triangular", 1]
+  ],
+  "Gynoecium": [
+    ["gibbous", 1],
+    ["unilocular", 1],
+    ["uniovulate", 1]
+  ],
+  "Ovule": [
+    ["large", 1],
+    ["pendulous", 1],
+    ["campylotropous", 1]
+  ],
+  "Fruit": [
+    ["asymmetrically globular", 1],
+    ["perianth persistent", 1],
+    ["stigmatic remains forming a large lateral beak", 1],
+    ["epicarp smooth", 1],
+    ["mesocarp thin", 1],
+    ["granular", 1],
+    ["endocarp composed of several layers of broad, soft anastomosing fibres closely adhering to the seed", 1]
+  ],
+  "Seed": [
+    ["irregularly rounded", 1],
+    ["flattened", 1],
+    ["± kidney-shaped", 1],
+    ["smooth or grooved and ridged", 1],
+    ["subapically attached", 1],
+    ["endosperm homogeneous", 1],
+    ["embryo basal", 1],
+    ["opposite the fruit attachment", 1]
+  ],
+  "Tree size": [
+    ["medium to large", 1],
+    ["solitary", 1],
+    ["pinnate", 1],
+    ["to 8m tall", 1]
+  ],
+  "Root": [
+    ["ovule with distinct tannin and fibrous and vascular bundle layer around locule", 1]
+  ],
+  "Stem": [
+    ["erect", 1]
+  ],
+  "Stigma": [
+    ["3", 1],
+    ["large", 1],
+    ["triangular", 1],
+    ["recurved", 1]
+  ],
+  "Flower arrangement": [
+    ["condensed unisexual inflorescences", 1],
+    ["among the leaf sheaths", 1],
+    ["having both sexes found on the same tree", 1]
+  ],
+  "Habitat": [
+    ["rain forest in Madagascar", 1]
+  ],
+  "General appearance": [
+    ["robust squat litter-trapping palms", 1],
+    ["always look a bit on the wind-shredded side", 1]
+  ],
+  "Pistillode": [
+    ["small", 1],
+    ["3 lobed", 1]
+  ],
+  "Stamens": [
+    ["6", 1],
+    ["basally connate", 1],
+    ["the distinct portions flattened", 1],
+    ["tapering", 1],
+    ["elongate", 1],
+    ["inflexed at the tip", 1]
+  ],
+  "Anthers": [
+    ["medifixed", 1],
+    ["± versatile", 1],
+    ["latrorse", 1]
+  ],
+  "Receptacle": [
+    ["± boat-shaped", 1],
+    ["valvate", 1],
+    ["coriaceous", 1],
+    ["connate basally for 1/3 their length", 1],
+    ["adnate to the receptacle", 1]
+  ],
+  "Spacing": [
+    ["10-12 ft.", 1],
+    ["12-15 ft.", 1],
+    ["15-20 ft.", 1]
+  ]
+}
+
+

@@ -1,0 +1,105 @@
+We are interested in obtaining botanical trait information about the species Masoala madagascariensis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Rank: GERMINATING.
+Adaxial juvenile leaves of seedling.
+Pistillate flowers ovoid, much larger than the staminate, sepals 3, distinct, broadly imbricate, triangular, keeled, coriaceous, shiny, petals 3, distinct, imbricate with valvate tips, triangular, coriaceous, striate, staminodes 6, distinct, tooth-like, gynoecium ovoid, with a conspicuous beak, unilocular, uniovulate, stigmas 3, large, triangular, appressed in bud.
+Seed depressed globose, basally attached, endosperm homogeneous, embryo basal.
+Staminate flowers symmetrical, sepals 3, distinct, imbricate, coriaceous, triangular, strongly keeled, petals 3, distinct, triangular, about 3 times as long as the sepals, coriaceous, stamens 6, filaments slender, distinct or briefly connate at the base, anthers elongate, basifixed, latrorse, pistillode columnar, deeply grooved, ± equalling the stamens in length.
+Rank: SEEDLING.
+A rather fat and massive litter-trapping species, it grows pinnate leaves up to 4m in length atop 10m trunks.
+Stem erect, short, covered with remains of the leaf sheaths.
+Fruit ellipsoid, yellowish brown at maturity , beaked and with stigmatic remains apical, epicarp smooth, mesocarp fleshy, endocarp composed of coarse longitudinal fibres.
+Full Sun Sun to Partial Shade Light Shade Foliage: Evergreen Foliage Color: Unknown - Tell us Height: 8-10 ft. 10-12 ft. 12-15 ft.
+Robust, solitary, unarmed, pleonanthic, monoecious palms.
+Robust squat litter-trapping palms from rain forest in Madagascar, with lax erect bisexual inflorescences, and fruit with apical stigmatic remains.
+Rank: FLOWERING.
+Spacing: 12-15 ft. 15-20 ft.
+.It was about 12" tall when planted, but the leaves are now about 3 ft long.
+Definition: whole plant arborescent.
+Leaves. pinnate with two or more leaflets.
+Quite an amazing palm, beautiful petiole.
+A large, squat litter collecting palm, with erect leaves.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

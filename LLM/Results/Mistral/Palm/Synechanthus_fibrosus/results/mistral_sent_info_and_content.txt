@@ -1,0 +1,136 @@
+We are interested in obtaining botanical trait information about the species Synechanthus fibrosus.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+It is a solitary pinnate palm from Central America where it can grow up to 15' tall.
+A nice, unusual understory palm that one.
+The trunks of both are slender, rarely more than 2.5 cm wide, growing to 4.5 m tall, usually dark green, they are ringed by white leaf scars.
+Single trunk, very thin trunk.
+The leaflets are thin, dark glossy green,.and irregularly clustered along the rhachis.
+A small, solitary palm to about 5m tall, with arching,.pinnate leaves to 2m long.
+The single seed has homogeneous endosperm and a centrally placed embryo.
+Monkey Tail Palm. forms a slender trunk to about 12 ft. tall, topped by a orange crownshaft and a spreading.
+Stems solitary, slender, smooth, green, prominently ringed, rarely as much as a 5-6 m. high, 2-3 em.
+Seed not adherent to endocarp, with inconspicuous basal hilum, raphe branches distinctive, large, ascending adaxially from the base, little anastomosed, curving laterally and descending abaxially, endosperm homogeneous or minutely ruminate marginally to markedly ruminate, embryo lateral above the middle to subapical.
+The staminate flowers mature from green to yellow, triangular in bud, with three sepals fused into a lobed cupule and three valvate petals.
+Acervuli of a pistillate and usually 59 staminate flowers, staminate flowers ca.
+It has arching 4' leaves with large, wide, lancelote leaflets arranged in a somewhat plumose pattern around the petioles.
+The three stigmas are recurved with elongated, laterally attached ovules.
+The large fruit is round or slightly egg shaped, maturing to bright red or orange in color, with a fleshy mesocarp and a membranous endocarp.
+The pistillode, when present, is small, ovoid and three lobed.
+The pistillate flowers are also yellow with three cupped sepals and three longer, imbricate petals.
+Definitie: whole plant growth form.
+Fruit globose to ellipsoid, very fleshy and slippery when bruised, changing from yellowish-green to yellow orange and finally scarlet, 14-21 mm.
+Inflorescence: Branched, born below.
+Height: 10-15 ft.
+Moderate solitary or clustered pinnate-leaved monecious palms from forest undergrowth in Central and northern South America, inflorescence has stiff rachillae bearing flowers in acervuli.
+The flowers are arranged on the rachillae such that the pistillate members are proximal, with 5 - 13 staminate flowers at the distal end.
+Cold Hardiness: 26-28ºs F. Trunk type: Single trunk, very thin trunk.
+There are four to five peduncular bracts, longer than the prophyll, with the distalmost exceeding the peduncle.
+Leaf type:  Pinnate with somewhat irregular width leaflets and some.
+Stem slender, usually erect, rarely decumbent, smooth, yellowish or glossy deep or dark olive-green, ringed with prominent widely spaced leaf scars.
+The petioles and the leaves are a glossy.
+Pollen ellipsoidal, slightly asymmetric, aperture a distal sulcus, ectexine tectate, scabrate-perforate, aperture margin similar or very slightly finer, infratectum columellate, longest axis ranging from 25-32 µm, post-meiotic tetrads tetrahedral, rarely tetragonal or rhomboidal.
+Trunk has nice rings on it and the fruit.
+The inflorescence emerges in the leaf crown but sags pendent in fruit, once or twice branched and solitary.
+Definitie: having length notably greater than width.
+It has arching 4' leaves with large, wide, lancelote leaflets arranged in a. somewhat plumose pattern around the petioles.
+Leaf , distinguished from other palms by guard cells with only one outer cutinised ledge.
+Moderate, solitary or clustered, unarmed, pleonanthic, monoecious palms, sometimes flowering when still acaulescent.
+Pistillate flowers yellowish at anthesis, sepals 3, connate in a 3-lobed cupule, petals 3, distinct, imbricate, twice as long as the sepals or more, staminodes apparently lacking or 3, minute, or connate in a 6-lobed ring and partially adnate to the petals, gynoecium, ovoid, drying 3-angled, trilocular, triovulate, stigmas 3, short, recurved, ovules laterally attached, campylotropous but laterally elongate.
+It has a slender,.
+Flowers borne in mostly distichously arranged lines of a proximal pistillate and 5-13 distal, biseriate, staminate flowers, the distal flower of the acervulus opening first and subsequent flower-opening basipetal.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+The pinnate leaf is over a meter long, borne on a 30 cm petiole, the rachis is angled above and rounded below, the leaflets are slightly offset, occasionally twisting, the apical set being widest.
+The rachis is elongated bearing slender rachillae with slender, spinelike tips.
+The leaf undersides and rhachis has an unusual bluish/violet color.
+Cold Hardiness: 26-28ºs F. Trunk type: Single trunk, very thin trunk.
+Leaves few, glossy deep-green, sheath and petiole together to 1.1 m. long or more, the sheath tubular and the petiole short on new leaves but the sheath soon splitting opposite the petiole, functioning as and differentiated from the petiole only by the deeply channelled upper surface and a narrow, usually fibrous strip along the margin, petiole convex below, concave above, rachis convex below, angled above, ca.
+It is a solitary pinnate palm from Central America where it can grow up to.
+Spacing: 4-6 ft. 6-8 ft.
+Leaves reduplicately pinnate, sheath elongate on new leaves but soon splitting opposite the petiole and differentiated from it only by a narrow, usually fibrous, dry strip along each margin, petiole circular in cross-section, rachis angled adaxially, rounded abaxially, leaflets broadly reduplicate at insertion, acute to acuminate, slightly to markedly sigmoid
+Fruit rather large, round or elongate, yellow, becoming red at maturity, with basal stigmatic remains, epicarp smooth, mesocarp fleshy with few slender, loosely anastomosing, flat fibres against the membranous endocarp.
+Arecaceae genera Chamaedoreeae Neotropical realm flora Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+A long crownshaft, and arching leaves with drooping.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+("black", 0),
+("blue", 0),
+("bluish", 0),
+("brown", 0),
+("brownish", 0),
+("chocolate", 0),
+("coral", 0),
+("crimson", 0),
+("darkgreen", 0),
+("green", 0),
+("greenish", 0),
+("grey", 0),
+("ivory", 0),
+("magenta", 0),
+("maroon", 0),
+("olive", 0),
+("orange", 1),
+("orangish", 1),
+("pink", 0),
+("pinkish", 0),
+("plum", 0),
+("purple", 0),
+("purplish", 0),
+("red", 1),
+("reddish", 1),
+("tan", 0),
+("violet", 0),
+("white", 0),
+("whitish", 0),
+("yellow", 0),
+("yellowish", 0)
+],
+"Fruit colour": [
+("black", 0),
+("blue", 0),
+("brown", 0),
+("green", 0),
+("grey", 0),
+("ivory", 0),
+("orange", 1),
+("pink", 0),
+("purple", 0),
+("red", 1),
+("white", 0),
+("yellow", 0)
+],
+"Crown": [
+("both", 0),
+("canopy", 0),
+("understorey", 1)
+],
+"Fruit size": [
+("large", 1),
+("small", 0)
+],
+"Fruit shape": [
+("ellipsoid", 0),
+("elongate", 1),
+("fusiform", 0),
+("globose", 0),
+("ovoid", 0),
+("pyramidal", 0),
+("rounded", 1)
+],
+"Conspicuousness": [
+("conspicuous", 0),
+("cryptic", 0)
+]
+}

@@ -1,0 +1,233 @@
+We are interested in obtaining botanical trait information about the species Pritchardia glabrata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+They are stiff and on-pendent, even in older leaves.
+Pollen ellipsoidal, with slight to obvious asymmetry, occasionally oblate triangular, aperture a distal sulcus, less frequently a trichotomosulcus, ectexine tectate, scabrate, or perforate, aperture margin similar, infratectum columellate, longest axis 38-53 µm.
+The fruit are 7/8 inch long by 3/4 inch wide.
+The leaf crown is nearly spherical and is open because of the 4 foot long stout petioles.
+Leaves: Wavy about 65-75 cm long from ligule to leafl-tip, Leaflets up to 70 cm long, chartaceous, strongly folded , finely but not deeply split and the split parts are pendant, even in short palms, green above and below, and dotted below with tiny round transparent scales, Petioles smooth and devoid of scales about 40 cm long.
+A distinguishing character of this species is the long, tangled, woolly hairs on the underside of the petioles and at the base of the lower leaf blade.
+Fruit spherical or ovoid, developing from 1 carpel only, bearing apical stigmatic and sterile carpel remains, calyx persistent, epicarp smooth, mesocarp rather thin, fleshy, fibrous, endocarp thin, woody and rather brittle, sometimes thickened at the base.
+The leaf crown is hemispherical, with large, stiff, wedge shaped, 3 foot long leaves on 4 foot long petioles.
+The fruit are small yellowish or reddish brown globose shaped becoming intensely bluish or nearly black when ripe.
+Numerous small, globose or ovoid, 21-24 mm long 16-20 mm wide, on fruit stalks as long as the leaf stalks.
+The leaf crown is hemispherical or slightly more, and the leaves are semicircular, deep green on both sides with long-tipped  segments whose apices are pendulous.
+The segments are short and stiff in new leaves, turning pendent at the apices with age.
+P. arecina has large round to ovoid fruit 2 inches across are dark brown to black and shiny when ripe.
+The coloration when ripe is about the same, but P. arecina is tannish gray before it turns black.
+Palm grows to 15-20' and has large, wedge-shaped stiff upright leaves without any drooping of leaflets to speak of.
+The leaves are a waxy dark green on both sides, the segments run approximately 1/3 the way to the hastula of the leaf and are stiff to apices.
+Starting to show droopiness in the leaves.
+Back to Arecaceae index.
+Crown: Canopy open, with ca.
+The fruit are one inch wide, round and glossy black when ripe.
+This species has stems with a diameter of 8 to 10 inches, are grayish, longitudinally grooved, and grow to a height of 40 feet or more.
+Leaf color is deep olive to nearly bluish green above but silvery bronze beneath because of a dense covering of felty scales.
+The petiole is stout, five feet long, light brownish, and covered in a chalky, light brown to almost white felt when young.
+The leaves of this species are relatively narrow compared to the most popoular species like P pacifica where they are nearly a complete circle.
+The leaf crown is spherical and dense.
+The inflorescences are five feet long and many branched, they bear small yellowish bisexual flowers.
+The inflorescences are shorter than the leaf crown with stout hairless yellowish flower clusters.
+The fruit are globose to obovoid 1 to 2 inches long and 1 to 1 1/2 inches wide.
+The leaf crown is open and nearly spherical because of the 3 to 4 foot long, stout, felt-covered petioles.
+The leaf crown is spherical or nearly so, and the stiff 3 foot-wide leaves are large semicircles of dark green, the underleaf displays  a golden tomentum.
+This is one of the tallest species in the genus, the trunk rises to an incredible height of 130 feet, with a diameter of 1 foot.
+The blade is flat and the segments extend into the blade to two thirds its depth, they are stiff when young but become lax and pendent with age.
+The segments penetrate 1/3 to 1/2 of the leaf blade and sport drooping tips.
+It is a medium sized palm resembling Pritchardia hardyi with a trunk up to 25 feet in height, a crown with 10 to 26 leaves.
+It is a large tree with a trunk that attains a height of fifty feet or more and a diameter of one foot.
+Seed ± spherical, basally or subbasally attached, with rounded hilum, endosperm homogeneous, the seed coat slightly thickened by the hilum but endosperm without conspicuous intrusion of the seed coat, embryo basal.
+The leaves are flat and the costa does not extend much into the blade, they tend to fold in down both sides of the blade as they age.
+The segments are somewhat longer and slightly pendent.
+The trunks loulu were notched for climbing to gather the immature fruits and fronds.
+The fruit are small and ellipsoidal about 1 1/2 to 2 inches long by 1 to 1 1/2 inches wide narrowing at both ends.
+The fruit are 3/4 inch long by 1/2 inch wide when dry.
+The panicle branches to 2 or 3 orders and the rachillae are clothed in short, dense reddish brown hairs.
+These palms vary in height, ranging from 6 to 40 m.
+The leaf crown is open and hemispherical unless dead leaves persist.
+To 5 m tall, proximal margins of petiole with only a few fibers, leaf blade undulate, divided 1/2, abaxial surface incompletely covered with scattered lepidia, segment tips stiff to drooping, inflorescences composed of 1-3 panicles, shorter than or equaling petioles in flower and fruit, panicles branched to 2 or 3 orders, rachillae glabrous, fruits 20-30 x 20-2S mm, globose to ellipsoid.
+Rank: SEEDLING.
+The leaves are 40 inches wide, semicircular and mounted on large 2 foot-long petioles.
+It is a fast palm with barely divided, pleated fan leaves.
+Both trees produce medium size fruit, approximately 3/4 inch in diameter.
+Rank: FLOWERING.
+The leaf crown is spherical because of the persistent dead leaves, it attains a spread of fifteen feet.
+The fan shaped leaves’ lower surfaces are ashy-silvery along the petioles and ridges of segment folds.
+The seeds on that mature specimen were 3/4 inch in diameter.
+They are bright clear green on both sides, the segments are slightly pendent at their apices.
+The infructescences extend up to twice the length of the leaves, hold fruit approximately 1 1/2 inches in diameter that are dark brown to black when ripe.
+The trunk of this variety attains a height of 25 feet.
+Individual leaves are deep green, 3 feet long, semicircular to wedge shaped, and deeply costapalmate.
+They are waxy glaucous, sometimes to the point of appearing silvery as in the case of a specimen growing in the Ho’omaluhia Botanical Garden on Oahu.
+It has a definite yellow-golden hue in the petioles and the ribs of the leaves both the upper and lower surfaces.
+The inflorescences are long and extend well out of the crown.
+The species’s slender trunk grows to a height of 20 feet, it has an attractive, small, spherical and dense crown.
+The flower stalk grows past the ends of the leaves.
+Tomentum on underleaf is silvery-white on younger leaves of the same tree.
+It is light brown and covered with dense, brown leaf sheath fibers in its younger parts.
+This specimen growing in a private garden in Muolea is more than 30 years old, the trunk is approximately 3 feet in height and has a diameter of 6 inches.
+It is known by its tall trunks, large spherical and full crown of leaves with drooping segment tips and infructescences with small fruit approximating the length of the leaf blades.
+The trunk of this tree grows to a height of 55 feet, some even to 80 feet.
+These trees grow a stem to 65 feet or more in height with a diameter of approximately 10 inches.
+Spacing: 6-8 ft. 8-10 ft.
+The trunk of this species grows to a height of 80 feet or more, it is 1 foot in diameter.
+The petioles are long, stout and unarmed, often covered in a dense chalklike light tomentum as are the sheaths.
+The leaf segments  extend to one third of the leaf blade, and the stout petioles extend into the blades, forming a distant midrib.
+Moderate solitary hermaphroditic fan palms found on scattered islands through the western Pacific and with a major radiation on the Hawaiian Islands, immediately recognisable by the long peduncles and flowers in which the tip of the corolla falls off to expose the stamens.
+The leaves of this palm were very flat and about four to five feet in diameter.
+They have solitary trunks or stems, are monoecious with costapalmate leaves.
+P. hillebrandii is a medium sized palm with trunks that grow to 25 feet.
+The ovoid seeds off the parent tree are 2 inches in diameter and are dark brown to black and shiny when ripe.
+The crown consists  of some 15 to 20 leaves that are nearly circular with a diameter of 3 1/2 to 4 feet held on petioles 2 to 3 feet long.
+The trunks are longitudinally grooved and faintly ringed by leaf base scars.
+The stems attain a height of 50 feet.
+This palm is slow growing, short and stocky with a trunk that attains a height of 12 feet and a diameter of 1 foot.
+Moderate, solitary, unarmed, pleonanthic, hermaphroditic tree palms.
+The flowers and subsequent fruit are borne in a terminal cluster with simple or compound branches of an arcuate or pendulous inflorescence that is longer than the leaves.
+The fruit are oblate, dark brown to black and 1 1/2 to 2 inches across.
+Deep brown with closely set leaf scar rings, the trunk shows off narrow vertical fissures.
+The leaf blades are glossy light green, deeply divided, with pendulous segment tips.
+They produce round black fruit less than 1 inch in diameter.
+These trees range from twenty five to a hundred feet in height.
+Stem erect, sometimes deeply striate, ringed with close leaf scars.
+They are brown to black with brown spots when ripe.
+The leaf blade is slightly folded and cup shaped when young.
+The fruit are medium to small ellipsoid to obovoid and purplish black in color.
+The parent tree grows at an elevation of approximately 1000 feet.
+Leaf , roots , floral , fruit , endocarp.
+The leaves are small, dark green and wedge shaped.
+The inflorescences are shorter than the leaves and produce globose fruit approximately 1 to 1 1/2 inches in diameter that are purple to black when ripe.
+The trunk of this species grows to 20 feet in height and 1 foot in diameter.
+The leaf crown is massive, dense and spherical with short inflorescences.
+Encyclopedia Index Families Genera Species Arecaceae Pritchardia Palms.
+Germination remote-tubular, eophyll entire, lanceolate, plicate.
+Leaf color is glossy and light, grassy green above and beautiful silvery green beneath.
+The inflorescences sometimes extend  beyond the leaf crown, they consist of a tubular series of bracts from which the stiff and short flowering branches project  bearing white, yellow or orange bi-sexual flowers.
+The species sports large leaves which are 4 or more feet wide, perfectly semi-circular, emerald green and supported by long, stout petioles.
+The seeds produced by this tree range from 1/2 to 3/4 inch in diameter.
+The mature fruit are 1/2 inch by 3/4 inch ellipsoid to ovoid in shape.
+This is one of the small Pritchardia, with a slender trunk rarely reaching five meters in length, but otherwise similar to P. remote and P. waialealeana, with which it shares the same sort of simple trunk.
+The leaves are 2 feet wide, light green, semicircular with stiff pleated blades and short wide segments on short, stout petioles.
+The undersides of the leaves show the distinct gold tomentum around the hastula area on older leaves and a more silvery-white tomentum on the younger leaves.
+The leaves are three to four feet wide and semi to almost circular.
+The fruit range from 1/4 inch to 2 inches or more in diameter, and are spherical to ovoid in shape taking on a reddish brown to black color when ripe.
+The trunk of this species grows to 20 feet in height and has a diameter of 8 inches, it has one of the more slender trunks for the genus.
+The diameter of the trunk is 12 to 15 inches and light to dark tan in color.
+The mature trunks grow to sixty feet, more commonly to forty feet with a diameter of one foot.
+The 6 or 7 foot-long petioles are covered in a light brown, chalky tomentum on their lower surfaces.
+The segments are shallow and are stiff in younger leaves, with slightly pendent apices in older leaves.
+Encyclopedia Index Families Genera Species Arecaceae Pritchardia Palms Palms & Cycads.
+The inflorescences are composed  of a single panicle, shorter than the leaf blade and erect, the fruit cause arching and lengthening to equal or exceed the leaf blade.
+The young leaves are yellowish and the mature leaves retain a layer of golden, fringed scales on the under surfaces.
+The leaves are semicircular, deep, almost bluish green, with deep and pendent segments.
+This slow growing smaller species has a trunk that attains a height of 25 feet or more and a diameter of 1 foot.
+The leaf crown is open and nearly spherical with 40 inch-wide semi-circular leaves whose segments extend 1 foot into the blade.
+These newly named palms grow in groups of 5 to 10 trees scattered in their habitat areas in East Maui.
+The trunk grows to a height of 25 to 30 feet with a diameter of 8 to 10 inches, is mostly grayish, brownish if protected from the sun,  sports longitudinal grooves and faint leaf base scar rings.
+They are 3/4 inch in diameter, sometimes a little larger but less than 1 inch.
+Inconspicuous, pale white to yellowish.
+The leaves are 3 to 4 feet wide, semicircular, broad and flat with shallow and broad, stiff segments.
+The leaf blades are small, less than 3 feet long and densely covered beneath with pale brown or grey scales.
+It is said to be the smallest Hawaiian pritchardia known.
+The leaves appear to be approximately 3 to 4 feet in diameter with stout petioles approximately 4 feet long.
+The leaves are fan-shaped and the trunk columnar, naked, smooth or fibrous, longitudinally grooved, and obscurely ringed by leaf scars.
+The fruit are large, ovoid to spherical with diameters of 1 1/2 to 2 inches.
+Each of the 30 leaves is 5 to 6 feet wide, semicircular, and glossy deep green on both sides.
+The trunk reaches heights of 40 feet or more with a diameter of 1 foot or less.
+Individual leaves are 3 to 4 feet long on 4 foot long petioles and are roughly wedge shaped, deeply costapalmate with stiff segments, deep green and slightly paler underneath.
+It has the widest trunk by far at 38 inches in diameter , it grows to a height of 100 feet.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the JSON format of the dictionary with sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples:
+
+```json
+{
+  "Fruit colour description": [
+    ["black", 1],
+    ["blue", 1],
+    ["bluish", 0],
+    ["brown", 1],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 0],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 0],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 1],
+    ["blue", 0],
+    ["brown", 1],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 0],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 0],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 1],
+    ["ovoid", 1],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ]
+}
+```
+
+Note: I have set the binary evidence `b` to 1 for the following associations found in the text:
+
+* Fruit colour description: 'black', 'blue' (intensely bluish or nearly black when ripe), 'brown' (dark brown to black and shiny when ripe)
+* Fruit colour: 'black', 'brown'
+* Fruit shape: 'globose' (small yellowish or reddish brown globose shaped), 'ovoid' (small and ellipsoidal about 1 1/2 to 2 inches long by 1 to 1 1/2 inches wide)
+
+All other possible values have been set to 0 as they were not explicitly mentioned in the text.

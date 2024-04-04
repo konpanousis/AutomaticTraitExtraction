@@ -1,0 +1,279 @@
+We are interested in obtaining botanical trait information about the species Marojejya insignis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Inflorescence hidden amongst leaf bases, branched to 1 order.Biology
+Rank: GERMINATING.
+Staminate flowers rather small, somewhat asymmetrical due to close packing, sepals 3, free, unequal, narrow, ovate, keeled, chaffy, ciliate margined, tending to be widely separated, petals 3,
+Pistillate rachillae shorter, thicker, and fewer than the staminate, densely brown tomentose, bearing crowded, spirally arranged, triangular bracts forming the lower lips of shallow pits, each pit bearing 3 membranous bracteoles, 2 very small abortive staminate flowers and a large solitary pistillate flower.
+Stem erect, obscurely ringed with leaf scars, internodes short, sometimes with short root spines.
+Germination adjacent-ligular, eophyll bifid, with or without a petiole.
+In any case, like the others that have perished before it-- it is now turning an anemic yellow and the leaf edges are also turning brown.
+M. insignis has different petioles and is distinctly pinnate.
+Sometimes parts of the leaves do show some division - they are not always completely entire.
+Rank: SEEDLING.
+Spacing: 10-12 ft. 12-15 ft. 15-20 ft.
+Leaves numerous, massive, pinnate or ± entire, the crown often filled with fibres, sheath with or without rounded auricles, petiole absent or thick and wide at the base, gradually tapering to the rachis, adaxially channelled, abaxially rounded, densely covered with caducous, dense brown scales, rachis adaxially deeply channelled, abaxially rounded basally, becoming laterally channelled distally, densely scaly at the base, blade undivided for ca.
+Rank: FLOWERING.
+A very attractive, medium to large solitary, pinnate,.litter trapping palm to 8m tall,.with up to 20 4-5m long leaves held in a "shuttlecock".type arrangement.
+Root , ovule with distinct tannin and fibrous and vascular bundle layer around locule, ovule unusually large.
+± pinnate leaves to 5 m long.
+Pistillate flowers much larger than the staminate, obpyriform, somewhat asymmetrical, sepals 3, distinct, somewhat chaffy, ovate with triangular tips, ± striate, petals 3, distinct, similar to the sepals but larger and with short, triangular, valvate tips, staminodes 6, narrow, triangular, gynoecium gibbous, unilocular, uniovulate, gradually tapering to 3, large, triangular, recurved stigmas, ovule large, pendulous, campylotropous.
+Fruit asymmetrically globular, perianth persistent, stigmatic remains forming a large lateral beak, epicarp smooth, mesocarp thin, granular, endocarp composed of several layers of broad, soft anastomosing fibres closely adhering to the seed.
+Seed irregularly rounded, flattened, or ± kidney-shaped, smooth or grooved and ridged, subapically attached, endosperm homogeneous, embryo basal, opposite the fruit attachment.
+Leaves pinnate, seed smooth.
+Robust squat litter-trapping palms from rain forest in Madagascar, remarkable for their condensed unisexual inflorescences, found among the leaf sheaths, but with both sexes found on the same tree.
+Individuals can grow to 8 m.
+Definition: whole plant arborescent.
+It still has enormous, wide, long leaves but these are irregularly split in a pinnate fashion, making the palm always look a bit on the wind-shredded side.
+Leaves. pinnate with two or more leaflets.
+Stout, solitary, unarmed, monoecious, pleonanthic palms.
+± boat-shaped, valvate, coriaceous, connate basally for 1/3 their length and adnate to the receptacle, stamens 6, filaments basally connate, the distinct portions flattened, tapering, elongate, inflexed at the tip, anthers medifixed, ± versatile, latrorse, pistillode small, 3 lobed.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the requested dictionary in JSON format:
+
+```json
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 0],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 0],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 0],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 0],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 0],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 0],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 0],
+    ["ovoid", 0],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ],
+  "Inflorescence arrangement": [
+    ["hidden amongst leaf bases", 1],
+    ["branched to 1 order", 1]
+  ],
+  "Flower type": [
+    ["staminate", 1],
+    ["pistillate", 1]
+  ],
+  "Flower size": [
+    ["rather small", 1],
+    ["much larger", 1]
+  ],
+  "Sepals": [
+    ["3", 1],
+    ["free", 1],
+    ["unequal", 1],
+    ["narrow", 1],
+    ["ovate", 1],
+    ["keeled", 1],
+    ["chaffy", 1],
+    ["ciliate margined", 1],
+    ["distinct", 1],
+    ["somewhat chaffy", 1],
+    ["ovate with triangular tips", 1]
+  ],
+  "Petals": [
+    ["3", 1],
+    ["unequal", 1],
+    ["ovate", 1],
+    ["keeled", 1],
+    ["ciliate margined", 1],
+    ["distinct", 1],
+    ["similar to the sepals", 1],
+    ["larger", 1],
+    ["short, triangular, valvate tips", 1]
+  ],
+  "Leaves": [
+    ["erect", 1],
+    ["obscurely ringed with leaf scars", 1],
+    ["short", 1],
+    ["sometimes with short root spines", 1],
+    ["numerous", 1],
+    ["massive", 1],
+    ["pinnate", 1],
+    ["entire", 1],
+    ["crown often filled with fibres", 1],
+    ["sheath with or without rounded auricles", 1],
+    ["petiole absent or thick and wide at the base", 1],
+    ["gradually tapering to the rachis", 1],
+    ["adaxially channelled", 1],
+    ["abaxially rounded", 1],
+    ["densely covered with caducous, dense brown scales", 1],
+    ["rachis adaxially deeply channelled", 1],
+    ["abaxially rounded basally", 1],
+    ["becoming laterally channelled distally", 1],
+    ["densely scaly at the base", 1],
+    ["blade undivided", 1],
+    ["± pinnate", 1],
+    ["to 5 m long", 1],
+    ["irregularly split", 1],
+    ["pinnate with two or more leaflets", 1]
+  ],
+  "Germination": [
+    ["adjacent-ligular", 1],
+    ["eophyll bifid", 1],
+    ["with or without a petiole", 1]
+  ],
+  "Staminodes": [
+    ["6", 1],
+    ["narrow", 1],
+    ["triangular", 1]
+  ],
+  "Gynoecium": [
+    ["gibbous", 1],
+    ["unilocular", 1],
+    ["uniovulate", 1]
+  ],
+  "Ovule": [
+    ["large", 1],
+    ["pendulous", 1],
+    ["campylotropous", 1]
+  ],
+  "Fruit": [
+    ["asymmetrically globular", 1],
+    ["perianth persistent", 1],
+    ["stigmatic remains forming a large lateral beak", 1],
+    ["epicarp smooth", 1],
+    ["mesocarp thin", 1],
+    ["granular", 1],
+    ["endocarp composed of several layers of broad, soft anastomosing fibres closely adhering to the seed", 1]
+  ],
+  "Seed": [
+    ["irregularly rounded", 1],
+    ["flattened", 1],
+    ["± kidney-shaped", 1],
+    ["smooth or grooved and ridged", 1],
+    ["subapically attached", 1],
+    ["endosperm homogeneous", 1],
+    ["embryo basal", 1],
+    ["opposite the fruit attachment", 1]
+  ],
+  "Tree size": [
+    ["medium to large", 1],
+    ["solitary", 1],
+    ["pinnate", 1],
+    ["to 8m tall", 1]
+  ],
+  "Root": [
+    ["ovule with distinct tannin and fibrous and vascular bundle layer around locule", 1]
+  ],
+  "Stem": [
+    ["erect", 1]
+  ],
+  "Stigma": [
+    ["3", 1],
+    ["large", 1],
+    ["triangular", 1],
+    ["recurved", 1]
+  ],
+  "Flower arrangement": [
+    ["condensed unisexual inflorescences", 1],
+    ["among the leaf sheaths", 1],
+    ["having both sexes found on the same tree", 1]
+  ],
+  "Habitat": [
+    ["rain forest in Madagascar", 1]
+  ],
+  "General appearance": [
+    ["robust squat litter-trapping palms", 1],
+    ["always look a bit on the wind-shredded side", 1]
+  ],
+  "Pistillode": [
+    ["small", 1],
+    ["3 lobed", 1]
+  ],
+  "Stamens": [
+    ["6", 1],
+    ["basally connate", 1],
+    ["the distinct portions flattened", 1],
+    ["tapering", 1],
+    ["elongate", 1],
+    ["inflexed at the tip", 1]
+  ],
+  "Anthers": [
+    ["medifixed", 1],
+    ["± versatile", 1],
+    ["latrorse", 1]
+  ],
+  "Receptacle": [
+    ["± boat-shaped", 1],
+    ["valvate", 1],
+    ["coriaceous", 1],
+    ["connate basally for 1/3 their length", 1],
+    ["adnate to the receptacle", 1]
+  ],
+  "Spacing": [
+    ["10-12 ft.", 1],
+    ["12-15 ft.", 1],
+    ["15-20 ft.", 1]
+  ]
+}
+```
+
+Note that I have added new traits to the dictionary based on the input text, but I have not modified the initial ones or added new values to them. I have also set the binary number 'b' to '0' when I was not 100% sure about the association.

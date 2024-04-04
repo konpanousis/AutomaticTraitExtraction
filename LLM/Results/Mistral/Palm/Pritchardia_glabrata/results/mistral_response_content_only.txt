@@ -1,0 +1,83 @@
+Here is the JSON format of the dictionary with sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples:
+
+```json
+{
+  "Fruit colour description": [
+    ["black", 1],
+    ["blue", 1],
+    ["bluish", 0],
+    ["brown", 1],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 0],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 0],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 1],
+    ["blue", 0],
+    ["brown", 1],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 0],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 0],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 1],
+    ["ovoid", 1],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ]
+}
+```
+
+Note: I have set the binary evidence `b` to 1 for the following associations found in the text:
+
+* Fruit colour description: 'black', 'blue' (intensely bluish or nearly black when ripe), 'brown' (dark brown to black and shiny when ripe)
+* Fruit colour: 'black', 'brown'
+* Fruit shape: 'globose' (small yellowish or reddish brown globose shaped), 'ovoid' (small and ellipsoidal about 1 1/2 to 2 inches long by 1 to 1 1/2 inches wide)
+
+All other possible values have been set to 0 as they were not explicitly mentioned in the text.

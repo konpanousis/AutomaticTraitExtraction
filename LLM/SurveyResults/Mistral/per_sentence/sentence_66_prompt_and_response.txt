@@ -1,0 +1,52 @@
+We are interested in obtaining botanical trait information about the species Grewia flavescens.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves broadlyelliptic, ovate, oblong, obovate or almost circular, 4.5 to 14.5 cm long, 2 to 11 cm wide, obtuse, acute or acuminate at the apex, rounded, truncate or slightly cordate at the base, usually scabrid above, roughly to softly densely pubescent beneath, sometimes ± tomentose, petiole 3 to 12 mm long, stipules 9 to 10 mm long.
+
+Initial dictionary of traits with all possible values:
+{"Leaf margin": ['Margin of toothed leaf'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf shape": [
+    ["broadlyelliptic", 1],
+    ["ovate", 1],
+    ["oblong", 1],
+    ["obovate", 1],
+    ["almost circular", 1]
+  ],
+  "Leaf apex": [
+    ["obtuse", 1],
+    ["acute", 1],
+    ["acuminate", 1]
+  ],
+  "Leaf base": [
+    ["rounded", 1],
+    ["truncate", 1],
+    ["slightly cordate", 1]
+  ],
+  "Leaf surface above": [
+    ["scabrid", 1]
+  ],
+  "Leaf surface below": [
+    ["roughly pubescent", 1],
+    ["softly densely pubescent", 1],
+    ["tomentose", 1]
+  ],
+  "Petiole length": [
+    ["3 to 12 mm", 1]
+  ],
+  "Stipules length": [
+    ["9 to 10 mm", 1]
+  ],
+  "Leaf margin": [
+    ["Margin of toothed leaf", 0]
+  ]
+}

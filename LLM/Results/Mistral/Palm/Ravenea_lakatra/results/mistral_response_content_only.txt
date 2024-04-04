@@ -1,0 +1,214 @@
+{
+"Fruit colour description": [
+("black", 1),
+("blue", 0),
+("bluish", 0),
+("brown", 0),
+("brownish", 0),
+("chocolate", 0),
+("coral", 0),
+("crimson", 0),
+("darkgreen", 0),
+("green", 0),
+("greenish", 0),
+("grey", 0),
+("ivory", 0),
+("magenta", 0),
+("maroon", 0),
+("olive", 0),
+("orange", 0),
+("orangish", 0),
+("pink", 0),
+("pinkish", 0),
+("plum", 0),
+("purple", 0),
+("purplish", 0),
+("red", 0),
+("reddish", 0),
+("tan", 0),
+("violet", 0),
+("white", 0),
+("whitish", 0),
+("yellow", 0),
+("yellowish", 0)
+],
+"Fruit colour": [
+("black", 1),
+("blue", 0),
+("brown", 0),
+("green", 0),
+("grey", 0),
+("ivory", 0),
+("orange", 0),
+("pink", 0),
+("purple", 0),
+("red", 0),
+("white", 0),
+("yellow", 0)
+],
+"Crown": [
+("both", 0),
+("canopy", 0),
+("understorey", 0)
+],
+"Fruit size": [
+("large", 0),
+("small", 0)
+],
+"Fruit shape": [
+("ellipsoid", 0),
+("elongate", 0),
+("fusiform", 0),
+("globose", 1),
+("ovoid", 0),
+("pyramidal", 0),
+("rounded", 0)
+],
+"Conspicuousness": [
+("conspicuous", 0),
+("cryptic", 0)
+],
+"Inflorescence position": [
+("terminal", 0),
+("axillary", 1)
+],
+"Inflorescence type": [
+("panicle", 0),
+("spike", 0),
+("raceme", 0),
+("spadix", 0),
+("catkin", 0),
+("umbel", 0),
+("cyme", 0),
+("solitary", 1)
+],
+"Inflorescence branching": [
+("unbranched", 0),
+("branched", 1)
+],
+"Inflorescence sex": [
+("bisexual", 0),
+("unisexual", 1)
+],
+"Peduncle length": [
+("82-130 cm", 1)
+],
+"Rachis length": [
+("44-86 cm", 1),
+("92 cm", 1)
+],
+"Bract length": [
+("up to 140 cm", 1)
+],
+"Branch length": [
+("up to 65 cm", 1),
+("up to 30 cm", 1)
+],
+"Stamen number": [
+("6", 1)
+],
+"Staminode number": [
+("6", 1)
+],
+"Carpel number": [
+("3", 1)
+],
+"Stigma number": [
+("3", 1)
+],
+"Seed size": [
+("9-10 mm x 5-10 mm", 1)
+],
+"Seed colour": [
+("black", 1)
+],
+"Seed shape": [
+("acuminate", 1)
+],
+"Leaf length": [
+("up to 2-5 m", 1)
+],
+"Leaf arrangement": [
+("pinnately compound", 1)
+],
+"Leaf orientation": [
+("erect", 1),
+("arching", 1)
+],
+"Leaf twisting": [
+("twisted near the apex", 1)
+],
+"Leaflet number": [
+("numerous", 1)
+],
+"Leaflet shape": [
+("narrow ribbed", 1)
+],
+"Plant height": [
+("up to about 14 m", 1)
+],
+"Trunk diameter": [
+("13-17 cm", 1)
+],
+"Trunk fibres": [
+("black fibres", 1)
+],
+"Trunk remnants": [
+("up to 7 cm long woody leaf sheath base remnants", 1)
+],
+"Crown shaft": [
+("absent", 1)
+],
+"Leaf rachis": [
+("white tomentose", 1)
+],
+"Fruit type": [
+("drupe", 2)
+],
+"Foliage lifespan": [
+("annual", 1),
+("biennial", 1),
+("perennials", 1)
+],
+"Leaf sheath length": [
+("75-80 cm", 1)
+],
+"Leaf petiole length": [
+("80-160 cm", 1)
+],
+"Rachis length": [
+("2.5-3.5 m", 1)
+],
+"Leaflet number": [
+("87-98", 1)
+],
+"Leaflet length": [
+("up to 102 cm", 1),
+("up to 77 cm", 1),
+("up to 49 cm", 1)
+],
+"Leaflet veins": [
+("sinuous transverse veins", 1)
+],
+"Leaflet color": [
+("medium green", 1)
+],
+"Growth rate": [
+("maybe 7 leaves/year", 1),
+("5-6 new leaves per year", 1)
+],
+"Leaflets arrangement": [
+("pinnate with two or more leaflets", 1)
+],
+"Trunk remnants": [
+("erect short woody sheath remnants", 1)
+],
+"Plant lifespan": [
+("moderate-sized solitary palm", 1),
+("small to large, dioecious palms", 1),
+("medium-sized palm", 1)
+],
+"Trunk shape": [
+("solitary, robust grey stems, swollen at base and gradually tapering upward", 2)
+]
+}

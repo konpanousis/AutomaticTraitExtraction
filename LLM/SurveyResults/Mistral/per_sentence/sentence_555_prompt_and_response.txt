@@ -1,0 +1,23 @@
+We are interested in obtaining botanical trait information about the species Coccoloba uvifera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+In late summer, it bears green fruit, about 2 cm diameter, in large, grape -like clusters.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour": ['black'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit colour": [["black", 0]]
+}
+
+Explanation:
+
+The initial dictionary of traits contains only one key-value pair: "Fruit colour" with a list of possible values ['black']. However, the input text describes the fruit color as green, not black. Therefore, the binary evidence value 'b' associated with the value 'black' should be set to '0' to indicate that there is no strong evidence for this value in the input text. Since the input text does not mention any other possible values for the fruit color, no additional key-value pairs need to be added to the dictionary. Thus, the output dictionary should contain only the initial key-value pair with the updated binary evidence value.

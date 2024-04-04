@@ -1,0 +1,77 @@
+Here's the dictionary of traits with sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples based on the provided input text:
+
+```json
+{
+  "Fruit colour description": [
+    ("black", 0),
+    ("blue", 0),
+    ("bluish", 0),
+    ("brown", 0),
+    ("brownish", 0),
+    ("chocolate", 0),
+    ("coral", 0),
+    ("crimson", 0),
+    ("darkgreen", 0),
+    ("green", 0),
+    ("greenish", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("magenta", 0),
+    ("maroon", 0),
+    ("olive", 0),
+    ("orange", 1),
+    ("orangish", 1),
+    ("pink", 0),
+    ("pinkish", 0),
+    ("plum", 0),
+    ("purple", 0),
+    ("purplish", 0),
+    ("red", 1),
+    ("reddish", 1),
+    ("tan", 0),
+    ("violet", 0),
+    ("white", 1),
+    ("whitish", 1),
+    ("yellow", 0),
+    ("yellowish", 0)
+  ],
+  "Fruit colour": [
+    ("black", 0),
+    ("blue", 0),
+    ("brown", 0),
+    ("green", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("orange", 1),
+    ("pink", 0),
+    ("purple", 0),
+    ("red", 1),
+    ("white", 1),
+    ("yellow", 0)
+  ],
+  "Crown": [
+    ("both", 0),
+    ("canopy", 1),
+    ("understorey", 0)
+  ],
+  "Fruit size": [
+    ("large", 1),
+    ("small", 0)
+  ],
+  "Fruit shape": [
+    ("ellipsoid", 0),
+    ("elongate", 0),
+    ("fusiform", 0),
+    ("globose", 0),
+    ("ovoid", 0),
+    ("pyramidal", 0),
+    ("rounded", 0)
+  ],
+  "Conspicuousness": [
+    ("conspicuous", 1),
+    ("cryptic", 0)
+  ]
+}
+```
+
+Please note that the evidence values are based on the provided input text and might not be exhaustive or fully accurate. For example, the "Fruit shape" category does not have any matches in the text, so all values are set to 0.

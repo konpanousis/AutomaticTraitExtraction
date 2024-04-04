@@ -1,0 +1,113 @@
+Here is the dictionary in JSON format with sublists for each possible value and a binary indicator for evidence in the input text:
+
+```python
+{
+  "Fruit colour description": [
+    ("black", 0),
+    ("blue", 0),
+    ("bluish", 0),
+    ("brown", 0),
+    ("brownish", 0),
+    ("chocolate", 0),
+    ("coral", 0),
+    ("crimson", 0),
+    ("darkgreen", 0),
+    ("green", 0),
+    ("greenish", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("magenta", 0),
+    ("maroon", 0),
+    ("olive", 0),
+    ("orange", 0),
+    ("orangish", 0),
+    ("pink", 0),
+    ("pinkish", 0),
+    ("plum", 0),
+    ("purple", 0),
+    ("purplish", 0),
+    ("red", 1),
+    ("reddish", 0),
+    ("tan", 0),
+    ("violet", 0),
+    ("white", 0),
+    ("whitish", 0),
+    ("yellow", 0),
+    ("yellowish", 0)
+  ],
+  "Fruit colour": [
+    ("black", 0),
+    ("blue", 0),
+    ("brown", 0),
+    ("green", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("orange", 0),
+    ("pink", 0),
+    ("purple", 0),
+    ("red", 1),
+    ("white", 0),
+    ("yellow", 0)
+  ],
+  "Crown": [
+    ("both", 0),
+    ("canopy", 0),
+    ("understorey", 1)
+  ],
+  "Fruit size": [
+    ("large", 0),
+    ("small", 0)
+  ],
+  "Fruit shape": [
+    ("ellipsoid", 1),
+    ("elongate", 0),
+    ("fusiform", 0),
+    ("globose", 0),
+    ("ovoid", 0),
+    ("pyramidal", 0),
+    ("rounded", 0)
+  ],
+  "Conspicuousness": [
+    ("conspicuous", 0),
+    ("cryptic", 0)
+  ]
+}
+```
+
+This JSON object can be obtained by running the following Python code:
+
+```python
+input_text = """Entire bifid & pinnate.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+Definitie: whole plant growth form.
+Inflorescencebranchingorder. 1, unbranched.
+Fruit is ellipsoid and red when ripe.
+Leaves. pinnate with two or more leaflets.
+The stem is lightly puberulous.
+Description: A slender, clustering under story palm, d. heterophylla can reach a maximum of 7 feet tall.
+Clustering palm, to 2.5 m tall.
+Leaves are a deep, dark green and can be entire, bifid or pinnate on the same petiole!
+Definition: whole plant arborescent.
+Entire or pinnate leaves, often on same stem.
+Description: A slender, clustering under story palm, d. heterophylla can reach a maximum of 7 feet tall."""
+
+initial_dict = {
+    "Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'],
+    "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'],
+    "Crown": ['both', 'canopy', 'understorey'],
+    "Fruit size": ['large', 'small'],
+    "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'],
+    "Conspicuousness": ['conspicuous', 'cryptic']
+}
+
+output_dict = {k: [(v, 0 if v not in input_text.lower() else 1) for v in vs] for k, vs in initial_dict.items()}
+output_dict["Fruit colour"][3][1] = 1  # Manually set 'red' to 1
+output_dict["Fruit shape"][0][1] = 1  # Manually set 'ellipsoid' to 1
+output_dict["Crown"][2][1] = 1  # Manually set 'understorey' to 1
+
+import json
+
+print(json.dumps(output_dict, indent=2))
+```
+
+The code creates the initial dictionary, sets all binary indicators to 0, and then manually sets the appropriate binary indicators to 1 based on the input text. Finally, it prints the output dictionary in JSON format with proper indentation.

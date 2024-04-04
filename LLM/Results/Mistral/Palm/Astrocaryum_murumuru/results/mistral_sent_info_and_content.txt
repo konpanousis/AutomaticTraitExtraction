@@ -1,0 +1,108 @@
+We are interested in obtaining botanical trait information about the species Astrocaryum murumuru.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Tall, usually solitary palm from South America- very spiny palm!
+The plastome sequence of Bactris gasipaes and evolutionary analysis in tribe Cocoseae Article Full-text available Aug 2021 PLOS ONE Raquel Santos da Silva Charles Roland Clement Eduardo Balsanelli Valter Antonio de Baura Leila do Nascimento Vieira The family Arecaceae is distributed throughout tropical and subtropical regions of the world.
+The fruits are round, dark red, and ripen in late September with average fruit weight of 19.71 g and edible ratio of 96.2%.
+When the fruit is ripe, the inflorescence drops to the ground.
+Astrocaryum is a genus of about 36 to 40 species of palms native to Central and South America and Trinidad.
+Rank: GERMINATING.
+Spacing: 12-15 ft. 15-20 ft.
+Categories : Astrocaryum Arecaceae genera Neotropical realm flora Cocoseae stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+The fruit contains a yellow flesh often consumed by rodents as food, which leave the seeds clean.
+Dipteryx seeds survived longer in smaller than in larger gaps.
+P. nitens wood has anatomical arrangements characterized by confluent axial parenchyma, being diffuse-porous with the presence of tylosis and heterogeneous/stratified rays.
+The stem, leaves and fruit stalks are covered with hard, black spines that can reach over 20 cm in length, complicating fruit harvesting.
+It has a thick trunk and a shuttlecock-shaped, bushy crown.
+The stem descriptors differed in spine number, contour and margin hardness, areole distance and stem color, the first three are important for species distinction.
+Astrocaryum is a genus of spiny palms with pinnately compound leaves-rows of leaflets emerge on either side of the axis of the leaf in a feather-like or fern-like pattern.
+Very long leaves up to 20' with white undersides- striking.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples based on the input text and initial dictionary:
+
+```json
+{
+  "Fruit colour description": [
+    ("black", 0),
+    ("blue", 0),
+    ("bluish", 0),
+    ("brown", 0),
+    ("brownish", 0),
+    ("chocolate", 0),
+    ("coral", 0),
+    ("crimson", 0),
+    ("darkgreen", 0),
+    ("green", 0),
+    ("greenish", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("magenta", 0),
+    ("maroon", 0),
+    ("olive", 0),
+    ("orange", 0),
+    ("orangish", 0),
+    ("pink", 0),
+    ("pinkish", 0),
+    ("plum", 0),
+    ("purple", 0),
+    ("purplish", 0),
+    ("red", 1),
+    ("reddish", 0),
+    ("tan", 0),
+    ("violet", 0),
+    ("white", 0),
+    ("whitish", 0),
+    ("yellow", 0),
+    ("yellowish", 0)
+  ],
+  "Fruit colour": [
+    ("black", 0),
+    ("blue", 0),
+    ("brown", 0),
+    ("green", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("orange", 0),
+    ("pink", 0),
+    ("purple", 0),
+    ("red", 1),
+    ("white", 0),
+    ("yellow", 0)
+  ],
+  "Crown": [
+    ("both", 0),
+    ("canopy", 0),
+    ("understorey", 0)
+  ],
+  "Fruit size": [
+    ("large", 0),
+    ("small", 0)
+  ],
+  "Fruit shape": [
+    ("ellipsoid", 0),
+    ("elongate", 0),
+    ("fusiform", 0),
+    ("globose", 1),
+    ("ovoid", 0),
+    ("pyramidal", 0),
+    ("rounded", 0)
+  ],
+  "Conspicuousness": [
+    ("conspicuous", 0),
+    ("cryptic", 0)
+  ]
+}
+```
+
+The binary number indicates whether there is strong evidence for the value in the input text (1) or not (0). Note that I double-checked that 'value\_i' is reported referring to trait 'name' in the text and not to a different trait. I also did not add new trait values or modify the initial ones.

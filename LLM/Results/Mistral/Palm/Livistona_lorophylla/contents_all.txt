@@ -1,0 +1,142 @@
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 1],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Growth habit": [
+["dioecious", 1],
+["monoecious", 0]
+],
+"Height": [
+["12 m", 1],
+["3-8 m", 1],
+["up to 40 arching", 1],
+["15 m", 3]
+],
+"Leaf arrangement": [
+["costapalmate", 2],
+["fan", 2]
+],
+"Leaf base fibres": [
+["moderately prominent", 1],
+["coarse", 1],
+["persistent", 1]
+],
+"Leaf blade shape": [
+["circular", 1]
+],
+"Leaf colour": [
+["glossy mid green to pruinose grey", 1]
+],
+"Leaf division": [
+["85-98% of its length", 1]
+],
+"Leaf margin spines": [
+["scattered single curved black spines up to ca 10 mm long", 1]
+],
+"Leaf petiole": [
+["arching", 1],
+["70-200 cm long", 1],
+["10-17 mm wide", 1],
+["adaxially flat", 1]
+],
+"Leaf segment apices": [
+["acuminate to filiform", 1],
+["semi-pendulous", 1]
+],
+"Leaf veins": [
+["parallel veins 8-10 each side of midrib", 1],
+["transverse veins thinner than parallel veins", 1]
+],
+"Number of leaves in crown": [
+["25-40", 1]
+],
+"Peduncular bract": [
+["one", 1],
+["tubular shape", 1],
+["sparsely tomentose", 1]
+],
+"Rachis bracts": [
+["sparsely tomentose", 1],
+["tubular shape", 1]
+],
+"Stem diameter": [
+["8-20 cm", 2]
+],
+"Stem internodes": [
+["very close", 1],
+["caused by the scars of the fallen leaves", 1]
+],
+"Stem height": [
+["up to 15 m", 1]
+],
+"Stem leaf scars": [
+["prominent", 1]
+]
+}
+

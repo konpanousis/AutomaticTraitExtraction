@@ -1,0 +1,247 @@
+We are interested in obtaining botanical trait information about the species Lophira lanceolata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Lophira lanceolata is a small deciduous tree growing to a height of 16 m or more.
+Petals obcordate, 1.7 cm long, 1.3 cm wide, glabrous.
+This is followed by a partially woody, conical achene surrounded by a winged calyx , containing a single, large seed.
+Fruit a conical, somewhat woody, 1-seeded achene surrounded by the calyx, outer sepals accrescent, wing-like, unequal, one 8-10 cm x 2-2.5 cm, the other 2.5-5 cm x 0.5-1 cm.
+Sepals unequal, glabrous, 2 outer ovate-acuminate, 7-8 mm long, 4-5 mm wide, acute at apex, inner 3 broadly ovate, 6 mm long, 5 mm wide, obtuse at apex.
+The fruits, which are wind-dispersed, contain a single, oil-rich seed in a conical capsule, which is brown when mature and is surrounded by two unequally-sized membranous -wings-, one up to six centimetres long and the other twice that size.
+The inflorescence take the form of a loose panicle at the end of the shoot.
+Categories : Ochnaceae Malpighiales genera Malpighiales stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles lacking sources from November 2013
+The tree has a narrow crown and steeply ascending branches, and forms suckers readily.
+Leaves alternate but clustered at the end of branches, simple and entire, stipules linear-lanceolate, 3-5 mm long, caducous, petiole 2-6 cm long, blade oblong-lanceolate, 11-45 cm x 2-9 cm, base cuneate, often asymmetrical, apex rounded and sometimes notched, glabrous, red to bright pink when young, pinnately veined with numerous lateral veins, prominent on both sides.
+The trunk is usually unbranched to around 8 m and can reach a diameter of about 70 cm.
+Definition: whole plant arborescent.
+Leaves red when young, oblong-lanceolate, 11-45 cm long, 2-9 cm wide, rounded to retuse at the apex, cuneate and often asymmetrical at base, entire, glabrous, lateral veins very numerous together with midrib prominent on both surfaces, petiole 2-6 cm long, stipules linear-lanceolate, 3-5 mm long, 0.7 mm wide, deciduous.
+Individuals can grow to 3 m.
+Lophira lanceolata known as -Iron wood- is a tree that grows up to 12m high, with a narrow crown, deep root, less scaly bark and contains no latex.
+The leaves of the latter exude latex when damaged.
+The bark is typically red-brown in colour, up to two centimetres thick, and has a bright yellow layer underneath.
+Inflorescence a terminal, pyramidal, lax panicle 15-20 cm long, axes angular, grooved, glabrous.
+The individual flowers are bisexual, scented and white, with parts in fives.
+The flowers of L. alata are white, fairly large, strong-smelling, and grouped in loose, branched, terminal inflorescences.
+Most of the seminiferous tubules were close together with regular outlines and narrow interstitium.
+Description     Small to medium-sized tree up to 16 m tall, bole branchless for up to 7.5 m, straight or twisted, up to 70 cm in diameter, bark surface corky, grey, very coarsely flaking, inner bark yellow to brownish red, branches ascending, with prominent leaf-scars.
+Source: Flore analytique du Benin Lophira lanceolata tree habit Lophira lanceolata tree habit show more thumbnails show less thumbnails Lophira lanceolata 1, flowering branch, 2, fruit.
+Ovary white, conical, 8 mm long, 3 mm wide, stigmas 1-2 mm long, ovules 8-16.
+The bark is grey and corky, coming away in coarse flakes.
+Flowering occurs in adult trees with trunks over 50 centimetres in diameter, and takes place from the time the new leaves appear.
+Young trees under four metres in height have greenish-grey bark, which becomes pink or light brown as the tree matures.
+Usually with gnarled trunk.
+The leaves of L. alata are up to 25 centimetres long and are tough, fairly narrow and elongated, with a rounded or slightly indented tip, and tend to occur in clusters at the ends of the twigs.
+When new leaves are expanding, it is easily recognizable from far by its new red leaves grouped at the ends of branches.
+The new foliage is pink or red at first.
+The leaves are clustered at the end of the twigs.
+The trunk of Lophira alata is usually straight, without buttress roots , but sometimes with a swollen base, and is usually clear of branches up to about 30 metres.
+Flowers white, scented, pedicels 1-1.5 cm long, jointed near apex, glabrous.
+Seed 1, ovoid, 1.6 cm long, 8 mm wide.
+The tree is very similar to the closely related Lophira alata but is smaller, has narrower leaves with longer stalks, and larger seeds.
+Seed ovoid, c. 16 mm x 8 mm, chestnut-coloured, glabrous.
+Petals white.
+Clin Phytosci 6, 4.
+Panicles profuse, terminal, pyramidal, lax, 15-20 cm long, axes angular, striate, glabrous.
+Stamens with filaments white, 4-6 mm long and anthers orange, 4-5 mm long.
+The colour is reddish brown and the wood is abrasive, dulling tools rapidly.
+Lophira alata sheds all its leaves during a short period of one to two weeks, usually in December, and the re-growth of bright red young leaves, often simultaneously on all L. alata trees in an area, can set the canopy ablaze with colour.
+Inside, the living sapwood is pale pink or whitish in colour, while the inner heartwood is dark red-brown to chocolate brown, with conspicuous white deposits of silica.
+Fruits conical, 3 cm long, 1 cm wide, glabrous with unequal wing-like enlarged sepals, one 8-10 cm long, 2-2.5 cm wide and the other 2.5-5 cm long, 0.6-1 cm wide.
+Savannah tree, to 40 ft. high.
+They have simple , broad leaves.
+Coarsely branched tree up to 9-16 m tall with clean bole up to 7.5 m tall, bark corky, grey, very coarsely flaking in small pieces, flakes brick-red to yellow beneath, brittle, slash bright yellow cork layer above, crimson-red granular beneath.
+They are alternate, narrowly oblong, simple and entire, with rounded or notched apexes.
+Lophira lanceolata.Introductie.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 0],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 1],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 1],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 1],
+["Leaf apex emarginated", 1]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 1],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 1]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 1],
+["Winged fruit", 1]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 1]
+],
+"Sexuality": [
+["Axillary sexuality", 0],
+["Terminal sexuality", 1]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

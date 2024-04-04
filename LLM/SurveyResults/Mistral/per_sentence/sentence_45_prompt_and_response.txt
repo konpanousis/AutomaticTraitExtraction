@@ -1,0 +1,58 @@
+We are interested in obtaining botanical trait information about the species Hymenocardia acida.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves alternate, simple and entire, stipules 1 to 3 mm long, linear, soon falling, petiole 0.5 to 1.5 cm long, short-hairy, blade elliptical-ovate to oblong-oblanceolate, 2.5 to 9.5 cm, 1.5 to 5 cm, base rounded, apex rounded to obtuse, short-hairy to almost glabrous above, densely soft-hairy below or almost glabrous except main veins, sparingly to evenly yellowish gland-dotted.
+
+Initial dictionary of traits with all possible values:
+{"Leaf margin": ['Smooth leaf margin'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf arrangement": [
+    ["alternate", 1]
+  ],
+  "Leaf type": [
+    ["simple", 1]
+  ],
+  "Leaf shape": [
+    ["elliptical-ovate", 1],
+    ["oblong-oblanceolate", 1]
+  ],
+  "Leaf base": [
+    ["rounded", 1]
+  ],
+  "Leaf apex": [
+    ["rounded", 1],
+    ["obtuse", 1]
+  ],
+  "Leaf pubescence above": [
+    ["short-hairy", 1],
+    ["almost glabrous", 1]
+  ],
+  "Leaf pubescence below": [
+    ["densely soft-hairy", 1],
+    ["almost glabrous", 1]
+  ],
+  "Leaf margin": [
+    ["Smooth leaf margin", 1]
+  ],
+  "Stipules": [
+    ["1 to 3 mm long", 1],
+    ["linear", 1],
+    ["soon falling", 1]
+  ],
+  "Petiole": [
+    ["0.5 to 1.5 cm long", 1],
+    ["short-hairy", 1]
+  ],
+  "Glands": [
+    ["sparingly to evenly yellowish gland-dotted", 1]
+  ]
+}

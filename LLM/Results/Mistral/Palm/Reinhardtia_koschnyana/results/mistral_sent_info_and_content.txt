@@ -1,0 +1,234 @@
+We are interested in obtaining botanical trait information about the species Reinhardtia koschnyana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Very small to moderate, solitary or clustered, unarmed, pleonanthic, monoecious palms.
+The fruits are usually ovoid or ellipsoidal, with apical scar remains.
+All inflorescence axes are occupied first and greenish with brown scales.
+In some species occur near the rachis along the abaxial folds of leaflets short cracks.These types are referred to in English as palms window.Leaf
+Distal animal that does any part of the staminodes - ring two to five teeth,.these are usually upright and flowering conspicuous.
+The bracts of Rachillae are spirally subdistich or distich.They are short, triangular and each one languid flowers triad located in a shallow depression.
+The anthers are baxifix or Medifix, oblong, pointed at the end or bifid.
+There is a single bract on peduncle.
+You are branched spike- shaped or one-to two-fold.
+The three sepals are free, spherical, imbricat.
+Stem erect, rarely exceeding 8 m tall, usually very much less, sometimes stilt-rooted at the base, with very short to moderately long internodes and conspicuous leaf scars.
+There are 8 to 40 stamens present.
+Rarely is there a second bract.
+They are shorter than, or equally long as the leaves.
+The stylus is solid, the scars are bent back to blossom.
+.The leaves are pinnate, bifid or completely divided.
+Definitie: whole plant growth form.
+The Stamindoen they fused at the base and fused with the petals very short or up to half of the petals.
+The pollen is ellipsoidal or flattened triangular, and from mild to significant asymmetry.
+Germination adjacent-ligular, eophyll simple or bifid.
+Fruit 1-seeded, black, borne on the enlarged reddish-tinged rachillae, usually ovoid or ellipsoidal, stigmatic remains apical, epicarp smooth, mesocarp fleshy with 2 layers of flattish longitudinal fibres, endocarp thin, fragile.
+The inflorescence axis running in a simple ear off , or it bears at the top a few, forced standing Rachillae.These are long, protrude beyond the inflorescence axis, and are in the armpit of narrow, triangular bracts.
+The three sepals are free imbricat, blunt and concave.
+The upper half is spread to blossom.
+The petiole is well developed, concave or flat on the top, at the bottom of rounded or angular.
+They are single-stemmed or clump -forming, non-reinforced, monoecious and repeatedly flowering.
+The ovules about putting something on the base, their form is not known.Fruit
+The internodes are very short to moderately long, the leaf scars on the trunk are striking.
+The three petals are two to three times as long as the sepals, valvat and grown very short at the base.
+The gynoecium is ovoid or ellipsoidal,
+Seed ovoid or ellipsoidal, basally or laterally attached, usually furrowed by sparse vascular strands, raphe superficial or impressed, endosperm homogeneous or ruminate, embryo basal.
+The three petals project beyond the sepals.
+The exocarp is smooth, the mesocarp is fleshy with two layers of flat longitudinal fibers,.endocarp is thin and fragile.
+In the distal region of the Rachillae, individual or paired male flowers are located instead of the triads.
+The peduncle is very slim to medium strong and growing even after flowering or in the length.
+Definitie: An autotroph which is capable of transforming light into chemical energy.
+This is Roehrig or not, oblong, securities and initially enclosed by the cover sheet, later released by the growth of the stem and disintegrating.
+The seed is ovoid or ellipsoidal, is basal or side of.
+Diminutive to moderate, solitary or clustered pinnate-leaved palms with fibrous sheaths and no crownshaft, native to Central and northern South America, the leaves often with -windows- and the fruit 1-seeded.
+Pollen ellipsoidal or oblate triangular, slight or obvious asymmetry, aperture a distal sulcus or trichotomosulcus, ectexine tectate, finely perforate, or perforate and micro-channelled, and rugulate, aperture margin similar or slightly finer, infratectum columellate, longest axis 37-53 µm.
+The edge of the petiole may be winged.
+Sometimes form in the leaf blade window, so the leaves dry up on the plant or fall off under their own weight.
+The filaments are short, slender, short fused at the base and connected to the base of the petals.
+Pistillate flowers bearing a prophyllar bracteole, sepals 3, distinct, subglobose, imbricate, becoming striate when dry, petals 3, exceeding the sepals, slightly imbricate and partially connate at the base, valvate distally, or valvate throughout, distally grooved on the adaxial surface, the upper ca.
+Sometimes are stilt roots at the base.
+The lateral axis may be branched, a second time.
+Categories : Arecaceae genera Arecoideae Palm stubs Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+The stem is erect, and seldom more than 8 m high, usually much shorter.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Leaf shape": [
+["pinnate", 1],
+["bifid", 1],
+["divided", 1]
+],
+"Staminodes": [
+["ring", 1],
+["two to five teeth", 1],
+["upright", 1],
+["conspicuous", 1]
+],
+"Bracts of Rachillae": [
+["spirally subdistich or distich", 1],
+["short", 1],
+["triangular", 1],
+["each one languid flowers triad located in a shallow depression", 1]
+],
+"Anthers": [
+["baxifix or Medifix", 1],
+["oblong", 1],
+["pointed at the end or bifid", 1]
+],
+"Peduncle": [
+["single bract", 1],
+["branched spike- shaped or one-to two-fold", 1]
+],
+"Stem": [
+["erect", 1],
+["rarely exceeding 8 m tall", 1],
+["usually very much less", 1],
+["sometimes stilt-rooted at the base", 1],
+["with very short to moderately long internodes", 1],
+["and conspicuous leaf scars", 1]
+],
+"Stamens": [
+["8 to 40 present", 1]
+],
+"Leaf length": [
+["shorter than, or equally long as the leaves", 1]
+],
+"Stylus": [
+["solid", 1],
+["the scars are bent back to blossom", 1]
+],
+"Pollen": [
+["ellipsoidal or flattened triangular", 1],
+["and from mild to significant asymmetry", 1]
+],
+"Germination": [
+["adjacent-ligular", 1],
+["eophyll simple or bifid", 1]
+],
+"Sepals": [
+["three sepals are free", 1],
+["spherical", 1],
+["imbricat", 1]
+],
+"Inflorescence axis": [
+["running in a simple ear off", 1],
+["or it bears at the top a few, forced standing Rachillae", 1],
+["long", 1],
+["protrude beyond the inflorescence axis", 1],
+["and are in the armpit of narrow, triangular bracts", 1]
+],
+"Petals": [
+["two to three times as long as the sepals", 1],
+["valvat", 1],
+["grown very short at the base", 1],
+["The three petals project beyond the sepals", 1]
+],
+"Gynoecium": [
+["ovoid or ellipsoidal", 1]
+],
+"Seed": [
+["ovoid or ellipsoidal", 1],
+["basally or laterally attached", 1],
+["usually furrowed by sparse vascular strands", 1],
+["raphe superficial or impressed", 1],
+["endosperm homogeneous or ruminate", 1],
+["embryo basal", 1]
+],
+"Exocarp": [
+["smooth", 1]
+],
+"Mesocarp": [
+["fleshy with two layers of flat longitudinal fibers", 1]
+],
+"Endocarp": [
+["thin and fragile", 1]
+],
+"Window": [
+["sometimes form in the leaf blade window", 1],
+["so the leaves dry up on the plant or fall off under their own weight", 1]
+],
+"Filaments": [
+["short", 1],
+["slender", 1],
+["short fused at the base", 1],
+["connected to the base of the petals", 1]
+]
+}

@@ -1,0 +1,310 @@
+We are interested in obtaining botanical trait information about the species Antidesma venosum.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+They are connected to the stem with a petiole and stipules.
+Middle age branchlets are glabrous and brown to grey-brown with scattered pale grey lenticels.
+It grows spreading and arching branches to heights around 5 m.
+There are conspicuously large, tapering stipules on the stems by the leaf petioles.
+Female inflorescences 1.5-9 cm long, compound-spicate with 1-4 lateral spikes in the lower half, often galled and then irregularly densely paniculate, especially in the upper half, otherwise as in the male.
+Antidesma venosum , the tassel-berry , is a dioecious, evergreen to semi-deciduous shrub or small tree.
+Leaf stalk hairy, up to 6 mm long.
+The large leaves are leathery, oval shiny dark green above and brown/green below with orange/brown hairs.
+Old stems are buff-grey in shade and pale grey in sunny habitats.
+Leaf stalk hairy, up to 6mm long.
+The branchlets are brown and are scattered with pale grey lenticels and the new twigs are very hairy.
+Their color is light yellowish green, but may turn red when mature.
+Seeds ellipsoid.
+Antidesma venosum is an evergreen to semi-deciduous, perennial tree or shrub from 0.55 up to 15 m tall, with a dense, roundish crown.
+A strikingly attractive, versatile shrub or small tree, frequently seen growing in a spreading, low-branching habit, with arching, somewhat drooping branches and a compact, rounded crown.
+A pale grey to grey-brown, smooth to somewhat rough, with occasional longitudinal fissures, especially on older trees.
+The flowers are carried in the leaf axils, and fruits are either a drupe or berry, with 2 seeds in each chamber.
+Seeds usually germinate between 10  20 days, with a germination rate of 70  80 %.
+Numerous small, sessile flowers are produced on drooping catkin-like spikes, which are about 10 cm long.
+Female flowers are produced in thin but shorter catkins at the ends of twigs.
+The male flowers have 2 to 8 stamens , but no pistils.
+Stipules simple, narrowly lanceolate to linear-lanceolate, 4-8 mm.
+It has large oval shaped leathery evergreen leaves up to about 20 centimetres long and seven wide.
+Leaf blade leathery, dark glossy green, lower surface is covered with rusty hairs and has prominent venation looping along margin, paler green below with midrib raised and margins smooth.
+Fruits are very small, almost oval, ± 10mm in length and 8mm in diameter, have a soft exocarp and fleshy, edible mesocarp, pale yellow to blood-red, turning black when ripe.
+The leaves are typically large, measuring 25-150 x 20-100 mm, and oval to elliptic in shape.
+The flowers have a strong, somewhat unpleasant scent.
+Calyx 0.5-1 mm long, greenish or yellowish, sometimes darker tinged.
+The leaves grow alternate to spiralling along the branches.
+Male flowers are pale-yellow to white, and are carried on long, slender spikes , that dangle from the branches in profusion, while female flower-spikes are shorter , and have a reddish, rusty colour.
+Ripe fruits black, edible.
+Inflorescence often attacked by a gall insect and then more or less paniculate.
+Young shoots and buds sparingly to densely fulvous- or ferrugineous-tomentose, or pubescent.
+Antidesma venosum is an evergreen to semi-deciduous, perennial tree or shrub from 0.55 up to 15m tall, with a dense, roundish crown.
+Petioles 0.2-1 cm long, adaxially canaliculate, pubescent at least in the groove.
+Fruits are very small, almost oval, ± 10 mm in length and 8 mm in diameter, have a soft exocarp and fleshy, edible mesocarp, pale yellow to blood-red, turning black when ripe.
+They are white when immature and gradually turn red, then black.
+Fruits 5-7 x 4-5 mm when dried, 6-8 x 5-6 mm when fresh, ellipsoid-suborbicular, slightly asymmetrical, strongly laterally compressed, irregularly and coarsely reticulate-rugulose when dried, green at first, later becoming whitish, red, purple or black when ripe.
+A shrub or small tree.
+Before abscission, they turn a lovely light golden-yellow.
+Male flowers: calyx 4-lobed, the lobes 0.5-1 mm long, unequal, subacute or obtuse, pubescent without, ciliate, yellowish-green, disk variable, continuous or fragmented, thick, partially or completely surrounding the 4 stamens, filaments 2.5 mm long, white, anthers 0.5 mm long, often reddish, pistillode minute, usually slender, sparingly pubescent.
+It has been recorded that trees growing in shady places have darker, matt-grey bark, while specimens exposed to more sunlight have lighter grey bark.
+The midribs and veins are sunken above, raised below, and the leafstalk is hairy with a general length of 6mm.
+Antidesma is a variable genus which may be short and shrubby or tall and erect, approaching 30 metres in height.
+New twigs are bright green and covered in a layer of dense hairs.
+A spreading, sometimes scrambling, deciduous shrub or small tree commonly up to 8 m tall, branched from the base or with a clear bole to up to 4.5 m, branches drooping, crown often dense, bark smooth, furrowed or scaly, light yellowish-brown to dark grey.
+The seeds germinate fairly quickly in about 2-3 weeks once cleaned of the flesh surrounding each seed.
+The main stem often grows in a twisted fashion, branching low down.
+Members usually possess finely cracking bark, simple and alternate, glandless leaves with entire margins and conspicuous petioles.
+Female flowers: pedicels 0.5-1 mm long, extending to 2 mm in fruit, calyx 1 mm long, cupular, shallowly 3-4-lobed, otherwise ± as in the male, disk c. 1 mm in diameter, shallowly cupular, crenellate, ovary 1 x 0.75 mm, compressed-ellipsoid, smooth, glabrous, styles 2-4, ± terminal, 0.75 mm long, bifid, strongly recurved, glabrous, whitish.
+Fruits in pendulous spikes of small fleshy berries, red to purple-black when ripe, edible.
+Ovary glabrous, styles 2.
+The staminate flowers are arranged in small bunches and the pistillate flowers grow on long racemes which will become the long strands of fruit.
+The young growth at stem tips is often yellowish green, the young stems hairy.
+Twigs grey-brown, lenticellate.
+Bark is channeled longitudinally, soft and very hairy, scattered with pale grey lenticels.
+The old stems are buff-grey in colour.
+The young spikes are often heavily parasitized and damaged by insects, resulting in tangled, malformed and sterile growths.
+It produces green flowers, male and female flowers on separate trees, in summer followed by colourful fruit that ripens in stages so they are green, white, yellow, pinkish, bright red, dark red and purple.
+The fruits are spherical and just under a centimeter wide, hanging singly or paired in long, heavy bunches.
+Average to fast, young trees can grow between 700 and 900 mm per year.
+These plants are dioecious , i.e. unisexual, with male and female flowers on separate plants.
+The globose to ellipsoid fruits resemble a drupe.
+Twigs sparingly lenticellate, buds ferruginous-tomentose, young shoots sparingly pubescent to densely fulvous- or ferruginous-tomentose.
+The leaves are dark-green and glossy above, with paler undersides often covered in fine, light orange-brown hairs.
+Antidesma venosum Small, half inch, dark purple fruit.
+Female flowers:pedicels 0.5-0.8 mm.
+The stipules are large and conspicuous.
+Seeds usually germinate between 10 - 20 days, with a germination rate of 70 - 80 %.
+They grow in an alternate arrangement, with entire, symmetrical blades.
+Leaves alternate, oblong to elliptic, leathery, veins sunken above, prominent below with hairs on the veins on both surfaces.
+Fruits 5-7 mm, irregularly and coarsely reticulate-rugose, reddish to almost black when ripe.
+The female flowers have 2 to 6 stigmas.
+Very small, greenish-yellow and borne on long, drooping flowering spikes.
+Leaf texture is leathery, the colouring glossy bright to dark green above while paler, also hairy below.
+Leaf shape is oblong to elliptic with a rounded or tapering tip and rounded base.
+The shape of the tree is one of a rounded canopy.
+The bark is pale brown or pale grey.
+Infructescences not elongated.
+Spaced, lateral veins ascend from the pale yellow or brown midrib and curve inwards, just short of the margins.
+Flowers in long catkin-like spikes, up to 8 cm, sexes on separate trees, male flowers yellow, female flowers reddish, unpleasantly scented.
+They have a velvety, softly leathery feel are simple and arranged alternately on the branches, with very noticeable lateral veins.
+Each small, oval-shaped fruit measures about 8 x 4 mm in size.
+New twigs are very hairy, green becoming pale brown with age.
+Evergreen shrub or tree, sometimes straggling, 1-9 m high, most parts usually pubescent to tomentose.
+Petioles 3-7 mm long, leaf-blade elliptic-obovate to oblong-lanceolate, 3-10 x 2-5 cm, base rounded to sometimes cuneate, tip rounded to shortly obtusely acuminate.
+This evergreen to semi-deciduous tree or shrub grows to 4 m tall, with a dense, roundish crown.
+The flowers grow in a raceme , with 1 bract per flower, on a short pedicel.
+The flowers produce an unpleasant smell, and the tree is in fruit for more than a month during late summer.
+A spreading shrub or small evergreen tree, sometimes straggling, 1-9 m. tall, many- or single-stemmed and sometimes with drooping branches, bark fibrous, fairly smooth to lightly fissured, flaking or roughened, grey-brown, wood hard, white or pale brown.
+Flowers in A. venosum are small, showy and distinctive.
+Plant Type: Tree.
+The fruits are green when young, and individually ripen to white, bright-red or purplish-black, often resulting in a multi-coloured tassel.
+They have a 1-locular ovary with 2 ovules.
+Leaves simple, alternate, more or less spirally arranged, with rounded or bluntly pointed tips, about 150 mm long and 70 mm broad.
+This is an evergreen to semi-deciduous, dense rounded crown and blood-red flowered plant with an unpleasant scent attractive to insect-eating birds.
+Male inflorescences spicate, often pendent, 7-10 cm long, often with 1-4 basal branches, flowers 4-merous, calyx 0.5-1 mm long, greenish or yellowish, sometimes darker tinged, stamens alternating with and ± enveloped by contiguous disc glands.
+Stipules 2-8 mm, lanceolate to linear-lanceolate, acute, evenly to densely pubescent or tomentose, subpersistent.
+There are 3 to 8 fused sepals, but no petals.
+Pale, grey-white lenticels can often be seen in scattered patches on the bole.
+Bulbs Climbers Cycads Euphorbias Ferns Grasses Herbs Orchids Parasites Shrubs Succulents Trees Sources of Information Disclaimer Subject Index.
+Stamens alternating with and ± enveloped by contiguous disc glands.
+Male flowers are produced in long, thin catkins which are found at the ends of newly grown twigs.
+Female inflorescence similar to male but sometimes paniculate due to gall-mite attack, pedicel 0.5-0.8 mm long, calyx 1 mm long, urceolate, ovary glabrous, styles 2.
+Female inflorescences usually erect or held laterally, sometimes pendent, compoundly spicate, usually with 1-4 lateral spikes in the lower part, but often galled due to the action of a mite and then densely and irregularly paniculate, especially in the upper half, otherwise ± as â.
+Initially smooth, it later becomes rough with flaking and longitudinal fissuring.
+The flowers smell like honey or rotting watermelon.
+Leaves:petioles 3-7 mm.
+Male inflorescences terminal or subterminal on short lateral shoots, 4-10 cm long, spicate, usually with 1-2 lateral spikes at the base, bracts minute.
+Male Flower.
+Male flowers:calyx 0.5-1 mm.
+The family was previously associated with the Euphorbiaceae family, but, only a few yield a resinous exudate, and none have latex, unlike many members of Euphorbiaceae.
+Leaves simple, alternate, more or less spirally arranged, with rounded or bluntly pointed tips, about 150mm long and 70mm broad.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 1],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 1],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 1],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 1]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 1],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 1],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 1],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

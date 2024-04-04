@@ -1,0 +1,112 @@
+We are interested in obtaining botanical trait information about the species Linospadix monostachyos.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The fruits are globose, of red colour when ripe, of about 1 cm of diameter.
+Rank: GERMINATING.
+A small, solitary, under-story palm with unevenly pinnate,.dark green leaves to about 3m, with long infructescence of.attractive red fruit, about 8mm across.
+It lacks a crownshaft but has a dense crown of weeping fronds of glossy dark green leaves 30 -100 cm long.
+Leaves bifid to pinnate, neatlyabscising or marcescent, a crownshaft not well developed, sheaths soon surfaces, transverse veinlets usually obscure.
+Feather-like, the leaves have a flat end and look almost as if they have been torn across.
+Plant with solitary trunk, of green colour and marked by the rings left from the foliar bases, of 3-4 cm of diameter, can reach a height of 6 metres in the centenarian specimen in habitat , with at the base, under the level of the ground, an knob shaped swelling.
+Rank: SEEDLING.
+The leaves are pinnate, of glossy green colour, long about 80 cm, with leaflets irregularly spaced on the rachis of variable width, cut obliquely and indented at the apex.
+Spacing: 15-18 in.
+Long drooping spikes of flowers are followed by bright red berries.
+Rank: FLOWERING.
+The stem is single , deeply ringed and about 1/2" in diameter.
+A slow-growing delicate palm that rarely grows taller than 2m, it has a slender single-stemmed trunk with attractive bamboo-like rings.
+The inflorescence is simple, hanging, of yellow colour, carrying unisexual flowers disposed in the typical triad.
+Stem erect, slender, eventually becoming bare, Distribution of Linospadixconspicuously ringed with leaf scars.
+Pollen ellipsoidal, slightly asymmetric to lozenge-shaped, aperture a distal sulcus, ectexine tectate, coarsely perforate, or coarsely perforate-rugulate, aperture margin slightly finer, infratectum columellate, longest axis 24-41 µm.
+Small to very small, solitary or clustered, unarmed, pleonanthic,monoecious palms.
+Fruit ellipsoidal to spindle-shaped, rarely curved, bright red at maturity, perianth whorls persistent, the stigmatic remains apical, epicarp smooth, mesocarp thin, fleshy, with thin fibres next to the endocarp, endocarp very thin, closely adhering to the seed.
+Seed germinates within 1 month if fresh.
+Seed subbasally attached, the raphe extending ca.
+Pistillate flowers eventually much larger than the staminate, sepals 3, distinct, broadly imbricate, petals 3, distinct, slightly exceeding the sepals, with broad imbricate bases and conspicuous, thickened, triangular, valvate tips, staminodes 3-6, irregularly lobed and tooth-like, gynoecium unilocular, uniovulate, ± ovoid, with 3 short stigmas, becoming recurved, ovule laterally attached near the base, hemianatropous.
+It has a graceful habit of arching feather leaves with leaflets of variable width , along with long inflourescences eventually covered with bright red seed.
+The Linospadix monostachyos is a small solitary under story plant, only growing to 3m with dark green unevenly pinnate leaves.
+Rank: SEED.
+Small or clustering undergrowth palms of rain forest in New Guinea andeastern Australia, with spicate inflorescences with the peduncular bractinserted far above the prophyll at the base of the flower-bearing part ofthe inflorescence, seed with ruminate endosperm.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

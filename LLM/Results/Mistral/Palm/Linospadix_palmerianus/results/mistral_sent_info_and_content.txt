@@ -1,0 +1,128 @@
+We are interested in obtaining botanical trait information about the species Linospadix palmerianus.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Epiphylls on a leaf, common at high altitudes.
+© J.L. Dowe Male flowers.
+Fruit elongate/cylindrical, 10-15mm long by.5-7 mm wide, yellow or red at maturity, epicarp smooth or.moderately rugose.
+X 5-7 mm, yellow or red at maturity, epicarp smooth or with barely discernible rugose appearance.
+Fruit elongate/cylindricall, 0 -15
+All are fairly small, understory palms, though can grow out of a lower canopy if live long enough.
+Clustering small palm, 1-2.5 m tall.
+Leaflets or segments 2-24 per compound leaf.
+Inflorescence to 60cm long.
+Stems 1-6, to 3 m tall, 5-20 nun.diameter, internodes elongate, green, crown with 8-12 leaves.
+Leaf Description : pinnate , leaflets ridged and variably wide, deep green, slightly arching, 3' long.
+Inflorescence about 25-60 cm long.
+Usually flowers and fruits as a shrub 1-2.5 m tall.
+Leaves regularly segmented with united pinnae, most often with two segments either side of rachis, infrequently simply bifid, segments with broad bases, or regularly and finely pinnate, petiole 5.5-13 cm long, pinnae 2-24 per leaf, dull to semiglossy dark green above, lighter green below, midrib prominent on both surfaces, veins numerous and prominent on both surfaces, terminal pinnae broader than laterals, lamina, when backlit under 10X magnification, with numerous circular clear cells to 0.1 mm wide, linearly parallel to midrib and veins.
+Crownshaft : pseudocrownshaft made up 3-4 angular leaf bases, about 3" tall, pale green.
+Petiole/Leaf bases : very thin, unarmed, un-split, about 1' long.
+Fruit : ellipsoid, 1/2" long, yellow to red when mature.
+Male and female flowers may appear to be in separate spikes but both are produced in each spike and the males shed following anthesis.
+It produces slender, canelike stems to about 1.5 m tall.
+Staminate flowers bullet-shaped in bud, glabrous, to 3mm.long by 2mm wide, petals apically rounded, green at anthesis,.not widely opening, deeply striate in the dried state,.stamens 6-9, connective not extending beyond the anthers,.anthers oblong.
+Stems 1-6, to 2 m tall, 8-20 mm diam., internodes elongate, green, crown with 8-12 leaves.
+Leaves regularly segmented with united pinnae, most often with two segments either side of rachis, infrequently simply bifid, segments with broad bases, or regularly and finely pinnate, petiole 5.5-13 cm long, pinnae 2-24 per leaf, dull to semiglossy dark green above, lighter green below, midrib prominent on both surfaces, veins numerous and prominent on both surfaces, terminal pinnae broader than laterals, lamina, when backlit under 10X magnification, with numerous circular clear "cells" to 0.1 mm wide, linearly parallel to midrib and veins.
+© J.L. Dowe Scale bar 10mm.
+Small densely arranged orbicular 'cells' visible with a lens.
+Terminal leaflets or segments wider at the base than any of the lateral leaflets.
+© J.L. Dowe Fruit, whole and in longitudinal section.
+X 05-Jul mm, yellow or red at maturity, epicarp smooth or with barely discernible rugose appearance.
+Lateral leaflets about 10-20 cm long.
+Habit : clustering with a crown of 3-5 feather leaves.
+Seed about 12 x 5 mm with prominent longitudinal ribs.
+Stems 1-6, to 2 m tall, 8-20 mm in diam., internodes elongate, green, crown with 8-12 leaves.
+Fruit cylindrical , about 10-18 x 5-10 mm.
+Trunk : multiple, 3/4" thick, ringed, medium green.
+The small leaves have just a few wide leaflets.
+Staminate flowers squatly bullet-shaped in bud, glabrous, to 3 X 2 mm, petals apically rounded, green at anthesis, not widely opening, deeply striated in the dried state, stamens 6-9, connective not extending beyond the anthers, anthers oblong.
+Plants are most often less.than 1 m tall, with stems less than 10 mm diameter.
+Seed elongate/ellipsoid.
+Inflorescence : multiple, upright, 1'-2' long, from within leaves.
+Stamens 6-9 per male flower.
+Inflorescence to 60 cm long.
+Fruit elongate/cylindricall, 0 -15 cm
+A particularly diminutive walking-stick palm that only grows on the Bartle Frere and Bellenden Ker massifs in northeast Queensland.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 1],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

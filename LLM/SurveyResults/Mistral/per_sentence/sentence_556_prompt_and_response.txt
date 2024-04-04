@@ -1,0 +1,24 @@
+We are interested in obtaining botanical trait information about the species Coccoloba uvifera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+In late summer, it bears green fruit, about 2 cm diameter, in large, grape -like clusters.
+
+Initial dictionary of traits with all possible values:
+{"Fruit type": ['drupe'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Fruit type": [
+    ["drupe", 1]
+  ]
+}
+
+Explanation:
+The input text mentions "green fruit" that are in "large, grape-like clusters", which suggests that the fruit type of Coccoloba uvifera is a drupe. Therefore, the value 'drupe' in the initial dictionary has strong evidence (b=1) in the input text. Since the input text does not provide any evidence for other fruit types, the dictionary only contains one entry for 'Fruit type'. Other possible trait names and values are not mentioned in the input text, so they are not included in the output dictionary.

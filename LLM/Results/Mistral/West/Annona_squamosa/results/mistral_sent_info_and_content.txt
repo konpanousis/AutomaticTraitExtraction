@@ -1,0 +1,270 @@
+We are interested in obtaining botanical trait information about the species Annona squamosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The stigmas are sessile, stuck together, and deciduous.
+The leaves are thin, oblong while the flowers are greenish-yellow.
+They are pale green on both surfaces and mostly hairless with slight hairs on the underside when young.
+Solitary or in short lateral clusters about 2.5 centimetres long, 2-4, greenish-yellow flowers on a hairy, slender 2 centimetres long stalk.
+The three sepals are short, deciduous, densely or thinly pubescent, and 0.2-0.3 cm long.
+Each pistil forms a separate tubercle , mostly 1.3 centimetres to 1.9 centimetres long and 0.6 centimetres to 1.3 centimetres wide which matures into the aggregate fruit.
+Annona squamosa is a small, semi- deciduous ,.much-branched shrub or small tree 3 to 8 metres tall.similar to soursop.
+The dried multiple, subglobose fruits resemble knobby, closed pine cones and vary from 1.5 to 5 cm wide.
+Leaf stalks are 0.4 centimetres to 2.2 centimetres long, green, sparsely pubescent.
+The branches are irregularly spreading and the young growth is densely pubescent.
+Yellow-green on the outside and pale-yellow inside.
+Styles white, crowded on the raised axis.
+Thin, simple, alternate leaves occur singly, 5 to 17 centimetres long and 2 to 6 cm wide, rounded at the base and pointed at the tip.
+The numerous seeds are obovoid or elliptic, dark brown or black, shiny, slightly compressed, 1.0-1.5 cm long and 0.5-0.8 cm wide, and each is enclosed in the edible pulp.
+Thin leaves occur singly, 5 centimetres to 17 centimetres long and 2 centimetres to 6 centimetres wide, rounded at the base and pointed at the tip.
+Fresh Sugar apple or annona squamosa fruits isolated on white background.
+Flowers are oblong, never fully open, with 1 in long, drooping stalks, and 3 fleshy outer petals, yellow-green on the outside and pale-yellow inside with a purple or dark-red spot at the base.
+Petiole 4-15 mm, leaf blade elliptic-lanceolate, narrowly elliptic, or oblong, 5-17.5 × 2-7.5 cm, thinly papery to membranous, abaxially pale green and puberulent when young but glabrate in age, base obtuse to rounded and slightly decurrent, apex acute to obtuse, lateral veins 8-15 on each side of midvein, adaxially flat.
+The pistils are also numerous, dark violet, finely pubescent, and are found above the stamens.
+The sides sometimes are slightly unequal and the leaf edges are without teeth, inconspicuously hairy when young.
+Syncarp greenish yellow, slightly pruinose, spherical to ovoid, 5-10 cm in diam., areoles rounded, convex, separated by deep grooves, pulp white.
+The small, pendulous flowers occur singly or in pairs in the leaf axils of young shoots or opposite the leaves.
+It is irregularly heart-shaped, about 5-20 cm in diameter.
+Annona squamosa is a small, well-branched tree or shrub from the family Annonaceae that bears edible fruits called sugar-apples.
+The petiole is about 1.0-1.5 cm long.
+The fruit is a syncarp developed from the fusion of numerous ovaries.
+The leaf stalks are 0.4 to 2.2 cm long, green, and sparsely pubescent.
+Very numerous stamens, crowded, white, less than 1.6 cm long, ovary light green.
+Solitary or in short lateral clusters of 2-4 about 2.5 cm long, greenish-yellow flowers on a hairy, slender 2 cm long stalk.
+The pulp is white tinged yellow, edible and sweetly aromatic.
+The leaves are alternate, ovate-oblong or elliptic-oblong, thin, sparsely downy, dark green above, 8-15 cm long and 2-5 cm wide.
+Very numerous stamens, crowded, white, less than 1.6 centimetres long, ovary light green.
+Floraison trx¨s parfumee , fruits comestibles.
+Each pistil forms a separate tubercle , mostly 1.3 to 1.9 cm long and 0.6 to 1.3 cm wide which matures into the aggregate fruit.
+Fruits are formed of loosely cohering or almost free carpels.
+The round or heart-shaped greenish yellow, ripened aggregate fruit is pendulous on a thickened stalk, 5 to 10 cm in diameter with many round protuberances and covered with a powdery bloom.
+Carpels oblong, distinct at anthesis, stigmas ovate-lanceolate.
+Each carpel containing an oblong, shiny and smooth, dark brown to black, 1.3 centimetres to 1.6 centimetres long seed.
+The round or heart-shaped greenish yellow, ripened aggregate fruit is pendulous on a thickened stalk, 5 centimetres to 10 centimetres in diameter with many round protuberances and covered with a powdery bloom.
+The stamens and pistils form a cone-shaped structure at the centre of the flower.
+Broadleaved Perennial Seed propagated Shrub Tree Woody.
+The ripe fruit is light yellowish-green or purple and the exterior readily separates along the lines between the tubercles.
+Fruits are considered mature when the skin between the segments has turned greenish-yellow to creamy-yellow.
+Leaf stalks are 0.4 centimetres to 2.2 centimetres long, green, sparsely pubescent.flower in Hyderabad, India.
+The fruit is juicy and creamy white, it may contain up to 40 black seeds.
+The pedicel is 1.5-2.5 cm long and hairy.
+Pale green on both surfaces and mostly hairless with slight hairs on the underside when young.
+The stamens are numerous, yellowish-white in many rows on the glabrous, raised receptacle , 0.12-0.15 cm long and crowded in a whorl around the gynoecium.
+Annona squamosa is a small, well-branched tree or shrub from the family Annonaceae that bears edible fruits called sugar-apples or sweetsops.
+Flowers 2-3 cm, puberulent.
+Plant spacing is 5 X 5 m.
+Slices of this fruit are round, daisy-like pinwheels, often filled with black seeds that are 1-1.5 cm long.
+Each carpel containing an oblong, shiny and smooth, dark brown to black, 1.3 to 1.6 cm long seed.
+The fruit looks very scaly and almost falls apart when the fruit is completely ripe.
+Seeds black-brown, ca.
+Nous contacter.
+Inflorescences 1-flowered or 2-4-fasciculate.
+Green outer petals, purplish at the base, oblong, 1.6 centimetres to 2.5 centimetres long, and 0.6 centimetres to 0.75 centimetres wide, inner petals reduced to minute scales or absent.
+The three inner petals alternate with the outer ones and are minute, sometimes absent, ovate and never more than 0.1 cm long.
+Branches with light brown bark and visible leaf scars, inner bark light yellow and slightly bitter, twigs become brown with light brown dots.
+The 6 petals are biseriate.
+Leaves: taste bitter, harsh, little cold in nature.
+Three green outer petals, purplish at the base, oblong, 1.6 to 2.5 cm long, and 0.6 to 0.75 cm wide, three inner petals reduced to minute scales or absent.
+The fruit flesh is white, very soft and tastes sweet.
+A. squamosa , a small deciduous tree about 3-5 m tall, produces its first branches near the base of the trunk.
+Twigs of A. squamosa showing fruit and leaf.
+Trees, deciduous, to 8 m tall.
+When young, leaves are pubescent and give a peculiar smell when crushed.
+The three outer petals are lanceolate, thick, fleshy, trigonous, finely pubescent, yellowish-green on the outside, yellowish-white inside, 2.0-2.5 cm long and 0.5-1.0 cm wide.
+Afterwards it gradually slows down in the red-fruited form.
+Outer petals basally green to purple, oblong-lanceolate, 1.5-3 × 0.5-0.8 cm, fleshy, thick, inside concave, keeled on apical half, inner petals absent or reduced to scales, as long as stamens.
+A small tropical tree, indigenous to the Amazon rainforest, growing up to 30 feet tall.
+Description Annona squamosa is a small, semi- deciduous, much branched shrub or small tree 3 metres to 8 metres tall very similar to soursop with a broad, open crown or irregularly spreading branches and a short trunk short, not buttressed at base.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 0]
+],
+"Bark color": [
+["Slice in light bark", 1],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 0],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 1]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 1],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 1]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 0],
+["Flower with 6 or more petals", 1],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

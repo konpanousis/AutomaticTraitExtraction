@@ -1,0 +1,79 @@
+We are interested in obtaining botanical trait information about the species Wettinia oxycarpa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Palm Traits 1.0.3.5
+Palms of the genus Wettinia are monoecious , medium-sized to large, and typically solitary-trunked.
+Stem solitary, 6-15 m tall and 9-15 cm in diameter, usually with one dead leaf hanging down.
+Categories : Wettinia Arecaceae genera Neotropical realm flora Taxa named by Eduard Friedrich Poeppig Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Taxonomy articles created by Polbot.
+Leaves 3.5-6 m long, pinnae 23-30 on each side, entire, pendulous, with a rusty pubescence, especially below and along veins, the central ones 95-130 cm long and 9-12 cm wide, with ca.
+The rope-like inflorescences of the plant emerge from leathery spathes , and grow in a circular pattern around one or more trunk rings beneath the crown shaft.
+Tree, Solitary palm.
+They have a low, dense cone of brown or black stilt roots , and pinnate leaves.
+Inflorescences 1-6 per node, peduncle 20-25 cm long, rachis 8-25 cm long, branches 30-40, to 15 cm long.
+The fruit is small to medium-sized and elongated, green to bluish black in color.
+Definition: whole plant arborescent.
+Male flowers 10-12 mm long, with 12-19 stamens.
+Female flowers crowded along the branches.
+Fruits brown, angled, with a velevety pubescence, 2.5-3.5 cm long and 1.5-2 cm in diameter, forming a single elliptic mass 30-40 x 20 cm.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the dictionary in JSON format:
+
+```json
+{
+  "Fruit colour description": [
+    ("black", 1),
+    ("bluish", 1),
+    ("brown", 1),
+    ("green", 1)
+  ],
+  "Fruit colour": [
+    ("black", 1),
+    ("blue", 0),
+    ("brown", 1),
+    ("green", 1),
+    ("grey", 0),
+    ("ivory", 0),
+    ("orange", 0),
+    ("pink", 0),
+    ("purple", 0),
+    ("red", 0),
+    ("white", 0),
+    ("yellow", 0)
+  ],
+  "Crown": [
+    ("both", 0),
+    ("canopy", 0),
+    ("understorey", 0)
+  ],
+  "Fruit size": [
+    ("large", 0),
+    ("small", 1)
+  ],
+  "Fruit shape": [
+    ("ellipsoid", 0),
+    ("elongate", 1),
+    ("fusiform", 0),
+    ("globose", 0),
+    ("ovoid", 0),
+    ("pyramidal", 0),
+    ("rounded", 0)
+  ],
+  "Conspicuousness": [
+    ("conspicuous", 0),
+    ("cryptic", 0)
+  ]
+}
+```
+
+Note: The binary values in the output dictionary are based on the presence of strong evidence for each value in the input text. For example, the value "bluish" is associated with a binary value of 1 for the "Fruit colour description" trait, indicating that there is strong evidence for this value in the input text ("The fruit is small to medium-sized and elongated, green to bluish black in color."). However, the value "blue" is associated with a binary value of 0 for the "Fruit colour" trait, indicating that there is no strong evidence for this value in the input text.

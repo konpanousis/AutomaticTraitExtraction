@@ -1,0 +1,138 @@
+We are interested in obtaining botanical trait information about the species Balaka seemannii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruits are red, ellipsoid.and slightly pointed when ripe.
+Habitat : Fiji Notes:  Attractive smaller understory palm with dark wedge shaped leaflets on a slender stem.
+Fruits are red, ellipsoid and slightly pointed when ripe.
+Slim, solitary, grey to brown, up to 8 m high, and rarely more than 3-4 cm thick.
+Spacing: 36-48 in.
+It has a slender trunk rarely seen more.than 3-4 cm thick and attractive colorations between grey to brown.with the crownshaft slightly darker.
+Pseudolmedia is a flowering plant genus in the mulberry family.
+Pollen ellipsoidal asymmetric, aperture a distal sulcus, ectexine tectate, perforate, or perforate-finely rugulate, aperture margin similar or slightly finer, infratectum columellate, longest axis ranging from 33-41 µm.
+Open holding only 6-7 fronds.
+Seed ovoid, surface smooth, hilum apical, raphe much branched, endosperm homogeneous, embryo basal.
+It holds only 6-7 fronds of.about 1.5 meters or less in length.
+Encyclopedia Index Families Genera Species Arecaceae Saguaster Palms.
+Stem erect, slender, ringed with rather widely spaced leaf scars.
+Encyclopedia Index Families Genera Species Arecaceae Balaka Palms.
+Moderate, solitary pinnate-leaved palm, native to Samoa, with crownshaft, praemorse leaflets and distinctive elongate peduncle.
+Encyclopedia Index Families Genera Species Arecaceae Balaka Palms Palms & Cycads.
+Fruit: Ellipsoid and slightly pointed when ripe, bright red and up to 2 cm long.
+Categories : Balaka Arecaceae genera Taxa named by Odoardo Beccari Areceae stubs Hidden categories: CS1 Italian-language sources Articles with short description Short description is different from Wikidata Articles with 'species' microformats All stub articles.
+Encyclopedia Index Families Genera Species Arecaceae Drymophloeus Palms Palms & Cycads.
+Seed elongate, pointed, ridged, 4-5-angled in cross-section, hilum elongate, lateral, raphe branches few, endosperm homogeneous, embryo basal.
+Encyclopedia Index Families Genera Species Arecaceae Drymophloeus Palms.
+Its inflorescences are arranged in a dense panicle up to 30 cm long.
+Poa poiformis , commonly known as coast tussock-grass or blue tussock-grass , is a densely tufted, erect, perennial tussock grass, with distinctive blue-green leaves, that grows to about 1 m in height.
+Crownshaft: Slightly darker than the trunk.
+Small to moderate, solitary, unarmed, pleonanthic, monoecious palms.
+Fruit ovoid, red at maturity, stigmatic remains eccentrically apical, epicarp thin, smooth, becoming wrinkled and somewhat pebbled when dry, mesocarp fleshy, fibrous, with stinging crystals, major fibres conspicuous adherent to the endocarp, endocarp terete, straw-coloured.
+Staminate flowers bullet-shaped, sepals 3, distinct, imbricate, irregularly but strongly keeled, margins thin, variously notched, petals 3, distinct, ovate, valvate, evenly thickened, adaxially grooved, abaxially striate when dry, reflexed at anthesis, stamens numerous, ca.
+Pistillate flowers ovoid, sepals 3, distinct, imbricate, margins toothed, petals 3, distinct, widely imbricate, toothed laterally, pointed apically, staminodes usually 6, small, ± united, tooth-like with jagged tips, gynoecium ovoid, unilocular, uniovulate, stigmas apparently short, ovule pendulous, form unknown.
+Inflorescence: Branched and carries numerous cream flowers.
+It has a slender trunk rarely seen more than 3-4 cm thick and attractive colorations between grey to brown with the crownshaft slightly darker.
+Stem erect, slender, ringed with rather prominent leaf scars.
+Back to Arecaceae index.
+Alive, but not a good looking palm.
+Just before opening, the yellow, flower-like pseudostem resembles a lotus - from which the plant gets one of its names.
+Pistillate flowers broadly ovoid, sepals 3, distinct, imbricate, hooded, edges minutely toothed or variously notched, petals 3, twice as long as the sepals in late bud, distinct, ovate, imbricate, lateral margins shortly fringed, tips thick, valvate, staminodes 3, shortly joined basally, wide, truncate and bifid or uneven distally, gynoecium symmetrical, ovoid, tapering distally, unilocular, uniovulate, stigmas 3, recurved, ovule attached laterally or pendulous from the top of the locule, form unknown.
+An elegant palm with some found up to 7 meters but many maturing.at around 2 meters height.
+Small or moderate, solitary pinnate-leaved palms, native to Fiji and Samoa, all with crownshafts and praemorse leaflets, with long peduncles and generally with a 4-5-ridged seed.
+Moderate solitary, unarmed, pleonanthic, monoecious palms.
+Attractive tall, very skinny palm with arching leaves and fish-tail shaped leaflets.
+Staminate flowers symmetrical, bullet-shaped in bud, sepals 3, distinct, glabrous or red-brown tomentose, rounded, imbricate, margins toothed, petals 3, briefly united at the base, ovate, valvate, grooved adaxially, stamens numerous , filaments erect in bud, awl-shaped, anthers elongate, dorsifixed near the base, bifid apically, briefly sagittate basally, latrorse, pistillode bottle-shaped with a long neck, often ±flexuous apically at anthesis.
+Arching 1-2 m long with 10-12 fish-tail shaped leaflets on each side.
+Brookfoams are glandular rhizomatous creeping perennials with highly lobed or toothed leaves and inflorescences of petite flowers.
+It is a tropical shrub having recaulescent inflorescences composed of multiple purpled flowers that emerge on the plant stem from stubby shoots.
+It holds only 6-7 fronds of about 1.5 meters or less in length.
+Fruit irregularly ovoid, tapered distally or at both ends, often angled, ± beaked, reddish-orange at maturity, drying pebbled, stigmatic remains apical, epicarp thin, mesocarp with outer sclereid layer, inner fleshy layer, and a single series of vascular bundles with thick fibrous sheaths next to the endocarp, endocarp thin, not operculate.
+At 600 meters elevation, with ripe seeds.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples based on the input text:
+
+```json
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 0],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 0],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 1],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 0],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 0],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 1],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 1]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 1],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 0],
+    ["ovoid", 0],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 1],
+    ["cryptic", 0]
+  ]
+}
+```
+
+The binary values in the sublists indicate whether there is strong evidence for the value in the input text (1) or not (0). Note that some values have not been assigned a binary value because they are not mentioned in the input text or there is not enough evidence to be certain of their association with the trait.

@@ -1,0 +1,172 @@
+We are interested in obtaining botanical trait information about the species Chamaedorea rojasiana.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The flowers are produced in inflorescences , they are dioecious , with male and female flowers on separate plants.
+Fruits: drying 7-9 mm long, subglobose or ovoid-ellipsoid, orange at first then maturing purple-black.
+The fruit is an orange or red drupe 0.5-2 cm diameter.
+Flowers: Staminate in dense spirals, 3-3.5 x 1.75-2 mm, ovoid, yellowish, strongly nerved when dry, deeply sunken, calyx 0.5I x 2 mm, lobed, connate and/or imbricate in basal 1/2 sepals rounded apically, petals 3.5-4 x 1.5-2 mm, valvate, petals connate apically and basally and adnate apically to pistillode and corolla opening by lateral slits, acute, stamens shorter than pistillode, filaments short, anthers entire apically, pistillode 3.5 mm high, columnar, truncate.
+Type: Shrubs, Tropicals and Tender Perennials, Palms Height: 18-36 in.
+Stem: 6-8 mm diam., green, smooth, ringed, internodes to 5.57 cm long, slender prop roots basally.
+Pistillate flower with sepals 3, as in the staminate, petals 3, usually connate, distinct lobes valvate or imbricate, staminodes present and tooth-like or absent, gynoecium ovoid, tricarpellate, syncarpous, trilocular, trilovulate, stigmas small, recurved, ovule campylotropous, laterally inserted.
+Leaf , root , seed.
+Pistillate spicate or furcate, rachis or rachillae 7-9 cm long, erect and yellow in flower, spreading and orange in fruit.
+Inflorescences among or below the leaves, solitary or several per leaf axil, unbranched or branched to 1 order, sometimes forked, staminate often more branched than pistillate, peduncle short to elongate, prophyll tubular with tapering bifid tip, peduncular bracts 2-several, elongate, tubular, sheathing the peduncle, coriaceous or membranous, persistent, tips short, bifid, rachillae, long or short, slender or fleshy, sometimes ridged, lacking bracts at maturity, bearing closely appressed or rather widely spaced, spirally arranged staminate or pistillate flowers, rarely bearing curved acervuli of staminate flowers.
+Staminate spicate or with 2-3 rachillae, rachis or flower bearing portion 7-20 cm long, 4 mm thick, densely flowered to base, nodding or pendulous, greenish yellow in flower.
+Leaves: 3-6, spreading, pinnate or less often bifid, sheath 712 cm long, 8-14mm thick, oblique apically, prominently striatenerved, petiole to 2.5-5 cm long or sometimes longer but shorter than sheath, rachis 12-18 cm long when pinnate, 7.5-8.5 cm long when bifid, pinnae 2-4 on each side of rachis, terminal pair largest, this to 13-17 cm long on upper margin, 4-6 cm along rachis, with 4-6 primary nerves on each side of rachis and 1-3 secondaries between them, basal ones smallest, these to 13 x 2.5 cm, each with a central midrib and 2 pairs of slightly less conspicuous primary nerves on each side, falcate-acuminate, sigmoid, thin, concolorous or slightly paler below, ifbifid then blade to 20 x 20 cm, apically incised to more than 1/2 its length, lobes broadly diverging, acuminate, 7-nerved.
+Habit: solitary, slender, erect, 1-1.5 m tall though sometimes flowering when stemless.
+Pistillate in moderately dense spirals, 1 x 2-3 mm, shieldlike, yellow, deeply sunken in oblong or oval depressions 2.5 mm long, calyx 0.25 x 2.5 mm, obscurely lobed, ringlike, membranous, ± transparent, sepals imbricate and/or connate nearly to top, straight apically, petals imbricate nearly to apex, irregularly rounded, prominently striate-nerved, pistil 1 x 2 mm, depressedglobose, yellowish, styles short or lacking, stigma lobes thick, blunt, separated, erect.
+Rank: FLOWERING.
+Some features of floral anatomy, including vascularisation of the ovule by a strand from each ventral bundle and abundant raphides in styles and stigmas, are characteristic of other genera in Chamaedoreeae and Ceroxyleae.
+The bifid leaves are short and wide and look a bit like a butterfly or shortened fish-tail and have a few subtle ridges down them.
+Germination adjacent-ligular, eophyll bifid or pinnate.
+.Arial roots.
+Generally rather small, often clustering, pinnate-leaved dioecious palms from the undergrowth of rain forest from Mexico southwards to South America, very diverse and with a wide range of habits including one climbing species, inflorescence and flower form equally varied.
+Chamedorea oblongata.
+Fruit small, globose or oblong, stigmatic remains basal, epicarp smooth, mesocarp fleshy, endocarp thin.
+Staminate flowers symmetrical, sepals 3, entire, united basally or distinct, petals 3, distinct or variously connate, lobes valvate, stamens 6, filaments short, broad or awl-shaped, anthers dorsifixed, included, oblong or didymous, pistillode various, cylindric or expanded basally, sometimes trilobed.
+Seed erect, globose, or ellipsoidal, hilum small, basal, branches of raphe obscure, endosperm cartilaginous, embryo basal to subapical.
+The leaves are pinnate , with one to numerous leaflets.
+Stem usually slender, covered wholly or partially in fibrous leaf bases or smooth, green, prominently ringed with leaf scars.
+Leaves bifid or variously pinnate, very rarely entire, reduplicate, sheath closed or becoming split, short or elongate, sometimes with a marcescent lobe opposite the petiole, petiole short to elongate, flattened adaxially, rounded abaxially, sometimes with a prominent pale green or yellow, abaxial stripe, rachis rounded, angled, or flattened adaxially, rounded abaxially, blade entire, bifid and pinnately ribbed, or regularly or irregularly pinnately divided, leaflets few or many, of 1 or several folds, narrow or broad, often oblique or sigmoid, acuminate, surfaces glabrous.
+In spite of their very slender stems, these palms tend to be strongly erect and are rarely found with the rooted, trailing stems that are characteristic of many older, small cloud forest Chamaedorea spp.
+Fruits mature from green through brilliant orange thence black and add a colorful touch to females when halfway mature.
+Inflorescences: interfoliar, peduncles 11-20 cm long, very slender, scarcely 2 mm thick near apex, erect or spreading, bracts 3-4, tubular, appressed, scarcely more than 3 mm broad, striatenerved.
+Most adult plants in nature are between 80 cm and 1.20 m tall, although occasionally one encounters individuals with stems in excess of 1.80 m in height.
+Flowers sessile or partly enclosed in a cavity in the fleshy rachilla, small or minute.
+Small, sometimes moderate, erect or procumbent, rarely climbing, acaulescent or trunked, solitary or clustered, unarmed, pleonanthic, dioecious palms.
+It grows to about 4.5' tall and has a very thin stem.
+They are small palms, growing to 0.3-6 m tall with slender, cane-like stems, growing in the understory in rainforests , and often spreading by means of underground runners , forming clonal colonies.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 1],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 1],
+["yellowish", 1]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 1]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Flower type": [
+["dioecious", 1],
+["monoecious", 0]
+],
+"Flower color": [
+["yellowish", 1],
+["yellow", 1]
+],
+"Flower arrangement": [
+["spirals", 1],
+["densespirals", 1],
+["inflorescences", 1]
+],
+"Leaf type": [
+["pinnate", 1],
+["bifid", 1]
+],
+"Leaf arrangement": [
+["spreading", 1]
+],
+"Stem diameter": [
+["6-8 mm", 1]
+],
+"Stem color": [
+["green", 1]
+],
+"Stem texture": [
+["smooth", 1],
+["ringed", 1]
+],
+"Height": [
+["18-36 in.", 1],
+["1-1.5 m", 1]
+],
+"Root type": [
+["slender prop roots", 1],
+["ariel roots", 1]
+],
+"Habit": [
+["solitary", 1],
+["slender", 1],
+["erect", 1]
+],
+"Germination": [
+["adjacent-ligular", 1],
+["eophyll bifid", 1],
+["eophyll pinnate", 1]
+],
+"Rank": [
+["FLOWERING", 1]
+]
+}

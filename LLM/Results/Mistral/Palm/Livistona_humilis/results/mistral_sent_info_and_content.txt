@@ -1,0 +1,166 @@
+We are interested in obtaining botanical trait information about the species Livistona humilis.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flowers usually cream-coloured, tepals united, in 2 whorls of 3.
+Leaf ,roots , floral , stegmata.
+Parallel veinlets 6 each side of the midrib.
+Seed ellipsoidal or globose, basally attached, hilum circular or ± elongate, raphe branches few or lacking, endosperm homogeneous, penetrated laterally by a variable, frequently convoluted intrusion of seed coat, embryo lateral.
+Fruit ellipsoidal or pyriform to obovoid, 11-19 mm long, 8-10 mm in diam., shiny purple-black, epicarp with scattered lenticellular pores, suture line extends for full length of the fruit, marked with lip-like structures, mesocarp fleshy, endocarp thin, pedicel 0.5-1 mm long.
+Description: Livistona humilis or dwarf livistona is a diminutive fan-leaved palm, with stiff rather than floppy leaves, and one of the smallest of Australian Livistonas, with a bit thicker trunk and more robust than the even smaller Livistona inermis.
+Back to Arecaceae index.
+The flower stalks on the female plant are erect and up to 230 cm long, while the male plant's flower stalks are up to 180 cm long and curved.
+Seed ellipsoid, 7-9 mm long.
+Flowers at only 2-3' of trunk height.
+Segments 30-44, rigid, free for about 3/4 of their length, apical lobes acuminate.
+Petiole remnants persistent or deciduous with age or fire.
+Inflorescences unbranched at the base, sexually dimorphic, vertically erect in both sexes, extending well beyond the limit of the crown, those on fruiting plants straight, to 230 cm long, branched to 3 orders, with a single terminal partial inflorescence, peduncular bracts 5-8, scurfy pubescent, inflorescences on nonfruiting plants arcuate, to 180 cm long, branched to 3 orders, peduncular bract lacking, partial inflorescences 4-7, rachis bracts are tightly tubular, scurfy pubescent, rachillae 3-12 cm long, pubescent.
+Inflorescences are long, extending beyond the crown, flowers a creamy/yellowish colour.
+Female inforescences: Erect, to 230 cm long, with a single distal partial inflorescence branched to 3 orders.
+Flower stalks shoot far above crown of palm.
+It is a small, slender palm, growing to about 7 m tall and 5-8 cm dbh.
+Has a bit thicker trunk and more robust than Livistona inermis, but is probably the second smallest Livistona species.
+The flowers are small and yellow, 2 mm to 4 mm across.
+Smaller Livistona with stiff rather than floppy leaves.
+It grows a slender trunk that can reach 7 m tall, but usually stays much smaller, and carries a comparatively sparse crown of stiff, fan-shaped leaves with deeply split segments.
+It is a small, slender palm, growing to about 7 m tall and 5-8 cm dbh.
+The flower stalks on the female plant are erect and up to 230 cm long, while the male plant's flower stalks are up to 180 cm long and curved.
+Palms slender to robust, solitary, bisexual or rarely dioecious, trunk unbranched, erect.
+It is a small, slender palm, growing to about 7 m tall and 5-8 cm dbh.
+Fruits: Sllipsoid, pyriform or obovoid, 11-19 mm long, 8-10 mm diameter black when ripe.
+Rank: FLOWERING.
+Latin Name Common Name Habit Height Hardiness Growth Soil Shade Moisture Edible Medicinal Other.
+Flowers small to very small, usually cream-coloured, calyx with receptacle often producing a short, broad stalk, tubular above, tipped with 3 triangular lobes, these sometimes imbricate at the very base, glabrous or hairy, corolla shallow, tubular at the base, apically with 3 triangular, valvate lobes, stamens 6, epipetalous, the filaments connate to form a fleshy ring, tipped with short, slender distinct filaments, anthers medifixed, rounded or oblong, latrorse, gynoecium tricarpellate, the carpels wedge-shaped, distinct in the ovarian region, connate distally to form a common, slender style, with an apical, dot-like or minutely 3-lobed stigma, ovule basally attached, anatropous, where dioecious, anthers or ovules not developing but otherwise as in the hermaphroditic.
+Size: 30x40 cm.
+Livistona australis is an evergreen Tree growing to 20 m by 6 m at a slow rate.
+It has 8 to 15 fan-shaped leaves, 30-50 cm long with petioles 40-70 cm long.
+Stem : * 1.2-7 m tall , 5-8 cm in diameter, it can exceptionally grow over to 10 metres tall, but don't expect it in your life time.
+Slender to robust, solitary, armed or unarmed, pleonanthic, hermaphroditic , shrub or tree palms.
+Leaves palmate or costapalmate, petiole unarmed or armed with spines, blade divided to varying depths into single-fold induplicate segments, filaments sometimes present at the sinuses.
+It has 8 to 15 fan-shaped leaves, 30-50 cm long with petioles 40-70 cm long.
+Fruit usually developing from 1 carpel, stigmatic remains apical, epicarp smooth, mesocarp thin or thick, usually easily separated from the stony endocarp.
+From the size of the trunk this one could have been happily existing in this tree for some 8 to 10 years.
+Usually a small palm, although it can grow quite tall.
+Special Features:Not North American native, Inconspicuous flowers or blooms.
+Spacing: 36-48 in.
+The slender trunk is covered.in old leaf bases, offering some protection from the frequent.grass fires.
+Leaves 25-40 in a globose crown, petiole arching, 70-200 cm long, 10-17 mm wide, adaxially flat, margins with scattered single curved black spines up to ca 10 mm long, leaf-base fibres moderately prominent, coarse, persistent, lamina costapalmate, regularly segmented, circular, 60-100 cm long, coriaceous, glossy mid green to pruinose grey on both surfaces, lamina divided for 85-98% of its length, with 34-50 segments, depth of apical cleft 55-78% of the segment length, apical lobes acuminate to filiform, semi-pendulous, parallel veins 8-10 each side of midrib, transverse veins thinner than parallel veins.
+A small but abundant Livistona with dull green,.deeply dividend palmate leaves.
+They are fan palms, the leaves with an armed petiole terminating in a rounded, costapalmate fan of numerous leaflets.
+Encyclopedia Index Families Genera Species Arecaceae Livistona Palms Palms & Cycads.
+Encyclopedia Index Families Genera Species Arecaceae Livistona Palms.
+.Inflorescences are long, extending beyond the crown, flowers a creamy/yellowish colour.
+It has 8 to 15 fan-shaped leaves, 30-50 cm long with petioles 40-70 cm long.
+Stamens 6, inserted on the inner tepals, the filaments united to form a fleshy ring, anthers medifixed.
+Flowers solitary or in clusters of 2-4, broadly funnel-shaped, 1.2-3 mm long, cream, sepals triangular, 0.7-1.8 mm long, membranous, acute, petals triangular to broadly ovate, 1.2-3 mm long, acute to cuspidate, cream, stamens ca 1.6 mm long.
+Fruit ellipsoidal or pyriform to obovoid, 11-19 mm long, 8-10 mm diam., shiny purple-black, epicarp with scattered lenticellular pores, suture line extends for full length of the fruit, marked with lip-like structures, mesocarp fleshy, endocarp thin, pedicel 0.5-1 mm long.
+The flowers are small and yellow, 2 mm to 4 mm across.
+Fruit usually developing from 1 carpel, globose to ovoid, pyriform, or ellipsoidal, small to medium-sized, variously coloured, green, scarlet, blue-green, blue-black, black or dark brown, stigmatic remains apical, sterile carpel remains basal, epicarp smooth, dull or shining, often with a wax bloom, mesocarp thin or thick, fleshy or dry, somewhat fibrous, usually easily separated from the bony or woody endocarp.
+Stem erect, obscured at first by persistent sheaths, later becoming bare or covered with persistent petiole bases, conspicuously or obscurely ringed with leaf scars.
+Trunk to 7 m tall, 5-8 cm dbh, leaf scars raised, roughened and with remnant tissue, internodes narrow, grey, petiole stubs persistent or deciduous with extreme age or fire.
+Inflorescences: Long, extending far above the crown of the palm.
+Trunk to 7 m tall, 5-8 cm in diameter, breast high, leaf scars raised, roughened and with remnant tissue, internodes narrow, grey, petiole stubs persistent or deciduous with extreme age or fire.
+Petiole 40-70 cm long, 6-14 mm wide, margins with small, single, curved dark red spines.
+Showing inflorescence/seeds extending beyond crown.
+Flowers creamy/yellowish in clusters of 2-4, globose, 1.5-1.8 mm long.
+Livistona humilis is a small sub-canopy dioecious palm to 7 m tall, leaves are small and regularly segmented, segment apices are rigid, and with a bifurcate cleft to 89% of the segment length, the inflorescence is unbranched in both male and female plants, extending vertically to sub-vertically well beyond the limit of the crown, male plants have up to 8 partial inflorescences, and female plants a single distal partial inflorescence, bracts are tightly tubular, flowers are yellow, fruit are ellipsoid, pyriform, to obovoid to 19 mm long, and shiny purple black at maturity. /Palmweb.
+They are fan palms , the leaves with an armed petiole terminating in a rounded, costapalmate fan of numerous leaflets.
+Male inflorescences: Arcuate, to 180 cm long, peduncular bract lacking, partial inflorescences 4-7, branched to 3 orders, rachillae 3-12 mm long, pubescent.
+Eophyll 3-ribbed.
+Fairly slow.growing, they are probably best planted out when palmate.leaves develop.
+Leaves: 8-15 in a globose crown.
+Eophyll not seen.
+Fruit is shiny purple black, ellipsoid, pyriform, or obovoid, 11-19 mm long and 8-10 mm in diameter.
+Trunk to 15 m tall, 8-20 cm dbh, leaf scars raised, internodes narrow, grey, persistent petiole stubs in the lower portion only.
+The flower stalks on the female plant are erect and up to 230 cm long, while the male plant's flower stalks are up to 180 cm long and curved.
+Flowers, male and female similar in gross morphology, in clusters of 2-4, globose, 1.5-1.8 mm long, yellow, sepals broadly ovate, 1-1.3 mm long, membranous, cuspidate, petals broadly ovate, 1.5-1.8 mm long, fleshy, acute, stamens ca 1.3 mm long.
+Unusual leaf form, looks more like Licuala.
+Usually tall, single-stemmed fan-palms of the Horn of Africa and Arabia, and Himalayas to Australia, there are a few dwarf species, most are hermaphroditic but a few dioecious species are known.
+Inflorescence unbranched at the base, not sexually dimorphic, 20-160 cm long, not extending beyond the limit of the crown, branched to 3 orders, partial inflorescences 4-8, prophyll not seen, peduncular bract 1, rachis bracts loosely tubular, sparsely tomentose, rachillae 1-6 cm long, glabrous.
+Leaves 8-15 in a globose crown, petiole 40-70 cm long, 6-14 mm wide, margins with small, single, curved dark red spines, leaf-base fibres not prominent, coarse, persistent, lamina costapalmate, regularly segmented, circular, 30-50 cm long, chartaceous, adaxially dark green, abaxially lighter green, glossy, lamina divided for 60-87% of its length, with 30-44 segments, depth of apical cleft 35-89% of the segment length, apical lobes acuminate, rigid, parallel veins 6 each side of midrib, transverse veins thinner than parallel veins.
+Flowers at only 60-90 cm of trunk height.
+Pollen-bearing and fruit-bearing inflorescences are borne on separate plants and are strongly dimorphic, the female plants have a single partial inflorescence at the apex and the male have several partial inflorescences along the length of the primary axis.
+Germination remote-tubular, eophyll lanceolate, plicate, minutely toothed apically.
+Ovary of 3 free carpels that are united above to form a single slender style with apical stigma, ovule basal.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 1],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 1]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+]
+}

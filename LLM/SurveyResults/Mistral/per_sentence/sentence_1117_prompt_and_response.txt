@@ -1,0 +1,46 @@
+We are interested in obtaining botanical trait information about the species Ficus vogelii.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The male flowers have a perianth consisting of 2 to 6 segments and bearing 1 to 3 stamens, the female flowers have a perianth consisting of 2 to 7 segments and bearing 1 to 2 stigmas.
+
+Initial dictionary of traits with all possible values:
+{"Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Crown": [
+    ["Regular density of the crown", 0],
+    ["Leaves grouped at the top of the axes", 0]
+  ],
+  "Male flower perianth segments": [
+    ["2 segments", 1],
+    ["3 segments", 1],
+    ["4 segments", 0],
+    ["5 segments", 0],
+    ["6 segments", 1]
+  ],
+  "Male flower stamens": [
+    ["1 stamen", 1],
+    ["2 stamens", 0],
+    ["3 stamens", 1]
+  ],
+  "Female flower perianth segments": [
+    ["2 segments", 1],
+    ["3 segments", 0],
+    ["4 segments", 0],
+    ["5 segments", 0],
+    ["6 segments", 0],
+    ["7 segments", 1]
+  ],
+  "Female flower stigmas": [
+    ["1 stigma", 1],
+    ["2 stigmas", 1]
+  ]
+}

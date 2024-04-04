@@ -1,0 +1,135 @@
+We are interested in obtaining botanical trait information about the species Areca catechu.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Number of Embeds. 0.
+A. catechu is a slender palm with a lifespan of generally 60 years but it can reach up to 100 years old.
+Fruits are orange to red and about 5 cm long.
+Description Large palm with a straight trunk , farmed plantation.
+The leaflets are ridged with 1-3 ribs, and the tips are jagged.
+Areca catechu L.: A, apical and mid-portion of leaf, B, portion of.
+Field: Solitary palm with alternating bands of bright green and white on the stem, below a bright green crown shaft , broad, ridged leaflets.
+The superior blades are connate in shape with an uneven tooth-like crack found at the apex.
+S LMH N DM 4 2 3.
+The bright green crown shaft has a slightly swollen base and is up to 1 m long.
+Description Areca catechu   is a slender palm typically reaching 10 - 20 m tall.
+It may reach heights of up to 30 m , though is more typically 15 to 20 m tall with an ultra-slim, tall-palm appearance.
+The fibrous pericarps , or outer fruit walls, of the betel palm are cream to brown color in the native state, 4-5 cm x 2-2.5 cm.
+The small flowers are arranged in triad clusters of two staminate flowers flanking a slightly larger pistillate flower.
+The sheathing leaf bases form a smooth, greyish crown shaft.
+The single slender green trunk ages to grey with prominent white leaf scars.
+Its dark green leaves can spread 5m across.
+The ovoid fruit is 4 - 5cm long and produced in large clusters of 200 - 300.
+Flowers, fruits and buds in a single frame.
+The leaves are 1.5-2 m long, pinnate, with numerous, crowded leaflets.
+Flowers are unisexual , inflorescences are crowded, much branched panicles borne below the leaves.
+Fronds are simple pinnate , pinnae are lanceolate.
+Rank: SEEDLING.
+The two apical leaflets are fused.
+Description Large palm with a straight trunk , crown about 2.5 m wide.
+Morphology Page fan palm feather palm palmate leaf costapalmate leaf costapalmate closeup pinnate leaf bipinnate leaf praemorse leaflets leaf folds inflorescence branching.
+Leaves: Pinnate , with a stiffly arching rachis and leaflets held at a roughly 45-degree angle.
+The trunk is pencil-shaped, smooth, grey, distinctively ringed and supports a crown of large, arching leaves 1.5 to 2 m long atop a smooth green crownshaft.
+They have a hard fibrous husk surrounding a single seed and ripen approximately eight months after fruit-set.
+It has a single cylindrical straight-stemmed trunk, with a diameter ranging from 25 to 40 cm, and is conspicuously ringed by the scars of fallen leaves.
+Latin Name Common Name Habit Height Hardiness Growth Soil Shade Moisture Edible Medicinal Other.
+Areca catechu is a medium-sized palm tree , growing straight to 20 m tall, with a trunk 10-15 cm in diameter.
+The flowers are followed by egg-shaped fruit about 5 cm long that are green when young, becoming orange, less commonly scarlet when ripe.
+Winkelwagen 0.
+The orange or red drupes are 5-6 cm long and 4-5 cm wide, varying from spherical to somewhat flattened, and contain a single seed.
+The fruit take 6-8 months to ripen.
+The pinnate leaves are 1-1.5 m long, with several dozen obliquely-toothed leaflets.
+The leaves are 1.3-to 2.7-m long and are light green to green in color, the blades are multitudinous, lanceolate, and both surfaces of leaves are glabrous having a length of 30-60 cm and total widths of 2.5-4 cm.
+Betel Palm or Areca catechu is a tropical palm of up to 30 m high with a straight and slender trunk.
+Radial Leaf Rotan Climber 50.0.
+De Veiling.
+Flowers and fruits: The inflorescence is about 1 m long and branched to as many as 3 orders with staminate and pistillate , fragrant, yellowish-white flowers.
+F LMH N DM 3 1 2.
+Stems: Solitary, slender, to 10-12 m tall and 20-25 cm in diameter, with prominent white leaf scar rings on a green background that fades to gray with age.
+The flowers are small, pale yellow and either female or male held in large branched flower-stalks arising at the base of the crownshaft.
+Areca catechu is an evergreen Tree growing to 15 m by 8 m at a medium rate.
+A, apical and mid-portion of leaf, B, portion of inflorescence, C, staminate flower, D, staminate flower in section, E, pistillate flower, F, pistillate flower in section, G, portion of infructescence, H, fruit in section, I, seed.
+The branched flower stems emerge from below the crown shaft, and are roughly 1 m long.
+M LMH N DM 4 2 3.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 1],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 1],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 1],
+["orangish", 1],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 1],
+["reddish", 1],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 1],
+["green", 0],
+["grey", 0],
+["ivory", 1],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 1],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

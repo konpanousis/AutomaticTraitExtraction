@@ -1,0 +1,251 @@
+We are interested in obtaining botanical trait information about the species Calotropis procera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+E. Boom met tot 20 cm.
+The stem can be up to 25 cm in diameter.
+Articulated cork in Calotropis procera.
+C. gigantea flowers are more open and have petals with a uniform mauve-pink colour.
+Plant name Family Context References Triticum aestivum Poaceae Unknown Ihsan et al.
+The grey-green leaves are 15-30 cm long and 2.5-10 cm broad and have a succulent and waxy appearance, hence the name  procera , which means wax in latin.
+Calotropis W. T. Aiton) is a spreading shrub or medium-sized tree reaching 2.5 to 6 m in height.
+The fruit is a fleshy and inflated, up to 10 cm or more in diameter.
+The green fruits contain a toxic milky sap that is extremely bitter and turns into a gluey coating which is resistant to soap.
+Erratum in.
+Calotropis procera : flowering plant , phyllotaxy , reproductive buds , inflorescence , individual flower , and latex oozing out of the wounded stem.
+The seeds are partially or fully covered with hairs, which help in wind dispersal.
+The seeds typically start germinating in about 4 days.
+C. procera usually reaches up to 2 metres high , with stem diameter up to 25 cm.
+Broadleaved Perennial Seed propagated Shrub Vegetatively propagated.
+Fruits sub-globose, ellipsoid or ovoid, recurved follicle, 7.5-10.0 cm.
+European Weeds Conifers Deciduous Trees Youngsters Autumn All Leaves Flowers By Colour Blue & Purple Flowers Brown & Green Flowers Red & Pink Flowers White Flowers Yellow & Orange Flowers Multicolored Flowers Other Plants Perennials Grasses Shrubs & Trees Carnivores Aquatic Plants Bulbs & Tubers
+.Stamens 5, united with the stigma to form gynostegium, each stamen is represented by two pollinia with their retinaculae.
+Leaves decussate, obovate, acuminate 10-20 cm long and 4-10 cm wide.
+Seed light-brown, broadly ovate, flattened, 3.2 cm with silky hairs.
+Propagules likely to be dispersed unintentionally.
+Tree Shrub Herb Climbers Succulents Grasses Sedges.
+The fruits are ellipsoid or ovoid, containing 350–500 seeds with tufts of white, silky hair or pappus.
+The opposite leaves of C. procera are large, up to 18 cm and up to 13 cm broad.
+Climbing or smothering growth habit.
+C. procera has a profusion of five-petaled, sweet-smelling white flowers, 3.8 to 5.1 cm in size, with a marked purple tip.
+European Weeds Conifers Deciduous Trees Youngsters Autumn All Leaves Flowers By Colour Blue & Purple Flowers Brown & Green Flowers Red & Pink Flowers White Flowers Yellow & Orange Flowers Multicolored Flowers Other Plants Perennials Grasses Shrubs & Trees Carnivores Aquatic Plants Bulbs & Tubers European Wildflowers Privacy Policy Imprint All Cacti & Succulents Cacti Only Agave Family Aloe Family Living Stones Spurge Family Stonecrop Family Tropical Succulents Indoor Plants Orchids Vine Ferns Herbs Berries Nuts & Seeds Fruits & Vegetables Leaf Identification Garden Plants
+Calotropis procera W.T is a xerophytic perennial shrub or small tree.
+Inflorescence a dense, multiflowered, umbellate cyme arising from the nodes and appearing axillary or terminal.
+The stems are crooked and covered with a fissured corky bark.
+There’s a white fuzziness on the bottom, which evolves to tiny black spots & the leaf yellowing/dropping off.
+Stem : Herbaceous, lower portions woody, aerial, erect, branched, cylindrical, solid, lower portions smooth, upper portions covered with woolly hairs, pale green, contains milky latex.
+Corneal edema and-¦.
+The plant contains a milky sap, which oozes out of any wound or injury in the aboveground parts.
+.Carpels 2 distinct, ovaries free but upper portion of style and stigma are fused, superior, placentation marginal, ovules many per locule, stigmatic head pentagonal.
+An , 2001 , 2 , 15-20.
+The inflorescence is dense and multiflowered umbellate cyme , and the flowers are five-petaled, bisexual, sweet-smelling, and white in appearance with a characteristic purple tip.
+Fruit : Etaerio of follicles.
+Similarly, C. gigantea exhibits single or paired fruits, 7-10 cm long, with a profusion of white tufted, brown seeds, 2.5 - 3.5 cm in length.
+Growing medium accompanying plants.
+The flowers are pentamerous, small, cream or greenish white at the base and purple violet at the extremity of the lobes.
+The grey-green fruits of C. procera are 8 - 12 cm long, containing 350-500 seeds with tufts of white, silky hair.
+Calotropis procera is an evergreen shrub that may grow up to 6 m in height and has a deep taproot system.
+Calotropis , aerial part, fresh.
+Leaves of C. gigantea are up to 10 cm long and 8 cm wide.
+Stems /Shoots/Trunks/Branches.
+The leaves are large, pale green, succulent, arranged in opposite phyllotaxy, and covered with cuticular wax.
+Young stems are grayish-green in color, smooth, and pubescent, whereas the mature stems have a deeply fissured bark.
+This is a flowering plant growing up to 4m or more tall.
+Self-compatible or apomictic.
+Stem round, usually simple , pale green, thickly covered with hoary pubescence which readily rubs off.
+It has a deep taproot, 3-4 m deep, and a secondary root system with woody lateral roots that may rapidly regenerate adventitious shoots when the plant is injured.
+Corolla slightly campanulate, with 5 sepals that are 4-5 mm long, segments ovate, acute, rather concave, dull purple bordered with white on the upper side, silvery on the underside.
+Calotropis procera Skip to the content Search Plant Identification plantsam.com Menu Cacti & Succulents Cacti Only Agave Family Aloe Family Living Stones Spurge Family Stonecrop Family Tropical Succulents Indoor Plants Orchids Vine Ferns Herbs Berries Nuts & Seeds Fruits & Vegetables Leaf Identification Garden Plants
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 0],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 0],
+["Opposite phyllotaxis", 1],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 0],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 1],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 0],
+["Finely fissured bark", 0],
+["Presence of spines or prickles on the trunk", 0],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 0],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 0],
+["obovate blade", 0],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 0],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 0],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 1],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 0],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 1],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 0],
+["Berry, or berry-like fruit", 0],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 1],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 1],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 1],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 0],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

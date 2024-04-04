@@ -1,0 +1,328 @@
+We are interested in obtaining botanical trait information about the species Rhizophora mangle.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Showy, Evergreen, Fruit & Berries.
+R. mangle is easily recognized from most other species by the mass of peculiar, branching, curved and arching stilt roots that enable the trees to spread in shallow salt and brackish water, forming dense, impenetrable thickets.
+Growth Habit: Tree, Shrub.
+Categories : IUCN Red List least concern species Rhizophora Mangroves Pantropical flora Flora of West Tropical Africa Flora of Australasia Flora of South America Flora of Florida Flora of Mexico Plants described in 1753 Taxa named by Carl Linnaeus Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats Commons category link from Wikidata Taxonbars with 25-29 taxon IDs.
+R. mangle is normally a small evergreen tree 5-10 m tall with a trunk diameter of 20 cm, but can grow to 20-30 m tall, with diameters of 20-50 cm, with arching stilt roots 2-4.5 m high.
+Preferred Scientific Name Rhizophora mangle L. Preferred Common Name red mangrove Other Scientific Names Bruguiera decangulata Griff.
+The bark is smooth and reddish-brown, becoming gray and slightly fissured with age.
+The foliage is dark green above and paler green underneath with tiny black dots.
+The single seed germinates inside the fruit, forming the long narrow first root , green except for brown enlarged and pointed end, up to 13 mm in diameter.
+The bark is greyish to brownish, thin when young and thick when older.
+Broadleaved Perennial Seed propagated Tree Vegetatively propagated Woody.
+Flowers usually 2-4 together at leaf bases on forked green stalks, 4-7.5 cm long, slightly fragrant, pale yellow, about 2 cm across.
+Twigs stout, grey or brown, hairless, ending in a conspicuous narrow pointed green bud 2.5-5 cm long, covered with 2 green scales around pairs of developing leaves, and making a ring scar around the twig when shedding.
+Fruits dark brown, conical, about 3 cm long and 13 mm in diameter, with enlarged curved sepals, remaining attached.
+Blooming year-round, with a peak in early to mid summer, small, yellow-green, star-like flowers, with four leathery petals, appear in clusters of 2-3 on the leaf axils.
+Strongly adapted to aquatic conditions, this shrub grows "with its feet in the water."
+The berry elongates 2 to 25 cm in length with the seed already germinated.
+Bark gray or gray-brown, smooth and thin on small trunks, becoming.furrowed and thick, inner bark reddish or pinkish.
+The plants have arching, above ground stilt roots or prop roots that help anchor and elevate them.
+.Rhizophora mangle develops little brown fruits which are about 3-5cm small.
+The flowers are followed by brown, egg-shaped, single-seeded fruits that sprout while still on the tree.
+Mangrove leaves are 1-2 in wide and 3-5 in long, with smooth margins and an elliptical shape.
+Ovary inferior conical, 2-celled with 2.ovules each cell, style slender, stigma 2-lobed.
+.During the live of a Rhizophora mangle tree the stem can reach a diameter of 20 to 50cm.
+The leaves have a prominent paler midrib and are stiff, leathery, dark green above, paler green below, opposite, petiolate, and elliptical in shape.
+Within the berry forms a viviparous seed that is spear-like and floats.
+Red Mangrove has thick and leathery leaves which are up to 15cm, most of the time between 6 to 12cm and about 3 to 6cm wide.
+Bell-shaped hypanthium ca 5 mm long.with 4 widely spreading, narrow, leathery, pale yellow sepals 12 mm long,.petals 4, 1 cm long, curved downward, whitish but turning brown, cottony on.inner side, stamens 8, stalkless.
+Seed 1, viviparous, becoming cigar-shaped, to 25 cm long and 12 mm in.diameter.
+Duration: Perennial, Evergreen.
+Dry bark contains 10–40% tannin, aerial roots ca 10.5%.
+The sprouted seedlings each have a stout, up to 10 inch long, green to brown, point-tipped root.
+Tough and long-lasting, Conocarpus erectus.
+Rhizophora mangle develops a one columnar stem which often soon starts to develop a few main branches.
+The sapwood is yellowish to light brown, greyish or pinkish, the heartwood dark red to reddish brown with a fine to medium texture, having a straight to irregular grain, low lustre and no odour, and radial, tangential and volumental shrinkage values of 5.0, 10.7 and 14.3, respectively.
+The white to cream colored flowers are 1.6 to 2.4 cm in size, and produce a dark brown ovoid berry that is 3 cm long.
+Its bark is thick and a grey-brown color.
+Berry, ovoid, 3 cm long, dark.brown.
+Proffitt EC, Milbrandt EC, Travis SE, 2006.
+The Red Mangrove has reddish-brown bark and dark green leathery leaves 5 to 15 centimeters long.
+The bell-shaped pale yellow base less than 6 mm long bears four widely spreading narrow pale yellow sepals almost 13 mm long, leathery and persistent, four narrow petals 10 mm long, curved downward, whitish but turning brown, white woolly or cottony on inner side, eight stamens, pistil of two-celled ovary mostly inferior but conical at apex, with two ovules in each cell, slender style, and two-lobed stigma.
+Blades elliptical, 6-10 cm long, blunt at apex and short-pointed at base, slightly rolled under at edges, slightly leathery and fleshy with side veins not visible, shiny green above, yellow green beneath.
+Leaves opposite or.elliptical, acute at tip and base, entire, without visible veins, thick,.leathery, glabrous, 6–12 cm long, 2.5–6 cm wide, shiny green upper surface,.yellow-green, black-dotted underneath.
+A propagule vertically outgrows the fruit.
+It bears thick, elliptic, simple and opposite leaves, 2-7 in.
+The propagules fall when they are 20-30 cm long.
+Bark grey or grey-brown, smooth and thin on small trunks, becoming furrowed and thick on larger ones.
+.Young plants develop the first branches already after a few pair of leaves and immediately grow in width.
+.Rhizophora mangle develops compound inflorescence, the flowers arise from the axil.
+Grows up to 20-50 ft. tall and 15-40 ft. wide.
+Rhizophora mangle is an erect, evergreen tree often forming impenetrable thickets on salt or brackish shores.
+Flowers mostly 2–4 on forked stalk 4–7 cm long in.leaf axil, pale yellow, ca 2 cm across.
+The colors of the blossoms are usually white and yellow which car vary from pale yellow to dark yellow.
+Description: The flowers are small, shaggy-haired, and have 4 fleshy, narrow, point-tipped petals.
+Eventually, the yellow, salt-rich leaf detaches and falls into the water.
+The blossoms are followed by brown, conical, fleshy fruits which germinate while still on the tree and burst open when ripe to reveal the seeds.
+Leaves opposite, crowded at end of twig, hairless, with slightly flattened leafstalks 13-22 mm.
+Inner bark reddish or pinkish, with a slightly bitter and salty taste.
+
+Initial dictionary of traits with all possible values:
+{"Life form": ['liana', 'tree'], "Leaf position": ['alternate', 'alternate, opposite', 'opposite', 'opposite, whorls of 3', 'opposite, whorls of 3, alternate'], "Leaf composition": ['3 palmate', '3-5 palmate', '3-5 pinnate', '3-5 pinnate, entire', '5-11 pinnate', '5-9 pinnate', 'bi-pinnate, 2 leaflets per jug', 'bi-pinnate, 20-40 leaflets per jug', 'bi-pinnate, 30-32 leaflets per jug', 'entire', 'pinnate, 4-6 leaflets', 'pinnate, 6-8 leaflets'], "Leaf shape": ['elliptic', 'elliptic, elongate', 'elliptic, lanceolate', 'elliptic, obovate', 'elliptic, ovate', 'elliptic, ovate, round', 'elongate', 'elongate, elliptic, obovate', 'elongate, obovate', 'kidney-shaped, circular', 'lanceolate, elliptic', 'linear', 'linear, obovate', 'obovate', 'obovate, elliptic', 'obovate, spathulate', 'ovate', 'ovate, circular', 'ovate, elliptic', 'ovate, elliptic, elongate', 'ovate, heart-shaped', 'spathulate, obovate'], "Leaf margin": ['crenate', 'entire', 'entire, crenate', 'entire, serrate', 'serrate'], "Leaf upper side": ['glabrous', 'glabrous, pubescent', 'pubescent', 'pubescent, glabrous', 'salt crystals', 'scales, glabrous', 'shiny, glabrous', 'woolly, later glabrous'], "Leaf lower side": ['glabrous', 'glabrous, pubescent', 'powdery', 'pubescent', 'scales', 'woolly, later glabrous'], "Leaf glands": ['absent', 'gland on the end of petiole', 'glands near basis and central vein', 'glands near basis and leaf margin', 'translucent oil cells', 'translucent points and lines'], "Leaf rachis": ['Not applicable', 'not winged', 'winged'], "Thorns spines": ['1-2 per leaf axil', '2 per leaf axil', 'absent', 'branch thorns', 'thorns on stem'], "Stipules": ['absent', 'connected', 'present'], "Inflorescence type": ['1-3 sessile', '1-5 sessile', 'dichasium', 'fascicle', 'globose', 'globose in panicle', 'panicle', 'raceme', 'solitary, fascicle', 'spike', 'umbel'], "Sepals calyx shape": ['connate', 'free'], "Sepals calyx numer": ['2-3', '3-5', '4', '4-5', '4-6', '5', '5-6', '6-8', '6-9'], "Petals corolla shape": ['absent', 'free', 'tepals', 'tubular'], "Petals corolla number": ['0', '3-5', '4', '4-5', '4-6', '5', '5, 0', '5-6', '6-8'], "Petals corolla colour": ['Not applicable', 'blue', 'green', 'green, red', 'green-white, yellow-white', 'greenish white', 'red', 'white', 'white, pink', 'white, pink, purple', 'white, whitish', 'white, yellow-white', 'whitish', 'yellow', 'yellow, orange', 'yellow, yellow-green', 'yellow-green', 'yellow-green, green'], "Stamen shape": ['longer than corolla', 'much longer than corolla', 'multiple rows', 'short', 'shorter than corolla', 'shorter than corolla, connected'], "Stamen number": ['10', '15-25', '16', '2', '20', '20-28', '4', '5', '5-6', '6-10', '6-9', '8', 'many'], "Fruit type": ['berry', 'capsule', 'drupe', 'fleshy drupe', 'follicle', 'nutlet', 'pod'], "Fruit shape": ['2-locular, flattened, globose', '3-5-locular, globose', 'elongate', 'elongate, constricted between seeds', 'elongate, slightly constricted between seeds', 'elongate, strongly constricted between seeds', 'flattened obovoid', 'flattened ovate', 'flattened, elongate, twisted', 'flattened, thick, elongate, strongly curved', 'globose', 'globose, 3-angulated', 'linear', 'not flattened, elongate, slightly curved', 'ovoid', 'pyriform, ovoid', 'slightly flattened, elongate, curved'], "Fruit colour": ['black', 'brown', 'brown-black', 'green', 'green, black, whitish', 'green, orange', 'green, orange, red', 'green, red', 'green, yellow', 'greyish', 'orange', 'orange, yellow, red', 'purple, black', 'red', 'red, black', 'red, purple-brown', 'reddish purple', 'whitish green', 'yellow, orange', 'yellowish'], "Aril colour": ['Not applicable', 'orange', 'red', 'white', 'yellow-geen'], "Seed colour": ['Not applicable', 'black', 'brown', 'green', 'grey', 'white', 'whitish']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Life form": [
+["liana", 0],
+["tree", 1]
+],
+"Leaf position": [
+["alternate", 0],
+["alternate, opposite", 0],
+["opposite", 1],
+["opposite, whorls of 3", 0],
+["opposite, whorls of 3, alternate", 0]
+],
+"Leaf composition": [
+["3 palmate", 0],
+["3-5 palmate", 0],
+["3-5 pinnate", 0],
+["3-5 pinnate, entire", 0],
+["5-11 pinnate", 0],
+["5-9 pinnate", 0],
+["bi-pinnate, 2 leaflets per jug", 0],
+["bi-pinnate, 20-40 leaflets per jug", 0],
+["bi-pinnate, 30-32 leaflets per jug", 0],
+["entire", 1],
+["pinnate, 4-6 leaflets", 0],
+["pinnate, 6-8 leaflets", 0]
+],
+"Leaf shape": [
+["elliptic", 1],
+["elliptic, elongate", 0],
+["elliptic, lanceolate", 0],
+["elliptic, obovate", 0],
+["elliptic, ovate", 0],
+["elliptic, ovate, round", 0],
+["elongate", 0],
+["elongate, elliptic, obovate", 0],
+["elongate, obovate", 0],
+["kidney-shaped, circular", 0],
+["lanceolate, elliptic", 0],
+["linear", 0],
+["linear, obovate", 0],
+["obovate", 0],
+["obovate, elliptic", 0],
+["obovate, spathulate", 0],
+["ovate", 0],
+["ovate, circular", 0],
+["ovate, elliptic", 0],
+["ovate, elliptic, elongate", 0],
+["ovate, heart-shaped", 0],
+["spathulate, obovate", 0]
+],
+"Leaf margin": [
+["crenate", 0],
+["entire", 1],
+["entire, crenate", 0],
+["entire, serrate", 0],
+["serrate", 0]
+],
+"Leaf upper side": [
+["glabrous", 0],
+["glabrous, pubescent", 0],
+["pubescent", 0],
+["pubescent, glabrous", 0],
+["salt crystals", 0],
+["scales, glabrous", 0],
+["shiny, glabrous", 1],
+["woolly, later glabrous", 0]
+],
+"Leaf lower side": [
+["glabrous", 1],
+["glabrous, pubescent", 0],
+["powdery", 0],
+["pubescent", 0],
+["scales", 0],
+["woolly, later glabrous", 0]
+],
+"Leaf glands": [
+["absent", 0],
+["gland on the end of petiole", 0],
+["glands near basis and central vein", 0],
+["glands near basis and leaf margin", 0],
+["translucent oil cells", 0],
+["translucent points and lines", 0]
+],
+"Leaf rachis": [
+["Not applicable", 0],
+["not winged", 1],
+["winged", 0]
+],
+"Thorns spines": [
+["1-2 per leaf axil", 0],
+["2 per leaf axil", 0],
+["absent", 1],
+["branch thorns", 0],
+["thorns on stem", 0]
+],
+"Stipules": [
+["absent", 0],
+["connected", 0],
+["present", 0]
+],
+"Inflorescence type": [
+["1-3 sessile", 0],
+["1-5 sessile", 0],
+["dichasium", 0],
+["fascicle", 0],
+["globose", 0],
+["globose in panicle", 0],
+["panicle", 0],
+["raceme", 0],
+["solitary, fascicle", 0],
+["spike", 0],
+["umbel", 0]
+],
+"Sepals calyx shape": [
+["connate", 1],
+["free", 0]
+],
+"Sepals calyx numer": [
+["2-3", 0],
+["3-5", 0],
+["4", 1],
+["4-5", 0],
+["4-6", 0],
+["5", 0],
+["5-6", 0],
+["6-8", 0],
+["6-9", 0]
+],
+"Petals corolla shape": [
+["absent", 0],
+["free", 1],
+["tepals", 0],
+["tubular", 0]
+],
+"Petals corolla number": [
+["0", 0],
+["3-5", 0],
+["4", 1],
+["4-5", 0],
+["4-6", 0],
+["5", 0],
+["5, 0", 0],
+["5-6", 0],
+["6-8", 0]
+],
+"Petals corolla colour": [
+["Not applicable", 0],
+["blue", 0],
+["green", 0],
+["green, red", 0],
+["green-white, yellow-white", 0],
+["greenish white", 0],
+["red", 0],
+["white", 0],
+["white, pink", 0],
+["white, pink, purple", 0],
+["white, whitish", 0],
+["white, yellow-white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellow, orange", 0],
+["yellow, yellow-green", 0],
+["yellow-green", 0],
+["yellow-green, green", 0]
+],
+"Stamen shape": [
+["longer than corolla", 0],
+["much longer than corolla", 0],
+["multiple rows", 0],
+["short", 0],
+["shorter than corolla", 0],
+["shorter than corolla, connected", 0]
+],
+"Stamen number": [
+["10", 0],
+["15-25", 0],
+["16", 0],
+["2", 0],
+["20", 0],
+["20-28", 0],
+["4", 0],
+["5", 0],
+["5-6", 0],
+["6-10", 0],
+["6-9", 0],
+["8", 0],
+["many", 0]
+],
+"Fruit type": [
+["berry", 1],
+["capsule", 0],
+["drupe", 0],
+["fleshy drupe", 0],
+["follicle", 0],
+["nutlet", 0],
+["pod", 0]
+],
+"Fruit shape": [
+["2-locular, flattened, globose", 0],
+["3-5-locular, globose", 0],
+["elongate", 1],
+["elongate, constricted between seeds", 0],
+["elongate, slightly constricted between seeds", 0],
+["elongate, strongly constricted between seeds", 0],
+["flattened obovoid", 0],
+["flattened ovate", 0],
+["flattened, elongate, twisted", 0],
+["flattened, thick, elongate, strongly curved", 0],
+["globose", 0],
+["globose, 3-angulated", 0],
+["linear", 0],
+["not flattened, elongate, slightly curved", 0],
+["ovoid", 0],
+["pyriform, ovoid", 0],
+["slightly flattened, elongate, curved", 0]
+],
+"Fruit colour": [
+["black", 0],
+["brown", 1],
+["brown-black", 0],
+["green", 0],
+["green, black, whitish", 0],
+["green, orange", 0],
+["green, orange, red", 0],
+["green, red", 0],
+["green, yellow", 0],
+["greyish", 0],
+["orange", 0],
+["orange, yellow, red", 0],
+["purple, black", 0],
+["red", 0],
+["red, black", 0],
+["red, purple-brown", 0],
+["reddish purple", 0],
+["whitish green", 0],
+["yellow, orange", 0],
+["yellowish", 0]
+],
+"Aril colour": [
+["Not applicable", 1],
+["orange", 0],
+["red", 0],
+["white", 0],
+["yellow-geen", 0]
+],
+"Seed colour": [
+["Not applicable", 1],
+["black", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["white", 0],
+["whitish", 0]
+]
+}

@@ -1,0 +1,86 @@
+We are interested in obtaining botanical trait information about the species Vitex cymosa.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Fruit succulent, purplish- or violet-black, 1.1-2 cm long and 0.9-1.5 cm wide, glabrous, edible, fruiting cymes usually 4-6.5 cm long and lax, the pedicels 1-5 mm long, strigose- pubescent, fruiting-calyx flattened-campanulate, ca.
+
+Initial dictionary of traits with all possible values:
+{"Leaf shape": ['elliptic'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf shape": [
+    ["elliptic", 0]
+  ],
+  "Fruit shape": [
+    ["succulent", 1],
+    ["oblong", 0],
+    ["ovoid", 0],
+    ["globose", 0],
+    ["cylindrical", 0],
+    ["fusiform", 0]
+  ],
+  "Fruit color": [
+    ["purplish-black", 1],
+    ["green", 0],
+    ["red", 0],
+    ["yellow", 0],
+    ["blue", 0],
+    ["white", 0]
+  ],
+  "Fruit size": [
+    ["1.1-2 cm long", 1],
+    ["0.9-1.5 cm wide", 1],
+    ["<1 cm long", 0],
+    ["<0.5 cm wide", 0],
+    ["2-3 cm long", 0],
+    ["1.5-2 cm wide", 0]
+  ],
+  "Fruit covering": [
+    ["glabrous", 1],
+    ["pubescent", 0],
+    ["strigose", 0],
+    ["verrucose", 0],
+    ["hispid", 0],
+    ["tomentose", 0]
+  ],
+  "Edibility": [
+    ["edible", 1],
+    ["inedible", 0],
+    ["toxic", 0]
+  ],
+  "Fruiting cyme length": [
+    ["4-6.5 cm", 1],
+    ["<4 cm", 0],
+    ["6.5-9 cm", 0],
+    [">9 cm", 0]
+  ],
+  "Pedicel length": [
+    ["1-5 mm", 1],
+    ["<1 mm", 0],
+    ["5-10 mm", 0],
+    [">10 mm", 0]
+  ],
+  "Fruiting-calyx shape": [
+    ["flattened-campanulate", 1],
+    ["tubular", 0],
+    ["urceolate", 0],
+    ["infundibuliform", 0],
+    ["rotate", 0],
+    ["bilabiate", 0]
+  ],
+  "Pedicel covering": [
+    ["strigose-pubescent", 1],
+    ["glabrous", 0],
+    ["pubescent", 0],
+    ["strigose", 0],
+    ["verrucose", 0],
+    ["hispid", 0]
+  ]
+}

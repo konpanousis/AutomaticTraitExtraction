@@ -1,0 +1,156 @@
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 1],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 0],
+["red", 0],
+["white", 1],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 1]
+],
+"Fruit shape": [
+["ellipsoid", 0],
+["elongate", 0],
+["fusiform", 0],
+["globose", 1],
+["ovoid", 0],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+],
+"Root spines": [
+["absent", 0],
+["present", 1]
+],
+"Trunk diameter": [
+["thin", 0],
+["medium", 1],
+["thick", 0]
+],
+"Leaf color": [
+["dark green", 1],
+["light green", 0],
+["whitish-blue-green", 1],
+["whitish-grey", 1]
+],
+"Leaf shape": [
+["palmate", 1],
+["costapalmate", 1]
+],
+"Leaf size": [
+["small", 0],
+["medium", 1]
+],
+"Leaf splitting": [
+["deeply split", 1],
+["slightly split", 0]
+],
+"Leaf droopiness": [
+["drooping", 1],
+["not drooping", 0]
+],
+"Leaf thickness": [
+["thin", 1],
+["thick", 0]
+],
+"Leaf damage": [
+["prone to wind damage", 1],
+["not prone to wind damage", 0]
+],
+"Petiole length": [
+["short", 0],
+["medium", 1]
+],
+"Petiole armament": [
+["armed", 0],
+["unarmed", 1]
+],
+"Inflorescence length": [
+["short", 0],
+["medium", 1]
+],
+"Inflorescence position": [
+["among the leaves", 1],
+["below the leaves", 0]
+],
+"Inflorescence bracts": [
+["deciduous", 1],
+["persistent", 0]
+],
+"Inflorescence color": [
+["creamy white", 1],
+["greenish-white", 0]
+],
+"Trunk height": [
+["short", 0],
+["medium", 0],
+["tall", 1]
+],
+"Trunk spines": [
+["upward-pointing", 0],
+["downward-pointing", 1]
+],
+"Trunk spine density": [
+["sparse", 0],
+["dense", 1]
+],
+"Habit": [
+["solitary", 1],
+["clumping", 0]
+],
+"Leaf count": [
+["few", 0],
+["many", 1]
+]
+}
+

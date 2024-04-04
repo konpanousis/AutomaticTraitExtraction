@@ -1,0 +1,58 @@
+We are interested in obtaining botanical trait information about the species Sterculia setigera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Flowers with perianth green outside, red inside, widely campanulate, 9.5 to 13 mm long, 11 to 16 mm wide, divided into 5 oblong acute lobes, 5 to 9 mm long, 3 to 4 mm wide, outside velutinous, densely covered with short yellow-brown stellate hairs which completely obscure the epidermis, inside glabrous apart from the upper 2/3 to 3/4 of the lobes which more sparsely covered in patent white, simple hairs.
+
+Initial dictionary of traits with all possible values:
+{"Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate'] }
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+  "Leaf apex": [
+    ["Leaf apex sharp corner", 0],
+    ["Leaf apex with wide corners", 0],
+    ["Leaf apex acuminate", 0]
+  ],
+  "Flower color outside": [
+    ["green", 1]
+  ],
+  "Flower color inside": [
+    ["red", 1]
+  ],
+  "Flower shape": [
+    ["campanulate", 1]
+  ],
+  "Flower length": [
+    ["9.5 to 13 mm", 1]
+  ],
+  "Flower width": [
+    ["11 to 16 mm", 1]
+  ],
+  "Perianth lobe number": [
+    ["5", 1]
+  ],
+  "Perianth lobe shape": [
+    ["oblong acute", 1]
+  ],
+  "Perianth lobe length": [
+    ["5 to 9 mm", 1]
+  ],
+  "Perianth lobe width": [
+    ["3 to 4 mm", 1]
+  ],
+  "Outside surface of perianth lobes": [
+    ["velutinous", 1],
+    ["densely covered with short yellow-brown stellate hairs", 1]
+  ],
+  "Inside surface of perianth lobes": [
+    ["glabrous", 1],
+    ["more sparsely covered in patent white, simple hairs in the upper 2/3 to 3/4", 1]
+  ]
+}

@@ -1,0 +1,144 @@
+We are interested in obtaining botanical trait information about the species Syagrus schizophylla.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+The leaflets tend to stick together and not separate.
+Robust, beautiful full Syagrus.
+Single trunk, rough with hair and attached.
+Rank: GERMINATING.
+A very waxy look with persistant, mostly black leaf sheaths with razor sharp teeth.
+Some palms have bisexual flowers and/or male and female flowers on the same inflorescence.
+Slow indicates annual trunk growth of less than 30 cm.
+Less than 30 cm./ Less than 50 cm.
+A medium sized solitary palm with dark green pinnate leaves.with very thin petioles which are spiny near the base.
+Somewhat slow, especially to attain full.
+Flowers and fruit: Inflorescence to 1-2.5 m long, surrounded by a woody spathe.
+Solitary palm with smooth gray stem, widely spaced leaf scars, pinnate leaves with leaflets spead in several planes and irregularly spaced along the rachis in groups of two to seven.
+Unusual dark green angular foliage, the beautiful orange fruit follows winter and spring flowers.
+Less than 10 m. / Over 10 m. Less than 3 m. Crownshaft.
+Separate male and female white flowers are borne on a single inflorescence.
+Pin on Pinterest.
+Palms generally comprise one or several trunks that grow straight out of the ground, but in some species the trunk grow underground and/or as creepers.
+This is the only Syagrus with teeth along the petioles.
+Its trunk stays covered with toothed leaf remains for a long time.
+Over 50 cm.- Less than 30 cm.
+Trunk to 5 inches thick and covered in old leaf bases.
+Rank: SEEDLING.
+Single trunk, rough with hair and attached leaf bases.
+It is a wide crown on that palm.
+Pinnate, leaves about 6-8 feet long , somewhat recurved, with tiny armor at the base of the petiole.
+It is a very neat, attractive palm with nicely arched leaves and leaflets on a single plane.
+Morphology Page fan palm feather palm palmate leaf costapalmate leaf costapalmate closeup pinnate leaf bipinnate leaf praemorse leaflets leaf folds inflorescence branching.
+Stem: Solitary, gray, smooth with widely spaced leaf scars, to 15 m tall and 15 - 45 cm in diameter, often swollen at variable points.
+Kersthangers - pb. 1 icicle/hanging white x 40cm
+One of the only Syagrus to have armed petioles leaf detail- very thick and leathery, almost like a cycad leaf another, better, shot of armed petioles of this Syagrus flowers in Hawaii, Floribunda Palms early fruits, Floribunda Palms, Hawaii two very healthy looking palms in Hawaii, Floribunda Palms Leu Gardens, Orlando, Florida.
+Rank: FLOWERING.
+It can reach a height of up to 13 ft and has arching pinnate leaves.
+Seeds germinate in 2-4 months.
+More than 15 m.- Less than 6 m. Thorns.
+This is a med palm with deep green coloured leaves which form a med flat crown.
+One trunk Leaves. of palmate or pinnate or feathery appearance.
+Cocos schizophylla Mart.
+It has flat leaves like it should, but has never developed any spines on the petioles, nor is it as compact looking as the others I've seen.
+Pagina 2 van 2 • 1 , 2.
+Medium indicates a trunk growth of between 30 and 90 cm.
+A 144 Glass Baubles On Wire Matt Night
+Leaves: Pinnate , reduplicate , to 5 m long, with an arching rachis , usually dark green, but somewhat variable in color.
+Leaves are a deep dark glossy green.
+Somewhat slow, especially to attain full height.
+Zie volgende pagina Zie volgende pagina Zie volgende pagina Zie volgende pagina Zie volgende pagina Zie volgende pagina vorige pagina pagina 1 volgende pagina.
+Leaflets spead in several planes, irregularly spaced along the rachis in groups of two to seven, with drooping leaftips.
+No Diameter of the trunk.
+Spacing: 4-6 ft. 6-8 ft.
+An interesting Syagrus, most noted for it's somewhat scrappy trunk below the crown.
+Fruits oblong to globose, yellow to orange, 2-3 cm long.
+About 25' tall and some seed do germinate.
+Ripe fruits are orange.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here is the dictionary in JSON format as requested:
+
+```json
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 0],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 1],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 0],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 0],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 1],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 0],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 0],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 1],
+    ["ovoid", 0],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ]
+}
+```
+
+Note: The binary numbers in the sublists indicate whether there is strong evidence for the value in the input text. A value of 1 indicates strong evidence, while a value of 0 indicates no strong evidence. The 'Fruit colour' and 'Fruit shape' traits have been updated based on the input text, with 'orange' and 'globose' having strong evidence, respectively. All other traits and values remain unchanged, as there is no strong evidence for them in the input text.

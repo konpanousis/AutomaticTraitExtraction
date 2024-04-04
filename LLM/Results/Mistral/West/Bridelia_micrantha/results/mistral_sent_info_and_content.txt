@@ -1,0 +1,298 @@
+We are interested in obtaining botanical trait information about the species Bridelia micrantha.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Leaves alternate, distichous, simple and entire, stipules linear-lanceolate, 4-7 mm long, caducous, petiole 5-13 mm long, blade elliptical to oblong-elliptical, 3-28 cm x 2-12 cm, base rounded to cuneate, apex short-acuminate, glabrous to slightly hairy above, sparingly soft-hairy below, pinnately veined with 5-20 pairs of lateral veins.
+Fruit an oval berry, 8 x 4 mm, black when mature, edible and sweet tasting.
+Fruit a nearly globose, fleshy drupe c. 7 mm in diameter, black when ripe, 1-seeded.
+A fast-growing tree with a round crown and glossy dark green leaves that turn red in autumn.
+Leaves glabrous, apex shortly attenuate, elliptic to obovate, usually 70-80 x 35-40 mm, dark glossy green above, paler below, iateral veins terminating in margin.
+The Euphorbiaceae is a large family of herbs and trees characterized by one or more of the following features: succulent leafless branches, milky or watery latex, glands at the leaf base, and 3-lobed fruit.
+Flowers in small tight yellow clusters in axils of leaves.
+The Euphorbiaceae is a large family of herbs and trees characterized by one or more of the following features: succulent leafless branches, milky or watery latex, glands at the leaf base and 3-lobed fruit.
+Forms a round crown and glossy dark green leaves that turn red in autumn.
+Shrub or tree, to 60 ft. high, with a dense widely spreading crown Provided by:.
+Male and female flowers on same the tree.
+Female flowers are nearly sessile with ovary and styles fused at the base.
+Flowers in small tight yellow clusters in axils of leaves.Fruit
+Morphology Branches often spiny Provided by:.
+The flowers are carried in the leaf axils, and fruits are either a drupe or berry, with 2 seeds in each chamber.
+Bracts triangular, minute, acute, pubescent.
+Each flower typically has somewhat triangular sepals and diminutive petals.
+Medium to large deciduous tree up to 20 m with spreading crown.
+It alternate or sometimes sub-alternately persisten spiral with the lamina broadly elliptic, with entire margin and an acuminate or acute apex.
+The fruits are small, ovoid and fleshy drupes.
+The branchlets are rusty and pubescent.
+The twigs are very finely hairy or completely hairless.
+A shrub, sometimes scandent, or much-branched tree 2-18 m. with spreading or often pendulous branches and a rounded crown.
+Fruit eaters up to 10m.
+New branches are often covered with raised, light brown lenticels or small spines, which eventually become blunted but can often still be seen on older branches.
+Perennials and small shrubs.
+The lateral venation is distinct below, often pale yellow in colour, and these veins run all the way to, and terminate at, the slightly undulating, smooth or sometimes very faintly scalloped margin.
+Male flowers: pedicels 1.5 mm.
+The slashed back is usually crimson coloured.
+The fruit is a globose, fleshy drupe, black in colour when ripe with brownish seeds.
+These small blunt spines can sometimes be observed near the bottom of the trunk.
+Trunk and branches usually with scattered woody thorns.
+Bark greyish brown, flaky, rough in older specimens, sometimes with small blunt spines at bottom of trunks or on branches, twigs with lenticels.
+Stem-bark is dark gray cracked, rough and often markedly scaly.
+Seeds c. 5 mm long, brownish.
+The leaves are pinnately veined, veins beneath form a dense and prominent network, sometimes sparsely hairy and occasionally with the hairs obscuring the undersurface of the leaf.
+Constituents of Bridelia ferruginea Stem Bark.
+A medium to tall tree , with a dense widely spreading crown.
+Male flowers are yellowish-green, pedicelate, pedicel, 1.5-2 mm long whiles female flowers are subsessile with 3 short, 2-pronged styles in February to August, 0.6 cm across, the greenish yellow sepals have very small and narrow petals.
+Trunk and branches with scattered blunt thorns.
+The fruits are drupe-shaped, unilocular, oblong or sometimes subglobulose with green pericarp, red then black-blue at maturity.
+Bridelia micrantha Bridelia micrantha wood in transverse section Bridelia micrantha wood in tangential section Bridelia micrantha wood in radial section show more thumbnails show less thumbnails Bridelia micrantha.
+Fruit 6-8 x 4-5 mm when dried, slightly larger when fresh, ellipsoid or occasionally subglobose, 1-locular by abortion, green at first, black when ripe.
+Members usually possess finely cracking bark, simple and alternate, glandless leaves with entire margins and conspicuous petioles.
+Twigs dark grey or brown, lenticellate.
+The leaf tip is attenuate, and the base is broadly rounded.
+Male flowers have somewhat rudimentary ovaries and stamens and filaments that are blended together into a basal column but still spread out freely above.
+B. micrantha bears a striking superficial resemblance to the Tassel-berry , but the latter does not have the distinct -herringbone- pattern on the leaves and they are much thicker and more hairy.
+Fruits appear in July and October, sometimes obovoid, 0.8 cm long, more usually ellipsoid, 0.6 cm long, very persistent on the branches.
+The leaves are large, alternate and simple.
+Categories : IUCN Red List least concern species Bridelia Plants described in 1843 Trees of Africa Flora of Reunion Butterfly food plants Plants used in traditional African medicine Taxa named by Henri Ernest Baillon Taxa named by Christian Ferdinand Friedrich Hochstetter Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+Trees and large shrubs.
+Leaves alternate, elliptic to obovate, 40180 x 25120 mm, usually 7080 x 3540 mm, dark green, glossy above, paler green below, frequently bright orange in autumn, lateral veins often yellowish, running straight to the margin and forming a herring-bone' pattern, apex tapering to rounded, margin entire.
+Stipules 4-7 mm long, linear-lanceolate, acute, puberulous or pubescent.
+The leaves may be small to medium-sized, simple and is petiolate with stipules.
+The tree may be deciduous or evergreen.
+This tree bears little green flowers.
+The flowers are small, yellow, and grow in tightly packed fascicles from the leaf axils.
+The twigs are usually covered with short, often rust-coloured hairs.
+Each flower cluster, usually consists of male and female.
+Stem slash is thin and red or crimson.
+Inflorescence a small axillary fascicle.
+Flowers occur in clusters in leaf axils, yellow in colour, unisexual with triangular sepals and small petals.
+Tree, up to 15 m high.
+Male flowers have stamens and filaments that are fused into a column at the base, but free and spreading above with rudimentary ovary.
+Flowers unisexual, regular, 5-merous, sepals triangular, c. 2 mm long, petals small, 0.5-1 mm long, disk shallowly 5-lobed, male flowers with pedicel c. 1 mm long, stamens with filaments fused in a column below, free and spreading above, ovary rudimentary, female flowers nearly sessile with superior, 2-3-celled ovary, styles 2, fused at base, 2-branched.
+The main stem is typically short and gnarled in appearance but can also be straight and buttressed, with a diameter of 400-1000 mm.
+Young shoots and petioles evenly to sparingly pubescent or subglabrous.
+The leaf shape is oval-lanceolate, which is covered with densely matted woolly hairs and deciduous.
+The branches are long, sometimes thorny, thin and sometimes equipped with short, sharp spines.
+Bark silver-grey, greenish grey, brown, dark grey or black, smooth or rough and reticulately fissured and flaking.
+The bole is typically bare and tall, delicately flaking with a pastel grey-brown colour and can often be observed with small blunt spines at bottom of trunks or on branches.
+Young branches of B. micrantha often have spines and occasionally blunt spines are found on older branches.
+Anatomy     Wood-anatomical description : Growth rings: 1: growth ring boundaries distinct, 2: growth ring boundaries indistinct or absent.
+Female flowers: pedicels 1.5 mm.
+Twigs grey, brown or purplish, prominently lenticellate.
+B. micrantha is an evergreen or deciduous, monoecious small to medium-sized tree up to 27 m tall with a short, often twisted bole up to 100 cm in diameter and a rounded crown.
+Seedling with epigeal germination, hypocotyl 3-4 cm long, epicotyl 0.5-1 cm long, slightly hairy, cotyledons leafy, transversely oblong, c. 1 cm x 2 cm, first leaves alternate.
+Seeds 5 x 3 mm, smooth, slightly shiny, brown.
+Leaves are simple, entire, distichous, often alternate, glabrous to slightly hairy, elliptical to oblong in shape.
+Leaves alternate, elliptic to obovate, 40-180 x 25-120 mm, usually 70-80 x 35-40 mm, dark green, glossy above, paler green below, frequently bright orange in autumn, lateral veins often yellowish, running straight to the margin and forming a herring-bone pattern, apex tapering to rounded, margin entire.
+There are 5-20 pairs of pinnate, crosswise veins and these forms a distinct -herringbone- pattern on the leaf surface.
+Description     Evergreen or deciduous, monoecious, small to medium-sized tree up to 20 m tall, bole short, often twisted, up to 50 cm in diameter, sometimes with scattered blunt spines, bark surface with fine fissures, dark grey, crown spreading, fairly open, branches often with blunt spines, twigs sparingly soft-hairy or glabrous.
+The bark of B. micrantha is silver-grey to black in colour, smooth or rough with lenticels and reticulately fissured and flaking.
+Younger trees have rather smooth, very finely reticulately fissured, pale, silvery-grey to grey-brown bark, which turns darker and roughens in texture as the trees mature.
+The leaves are rather large , simple, elliptic-oblong to obovate and are arranged alternately in two opposite, symmetrical vertical rows along the stems.
+They are glossy, dark green above, paler green below, smooth or very finely hairy, especially on the under surfaces.
+The flowers are petite, pretty, buttery-yellow and are followed by sweetly flavoured, currant-like fruits that ripen to a deep purple-black and are loved by birds.
+Female flowers have basally fused ovaries and styles
+Beautiful, fast growing shade tree, usually with scattered bright red leaves.
+It is a small non-laticiferous, scaly tree or shrub that grows to about 4-15 m tall and up to 1.5 m in girth.
+It has a fine, straight or interlocked grain, pale, greyish or whitish-yellow sapwood and dark reddish-brown heartwood.
+Bridelia ndellensis Beille is a small tree up to 15 m tall with bole up to 30 cm in diameter, distributed from southern Nigeria eastward to Sudan and Uganda.
+It develops a straight, stout trunk with a spreading crown of dense branches, and the leaves are simple, large and glossy green above and paler below.
+Flower, many flowered in glomerules and occurs at the axillary.
+The petiole is rather thickset, short , and finely hirsute.
+The leaves have a prominent and characteristic -herringbone- pattern created by the pale-beige veins and are beautifully symmetrically arranged on the dotted stems.
+Leaves alternate, elliptic to obovate, 40-180 x 25-120 mm, usually 70-80 x 35-40 mm, dark green, glossy above, paler green below, frequently bright orange in autumn.
+The family was previously associated with the Euphorbiaceae family, but, only a few yield a resinous exudate, and none have latex, unlike many members of Euphorbiaceae.
+Bark smooth and pale grey or pinkish-brown on branches, rough and dark grey or brown at base of trunk.
+An evergreen or deciduous, often much-branched, small tree up to 20 m high with a dense spreading crown and ± flattened or pendent branches arising from c. 2 m above ground.
+
+Initial dictionary of traits with all possible values:
+{"Plant type": ['Tree', 'Shrub', 'Bush', 'Ficus strangler', 'Liana', 'Parasitic', 'Palm tree', 'Herbaceous'], "Phyllotaxis": ['Phyllotaxis alternate', 'Opposite phyllotaxis', 'Phyllotaxis whorled'], "Trunk and root": ['Base of trunk straight', 'Base of trunk flared', 'Foothills', 'Stilt roots', 'Aerial roots'], "Latex": ['No exudate', 'Clear latex', 'Clear gum or resin', 'White latex', 'Yellow latex', 'Dark gum or resin'], "Crown": ['Regular density of the crown', 'Leaves grouped at the top of the axes', 'Horizontally spreading crowns', 'drooping axles', 'Stepped crown', 'Candelabra-shaped crown'], "Stem shape": ['Circular stem section', 'Square stem section'], "Bark": ['Smooth bark', 'Finely fissured bark', 'Presence of spines or prickles on the trunk', 'Papyrus bark', 'Bark peeling in patches', 'Cracked bark'], "Bark color": ['Slice in light bark', 'Slice through pink bark', 'Slice through red bark', 'Slice through brown bark', 'Slice through orange bark with green rhytidome', 'Slice through yellow bark with green rhytidome', 'Slice through light bark with red mottling', 'Slice through yellow bark with brown mottling'], "Leaf shape": ['Simple leaf', 'Bifoliate leaf', 'Trifoliate leaf', 'Digitized leaf', 'Leaves transformed into scales', 'Paripinnate leaf', 'Unipinnate leaf with opposite leaflets', 'Imperipinnate leaf with alternate leaflets', 'Bipinnate leaf', 'Three-pinnate leaf'], "Petiole": ['Sessile leaf', 'Petiolated leaf', 'Petiole canaliculate', 'Petiole with glands', 'Winged petiole', 'Petiole with glandular hairs'], "Leaf blade": ['Linear leaf blade', 'lanceolate blade', 'elliptical blade', 'obovate blade', 'obtriangular blade', 'asymmetrical blade', 'orbicular blade', 'bilobed blade', 'lobed blade', 'leaf with deep lobes'], "Leaf margin": ['Smooth leaf margin', 'Margin of the wavy leaf', 'Margin of crenate leaf', 'Margin of toothed leaf'], "Leaf base": ['Leaf base attenuated', 'Rounded leaf base', 'Leaf base cordate', 'Leaf base with glands'], "Leaf apex": ['Leaf apex sharp corner', 'Leaf apex with wide corners', 'Leaf apex acuminate', 'Leaf apex apiculate', 'Leaf apex mucronate', 'Rounded leaf apex', 'Leaf apex emarginated'], "Vein": ['Only the main vein is visible', 'Pinnate venation with secondary veins intersecting the edge of the leaf blade', 'Pinnate venation with secondary veins connecting near the margin of the blade', 'Blade trinervate at base', 'Palmate venation with at least 5 main veins'], "Tendril": ['Plant without tendrils', 'Plant with tendrils, or one that rolls up on a support'], "Spine": ['Plant without spines', '2 straight prickles at the base of the petiole', '1 straight and 1 hooked spine at base of petiole', '2 hooked spines at base of petiole', 'Hooked spines randomly distributed on the axes', 'Spines resulting from transformation of a shoot or petiole', '3 prickles at base of petiole, 2 pointing upwards', '3 spines at base of petiole, pointing downwards'], "Blade color": ['Uniformly coloured blade', 'Leaf blade discoloured'], "Fruit": ['Drupe, or drupe-like fruit', 'Berry, or berry-like fruit', 'Capsule', 'Pod', 'Follicle', 'Achene', 'Winged fruit'], "Inflorescences": ['Flower isolated or in groups of 2 or 3', 'Spike of flowers or inflorescences', 'Rootlet or cluster of flowers or inflorescences', 'Corymb of flowers or inflorescences', 'Umbel of flowers or inflorescences', 'Fascicle of flowers or inflorescences', 'Glomerule of flowers or inflorescences', 'Cyme of flowers or inflorescences', 'Flower head', 'Panicle of flowers or inflorescences'], "Sexuality": ['Axillary sexuality', 'Terminal sexuality'], "Flower color": ['White flower', 'Pink coloured flower', 'Red coloured flower', 'Yellow coloured flower', 'Green coloured flower'], "Flower shape": ['Single-petalled flower', 'Three-petalled flower', 'Four-petalled flower', 'Five-petalled flower', 'Flower with 6 or more petals', 'Tubular flower', 'Butterfly-shaped flower', 'Apetal flower']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Plant type": [
+["Tree", 1],
+["Shrub", 1],
+["Bush", 0],
+["Ficus strangler", 0],
+["Liana", 0],
+["Parasitic", 0],
+["Palm tree", 0],
+["Herbaceous", 0]
+],
+"Phyllotaxis": [
+["Phyllotaxis alternate", 1],
+["Opposite phyllotaxis", 0],
+["Phyllotaxis whorled", 0]
+],
+"Trunk and root": [
+["Base of trunk straight", 0],
+["Base of trunk flared", 0],
+["Foothills", 0],
+["Stilt roots", 0],
+["Aerial roots", 0]
+],
+"Latex": [
+["No exudate", 0],
+["Clear latex", 0],
+["Clear gum or resin", 0],
+["White latex", 0],
+["Yellow latex", 0],
+["Dark gum or resin", 0]
+],
+"Crown": [
+["Regular density of the crown", 0],
+["Leaves grouped at the top of the axes", 0],
+["Horizontally spreading crowns", 1],
+["drooping axles", 0],
+["Stepped crown", 0],
+["Candelabra-shaped crown", 0]
+],
+"Stem shape": [
+["Circular stem section", 0],
+["Square stem section", 0]
+],
+"Bark": [
+["Smooth bark", 1],
+["Finely fissured bark", 1],
+["Presence of spines or prickles on the trunk", 1],
+["Papyrus bark", 0],
+["Bark peeling in patches", 0],
+["Cracked bark", 1]
+],
+"Bark color": [
+["Slice in light bark", 0],
+["Slice through pink bark", 0],
+["Slice through red bark", 0],
+["Slice through brown bark", 1],
+["Slice through orange bark with green rhytidome", 0],
+["Slice through yellow bark with green rhytidome", 0],
+["Slice through light bark with red mottling", 0],
+["Slice through yellow bark with brown mottling", 0]
+],
+"Leaf shape": [
+["Simple leaf", 1],
+["Bifoliate leaf", 0],
+["Trifoliate leaf", 0],
+["Digitized leaf", 0],
+["Leaves transformed into scales", 0],
+["Paripinnate leaf", 0],
+["Unipinnate leaf with opposite leaflets", 0],
+["Imperipinnate leaf with alternate leaflets", 0],
+["Bipinnate leaf", 0],
+["Three-pinnate leaf", 0]
+],
+"Petiole": [
+["Sessile leaf", 0],
+["Petiolated leaf", 1],
+["Petiole canaliculate", 0],
+["Petiole with glands", 0],
+["Winged petiole", 0],
+["Petiole with glandular hairs", 0]
+],
+"Leaf blade": [
+["Linear leaf blade", 0],
+["lanceolate blade", 0],
+["elliptical blade", 1],
+["obovate blade", 1],
+["obtriangular blade", 0],
+["asymmetrical blade", 0],
+["orbicular blade", 0],
+["bilobed blade", 0],
+["lobed blade", 0],
+["leaf with deep lobes", 0]
+],
+"Leaf margin": [
+["Smooth leaf margin", 1],
+["Margin of the wavy leaf", 0],
+["Margin of crenate leaf", 0],
+["Margin of toothed leaf", 0]
+],
+"Leaf base": [
+["Leaf base attenuated", 0],
+["Rounded leaf base", 1],
+["Leaf base cordate", 0],
+["Leaf base with glands", 0]
+],
+"Leaf apex": [
+["Leaf apex sharp corner", 0],
+["Leaf apex with wide corners", 0],
+["Leaf apex acuminate", 1],
+["Leaf apex apiculate", 0],
+["Leaf apex mucronate", 0],
+["Rounded leaf apex", 0],
+["Leaf apex emarginated", 0]
+],
+"Vein": [
+["Only the main vein is visible", 0],
+["Pinnate venation with secondary veins intersecting the edge of the leaf blade", 1],
+["Pinnate venation with secondary veins connecting near the margin of the blade", 0],
+["Blade trinervate at base", 0],
+["Palmate venation with at least 5 main veins", 0]
+],
+"Tendril": [
+["Plant without tendrils", 1],
+["Plant with tendrils, or one that rolls up on a support", 0]
+],
+"Spine": [
+["Plant without spines", 0],
+["2 straight prickles at the base of the petiole", 0],
+["1 straight and 1 hooked spine at base of petiole", 0],
+["2 hooked spines at base of petiole", 0],
+["Hooked spines randomly distributed on the axes", 0],
+["Spines resulting from transformation of a shoot or petiole", 0],
+["3 prickles at base of petiole, 2 pointing upwards", 0],
+["3 spines at base of petiole, pointing downwards", 0]
+],
+"Blade color": [
+["Uniformly coloured blade", 1],
+["Leaf blade discoloured", 0]
+],
+"Fruit": [
+["Drupe, or drupe-like fruit", 1],
+["Berry, or berry-like fruit", 1],
+["Capsule", 0],
+["Pod", 0],
+["Follicle", 0],
+["Achene", 0],
+["Winged fruit", 0]
+],
+"Inflorescences": [
+["Flower isolated or in groups of 2 or 3", 0],
+["Spike of flowers or inflorescences", 0],
+["Rootlet or cluster of flowers or inflorescences", 0],
+["Corymb of flowers or inflorescences", 0],
+["Umbel of flowers or inflorescences", 0],
+["Fascicle of flowers or inflorescences", 0],
+["Glomerule of flowers or inflorescences", 0],
+["Cyme of flowers or inflorescences", 0],
+["Flower head", 0],
+["Panicle of flowers or inflorescences", 0]
+],
+"Sexuality": [
+["Axillary sexuality", 1],
+["Terminal sexuality", 0]
+],
+"Flower color": [
+["White flower", 0],
+["Pink coloured flower", 0],
+["Red coloured flower", 0],
+["Yellow coloured flower", 1],
+["Green coloured flower", 0]
+],
+"Flower shape": [
+["Single-petalled flower", 0],
+["Three-petalled flower", 0],
+["Four-petalled flower", 0],
+["Five-petalled flower", 1],
+["Flower with 6 or more petals", 0],
+["Tubular flower", 0],
+["Butterfly-shaped flower", 0],
+["Apetal flower", 0]
+]
+}

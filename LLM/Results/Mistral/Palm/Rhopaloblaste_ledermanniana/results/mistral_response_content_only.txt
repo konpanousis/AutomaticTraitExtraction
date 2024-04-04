@@ -1,0 +1,141 @@
+{
+"Fruit colour description": [
+["black", 0],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 0],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 0],
+["blue", 0],
+["brown", 0],
+["green", 1],
+["grey", 0],
+["ivory", 0],
+["orange", 1],
+["pink", 0],
+["purple", 0],
+["red", 1],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 0],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 1],
+["cryptic", 0]
+],
+"Plant height": [
+["15 m", 1],
+["30 m", 1]
+],
+"Stem diameter": [
+["8 - 10 cm", 1]
+],
+"Leaf count": [
+["11", 1]
+],
+"Inflorescence length": [
+["64 - 95 cm", 1]
+],
+"Inflorescence spread": [
+["1.2 - 1.5 m", 1]
+],
+"Primary branches": [
+["18", 1]
+],
+"Peduncle length": [
+["1.5 - 4 cm", 1]
+],
+"Peduncle diameter": [
+["4 - 6 cm", 1]
+],
+"Staminate flower length": [
+["5 - 6 mm", 1]
+],
+"Staminate flower diameter": [
+["3 - 4 mm", 1]
+],
+"Pistillate flower length": [
+["2 - 3 mm", 1]
+],
+"Pistillate flower diameter": [
+["3 - 3.5 mm", 1]
+],
+"Sepals length": [
+["1.4 - 1.5 mm", 1]
+],
+"Sepals width": [
+["2.4 - 2.5 mm", 1]
+],
+"Petals length": [
+["2.7 - 2.8 mm", 1]
+],
+"Petals width": [
+["1.5 - 1.8 mm", 1]
+],
+"Staminodes lobes length": [
+["0.4 - 0.5 mm", 1]
+],
+"Staminodes lobes width": [
+["0.4 - 0.5 mm", 1]
+],
+"Gynoecium length": [
+["2.8 - 3 mm", 1]
+],
+"Gynoecium diameter": [
+["1.9 - 2.1 mm", 1]
+],
+"Seed length": [
+["10 - 12 mm", 1]
+],
+"Seed diameter": [
+["8 - 10 mm", 1]
+],
+"Testa colour": [
+["black", 1]
+]
+}

@@ -1,0 +1,118 @@
+We are interested in obtaining botanical trait information about the species Pholidostachys synanthera.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+B. Rachillae of P. occidentalis, free from inflorescence bracts at staminate anthesis.
+Leaf rachises 92.2 cm long, pinnae12 per side of rachis.
+Seed ellipsoidal, rapheal lines arched from the rounded hilum over the apex to the base, endosperm homogeneous, sometimes with a central hollow, embryo basal.
+Fruits black, elongate, 10-15 mm long and 8-10 mm in diameter.
+Stem 3.3 m long, 5.6 cm in diameter, solitary.
+Staminate flowers only about 1/2 exserted from the pit at anthesis, sepals 3, imbricate basally, keeled, chaffy, truncate or rounded to subacute and often toothed at the apex, petals 3, ovate with pointed tips, connate ca.
+Categories : Geonomateae Arecaceae genera Neotropical realm flora Palm stubs Hidden categories: CS1 maint: multiple names: authors list CS1 maint: url-status Articles with short description Short description is different from Wikidata Articles with 'species' microformats Commons category link is on Wikidata All stub articles.
+Leaf rachises 92.2 cm long, pinnae 12 per side of rachis.
+Fruit moderate, obovoid, purple when ripe with basal remains of abortive carpels and stigmas, epicarp smooth, mesocarp with outer tannin layer, fleshy granulate, with thick, curved and anastomosing included fibres, endocarp tough, whitish, thinner over the hilum, with a small operculum over the embryo.
+Small or moderate pinnate-leaved palms from Central and South America, with distinctive long slender petioles.
+Leaves 15-25 or rarely more in the crown, petiole to 1.5 m long, blade 100-220 cm long, divided into 8-25 unequal pinnae on each side, the central ones 50-80 cm long and 5-16 cm wide.
+D. Proximal lips of flower pits regularly shaped, rounded, not covering pits before anthesis, recurved.
+Squared multiple R for the regression of stem height on elevation is 0.30, sheath length 0.88, number of pinnae 0.42, basal pinna width 0.37, apical pinna length 0.69, and rachilla width 0.13.
+Eastern plants are smaller, typically with the stem less than 5 m tall and only 5-8 cm in diameter, and their inflorescences have a shorter peduncle, a 15-40 cm long rachis, and the lower branches usually bifurcate. /Palmweb.
+Shrub, Solitary palm.
+Leaves 15 per stem, sheaths 25.3 cm long, petioles 51.7 cm long, rachises 192.0 cm long, 16.3 mm in diameter, pinnae 12 per side of rachis, basal pinna 47.4 cm, long, 3.9 cm wide, forming an angle of 54 ° with the rachis, apical pinna 42.9 cm long, 18.5 cm wide, forming an angle of 25 ° with the rachis.
+Stems 5.4 m long, 10.4 cm diameter, solitary.
+Stems 3.3 m long, 5.6 cm diameter, solitary.
+Small to moderate, solitary, unarmed, pleonanthic, monoecious palms.
+Inflorescence branched 1-2 times, peduncle 35-100 cm long, rarely longer, with a thick, velvety, reddish brown indument when young, rachis 2-40 cm long, branches 5-16, the flower bearing part 20-50 cm long and 6-10 mm in diameter, with flower pits in 10-12 longitudinal rows.
+Leaf rachises 74.1 cm long, pinnae 7 per side of rachis.
+Leaf rachises 74.1 cm long, pinnae7 per side of rachis.
+Leaves 15 per stem, sheaths 32.8 cm long, petioles 70.1 cm long, rachises 92.2 cm long, 8.1 mm diameter, pinnae 12 per side of rachis, basal pinna 49.6 cm, long, 1.7 cm wide, forming an angle of 50° with the rachis, apical pinna 45.0 cm long, 10.5 cm wide, forming an angle of 15° with the rachis.
+Leaves 15 per stem, sheaths 32.8 cm long, petioles 70.1 cm long, rachises 84.0 cm long, 8.1 mm diameter, pinnae 10 per side of rachis, basal pinna 49.6 cm, long, 1.7 cm wide, forming an angle of 50° with the rachis, apical pinna 45.0 cm long, 10.5 cm wide, forming an angle of 15° with the rachis.
+Western plants are very large, with the stem to 12 m tall and 8-15 cm in diameter, and their inflorescences have a long peduncle, almost no rachis, and simple branches.
+Stem solitary, 2-12 m tall, 6-15 cm in diameter, with relatively soft wood, usually covered distally with persistent leaf sheathes.
+Another specimen , from less than 40 km away, has the some of the largest rachillae seen in the subspecies, 34.0 cm long and 9.6 mm diameter.
+Leaves 15 per stem, sheaths 32.8.
+Identification: Stems 3.9 m long, 5.6 cm diameter, solitary.
+Stems slender, erect, closely ringed with leaf scars.
+Pholidostachys occidentalis has compressed fruits, obovoid in lateral view with an asymmetric base, ellipsoid in frontal view, with a pronounced longitudinal ridge on one side and several lesser ridges on the opposite side.
+Scale bar = 1 cm.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+["black", 1],
+["blue", 0],
+["bluish", 0],
+["brown", 0],
+["brownish", 0],
+["chocolate", 0],
+["coral", 0],
+["crimson", 0],
+["darkgreen", 0],
+["green", 0],
+["greenish", 0],
+["grey", 0],
+["ivory", 0],
+["magenta", 0],
+["maroon", 0],
+["olive", 0],
+["orange", 0],
+["orangish", 0],
+["pink", 0],
+["pinkish", 0],
+["plum", 0],
+["purple", 1],
+["purplish", 0],
+["red", 0],
+["reddish", 0],
+["tan", 0],
+["violet", 0],
+["white", 0],
+["whitish", 0],
+["yellow", 0],
+["yellowish", 0]
+],
+"Fruit colour": [
+["black", 1],
+["blue", 0],
+["brown", 0],
+["green", 0],
+["grey", 0],
+["ivory", 0],
+["orange", 0],
+["pink", 0],
+["purple", 1],
+["red", 0],
+["white", 0],
+["yellow", 0]
+],
+"Crown": [
+["both", 0],
+["canopy", 0],
+["understorey", 0]
+],
+"Fruit size": [
+["large", 0],
+["small", 0]
+],
+"Fruit shape": [
+["ellipsoid", 1],
+["elongate", 1],
+["fusiform", 0],
+["globose", 0],
+["ovoid", 1],
+["pyramidal", 0],
+["rounded", 0]
+],
+"Conspicuousness": [
+["conspicuous", 0],
+["cryptic", 0]
+]
+}

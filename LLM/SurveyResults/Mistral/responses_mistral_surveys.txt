@@ -1,0 +1,5 @@
+{"Inflorescences": [
+["Cyme of flowers or inflorescences", 0],
+["Panicle of flowers or inflorescences", 0]
+]
+}

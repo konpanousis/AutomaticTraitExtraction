@@ -1,0 +1,219 @@
+We are interested in obtaining botanical trait information about the species Wodyetia bifurcata.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+White, Pale-yellow in Summer.
+Pollen is dispersed from mature male flowers to the female flowers by.
+The dark green leaflets are each 1/2 foot long, grow whorled around the rachis, and split into segments at the tips.
+More than 15 m.- Less than 15 m. Thorns.
+The trunk also has a closely ringed, dark grey to light gray color which slowly turns more and more white.
+Encyclopedia Index Families Genera Species Arecaceae Wodyetia Palms Palms & Cycads.
+The blooms are very showy and the fruit is an colorful orange color that captures alot of attention.
+Mature height averages 25 feet.
+Small white flowers on branching inflorescences formed from below the crownshaft.
+Leaves are very plumose with leaflets coming off the leaf stem at all.
+Palm Fruits: Red when ripe.
+Morphology Page fan palm feather palm palmate leaf costapalmate leaf costapalmate closeup pinnate leaf bipinnate leaf praemorse leaflets leaf folds inflorescence branching.
+The pinnately compound leaves or fronds can reach lengths of 8 to 10 feet and are attached to a petiole or stem that is about 6 to 12 inches long.
+Immature green fruit of the Foxtail Palm.
+The fruit of the foxtail palm tree is green when young but turn red when maturing.
+Single stemmed palm, cycad or tree, Upright.
+Back to Arecaceae index.
+Fruit is 2.inches long, deep orange to deep red when ripe, and grows in large.pendant masses.Foxtail
+The average width of the crown of leaves on a mature.
+Foliage : Variance of greenish colors, deep green to light green colors.
+Medium indicates a trunk growth of between 30 and 90 cm.
+The foxtail palm grows a single, double, or triple trunk that is slightly spindle-shaped to columnar trunk that can reach the heights of about 30 ft.
+Easy Palm Maint.
+The green inflorescences come out on a thick stem under the leaves at the base of the crown, are horizontal or hanging, much ramified, up to about 1 m long, with cream flowers disposed on the branch , of both sexes in the typical triad , but at the extremity, where are present only masculine flowers in pairs or single, and a single palm is capable of producing fertile seeds.
+Nous contacter.
+De Veiling.
+Fruit showing remains of style.
+Rank: SEED.
+Palm Radial Spacing: 5-15 ft.
+Christmas Palm Tree: Medium Multi Stem.
+Dark-green in All seasons.
+Mature red fruit on Wodyetia.
+Olive green to green in the early stages.
+Flowering : White flowers stalk that comes from the base of the crownshaft.
+The tropical pinnate palm has a full arching crown that has a spread of densely plumose fronds of about 5-10 ft.
+The leaves turn from green to yellow, fade and fall.from the tree.
+Leaflets have prominent marginal ribs and are held in several planes.
+Washingtonia robusta Agave americana Scroll to top.
+Solitary palm with pinnate leaves, pale green crown shaft , leaf rachis marked with gray or dark brown scurf , praemorse leaflets spreading in full-circle, foxtail-like, multiple planes.
+Areca Palm Tree: Small.
+Christmas Palm Tree: Small Multi Stem.
+Crownshaft: Creamy green to blue-green very smooth, with a thin greyish-white tomentum, wrapping wholly the stem for a length of 0,8-1,2 m. The crownshaft is the part of the palm where its leaves emerge.
+Leaves : Pinnately compound, pale green to dark green, arching, 2,5-3,2 m long, on a 20-40 cm long petiole, with up to 70 cm long pinnulae up to 20 cm long in the median part, light green below, subdivided in several parallel whorled segments that radiate out at all angles around the rachis , even 17 in the central ones, with truncated and toothed apex, and wrapping partially the rachis, which give the leaf a particularly fluffy look, thus appearing like a bottlebrush or the tail of a fox., petiole and rachis have the surface covered by grey to brown scales.
+Over 50 cm.- Less than 30 cm.
+Rank: SEEDLING.
+Flowers are followed by spherical to ovoid, orange-red fruit.
+A full-grown.foxtail palm tree will reach a height of up to 40 feet.
+The trunk is light gray to almost white, is somewhat enlarged mid-length, and has dark leaf base scars encircling it.
+The inflorescence occurs just below the crownshaft, is heavily branched, and bears white male and female flowers.
+Rank: FLOWERING.
+.The flowers are attached to branched spikes that are 2 – 3 feet long.
+Trunk: Solitary, slender, 10-20 m tall, 20-25 cm in diameter, bottle shaped, slightly swollen on the median part, smooth, with a grey to almost white colour, closely ringed with dark trace of the junction of the fallen leaves.
+Leaves are totally different in both.
+Spherical to ovoid, 5 cm long fruits are orange-red when ripe, with apical stigmatic remains forming a beak.
+The small male and female flowers are yellow-green in color.
+The crown shaft is pale green, to 1 m long, with a bloom of gray to white waxy scales.
+Fruits are 2 inches long, egg shaped, and orange to red when ripe.
+Flowers and fruit: Inflorescence pendulous, to 1 m, densely branched to four orders toward the base and one or two orders at the tip, with separate, white to yellowish staminate and pistillate flowers.
+Capi Nature Row Egg Antraciet.
+Attachments - around 950 kb each.
+During the winter, leaves may become temporarily discoloured by damp cold and frost.
+The typical height a foxtail palm can reach is 30 feet.
+The crownshaft of the foxtail palm is light to bright green and slightly swollen at the base.
+Palm Height: 12 - 30 ft.
+.The crownshaft is 3 feet tall, bluish green in color.
+Rank: GERMINATING.
+Thin Trunk, Crown Shaft, Medium Height,.
+Slow indicates annual trunk growth of less than 30 cm.
+Less than 30 cm./ Less than 50 cm.
+Leaves: Pinnate , reduplicate , arching, to 3 m long.
+Full Sun Sun to Partial Shade Foliage: Evergreen Foliage Color: Unknown - Tell us Height: 20-30 ft.
+Its closely ringed, dark grey to light grey trunk is slender and solitary.
+The crownshaft of the foxtail palm is light to bright green and slightly swollen at the base   .
+Orange fallen fruit below the Foxtail Palm.
+.The smooth, light-gray to light-brown trunk is 12 to 18 inches in.diameter, thicker at the base.
+Plantes à caudex.
+Palms generally comprise one or several trunks that grow straight out of the ground, but in some species the trunk grow underground and/or as creepers.
+Palm Species: bifurcata -.
+Monoecious, male and female flowers occur on same plant.
+Spores were ellipsoid measuring 11.84 to 13.82 x 7.72 to 9.72 µm, truncated, golden brown, and thick-walled with a rough surface.
+Fruits : 2 inches long.
+Arbres à fruits comestibles.
+W. bifurcata - W. bifurcata is a tall, tender, vigorous palm with a sturdy trunk, thickened at the base, topped with long, pinnate, broadly lance-shaped leaves divided into numerous linear to narrowly lance-shaped, mid- to dark green leaflets, fringed at the tip, and panicles of cup-shaped, white to pale yellow flowers in summer.
+Popular, Tropical, Bi Pinnate.
+Leaf scars are regular and closely spaced.
+It grows a single, double, or triple trunk that is slightly spindle-shaped to columnar reaching heights of about 30 ft.
+It grows a single, double, or triple trunk that is slightly spindle-shaped to columnar reaching heights of about 10 m.
+Large ovoid, in colourful clusters, 5-6 cm long red to orange at maturity forming an attractive display, containing just one seed surrounded by a layer of flat blackish coriaceous fibres.
+Pinnate, up to 10 feet long, pale green and plumose in appearance.
+Mature fruits.
+Foxtail Palm – Arching, Tail-Like Fronds.
+Leaflets are thin and about a foot long.
+.This palm tree can grow up to 40 feet tall with a spread of 15 – 20.feet wide.
+On top of the trunk sits a pale to blue-green, smooth crownshaft, which is the part of the palm where its leaves emerge.
+The crown is.formed by eight to ten arching evergreen fronds that emerge from the.crownshaft.
+Palm Flowering: White flowers stalk coming from the base of the crownshaft.
+No Diameter of the trunk.
+Reaching maturity around 12 years of age, the foxtail palm has a self cleaning smooth crownshaft that is slightly swollen at the base.
+Note un-opened flowers below crown shaft.
+Solitary, 8-10 inches in diameter, grey, texture is smooth, ringed with old leaf scars and slightly wider at the middle section.
+This is a thin trunked, crown shafted, medium height pinnate.
+Palm Seed Size: The average size is 1.5 inches long.
+A mature foxtail palm has a canopy of 8-10 leaves, each with the characteristic foxtail or bottlebrush appearance, and a crown of foliage 4,5-6,0 m across.
+Spacing: 6-8 ft. 8-10 ft. 10-12 ft.
+Palm Leaf Type: Pinnate.
+Some palms have bisexual flowers and/or male and female flowers on the same inflorescence.
+Foxtail Palm Tree: Small.
+A flower stalk of white to cream inflorescence or flowers bares from the base of the crownshaft.
+Palm Foliage Growth Direction: Grows upward more so than outward.
+Fruit on ground below Foxtail.
+Foxtail Palm Tree: Large Multi Stem.
+Foxtail Palm Tree: Medium.
+Leaf color is green to dull green with no silver underside to the. leaflets.
+Palm Foliage: Variance of greenish colors, deep green to light green colors.
+Brown, burnt like and short pods.
+Fluffy Leaves.
+Tree is about 6 feet tall.
+One trunk Leaves. of palmate or pinnate or feathery appearance.
+Less than 10 m. / Over 10 m. Less than 6 m. Crownshaft.
+Note medium sized trunk and crown shaft.
+The size of the fruit is  around 4 to 5 cms lenght & 2- 3 cm breadth.
+Leaflets are regularly arranged, spreading in several planes, with praemorse tips, and large gray or brown scurf along the rachis.
+The stem's swollen base becomes slender towards the top, and, when mature, accounts for as much as 3 feet of the palm's total height.
+High Palm Maint.
+Fruits close up.
+Stems: Solitary, erect, gray, to 15 m tall and 25 cm in diameter, swollen at the base and near the middle.
+The fruits grow plentiful on the stalk.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+Here's the dictionary of traits with sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples based on the provided input text:
+
+```json
+{
+  "Fruit colour description": [
+    ("black", 0),
+    ("blue", 0),
+    ("bluish", 0),
+    ("brown", 0),
+    ("brownish", 0),
+    ("chocolate", 0),
+    ("coral", 0),
+    ("crimson", 0),
+    ("darkgreen", 0),
+    ("green", 0),
+    ("greenish", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("magenta", 0),
+    ("maroon", 0),
+    ("olive", 0),
+    ("orange", 1),
+    ("orangish", 1),
+    ("pink", 0),
+    ("pinkish", 0),
+    ("plum", 0),
+    ("purple", 0),
+    ("purplish", 0),
+    ("red", 1),
+    ("reddish", 1),
+    ("tan", 0),
+    ("violet", 0),
+    ("white", 1),
+    ("whitish", 1),
+    ("yellow", 0),
+    ("yellowish", 0)
+  ],
+  "Fruit colour": [
+    ("black", 0),
+    ("blue", 0),
+    ("brown", 0),
+    ("green", 0),
+    ("grey", 0),
+    ("ivory", 0),
+    ("orange", 1),
+    ("pink", 0),
+    ("purple", 0),
+    ("red", 1),
+    ("white", 1),
+    ("yellow", 0)
+  ],
+  "Crown": [
+    ("both", 0),
+    ("canopy", 1),
+    ("understorey", 0)
+  ],
+  "Fruit size": [
+    ("large", 1),
+    ("small", 0)
+  ],
+  "Fruit shape": [
+    ("ellipsoid", 0),
+    ("elongate", 0),
+    ("fusiform", 0),
+    ("globose", 0),
+    ("ovoid", 0),
+    ("pyramidal", 0),
+    ("rounded", 0)
+  ],
+  "Conspicuousness": [
+    ("conspicuous", 1),
+    ("cryptic", 0)
+  ]
+}
+```
+
+Please note that the evidence values are based on the provided input text and might not be exhaustive or fully accurate. For example, the "Fruit shape" category does not have any matches in the text, so all values are set to 0.

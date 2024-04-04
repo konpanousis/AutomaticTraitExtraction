@@ -1,0 +1,81 @@
+Here is a possible output dictionary in JSON format:
+```json
+{
+  "Fruit colour description": [
+    ["black", 0],
+    ["blue", 0],
+    ["bluish", 0],
+    ["brown", 0],
+    ["brownish", 0],
+    ["chocolate", 0],
+    ["coral", 0],
+    ["crimson", 0],
+    ["darkgreen", 0],
+    ["green", 0],
+    ["greenish", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["magenta", 0],
+    ["maroon", 0],
+    ["olive", 0],
+    ["orange", 1],
+    ["orangish", 0],
+    ["pink", 0],
+    ["pinkish", 0],
+    ["plum", 0],
+    ["purple", 0],
+    ["purplish", 0],
+    ["red", 0],
+    ["reddish", 0],
+    ["tan", 0],
+    ["violet", 0],
+    ["white", 0],
+    ["whitish", 0],
+    ["yellow", 0],
+    ["yellowish", 0]
+  ],
+  "Fruit colour": [
+    ["black", 0],
+    ["blue", 0],
+    ["brown", 0],
+    ["green", 0],
+    ["grey", 0],
+    ["ivory", 0],
+    ["orange", 1],
+    ["pink", 0],
+    ["purple", 0],
+    ["red", 0],
+    ["white", 0],
+    ["yellow", 0]
+  ],
+  "Crown": [
+    ["both", 0],
+    ["canopy", 0],
+    ["understorey", 0]
+  ],
+  "Fruit size": [
+    ["large", 0],
+    ["small", 0]
+  ],
+  "Fruit shape": [
+    ["ellipsoid", 1],
+    ["elongate", 0],
+    ["fusiform", 0],
+    ["globose", 0],
+    ["ovoid", 1],
+    ["pyramidal", 0],
+    ["rounded", 0]
+  ],
+  "Conspicuousness": [
+    ["conspicuous", 0],
+    ["cryptic", 0]
+  ]
+}
+```
+I have set the binary number to 1 for the following values:
+
+* "orange" in "Fruit colour description" and "Fruit colour" traits, because the input text mentions "fruit 3-3.2 x 3 cm, ovoid, orange".
+* "ovoid" in "Fruit shape" trait, because the input text mentions "Fruit 3-3.2 x 3 cm, ovoid, orange".
+* "ellipsoid" in "Fruit shape" trait, because the input text mentions "Ellipsoidal fruits, 3,5-4,2 cm long and of 2,5-3 cm of diameter, of orange brown colour when ripe and epicarp and mesocarp often divided in three parts at the apex, containing only one ellipsoidal seed 1,5-2 cm long and of about 1,5 cm of diameter".
+
+I have set the binary number to 0 for all other values, as I am not 100% sure about their association with the input text. Note that I have not added any new trait values or modified the initial ones.

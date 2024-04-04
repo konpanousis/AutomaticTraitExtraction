@@ -1,0 +1,110 @@
+We are interested in obtaining botanical trait information about the species Oenocarpus bataua.
+
+We will provide an input text with botanical descriptions,followed by a dictionary where each key 'name' represents a trait name, referring to specific organ or other element of the plant, and is associated to a list with all possible trait values for that trait, ['value_1', 'value_2', ..., 'value_n'].
+
+Input text:
+Rank: GERMINATING.
+Growing like a weed-¦-¦a very large weed.Tim.
+Inflorescence once branched, with numerous pendulous branches, to 1.2 m long, borne on a very short axis.
+Karubian J, Durx£es R, Storey JL, Smith TB.
+Price per 3 seeds.
+The fruit is about 3cm long and 2cm wide.
+Seed - requires a shady position.
+Tree, Solitary palm.
+These fruits are purple, about 4 cm in size and taste like sweet chocolate.
+Its stem is solitary, erect, 10-25 m in height and 2-3 dm diameter, smooth, and ring-shaped.
+Rank: FLOWERING.
+Latin Name Common Name Habit Height Hardiness Growth Soil Shade Moisture Edible Medicinal Other.
+The flowers are yellow with sepals 2 mm and petals 7 mm long.
+Fruits elongate, purple when ripe, pointed at apex, 2.5-4 cm long.
+The large one is outpacing the Beccariophoenix fenestralis in height.
+The blossom is 1-2 m long, with about 300 rachilas up to 1.3 m length.
+Leaves erect, forming a funnel shaped crown, to 10 m long, sheath open to base, with abundant black, stout fibres at the margins, intermixed with brown, wooly fibres, pinnae 100 or more on each side, one-ribbed, 1-1.5 m long, more or less pendulous.
+The flowers are yellow with sepals 2 mm and petals 7 mm long.
+Water Leaflet Obt d 65.7 ± 19.8 7.3 ± 2.2 365 ± 110 >400 Obc e 73.8 ± 11.3 6.5 ± 1.1 286 ± 47 Not toxic Root Obt d 71.9 ± 5.7 11.9 ± 1 252 ± 21 >400 Obc e 15.5 ± 1.3 15.5 ± 1.2 887 ± 69
+Oenocarpus bataua is an evergreen Tree growing to 20 m by 12 m at a fast rate.
+Stem solitary, to 20 m tall and 20-40 cm in diameter, smooth.
+Rank: SEED.
+Kramer AT, Ison JL, Ashley M V, Howe HF.
+Categories : Oenocarpus Flora of Panama Flora of South America Flora of Trinidad and Tobago Medicinal plants Plants described in 1823 Trees of Peru Edible palms Hidden categories: Articles with short description Short description is different from Wikidata Articles with 'species' microformats.
+
+Initial dictionary of traits with all possible values:
+{"Fruit colour description": ['black', 'blue', 'bluish', 'brown', 'brownish', 'chocolate', 'coral', 'crimson', 'darkgreen', 'green', 'greenish', 'grey', 'ivory', 'magenta', 'maroon', 'olive', 'orange', 'orangish', 'pink', 'pinkish', 'plum', 'purple', 'purplish', 'red', 'reddish', 'tan', 'violet', 'white', 'whitish', 'yellow', 'yellowish'], "Fruit colour": ['black', 'blue', 'brown', 'green', 'grey', 'ivory', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'], "Crown": ['both', 'canopy', 'understorey'], "Fruit size": ['large', 'small'], "Fruit shape": ['ellipsoid', 'elongate', 'fusiform', 'globose', 'ovoid', 'pyramidal', 'rounded'], "Conspicuousness": ['conspicuous', 'cryptic']}
+
+Turn each string s in the list of values in the dictionary into a sublist (s,b), where b is a binary number,either 0 or 1, indicating whether there is strong evidence for value s in the input text. Double check that 'value_i' is reported referring to trait 'name' in the text, and not to a different trait. Always set 'b' to '0' if you are not 100% sure about the association. Do not add new trait values and do not modify the initial ones.Return the dictionary of traits and sublists of (value, evidence) containing ALL POSSIBLE NAMES AND (values, evidence) tuples.
+
+Output only a dictionary in JSON format, no other text at all.
+
+
+
+{
+"Fruit colour description": [
+("black", 0),
+("blue", 0),
+("bluish", 0),
+("brown", 0),
+("brownish", 0),
+("chocolate", 1),
+("coral", 0),
+("crimson", 0),
+("darkgreen", 0),
+("green", 0),
+("greenish", 0),
+("grey", 0),
+("ivory", 0),
+("magenta", 0),
+("maroon", 0),
+("olive", 0),
+("orange", 0),
+("orangish", 0),
+("pink", 0),
+("pinkish", 0),
+("plum", 0),
+("purple", 1),
+("purplish", 1),
+("red", 0),
+("reddish", 0),
+("tan", 0),
+("violet", 0),
+("white", 0),
+("whitish", 0),
+("yellow", 0),
+("yellowish", 0)
+],
+"Fruit colour": [
+("black", 0),
+("blue", 0),
+("brown", 0),
+("green", 0),
+("grey", 0),
+("ivory", 0),
+("orange", 0),
+("pink", 0),
+("purple", 1),
+("red", 0),
+("white", 0),
+("yellow", 0)
+],
+"Crown": [
+("both", 0),
+("canopy", 0),
+("understorey", 0)
+],
+"Fruit size": [
+("large", 1),
+("small", 0)
+],
+"Fruit shape": [
+("ellipsoid", 0),
+("elongate", 1),
+("fusiform", 0),
+("globose", 0),
+("ovoid", 0),
+("pyramidal", 0),
+("rounded", 0)
+],
+"Conspicuousness": [
+("conspicuous", 0),
+("cryptic", 0)
+]
+}
