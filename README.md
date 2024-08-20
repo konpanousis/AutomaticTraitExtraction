@@ -18,17 +18,20 @@ Our results suggest that large-scale creation of structured trait databases from
 -----
 ```
  .
- ├── DescriptionClassification        # Scripts pertaining to training the Description Classifier.
-     ├── data                         # Scripts for data collection and curation.
-     ├── utils                        # Misc Scripts.
-     ├── DistilBERT_Train.ipynb       # Sciript to train the BERT Description Classifier.
-     ├── predict_model.py             # Load and predict descriptions.
-     ├── web_crawler.py               # Data crawling and curation.
- ├── LLMs                             # Script pertaining to data collection and LLM querying.
-    ├── Data                          # Contains data crawling, cleaning scripts and other data files.
-    ├── PostProcessing                # Post Processing Scripts to collect the results.
-    ├── Results                       # Results for the individual datasets.
-    ├── SurveyResults                 # Results for the Surveys.
-    ├── MistralPrompt_Surveys.ipynb   # Prompt for the LLM for each dataset.
-    └── Mistral_Prompting.ipynb       # Prompt for the LLM for the surveys.
+ Query_and_Prompt_Species_Traits.ipynb # A jupyter notebook with the full pipeline for querying the search api for certain species, classifying the text and prompting the LLM.
+ ├── DescriptionClassification         # Scripts pertaining to training the Description Classifier.
+     ├── data                          # Scripts for data collection and curation.
+     ├── utils                         # Misc Scripts.
+     ├── DistilBERT_Train.ipynb        # Sciript to train the BERT Description Classifier.
+     ├── predict_model.py              # Load and predict descriptions.
+     ├── web_crawler.py                # Data crawling and curation.
+ ├── LLMs                              # Script pertaining to data collection and LLM querying.
+    ├── Data                           # Contains data crawling, cleaning scripts and other data files.
+    ├── PostProcessing                 # Post Processing Scripts to collect the results.
+    ├── Results                        # Results for the individual datasets.
+    ├── SurveyResults                  # Results for the Surveys.
+    ├── MistralPrompt_Surveys.ipynb    # Prompt for the LLM for each dataset.
+    └── Mistral_Prompting.ipynb        # Prompt for the LLM for the surveys.
+├── models                             # Folder containing the trained description classifier weights
+
 ```
