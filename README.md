@@ -14,12 +14,19 @@ At the same time, massive amounts of information about species descriptions is a
 **Discussion**:
 Our results suggest that large-scale creation of structured trait databases from unstructured online text is currently feasible thanks to the information extraction capabilities of LLMs, being limited by the availability of textual descriptions covering all the traits of interest.
 
+**Obtained Description Sentences**:
+In 
+
 **Code Structure**
 -----
 ```
  .
  Query_and_Prompt_Species_Traits.ipynb # A jupyter notebook with the full pipeline for querying the search api for certain species, classifying the text and prompting the LLM.
  aggregate_traits.py                   # A script for post processing the obtained results. Writes a summary of the traits in a summary.csv file.
+ ├── Descriptions                      # Folder containing the obtained descriptive sentences for each different dataset
+     ├── carribean_with_url.zip        # The obtained descriptive sentences for the Caribbean dataset.
+     ├── palms_with_url.zip            # The obtained descriptive sentences for the Palms dataset.
+     ├── wafrica_with_url.zip          # The obtained descriptive sentences for the West Africa dataset.
  ├── DescriptionClassification         # Scripts pertaining to training the Description Classifier.
      ├── data                          # Scripts for data collection and curation.
      ├── utils                         # Misc Scripts.
