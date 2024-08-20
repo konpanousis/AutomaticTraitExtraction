@@ -15,7 +15,7 @@ At the same time, massive amounts of information about species descriptions is a
 Our results suggest that large-scale creation of structured trait databases from unstructured online text is currently feasible thanks to the information extraction capabilities of LLMs, being limited by the availability of textual descriptions covering all the traits of interest.
 
 **Obtained Description Sentences**:
-In 
+In the folder "Descriptions" we include all the obtained descriptive sentences, i.e., sentences that were classified as descriptive by the Description Classifier, for each dataset.
 
 **Code Structure**
 -----
