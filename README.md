@@ -19,6 +19,7 @@ Our results suggest that large-scale creation of structured trait databases from
 ```
  .
  Query_and_Prompt_Species_Traits.ipynb # A jupyter notebook with the full pipeline for querying the search api for certain species, classifying the text and prompting the LLM.
+ aggregate_traits.py                   # A script for post processing the obtained results. Writes a summary of the traits in a summary.csv file.
  ├── DescriptionClassification         # Scripts pertaining to training the Description Classifier.
      ├── data                          # Scripts for data collection and curation.
      ├── utils                         # Misc Scripts.
