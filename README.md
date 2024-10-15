@@ -17,12 +17,31 @@ Our results suggest that large-scale creation of structured trait databases from
 **Obtained Description Sentences**:
 In the folder "Descriptions" we include all the obtained descriptive sentences, i.e., sentences that were classified as descriptive by the Description Classifier, for each dataset.
 
+**Required Packages and API keys**:
+-----
+All the required packages for running the provided notebook are given in the respective requirements.txt file. Install pip (if not installed) and perform the following command:
+
+ ``` pip install -r requirements.txt ```
+
+As mentioned in the notebook itself, an appropriate .env file should be present in the directory where you are running the notebook from. This should include the API keys for your LLM, e.g., MISTRAL, the GOOGLE API key and the Google Custom Search Engine id. An example .env file looks like the following:
+
+```
+MISTRAL_API_KEY=YourMistralApiKeyHere
+GOOGLE_API=YourGoogleApiKeyHere
+GOOGLE_CSE=YourGoogleCustomSearchEngineIDHere
+```
+
+With these steps, the configuration is complete. You can now open the **Query_and_Prompt_Species_Traits.ipynb** file and run the notebook.
+
+
 **Code Structure**
 -----
 ```
  .
  Query_and_Prompt_Species_Traits.ipynb # A jupyter notebook with the full pipeline for querying the search api for certain species, classifying the text and prompting the LLM.
  aggregate_traits.py                   # A script for post processing the obtained results. Writes a summary of the traits in a summary.csv file.
+ requirement.txt                       # A file containing all the python packages necessary for running the code.
+ .env                                  # This file needs to be created and it should contain all the necessary API keys and CSE ids for each component.
  ├── Descriptions                      # Folder containing the obtained descriptive sentences for each different dataset
      ├── carribean_with_url.zip        # The obtained descriptive sentences for the Caribbean dataset.
      ├── palms_with_url.zip            # The obtained descriptive sentences for the Palms dataset.
