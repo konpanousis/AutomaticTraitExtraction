@@ -33,6 +33,10 @@ GOOGLE_CSE=YourGoogleCustomSearchEngineIDHere
 
 With these steps, the configuration is complete. You can now open the **Query_and_Prompt_Species_Traits.ipynb** file and run the notebook.
 
+**Example Jupyter Notebook on Google Colab**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konpanousis/AutomaticTraitExtraction/edit/main/Query_and_Prompt_Species_Traits_colab.ipynb)
+
 
 **Code Structure**
 -----
